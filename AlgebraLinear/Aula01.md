@@ -65,7 +65,21 @@ ___
 ## Condições de Linearidade 
 
 - ƒ(0) = 0
+  - > O ƒ de zero sempre vai ser zero. Numa função linear eu sempre levo o zero no zero.
 - ƒ(a + b) = ƒ(a) + ƒ(b)
+  - > Se eu aplicar uma função linear em cima da soma de dois elementos, vou obter a soma das funções lineares desses dois elementos. Podemos quebrar os elementos e aplicar isoladamente a álgebra, essa é a idéia de "quebrar em partes". 
 - ƒ(k * a) = k * ƒ(a)
+  - > O ƒ de um produto de um número real K multiplicado pelo número A, vai ser esse número real vezes o ƒ de A. Ou seja, eu sempre RETIRO o fator de multiplicação. 
 
 - Use Alt+159 pra escrever o símbolo de Função ( ƒ ).
+- Agora, isso é apenas uma visão abrangente.
+
+___
+
+## Espaços Vetoriais
+
+- Espaços Vetoriais: Um espaço vetorial é uma coleção de objetos chamados vetores que __satisfazem certas propriedades__, como a adição de vetores e a multiplicação por escalares.
+  - > No exemplo, o número K do exemplo anterior é um escalar. 
+- Os exemplos mais comuns de espaços vetoriais são os espaços tridimensionais (3D) e os espaços de funções.
+  - > Funções também são vetoriais, podemos ter um espaço linear, de funções que ao invés de operar com números, vamos operar com funções. Parece complexo no começo, mas é essencial pra programação. Usamos o __Paradigma da Programação Funcional__, no qual os objetos que lidamos são funções. Ao invés de trabalhar com número, trabalhamos com a função que modifica o número. Podemos aplicar a ação em cima de qualquer número que eu quiser. As linguagens se tornam cada vez mais funcionais (como JavaScript), ou são plenamente funcionais (como Ruby).
+
