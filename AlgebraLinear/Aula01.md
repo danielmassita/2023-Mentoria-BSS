@@ -36,11 +36,15 @@ ___
 #### < ℝ, +, x >
 
 1) Elemento Neutro Aditivo: `0 + a = a + 0 = a`
-   - > asdf
+   - > Zero é um número real, que somado, não altera o outro fator. Krishna dizia que a matemática é um castelo de cartas de cabeça pra baixo, cada vez mais complexas (não complicadas). São regras que aprendemos no ensino básico.
 2) Elemento Neutro Multiplicativo: `1 * a = a * 1 = a`
+   - > Um fator que operado não altera o outro, o a continua o mesmo nesse caso da multiplicação.
 3) Elemento Inverso Aditivo: `a + (-a) = (-a) + a = 0`
+   - > Quando operamos um cara com o elemento A, vai resultar em um elemento neutro, no caso, o inverso aditivido de 3 seria -3, pois quando operamos eles o resultado é zero. No conjunto dos números reais, sempre existe um cara que somando com a, vai dar zero, no caso, -a. 
 4) Elemento Inverso Multiplicativo: `a * (1/a) = (1/a) * a = 1`, com a != 0
+   - > Um cara que eu multiplico por A, vai resultar em um elemento nuetro multiplicativo, no caso, resulta em 1. Nesse caso, existe CONDIÇÃO de a diferente de zero. Não existe divisão por zero. 
 5) Comutatividade Aditiva: `a + b = b + a`
+   - > 
 6) Comutatividade Multiplicativa: `a * b = b * a`
 7) Distributividade da Multiplicação sobre a Soma: `a * (b + c) = (a * b) + (a * c)`
 8) Associatividade Aditiva: `a + b + c = (a + b) + c = a + (b + C)`
