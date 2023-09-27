@@ -44,10 +44,23 @@ ___
 4) Elemento Inverso Multiplicativo: `a * (1/a) = (1/a) * a = 1`, com a != 0
    - > Um cara que eu multiplico por A, vai resultar em um elemento nuetro multiplicativo, no caso, resulta em 1. Nesse caso, existe CONDIÇÃO de a diferente de zero. Não existe divisão por zero. 
 5) Comutatividade Aditiva: `a + b = b + a`
-   - > 
+   - > A velha história de _"a ordem dos tratores não altera o viaduto"_ que falávamos no primário.
 6) Comutatividade Multiplicativa: `a * b = b * a`
+   - > A mesma coisa, só que na multiplicação. _"A ordem dos fatores não altera o resultado..."_ que também falávamos no primário.
 7) Distributividade da Multiplicação sobre a Soma: `a * (b + c) = (a * b) + (a * c)`
+   - > A multiplicação se distribui, o A se distribui sobre o binômio (B + C), sendo que resultará na distribuição da multiplicação que seria (A*B) + (A*C).
 8) Associatividade Aditiva: `a + b + c = (a + b) + c = a + (b + C)`
+   - > Em outras palavras, podemos colocar os parênteses onde quisermos, (A+B) + C é igual a A + (B+C). São apenas maneiras diferentes de descrever as operações, sendo mais fáceis de resolver problemas quando olhamos por outra ótica. Lembrando Carlos Dias, toda a história da matemática é uma questão de olhar de forma esperta e diferente pra entender e resolver.
 9) Associatividade Multiplicativa: `a * b * c = (a * b) * c = a * (b * c)`
+   - > Exatamente a mesma coisa da adição, sendo no caso uma escolha de qual operação vamos resolver primeiro pra poder trabalhar.
+```
+- O zero possui um papel diferente na multiplicação, transformando tudo em zero. Essas são propriedades de uma álgebra. O zero é um elemento "no potente" quando transforma todo mundo nele mesmo, no caso, em zero. 
 
+- "A base sempre volta", muito importante e devemos retornar pro fundamento quando precisamos estudar. Propriedades numéricas do primeiro grau é melhor pra estudar do que os livros do Secundário ou Terciário.
+
+- Na didática, devemos dar nomes aos bois (exceto se forem pro abatedouro, nesse caso, devemos salvar os bois! go vegan!).
+
+- A idéia é fazer sentido e pensar _"aqui se encaixa o elemento neutro aditivo"_... 
+```
 ___
+
