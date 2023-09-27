@@ -32,9 +32,7 @@ ___
 
 #### < ℝ, +, x >
 
-1) Elemento Neutro Aditivo:
-   ```python
-   0 + a = a + 0 = a
-   ```
-3) 
+1) Elemento Neutro Aditivo: > 0 + a = a + 0 = a
+2) Elemento Neutro Multiplicativo: > 1 * a = a * 1 = a
+3) Elemento Inverso Aditivo: > 
 
