@@ -55,12 +55,17 @@ ___
    - > Exatamente a mesma coisa da adição, sendo no caso uma escolha de qual operação vamos resolver primeiro pra poder trabalhar.
 ```
 - O zero possui um papel diferente na multiplicação, transformando tudo em zero. Essas são propriedades de uma álgebra. O zero é um elemento "no potente" quando transforma todo mundo nele mesmo, no caso, em zero. 
-
 - "A base sempre volta", muito importante e devemos retornar pro fundamento quando precisamos estudar. Propriedades numéricas do primeiro grau é melhor pra estudar do que os livros do Secundário ou Terciário.
-
 - Na didática, devemos dar nomes aos bois (exceto se forem pro abatedouro, nesse caso, devemos salvar os bois! go vegan!).
-
 - A idéia é fazer sentido e pensar _"aqui se encaixa o elemento neutro aditivo"_... 
+- Álgebra é um terno.
 ```
 ___
 
+## Condições de Linearidade 
+
+- ƒ(0) = 0
+- ƒ(a + b) = ƒ(a) + ƒ(b)
+- ƒ(k * a) = k * ƒ(a)
+
+- Use Alt+159 pra escrever o símbolo de Função ( ƒ ).
