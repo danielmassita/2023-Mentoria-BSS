@@ -7,7 +7,7 @@
 
 ___ 
 
-### Álgebra Linear será importante para:
+## Álgebra Linear será importante para:
 
 - Fazermos operações com imagens, como rotações e translações.
   - > Arquivos de imagens gigantes, estratégias pra recuperar, comprimir, descomprimir, não lotar a memória do pc), gravar, rotacionar, verificar um tumor, através da tomografia, como um mapa 3D.
@@ -20,8 +20,18 @@ ___
 
 ___
 
-### O que é uma Álgebra? 
+## O que é uma Álgebra? 
 
 - A palavra álgebra vem do árabe _"al jabr"_ que significa "reunião das partess quebradas".
 - Na matemática dizemos que uma Álgebra é um terno, ou seja, a reunião de três coisas: um conjunto e duas operações que podem ser efetuadas sobre os elementos daquele conjunto, seguindo certas regras.
   - > O primeiro elemento é um conjunto + duas operações dentro. Um grupo e como um elemento interage com outro.
+
+___
+
+## Álgebra usual dos Números Reais
+
+#### < ℝ, +, x >
+
+1) Elemento Neutro Aditivo: ```python 0 + a = a + 0 = a```
+2) 
+
