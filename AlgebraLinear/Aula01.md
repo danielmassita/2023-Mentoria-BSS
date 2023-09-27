@@ -89,4 +89,21 @@ ___
     
 - Os espaços vetoriais devem atender certas propriedades.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e13dbd3c-ddb2-48d7-b33a-6bc389433066)
-- 
+  - > Veremos assim como no colégio, por exemplo, vetor V com vetor W, tem uma resultante V+W. Na imagem inferior, o vetor W é multiplicado por 2, dobrando o comprimento, alterando a resultante para V+(2*W). E assim vai... E assim observaremos as operações para além dos vetores...
+  - > Hoje estamos trabalhando com ajustes, aulas antecipadas e abertas são oportunidade pra prototipar alguns ajustes finos ao estilo de aula. Perguntas pertinentes sobre o conteúdo, atenção e cuidado com os demais, inclusive neuro-divergentes (TDAH se ferra). 
+
+___
+
+## Transformações Lineares
+
+- Transformações Lineares: Uma transformação linear é uma função que mapeia vetores de um espaço vetoria para vetores de outro espaço vetorial de forma que preserva as operações de adição e multiplicação escalar.
+  - > Quando eu pego um conjunto de vetores, e transformo em outro. Por exemplo (bem prático): a capa de um livro, embora seja plana, podemos rotacionar, transladar, girar o livro sem alterar a planície da capa, apenas alterando algumas características.  
+- Elas são representadas por matrizes e desempenham um papel importante na análise de sistemas lineares.
+
+___
+
+## Matrizes
+
+- Matrizes: As matrizes são tabelas retangulares de números dispostos em linhas e colunas. Elas são usadas para representar transformações lineares e sistemas de equações lineares. As operações de matriz, como multiplicação de matriz e transposição, são fundamentais na Álgebra Linear.
+  - > É como uma "tabelinha de números", pra representar as transformações lineares. Quando multiplicamos por um vetor, fazemos a transformação que queremos. No exemplo da cabeça humana no tomógrafo, cada pixel da imagem é um vetor. Multiplico a imagem inteira por uma matriz e eu giro a cabeça no eixo X, eixo Y, eixo Z, e suas relações. Alteramos as imagens e as "perspectivas". Vetor não é exclusivo à 3D. Todo número real é um Vetor no espaço R-1 (reta real). Todas as propriedades de vetor funcionam dentro da reta real (uma dimensão). A capa do livro seria 2D. Em 3D teríamos a imagem do tomógrafo.
+  - > Um matemático famoso e falecido dizia _"eu consigo enxergar na quarta dimensão, pois sou cego de nascimento..."_, pois ele não tinha a nossa perspectiva default tridimensional (nosso cérebro interpreta a visão em três dimensões). 
