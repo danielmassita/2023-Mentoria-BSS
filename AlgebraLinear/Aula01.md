@@ -8,6 +8,6 @@ ___
 
 ### Álgebra Linear será importante para:
 - Fazermos operações com imagens, como rotações e translações.
-  - `Arquivos de imagens gigantes, estratégias pra recuperar, comprimir, descomprimir, não lotar a memória do pc), gravar, rotacionar, verificar um tumor, através da tomografia, como um mapa 3D. `
+  - > Arquivos de imagens gigantes, estratégias pra recuperar, comprimir, descomprimir, não lotar a memória do pc), gravar, rotacionar, verificar um tumor, através da tomografia, como um mapa 3D.
 - Resolvermos problemas de otimização, como através do __Método Simplex__.
 - Entendermos melhor certas operações algébricas que podem ser úteis em vários ramos do conhecimento humano.
