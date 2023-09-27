@@ -1,11 +1,12 @@
 # AULA INAUGURAL
 
-- Nossos Valores
-  - Liberdade
-  - Fraternidade
-  - Respeito
-  - Construção de uma sociedade justa
-  - Transmissão de conhecimento
+###- Nossos Valores
+     - Liberdade
+     - Fraternidade
+     - Respeito
+     - Construção de uma sociedade justa
+     - Transmissão de conhecimento
+
 
 - A Grande Pergunta
 -- Como fazer isso dentro do "mundo corporativo"? 
