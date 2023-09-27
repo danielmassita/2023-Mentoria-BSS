@@ -32,6 +32,9 @@ ___
 
 #### < ℝ, +, x >
 
-1) Elemento Neutro Aditivo: ```python 0 + a = a + 0 = a```
-2) 
+1) Elemento Neutro Aditivo:
+   ```python
+   0 + a = a + 0 = a
+   ```
+3) 
 
