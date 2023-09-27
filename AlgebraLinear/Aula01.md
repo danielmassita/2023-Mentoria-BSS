@@ -28,11 +28,16 @@ ___
 
 ___
 
-## Álgebra usual dos Números Reais
+## Álgebra usual dos Números Reais < ℝ, +, x >
 
 #### < ℝ, +, x >
 
-1) Elemento Neutro Aditivo: > 0 + a = a + 0 = a
-2) Elemento Neutro Multiplicativo: > 1 * a = a * 1 = a
-3) Elemento Inverso Aditivo: > 
-
+1) Elemento Neutro Aditivo: `0 + a = a + 0 = a`
+2) Elemento Neutro Multiplicativo: `1 * a = a * 1 = a`
+3) Elemento Inverso Aditivo: `a + (-a) = (-a) + a = 0`
+4) Elemento Inverso Multiplicativo: `a * (1/a) = (1/a) * a = 1`, com a != 0
+5) Comutatividade Aditiva: `a + b = b + a`
+6) Comutatividade Multiplicativa: `a * b = b * a`
+7) Distributividade da Multiplicação sobre a Soma: `a * (b + c) = (a * b) + (a * c)`
+8) Associatividade Aditiva: `a + b + c = (a + b) + c = a + (b + C)`
+9) Associatividade Multiplicativa: `a * b * c = (a * b) * c = a * (b * c)`
