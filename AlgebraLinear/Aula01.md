@@ -36,6 +36,7 @@ ___
 #### < ℝ, +, x >
 
 1) Elemento Neutro Aditivo: `0 + a = a + 0 = a`
+   - > asdf
 2) Elemento Neutro Multiplicativo: `1 * a = a * 1 = a`
 3) Elemento Inverso Aditivo: `a + (-a) = (-a) + a = 0`
 4) Elemento Inverso Multiplicativo: `a * (1/a) = (1/a) * a = 1`, com a != 0
