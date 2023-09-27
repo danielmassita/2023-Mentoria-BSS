@@ -1,4 +1,7 @@
-# Programa de Mentoria
+# Programa de Mentoria BSS 2023
+# Álgebra Linear
+
+___
 
 ## Álgebra Linear - Aula 01
 
@@ -33,11 +36,14 @@ ___
 #### < ℝ, +, x >
 
 1) Elemento Neutro Aditivo: `0 + a = a + 0 = a`
-2) Elemento Neutro Multiplicativo: `1 * a = a * 1 = a`
-3) Elemento Inverso Aditivo: `a + (-a) = (-a) + a = 0`
-4) Elemento Inverso Multiplicativo: `a * (1/a) = (1/a) * a = 1`, com a != 0
-5) Comutatividade Aditiva: `a + b = b + a`
-6) Comutatividade Multiplicativa: `a * b = b * a`
-7) Distributividade da Multiplicação sobre a Soma: `a * (b + c) = (a * b) + (a * c)`
-8) Associatividade Aditiva: `a + b + c = (a + b) + c = a + (b + C)`
-9) Associatividade Multiplicativa: `a * b * c = (a * b) * c = a * (b * c)`
+   1.1) > asdf
+3) Elemento Neutro Multiplicativo: `1 * a = a * 1 = a`
+4) Elemento Inverso Aditivo: `a + (-a) = (-a) + a = 0`
+5) Elemento Inverso Multiplicativo: `a * (1/a) = (1/a) * a = 1`, com a != 0
+6) Comutatividade Aditiva: `a + b = b + a`
+7) Comutatividade Multiplicativa: `a * b = b * a`
+8) Distributividade da Multiplicação sobre a Soma: `a * (b + c) = (a * b) + (a * c)`
+9) Associatividade Aditiva: `a + b + c = (a + b) + c = a + (b + C)`
+10) Associatividade Multiplicativa: `a * b * c = (a * b) * c = a * (b * c)`
+
+___
