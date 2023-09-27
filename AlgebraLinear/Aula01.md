@@ -84,5 +84,9 @@ ___
 
 - Os exemplos mais comuns de espaços vetoriais são os espaços tridimensionais (3D) e os espaços de funções.
   - > Exemplo da sala. Pra identificar um ponto na sala, preciso de medir 3 distâncias X (altura em relação ao chão), (distância entre parede Y), (distância entre parede Z).
-  - > Os livros "clássicos" serão formais demais (ler primeira página de livro de álgebra linear), não vão devagar e conceitos passo-a-passo. O fascista usava um livro muito denso, complexo por natureza, cuidado pra não ir no livro e perder a coragem. Coragem não é ausência de medo. É, mesmo com medo, o que podemos fazer...  
-
+  - > Os livros "clássicos" serão formais demais (ler primeira página de livro de álgebra linear), não vão devagar e conceitos passo-a-passo. O fascista usava um livro muito denso, complexo por natureza, cuidado pra não ir no livro e perder a coragem. Coragem não é ausência de medo. É, mesmo com medo, o que podemos fazer... LAGES LIMA: A boa matemática começa com noções, depois exemplos, depois complexidades. Se inverter, ferrou. Dá até raiva. 
+  - > Menos ansiedade, galera, a vida não é uma corrida de 100m. É como uma maratona, endurance, mais sobre ITERAR dia a dia a mudança, que SPRINT de ilusões.
+    
+- Os espaços vetoriais devem atender certas propriedades.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e13dbd3c-ddb2-48d7-b33a-6bc389433066)
+- 
