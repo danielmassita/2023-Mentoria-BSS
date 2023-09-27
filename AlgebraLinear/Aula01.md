@@ -80,6 +80,9 @@ ___
 
 - Espaços Vetoriais: Um espaço vetorial é uma coleção de objetos chamados vetores que __satisfazem certas propriedades__, como a adição de vetores e a multiplicação por escalares.
   - > No exemplo, o número K do exemplo anterior é um escalar. 
-- Os exemplos mais comuns de espaços vetoriais são os espaços tridimensionais (3D) e os espaços de funções.
   - > Funções também são vetoriais, podemos ter um espaço linear, de funções que ao invés de operar com números, vamos operar com funções. Parece complexo no começo, mas é essencial pra programação. Usamos o __Paradigma da Programação Funcional__, no qual os objetos que lidamos são funções. Ao invés de trabalhar com número, trabalhamos com a função que modifica o número. Podemos aplicar a ação em cima de qualquer número que eu quiser. As linguagens se tornam cada vez mais funcionais (como JavaScript), ou são plenamente funcionais (como Ruby).
+
+- Os exemplos mais comuns de espaços vetoriais são os espaços tridimensionais (3D) e os espaços de funções.
+  - > Exemplo da sala. Pra identificar um ponto na sala, preciso de medir 3 distâncias X (altura em relação ao chão), (distância entre parede Y), (distância entre parede Z).
+  - > Os livros serão formais demais (ler primeira página de livro de álgebra linear), não vão devagar e conceitos passo-a-passo. O fascista usava um livro muito denso, complexo por natureza, cuidado pra não ir no livro e perder a coragem. Coragem não é ausência de medo. É, mesmo com medo, o que podemos fazer...  
 
