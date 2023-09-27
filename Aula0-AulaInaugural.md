@@ -30,42 +30,42 @@
   10) Não considre nenhuma prática como imutável. Mude e esteja pronto a mudar novamente. Não aceite verdade eterna. Experimente! 
 
 - Código Walden
--- Cooperação
--- Felicidade
--- Muito estudo
--- Trabalho organizado e eficiente
--- Inovação
+  - Cooperação
+  - Felicidade
+  - Muito estudo
+  - Trabalho organizado e eficiente
+  - Inovação
 
 - A Jornada
--- Aprenda a programar de verdade, sem ser meramente um repetidor de frameworks.
--- Aprender a trabalhar em grupo com responsabilidade, mas com leveza, sem competição e com cooperação.
--- Aprender a cuidar da SAÚDE MENTAL no trabalho.
--- Aprender a trabalhar de modo a não trabalhar muito.
--- Aprender a falar um segundo idioma (Inglês).
+  - Aprenda a programar de verdade, sem ser meramente um repetidor de frameworks.
+  - Aprender a trabalhar em grupo com responsabilidade, mas com leveza, sem competição e com cooperação.
+  - Aprender a cuidar da SAÚDE MENTAL no trabalho.
+  - Aprender a trabalhar de modo a não trabalhar muito.
+  - Aprender a falar um segundo idioma (Inglês).
 
 - Comunicação
--- Plataforma Educacional
--- Emails
--- Secretaria da Mentoria
+  - Plataforma Educacional
+  - Emails
+  - Secretaria da Mentoria
 
 - Avaliação
--- Avaliação Objetiva:
---- Sabe programar
---- Sabe trabalhar
--- Avaliação Subjetiva:
---- Sabe conviver
--- Feedback! Sempre! 
+  - Avaliação Objetiva:
+    - Sabe programar
+    - Sabe trabalhar
+  - Avaliação Subjetiva:
+    - Sabe conviver
+  - Feedback! Sempre! 
 
 - O Velho, o Novo e o Diferente
--- Tratar todos com Cortesia, Respeito, Consideração e Fraternidade é indispensável! 
+  - Tratar todos com Cortesia, Respeito, Consideração e Fraternidade é indispensável! 
 
 - Não Toleramos Assédios!
--- Qualquer forma de assédio, uma vez comprovada, é motivo pra afastamento sumário, sem direito a apelações.
+  - Qualquer forma de assédio, uma vez comprovada, é motivo pra afastamento sumário, sem direito a apelações.
 
 - Aviso Final
--- FALEM CONOSCO!
---- Problema de dinheiro, falem conosco!
---- Problema de horário, falem conosco!
---- Problema com alguém, falem conosco!
---- Problema "de cabeça", falem conosco! 
+  - FALEM CONOSCO!
+  - Problema de dinheiro, falem conosco!
+  - Problema de horário, falem conosco!
+  - Problema com alguém, falem conosco!
+  - Problema "de cabeça", falem conosco! 
 
