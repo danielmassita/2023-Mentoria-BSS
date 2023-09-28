@@ -97,7 +97,7 @@ ___
 ## Transformações Lineares
 
 - Transformações Lineares: Uma transformação linear é uma função que mapeia vetores de um espaço vetorial para vetores de outro espaço vetorial de forma que preserva as operações de adição e multiplicação escalar.
-  - > Quando eu pego um conjunto de vetores, e transformo em outro. Por exemplo (bem prático): a capa de um livro, embora seja plana, podemos rotacionar, transladar, girar o livro sem alterar a planície da capa, apenas alterando algumas características.  
+  - > Quando eu pego um conjunto de vetores, e transformo em outro. Por exemplo (bem prático): a capa de um livro, embora seja plana, podemos rotacionar, transladar, andar de lado, girar o livro sem alterar a planície da capa, apenas alterando algumas características.  
 - Elas são representadas por matrizes e desempenham um papel importante na análise de sistemas lineares.
   - > 
 
