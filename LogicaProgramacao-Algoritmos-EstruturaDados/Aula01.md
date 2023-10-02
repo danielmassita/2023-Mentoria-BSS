@@ -81,9 +81,12 @@ ___
 
 ___
 
+## Estruturas de Dados
+
 - Array & Matrix
   - > É uma lista indexada. Primeiro elemento, segundo elemento. Algumas situações, não precisamos ordenar por número, apenas saber se está no conjunto ou não está no conjunto... Daí usamos um "set".  
 - List
+  - > Lista encadeada, lista duplamente encadeada, lista reversa...
 - Queue (FIFO - First In, First Out)
   - > Apache Kafka é uma fila, cria um tópico primeiro, atendido primeiro, segundo-segundo (sistema de mensageria, comentário)... Outro exemplo, a fila do banco, quem chega primeiro é atendido primeiro. Quem chega segundo é atendido segundo.
 - Stack (LIFO - Last In, First Out)
