@@ -99,7 +99,6 @@ ___
 - Transformações Lineares: Uma transformação linear é uma função que mapeia vetores de um espaço vetorial para vetores de outro espaço vetorial de forma que preserva as operações de adição e multiplicação escalar.
   - > Quando eu pego um conjunto de vetores, e transformo em outro. Por exemplo (bem prático): a capa de um livro, embora seja plana, podemos rotacionar, transladar, andar de lado, girar o livro sem alterar a planície da capa, apenas alterando algumas características.  
 - Elas são representadas por matrizes e desempenham um papel importante na análise de sistemas lineares.
-  - > 
 
 ___
 
@@ -115,11 +114,10 @@ ___
 
 ## Sistemas de Equações Lineares
 
-  - > Vamos revisar S.E.L., usando Matrizes, inclusive aprenderemos métodos computacionais pra fazer isso. Até "Matrizes Esparsas" em álgebra linear. 
 - Os sistemas de equações lineares envolvem um conjunto de equações lineares em várias variáveis, e a solução desse sistema é um conjunto de valores para as variáveis que satisfazem todas as equações simultaneamente.
-  - > 
 - A Álgebra Linear fornece ferramentas para resolver esses sistemas de maneira eficaz. 
   - > Matrizes Esparsas em última análise. Matriz é uma tabela com linhas e colunas, cada cruzamente tem um valor (número), mas algumas situações são muitos números "zero", com alguns poucos elementos não-zero. Quase toda nula, mas com alguns locais onde não é nula. Vamos lidar com as Matrizes Esparsas, economizando espaço na memória ou menos operações, pra ter método mais eficiente onde pode-se ganhar eficiência.
+  - > Vamos revisar S.E.L., usando Matrizes, inclusive aprenderemos métodos computacionais pra fazer isso. Até "Matrizes Esparsas" em álgebra linear. 
 
 ___
 
