@@ -108,7 +108,7 @@ ___
   - > É como uma "tabelinha de números", pra representar as transformações lineares. Quando multiplicamos por um vetor, fazemos a transformação que queremos. No exemplo da cabeça humana no tomógrafo, cada pixel da imagem é um vetor. Multiplico a imagem inteira por uma matriz e eu giro a cabeça no eixo X, eixo Y, eixo Z, e suas relações. Alteramos as imagens e as "perspectivas". Vetor não é exclusivo à 3D. Todo número real é um Vetor no espaço R-1 (reta real). Todas as propriedades de vetor funcionam dentro da reta real (uma dimensão). A capa do livro seria 2D, girar, lado-lado. Em 3D teríamos a imagem do tomógrafo. Em 4D+ a gente perde a capacidade de imaginar no Espaço Vetorial. 
   - > Um matemático famoso e falecido dizia _"eu consigo enxergar na quarta dimensão, pois sou cego de nascimento..."_, pois ele não tinha a nossa perspectiva default tridimensional (nosso cérebro interpreta a visão em três dimensões, pois está viciado). 
   - > Exemplo da prateleira (3ª de baixo pra cima sendo ALTURA, desse lado no canto esquerdo da prateleira (LARGURA), ou talvez na parte do fundo dos livros de trás (duas camadas de livros, PROFUNDIDADE).
-  - > Vamos calulcar DETERMINANTES de matrizes, resolver SISTEMAS LINEARES... 
+  - > Vamos calulcar Determinantes de matrizes, resolver Sistemas Lineares... 
 
 ___
 
