@@ -109,4 +109,22 @@ ___
   - > É como uma "tabelinha de números", pra representar as transformações lineares. Quando multiplicamos por um vetor, fazemos a transformação que queremos. No exemplo da cabeça humana no tomógrafo, cada pixel da imagem é um vetor. Multiplico a imagem inteira por uma matriz e eu giro a cabeça no eixo X, eixo Y, eixo Z, e suas relações. Alteramos as imagens e as "perspectivas". Vetor não é exclusivo à 3D. Todo número real é um Vetor no espaço R-1 (reta real). Todas as propriedades de vetor funcionam dentro da reta real (uma dimensão). A capa do livro seria 2D, girar, lado-lado. Em 3D teríamos a imagem do tomógrafo. Em 4D+ a gente perde a capacidade de imaginar no Espaço Vetorial. 
   - > Um matemático famoso e falecido dizia _"eu consigo enxergar na quarta dimensão, pois sou cego de nascimento..."_, pois ele não tinha a nossa perspectiva default tridimensional (nosso cérebro interpreta a visão em três dimensões, pois está viciado). 
   - > Exemplo da prateleira (3ª de baixo pra cima sendo ALTURA, desse lado no canto esquerdo da prateleira (LARGURA), ou talvez na parte do fundo dos livros de trás (duas camadas de livros, PROFUNDIDADE).
-  
+  - > Vamos calulcar DETERMINANTES de matrizes, resolver SISTEMAS LINEARES... 
+
+___
+
+## Sistemas de Equações Lineares
+
+  - > Vamos revisar S.E.L., usando Matrizes, inclusive aprenderemos métodos computacionais pra fazer isso. Até "Matrizes Esparsas" em álgebra linear. 
+- Os sistemas de equações lineares envolvem um conjunto de equações lineares em várias variáveis, e a solução desse sistema é um conjunto de valores para as variáveis que satisfazem todas as equações simultaneamente.
+  - > 
+- A Álgebra Linear fornece ferramentas para resolver esses sistemas de maneira eficaz. 
+  - > Matrizes Esparsas em última análise. Matriz é uma tabela com linhas e colunas, cada cruzamente tem um valor (número), mas algumas situações são muitos números "zero", com alguns poucos elementos não-zero. Quase toda nula, mas com alguns locais onde não é nula. Vamos lidar com as Matrizes Esparsas, economizando espaço na memória ou menos operações, pra ter método mais eficiente onde pode-se ganhar eficiência.
+
+___
+
+## Autovalores e Autovetores:  
+
+- Esses conceitos estão relacionados às transformações lineares e são usados para analisar como os vetores podem ser esticados ou encolhidos por essas transformações.
+  - > Conceitos relacionados com transformações lineares. São um Valor e Vetor com propriedades que sejam especiais dentro de uma determinada transformação. Dentro de um Espaço Vetorial, tenho uma Transformação Linear, e dentro desses espaços, encontramos AutoVetores com propriedades interessantes quanto às equações e transformações (com seus conjuntos de valores em comum).
+
