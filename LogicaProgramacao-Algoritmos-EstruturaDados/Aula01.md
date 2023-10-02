@@ -70,11 +70,36 @@ ___
 
 ___
 
-## 
+## Comentários (alunos inclusive)...
 
 - Um dos maiores problemas ao lidar com programas de computador está em escolher adequadamente as estruturas para representar os dados usados.
-  - > Imagine, um conjunto de informações sobre uma pessoa (nome, sobrenome, e-mail, senha, autorização, papéis e níveis, 
+  - > Imagine, um conjunto de informações sobre uma pessoa (nome, sobrenome, e-mail, senha, autorização, papéis e níveis, ...
+  - > CALMA CORAÇÃO, meu querido, calma que surgirão projetos práticos sim! ;) Não precisa adivinhar, o Ed realmente não gosta de adivinhação (coitada da Sibila Trelawney...), mas não se desesperem só com a teoria. Vamos com calma! Vamos trabalhar com projetos e tarefas! ;) Casos possíveis e pensados no método para que se possa aprender! Serão aulas por tópicos durante a semana: Segunda tem Inglês (prof. Daniel). Terça tem Álgebra Linear. Quarta tem Lógica de Programação, Algoritmos e Estrutura de Dados. Quinta tem Estatística e Ciência de Dados. Sexta tem Matemática Discreta. Nas sextas-feiras, também, haverá na Área do Estudante uma Lista de Exercícios (pra baixar), podendo nos exercitar com as Listas de Exercícios. Não é só saber que acha. Não vale ter "uma opinião sobre tudo". SABER é quando se Estuda E Faz. De fato, aprenderemos a programar programando. MAS PRECISAMOS ter teoria, base sólida, fundamentos, eficiência. A teoria só funciona se aplicarmos na prática.
+  - > Imagine, um conjunto de informações sobre uma pessoa (nome, sobrenome, e-mail, senha, autorização, papéis e níveis, data nascimento, ...). Como eu organizo de forma ideal? Como eu estruturo meus dados? Como coloco de uma maneira compreensível, simples, fácil?      
 - Uma má escolha de estrutura de dados pode complicar imensamente o algoritmo correspondente, inclusive gerando programas com péssimo desempenho. 
+  - > Por isso, devemos estudar a Estrutura de Dados, que é a maneira como eu organizo meus dados pra poder processá-los de maneiras simples. Cada problema, uma maneira de estruturar os dados pra poder ressolver o problema. Várias estruturas...
 
+___
+
+- Array & Matrix
+  - > É uma lista indexada. Primeiro elemento, segundo elemento. Algumas situações, não precisamos ordenar por número, apenas saber se está no conjunto ou não está no conjunto... Daí usamos um "set".  
+- List
+- Queue (FIFO - First In, First Out)
+  - > Apache Kafka é uma fila, cria um tópico primeiro, atendido primeiro, segundo-segundo (sistema de mensageria, comentário)... Outro exemplo, a fila do banco, quem chega primeiro é atendido primeiro. Quem chega segundo é atendido segundo.
+- Stack (LIFO - Last In, First Out)
+  - > Lavando pratos em casa, colocamos um sobre o outro, sobre outro... Na hora de enxaguar os pratos, pegamos o primeiro e não o mais abaixo na pilha (mais pesada). Tiramos três pratos de cima-baixo (estrutura LIFO).  
+- Tree
+  - > Sistema de dependências (essa possibilidade gera duas, que por sua vez gera mais duas cada). São raminhos, uma estrutura de árvores. Curiosamente, pra navegar dentro das árvores, usamos Stack. Quando temos várias soluções na forma de uma Árvore, uso uma estrutura Stack (LIFO), pra trabalhar. Em 1216, como sair de labirintos, por Everardo de Sevilha.    
+- Graph
+  - > Estrutura matemática (bolinhas = nós) e linhas (ligando os nós). Como organizar, definir prioridades, quais nós estão nos mesmos níveis. Essa estrutura usamos muito na gestão de processos chamada PERT-CPM (Program Evaluation and Review Technique, Critical Path Method), como se tivesse milhares de atividades num projeto, algumas atividades dependem de outras. Algumas são Concorrentes, outras são Paralelas, outras são Dependentes. Devemos organizar as atividades de acordo com o Grafo.    
+- Hash Table
+  - > Quem usa AWS pra armazenar imagens (buckets), tem um serviço de Storage (S3), esse serviço se organiza na forma de Hash Table, possui um bucket, identificado por um Hash. O serviço S3 da Amazon é um Hash Table.    
+- Set
+  - > Verifica se há um conjunto, no sentido matemático (pertence e não-pertence). Apenas precisamos saber se um elemento está ou não num conjunto. Por exemplo, vários papeis na mentoria (admins, estudantes, etc.), não preciso saber cada detalhe, é apenas uma relação de pertinência (tem ou não). 
+- Heap
+  - > É uma "stack" de cabeça pra baixo. Curiosamente, a memória é organizada em Stack e Heap. No Stack eu coloco Chamdas de Funções (função A, chama função B, que chama função C). Cada nova chamada, armazeno em uma nova pilha (stack) no endereço de quem chamou. Logo, a pilha vai crescendo...
+  - > E acima, no Heap, temos variáveis. Quanto mais variáveis eu crio, mais eu desço na pilha. Às vezes, com pouca memória, há colisões entre Stacks e Heap que se batem (área da memória de criar novas funções esbarrou na área de criar novas variáveis). Quando isso, temos um Stack-Overflow (transbordou, ultrapassou o limite de tamanho), um fórum famoso pra buscar soluções. Por exemplo, um programa recursivo sem condições de saída, chama ele mesmo infinitamente, até travar...     
+
+- > Vamos entender todas essas estruturas, logo, talvez esse seja o curso mais importante da nossa mentoria. Veja, se você não aprender Álgebra Linear não trabalhará com processamento de imagens; se você não aprender Matemática Discreta, não trabalhará com processamento de imagens; Mas se não aprender LP_A_ED, não trabalhará com Programação nunca...
 
 
