@@ -126,3 +126,17 @@ ___
 - Esses conceitos estão relacionados às transformações lineares e são usados para analisar como os vetores podem ser esticados ou encolhidos por essas transformações.
   - > Conceitos relacionados com transformações lineares. São um Valor e Vetor com propriedades que sejam especiais dentro de uma determinada transformação. Dentro de um Espaço Vetorial, tenho uma Transformação Linear, e dentro desses espaços, encontramos AutoVetores com propriedades interessantes quanto às equações e transformações (com seus conjuntos de valores em comum).
 
+___
+
+## Comentários...
+
+- > Definição: Álgebra é um conjunto com duas operações.
+- > Em um ano, vamos tentar "perder essa noção de variável", pois é "infantil na matemática" (não é brincadeira de esconde-esconde com "vamos achar o X..."). Vamos trabalhar, realmente, com Objetos Matemáticos e Operações Matemáticas (e não com o X, variável, isso-aquilo).
+- > Dificuldade ao associarmos _"com vetores é pq nós associamos dimensão com medidas de comprimento, mas é interessante pensar dimensões como informações guardadas a respeito de um objeto. ​Tipo na imagem pode ter os tamanhos, posições, cores, inclinação... cada informação guardada numa dimensão do vetor, certo Ed?"_ De fato, pode ter todas as informações, representar vários metadados como dimensões, embora tentemos simplificar o número de dimensões de tudo...
+- > Aulas serão acessíveis somente essa Primeira Semana, com algumas aulas publicadas no canal oficial (mas a Mentoria continua! ;).
+- > _"eu trabalho bastante com imagens em 3D mas é a primeira vez que associo os movimentos ao modelo de matriz achei bem interessante"_ Existe uma diferença trabalhar com CorelDraw, Blender, (softwares) e gira um eixo, você não está usando matrizes, está "puxando um eixo", mas por baixo do capô do motor existe um motor calculando matrizes (diferença entre Usuário vs. Programador): estamos preparando o cara que FAZ o programa FAZER a cena girar. O programador que só usa o framework, no fundo ACHA que programa em JavaScript, mas só está usando uma ferramenta (React).
+- > Até tem ligação de "Tensores" com o conteúdo de Matemática, mas é um grau de complexidade maior e número de casos limitados. (Poderíamos fazer uma aula extra, mas foge do escopo da Mentoria).
+- > O material da próxima aula é da próxima aula! ;) Sibila Trelawney fica na Torre e dá aula de Adivinhação em Hogwarts.
+- > Novas mentorias, tudo mais constante e estável, seria em Dezembro... Mas no momento, nada certo (final de Setembro) ;)
+
+FIM! 
