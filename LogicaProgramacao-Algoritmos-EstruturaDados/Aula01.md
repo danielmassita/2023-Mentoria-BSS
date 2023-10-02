@@ -104,5 +104,8 @@ ___
   - > E acima, no Heap, temos variáveis. Quanto mais variáveis eu crio, mais eu desço na pilha. Às vezes, com pouca memória, há colisões entre Stacks e Heap que se batem (área da memória de criar novas funções esbarrou na área de criar novas variáveis). Quando isso, temos um Stack-Overflow (transbordou, ultrapassou o limite de tamanho), um fórum famoso pra buscar soluções. Por exemplo, um programa recursivo sem condições de saída, chama ele mesmo infinitamente, até travar...     
 
 - > Vamos entender todas essas estruturas, logo, talvez esse seja o curso mais importante da nossa mentoria. Veja, se você não aprender Álgebra Linear não trabalhará com processamento de imagens; se você não aprender Matemática Discreta, não trabalhará com processamento de imagens; Mas se não aprender LP_A_ED, não trabalhará com Programação nunca...
+- > Valeu galera do chat, valeu quem cooperou! Bora! 
+
+FIM!
 
 
