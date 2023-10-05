@@ -61,9 +61,9 @@ ___
 - Distribuição de Probabilidade: Modelos teóricos para eventos aleatórios.
   - > Existem vários esquemas de distribuição de probabilidades. Vamos estudar a Curva de Gauss ou de Sino (Distribuição Normal) que orbita ao redor da média com uma maior abrangência dos casos, e somente poucas ocorrências quanto mais longe da média. 
 - Teorema Central do Limite: Descreve a distribuição de médias amostrais.
-  - > Que é justamente relacionado com a distribuição de probabilidadess...
+  - > Que é justamente relacionado com a distribuição de probabilidadess... "Em teoria das probabilidades, esse teorema afirma que quando o tamanho da amostra aumenta, a distribuição amostral da sua média aproxima-se cada vez mais de uma distribuição normal. Este resultado é fundamental na teoria da inferência estatística."
 - Estatística Não Paramétricas: Alternativas para dados não normais. 
-  - > Adota-se usualmente a Distribuição Normal. 
+  - > Adota-se usualmente a Distribuição Normal (~90%) quando consideramos determinados eventos aleatórios. Por exemplo, uma medida objetiva de aleatóriedade (por exemplo, o quão aleatório é um determinado algoritmo de _"randomização"_ de números num site de apostas/jogos).  
 
 ___
 
