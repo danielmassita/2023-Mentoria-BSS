@@ -45,4 +45,4 @@ ___
 - Percentis: Valores que dividem um conjunto de dados em partes iguais.
   - > São os "quartis", as fatias iguais dos dados, e localizamos onde se localiza o ponto em qual ponto da distribuição se encontra. 
 - Intervalos de Confiança: Intervalos que estimam um parâmetro da população.
-  - > No exemplo das peças industriais, a gente busca um intervalo de garantia que representaria, da melhor forma possível e aceitável, uma pedaço (amostra) dos dados que representaria adequadamente o conjunto (rol) total dos dados. Exemplo muito comum nas eleições, que busca uma certeza estatística minimamente calculado pra uma determinada margem de erro. 
+  - > No exemplo das peças industriais, a gente busca um intervalo de garantia que representaria, da melhor forma possível e aceitável, uma pedaço (amostra) dos dados que representaria adequadamente o conjunto (rol) total dos dados. Exemplo muito comum nas eleições, que busca uma certeza estatística minimamente calculado pra uma determinada margem de erro. Atenção e cuidado necessário com o "enviesamento" (viés de perspectiva) da amostra.
