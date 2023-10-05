@@ -70,6 +70,22 @@ ___
 ## Ciência de Dados
 
 - Um curso de Ciência de Dados é um programa educacional que ensina as habilidades necessárias para coletar, limpar, analisar e interpretar grandes volumes de dados.
-  - > 
+  - > ...
 - Vocês aprenderão programação estatística, machine learning e visualização de dados para extrair _insights_ valiosos e tomar decisões informadas em diversos campos.
-  - >   
+  - > ...
+
+___
+
+## Ciência de Dados
+
+- Coleta e Limpeza de Dados
+  - > Imaginemos um sensor que mede a umidade da terra em uma horta. Existe uma certa variância, mas dentro de um parâmetro razoável. Em um certo momento, um ponto fora da curva. Esse dado é pertinente? Como nulificar? Por que foi fora da curva? Probabilidade de falha do sensor está dentro da margem de erro do dado? Posso eliminar o dado fora da curva (dados anômalos)? Como ponderar? A partir de quantos dados fora da curva eles se tornam representativos?  
+- Estatística Descritiva
+  - > Passamos a usar esses dados do conjunto, das medições, pra descrever determinada situação ou contexto de negócios. 
+- Análise de Séries Temporais
+  - > Análise RS (método em particular que estudaremos) usado por uma companhia de água da Califórnia, a fim de destinar água pra plantio ou pra cidade, sem risco de faltar depois em escassez de chuvas. Era necessário ter uma análise pra saber até quando a estação iria (prolongar chuva, prolongar sêca, etc.) Qual era a tendência? A Análise RS é um índice/coeficiente baseado nessas séries temporais. Coeficiente varia de 0-1. De 0 até 0,5, a tendência é de o fenômeno se inverter (chuva vs. sêca). De 0,5 até 1, a tendência é continuar. O aparelho de ECG (eletro-cárdio-grama) com 17 sinais analisados, se a tendência da Análise RS for de contínuo crescente de freqüência cardíaca (tipo, máx. 200 bpm, então entre 160-170 começa a dar gatilhos). 
+- Visualização de Dados
+  - >  
+- Big Data
+- Ferramentas e Frameworks
+- Introdução ao Machine Learning
