@@ -85,7 +85,13 @@ ___
 - Análise de Séries Temporais
   - > Análise RS (método em particular que estudaremos) usado por uma companhia de água da Califórnia, a fim de destinar água pra plantio ou pra cidade, sem risco de faltar depois em escassez de chuvas. Era necessário ter uma análise pra saber até quando a estação iria (prolongar chuva, prolongar sêca, etc.) Qual era a tendência? A Análise RS é um índice/coeficiente baseado nessas séries temporais. Coeficiente varia de 0-1. De 0 até 0,5, a tendência é de o fenômeno se inverter (chuva vs. sêca). De 0,5 até 1, a tendência é continuar. O aparelho de ECG (eletro-cárdio-grama) com 17 sinais analisados, se a tendência da Análise RS for de contínuo crescente de freqüência cardíaca (tipo, máx. 200 bpm, então entre 160-170 começa a dar gatilhos). 
 - Visualização de Dados
-  - >  
 - Big Data
 - Ferramentas e Frameworks
 - Introdução ao Machine Learning
+  - > Usando critérios estatísticos pra analisar e prever...
+
+- Gráfico de Barras
+- Histograma
+- Gráfico de Pizza
+- Gráfico de Linhas
+- Gráfico de dispersão
