@@ -46,15 +46,30 @@ ___
   - > São os "quartis", as fatias iguais dos dados, e localizamos onde se localiza o ponto em qual ponto da distribuição se encontra. 
 - Intervalos de Confiança: Intervalos que estimam um parâmetro da população.
   - > No exemplo das peças industriais, a gente busca um intervalo de garantia que representaria, da melhor forma possível e aceitável, uma pedaço (amostra) dos dados que representaria adequadamente o conjunto (rol) total dos dados. Exemplo muito comum nas eleições, que busca uma certeza estatística minimamente calculado pra uma determinada margem de erro. Atenção e cuidado necessário com o "enviesamento" (viés de perspectiva) da amostra. Evita-se a amostra enviesada quando não fazemos distinção da "localização" dos dados coletados, por exemplo (quanto mais disperso e igual e aleatório)...
+Viés da localização, grupo humano, racial, gênero, classe, etc. Precisa-se dispersar a coleta de dados.
 
 ___
 
 ## Medidas Úteis na Estatística (parte 2)
 
 - Testes de Hipóteses: Avaliação da significância estatística de uma afirmação.
-  - > ...
+  - > No exemplo das peças industriais, partimos da hipótese que as velas estão boas com uma margem de erro de %. Criamos uma estratégia de testagem pra validar a hipótese ou não. Qual o tamanho do lote? Qual a margem de erro de defeitos? Monta-se um teste que permita verificar a hipótese. 
 - Análise de Variância: Comparação de médias entre grupos.
-- Qui-Quadrado: Teste de independência entre variáveis categóricas.
+  - > Também pode ser usada pra diminuir o viés. Se em uma pesquisa em determinada região, temos uma média. Vamos em outro local, pegamos uma nova amostra e comparamos.  
+- Qui-Quadrado (χ²): Teste de independência entre variáveis categóricas.
+  - > Ao analisar duas variáveis numa amostragem, buscamos refutar (garantir) que não há um coeficiente de correlação.  
 - Distribuição de Probabilidade: Modelos teóricos para eventos aleatórios.
+  - > Existem vários esquemas de distribuição de probabilidades. Vamos estudar a Curva de Gauss ou de Sino (Distribuição Normal) que orbita ao redor da média com uma maior abrangência dos casos, e somente poucas ocorrências quanto mais longe da média. 
 - Teorema Central do Limite: Descreve a distribuição de médias amostrais.
+  - > Que é justamente relacionado com a distribuição de probabilidadess...
 - Estatística Não Paramétricas: Alternativas para dados não normais. 
+  - > Adota-se usualmente a Distribuição Normal. 
+
+___
+
+## Ciência de Dados
+
+- Um curso de Ciência de Dados é um programa educacional que ensina as habilidades necessárias para coletar, limpar, analisar e interpretar grandes volumes de dados.
+  - > 
+- Vocês aprenderão programação estatística, machine learning e visualização de dados para extrair _insights_ valiosos e tomar decisões informadas em diversos campos.
+  - >   
