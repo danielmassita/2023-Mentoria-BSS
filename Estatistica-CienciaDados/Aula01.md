@@ -35,10 +35,12 @@ ___
 - Moda: Valor mais freqüente em um conjunto de dados.
   - > Valor mais freqüente no conjunto de dados, o que aparece mais vezes (o que "geral tá usando é a moda", pois essa ocorrência se destaca pois se dá mais vezes). 
 - Variância: Medida da dispersão dos dados.
-  - > Dada uma média entre os dados, a variância é o quão distante os dados fogem da média, o quão distante está um dado da média. Com pouca dispersão, muitos pontos estão perto da média. Com grande variância, os pontos se espalham numa área maior... 
+  - > Dada uma média entre os dados, a variância é o quão distante os dados fogem da média, o quão distante está um dado da média. Com pouca dispersão, muitos pontos estão perto da média. Com grande variância, os pontos se espalham numa área maior... Por exemplo, se um dado dista (de ser distante) da média, considerando sua "área de dispersão", podemos pensar que uma linha de tamanho 4 unidades, e um ponto que dista 4 unidades da média, teremos uma área 16 de dispersão entre esses pontos...  
 - Desvio Padrão: Raiz quadrada da variância indica a dispersão dos dados.
-  - >  
+  - > Como a variância é a medida de dispersão de área dos dados, o desvio-padrão se torna o "lado" dessa área, sendo a raiz quadrada da variância. No exemplo anterior, nessa área de 16 unidades de dispersão, a distância da linha base e do ponto disperso será de 4 unidades (a distância do ponto vs. média, levando em conta toda a área de dispersão).   
 - Coeficiente de Correlação: Mede a relação entre duas variáveis.
+  - > Imagina um gráfico com uma série de pontos. A curva que melhor se ajusta nesses dados, será uma linha mais próxima possível da massa de dados. Esse será o coeficiente de correlação, estabelecendo uma relação entre duas variáveis e retornará uma espécie de inclinação de uma reta que fique perto dos dados da melhor maneira possível. 
 - Regressão Linear: Modelagem da relação entre variáveis dependentes e independentes.
+  - > Massa de dados, com uma relação estabelecida entre duas variáveis. Vamos achar uma curva (não necessariamente uma reta) que se ajusta bem aos dados que tenho. A partir dessa curva, podemos testar previsões minimamente aceitáveiss. Seria uma forma de extrapolar, com certo rigor, as tendências que mais se adequam (precisão) aos dados dispersos. 
 - Percentis: Valores que dividem um conjunto de dados em partes iguais.
 - Intervalos de Confiança: Intervalos que estimam um parâmetro da população.
