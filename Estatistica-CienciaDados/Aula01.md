@@ -33,8 +33,9 @@ ___
 - Mediana: Valor do meio de um conjunto de dados ordenado.
   - > É a linha que separa em dois os dados ordenados.  
 - Moda: Valor mais freqüente em um conjunto de dados.
-  - > Valor mais freqüente no conjunto de dados, o que aparece mais vezes... 
+  - > Valor mais freqüente no conjunto de dados, o que aparece mais vezes (o que "geral tá usando é a moda", pois essa ocorrência se destaca pois se dá mais vezes). 
 - Variância: Medida da dispersão dos dados.
+  - >  
 - Desvio Padrão: Raiz quadrada da variância indica a dispersão dos dados.
 - Coeficiente de Correlação: Mede a relação entre duas variáveis.
 - Regressão Linear: Modelagem da relação entre variáveis dependentes e independentes.
