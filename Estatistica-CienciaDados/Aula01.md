@@ -43,4 +43,6 @@ ___
 - Regressão Linear: Modelagem da relação entre variáveis dependentes e independentes.
   - > Massa de dados, com uma relação estabelecida entre duas variáveis. Vamos achar uma curva (não necessariamente uma reta) que se ajusta bem aos dados que tenho. A partir dessa curva, podemos testar previsões minimamente aceitáveiss. Seria uma forma de extrapolar, com certo rigor, as tendências que mais se adequam (precisão) aos dados dispersos. 
 - Percentis: Valores que dividem um conjunto de dados em partes iguais.
+  - > São os "quartis", as fatias iguais dos dados, e localizamos onde se localiza o ponto em qual ponto da distribuição se encontra. 
 - Intervalos de Confiança: Intervalos que estimam um parâmetro da população.
+  - > No exemplo das peças industriais, a gente busca um intervalo de garantia que representaria, da melhor forma possível e aceitável, uma pedaço (amostra) dos dados que representaria adequadamente o conjunto (rol) total dos dados. Exemplo muito comum nas eleições, que busca uma certeza estatística minimamente calculado pra uma determinada margem de erro. 
