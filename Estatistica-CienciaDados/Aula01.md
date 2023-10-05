@@ -35,8 +35,9 @@ ___
 - Moda: Valor mais freqüente em um conjunto de dados.
   - > Valor mais freqüente no conjunto de dados, o que aparece mais vezes (o que "geral tá usando é a moda", pois essa ocorrência se destaca pois se dá mais vezes). 
 - Variância: Medida da dispersão dos dados.
-  - >  
+  - > Dada uma média entre os dados, a variância é o quão distante os dados fogem da média, o quão distante está um dado da média. Com pouca dispersão, muitos pontos estão perto da média. Com grande variância, os pontos se espalham numa área maior... 
 - Desvio Padrão: Raiz quadrada da variância indica a dispersão dos dados.
+  - >  
 - Coeficiente de Correlação: Mede a relação entre duas variáveis.
 - Regressão Linear: Modelagem da relação entre variáveis dependentes e independentes.
 - Percentis: Valores que dividem um conjunto de dados em partes iguais.
