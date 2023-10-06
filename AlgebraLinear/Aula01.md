@@ -1,6 +1,8 @@
 # Programa de Mentoria BSS 2023
 # Álgebra Linear
 
+```https://www.youtube.com/live/t8uQPLrJJDA```
+
 ___
 
 ## Álgebra Linear - Aula 01
