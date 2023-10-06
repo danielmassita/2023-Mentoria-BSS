@@ -20,9 +20,11 @@ ___
 - Lógica Proposicional
   - > Se tal e tal coisa acontecer... então tal e tal coisa pode acontecer. Encadeamento de raciocínios e aprendemos a tirar conclusões a partir de proposições. Fazemos afirmações (se A e B são inteiros, então lá na frente...) (se o máximo divisor comum de A e B é um...) Estamos propondo hipóteses pra desencadear um certo raciocínio...  
 - Lógica de Predicados
-  - > 
+  - > Predicado, em Língua Portuguêsa é uma coisa que qualifica um elemento da frase ("A casa amarela", amarela está predicando a casa, dando uma qualidade). Também vamos utilizar em Estatística para "criar" grupos, no caso colocando a casa no "Conjunto de Casas Amarelas", para ordenar, separar elementos, etc.
 - Demonstração de Teoremas
+  - > Todo teorema é um cálculo proposicional... 
 - Álgebra Booleana
+  - > Vem do Boole (matemático) que no Sec. XIX criou uma álgebra dos elementos 0 e 1 (conjunto de duas operações) e usamos a "Álgebra Binária" na computação, totalmente ligada ao cálculo proposicional, associando o valor 1 como verdade e o valor 0 como falso. 
 - Lógica de Programação
 - Teoria dos Conjuntos
 - Grafos e Teoria dos Grafos
