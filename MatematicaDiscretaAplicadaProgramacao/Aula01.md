@@ -40,10 +40,10 @@ ___
  - Elementos e Conjuntos
  - Operações de Conjuntos
    - > Pertence e Não-Pertence... 
- - Conjuntos Espaciais
+ - Conjuntos Especiais
    - > União, Intersecção, Uniões Inifinitas, Somatórias de Uniões, Coberturas (dado um conjunto e um grupo de sub-conjuntos, só é cobertura se todo ponto do conjunto pertencer a um, e apenas um, daquele subconjunto (não-intersecção)).
-  - > Conjunto Nulo. Conjunto Unitário.
-  - > Conjunto Vazio é aberto (não contém sua fronteira) e fechado (contém sua fronteira) ao mesmo tempo. Quando não tem nenhum ponto na fronteira que pertença a ele, logo é aberto. Seria fechado quando todos os pontos da fronteira estão dentro dele, como não tem pontos pra fazer fronteira dentro dele e todos os pontos lá dentro, ele é vazio.      
+   - > Conjunto Nulo. Conjunto Unitário.
+   - > Conjunto Vazio é aberto (não contém sua fronteira) e fechado (contém sua fronteira) ao mesmo tempo. Quando não tem nenhum ponto na fronteira que pertença a ele, logo é aberto. Seria fechado quando todos os pontos da fronteira estão dentro dele, como não tem pontos pra fazer fronteira dentro dele e todos os pontos lá dentro, ele é vazio.      
  - Diagramas de Venn
    - > [...] 
  - Produto Cartesiano
