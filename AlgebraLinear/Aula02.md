@@ -79,7 +79,12 @@ ___
 - ƒ(c.a) = 3.(c.a) + 1 = c.(3a) + 1 = c.ƒ(a) + 1
   - c.ƒ(a) + 1 ≠ c.ƒ(a)
 
-**- ƒ não é linear!** Então, vamos ao ponto principal e mais importante: **NEM TUDO QUE É LINHA É LINEAR!**
+**- ƒ não é linear!** Então, vamos ao ponto principal e mais importante: 
+
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/90463b44-d5b4-4d74-8691-da0318c101b9)
+
+### **NEM TUDO QUE É LINHA É LINEAR!**
+
 
 ___
 
