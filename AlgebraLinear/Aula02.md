@@ -74,10 +74,10 @@ ___
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a11fd40c-1ccd-401d-8ae7-02eaf0aca7c3)
 
 - ƒ(a + b) = 3.(a + b) + 1 = (3.a) + (3.b) + 1 = ƒ(a) + ƒ(b) + 1
-- ≠ ƒ(a) + ƒ(b)
+  - ƒ(a) + ƒ(b) + 1 ≠ ƒ(a) + ƒ(b)
 
 - ƒ(c.a) = 3.(c.a) + 1 = c.(3a) + 1 = c.ƒ(a) + 1
-- ≠ c.ƒ(a)
+  - c.ƒ(a) + 1 ≠ c.ƒ(a)
 
 **- ƒ não é linear!** Então, vamos ao ponto principal e mais importante: **NEM TUDO QUE É LINHA É LINEAR!**
 
