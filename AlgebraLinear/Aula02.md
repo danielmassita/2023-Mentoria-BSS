@@ -96,11 +96,25 @@ ___
 
 **- ƒ não é linear!**
 
-### **NEM TUDO QUE É LINHA É LINEAR! Toda função linear precisa passar por (x,y) = (0,0) quando for de grau 1 (o x está no máximo elevado ao grau 1; x¹)! Passando no ponto zero-zero, forma um espaço interessante que podemos trabalha, trata-se do _Espaço dos Vetores_. A função linear, mesmo mudando a partir da origem (zero-zero), girando a reta, continuará passando no eixo zero, então esse teste - para x de grau 1 - se faz rápido no teste em zero.**
+### **NEM TUDO QUE É LINHA É LINEAR! Toda função linear precisa passar por (x,y) = (0,0) quando for de grau 1 (o x está no máximo elevado ao grau 1; x¹)! Passando no ponto zero-zero, forma um espaço interessante que podemos trabalha, trata-se do _Espaço dos Vetores_. A função linear, mesmo mudando a partir da origem (zero-zero), girando a reta, continuará passando no eixo zero, então esse teste - para x de grau 1 - se faz rápido no teste em zero passando na origem.**
 
 - Nem tudo que forma uma linha é linear.
 - No Exemplo 2, temos uma "função afim", que é linha mas não é Linear.
 - No Exemplo 3, temos uma "função afim", idem.
 
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/90463b44-d5b4-4d74-8691-da0318c101b9)
+
+- ƒ(x + y) = ƒ(x) + ƒ(y)
+- ƒ(c.x) = c.ƒ(a)
+
+- ƒ(x + y) = ƒ(x) + ƒ(y)
+- ƒ(c.x) = c.ƒ(a)
+  - ƒ(0.a) = 0.ƒ(a) = ƒ(0) = 0 (condição «sine qua non»)
+
+- _"Um polinômio de grau um (se o máximo expoente de x = x¹) que passa pela origem é linear (ƒ(0) = 0), tem de levar o ponto zero no zero. Se não acontecer, não é uma função linear."_
+- Também veremos isso em Matrizes, por exemplo!
+- A vida não é uma corrida de 100m rasos. Calma, coração!
+- Vamos repetir isso muitas vezes!
+
+FIM! 
 
