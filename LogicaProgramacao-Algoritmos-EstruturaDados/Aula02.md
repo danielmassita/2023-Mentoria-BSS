@@ -14,6 +14,8 @@ ___
 
 ___
 
+## Algoritmo
+
 1) Entrada: Zero ou mais valores que serão informados para servirem ao processamento.
    - > Farinha de trigo, açúcar, cacau, óleo, sal, água, bicarbonato, fermento...
 2) Saída: Pelo menos um valor gerado pelo processamento.
@@ -36,4 +38,20 @@ ___
   - > O primeiro alvo da lógica de programação é o PROGRAMADOR, pois precisa pensar antes e refletir muito sobre o "como resolver o problema", para só então abrir o editor de código pra continuar o programa...
   - > Programação é como um "queijo suíço" (hehe), quanto mais queijo, mais bolhas de ar, logo quanto mais queijo, menos queijo. Ou seja, códigos com muitas linhas podem não ser tão bons, se perdem a simplicidade...  
 
+___
 
+## Seqüência
+
+- Comandos de um programa de computador são executados em seqüência, um após o outro, do começo até o final, exceto quando acontecem desvios ou laços de repetições.
+  - > Os comandos são pensados numa seqüência, por exemplo, no bolo não podemos colocar os ingredientes no forno antes de misturar e bater a massa. Não podemos inverter... No exemplo da impressora: primeiro liga na tomada, depois conecta no wireless (o oposto não funciona).   - > Notação BNF ( https://pt.wikipedia.org/wiki/Formalismo_de_Backus-Naur ).
+  - > Para programar, precisamos aprender a pensar antes! Precisamos aprender o "como pensar". Como diria o Mestre Yoda: _"You must unlearn what you have learned."_   
+
+___
+
+## Próxima aula (outras estruturas, da lógica imperativa)...
+
+- Seqüências
+- Condicionais
+- Loopings
+
+- > Cada expressão, cada linha, é uma ação imperativa (no nosso estudo). Mas em Programação, há outras abordagens que podem ter paradigmas diferentes: declarativas, funcionáis, lógicas, imperativas, orientado a objetos, orientado a eventos.
