@@ -81,12 +81,26 @@ ___
 
 **- ƒ não é linear!** Então, vamos ao ponto principal e mais importante: 
 
-- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/90463b44-d5b4-4d74-8691-da0318c101b9)
-
 ### **NEM TUDO QUE É LINHA É LINEAR!**
-
 
 ___
 
 - Exemplo 3:
+ƒ:ℝ → ℝ      ƒ(x) = 3x + 2
+  x → 3x + 2
+  
+- ƒ(a + b) = 3 * (a + b) = (3a) + (3b) + 2 = 3.a + ƒ(b)
+  - 3a + ƒ(b) ≠ ƒ(a) + ƒ(b)  
+- ƒ(c.a) = 3.(c.a) + 2 = c.3.a + 2 = c3a + 2c + 2 - 2c = c.(3a+2) + 2 - 2.c = c.ƒ(a) + (2-2.c)
+  - c.ƒ(a) + (2-2.c) ≠ c.ƒ(a)
+
+**- ƒ não é linear!**
+
+### **NEM TUDO QUE É LINHA É LINEAR! Toda função linear precisa passar por (x,y) = (0,0) quando for de grau 1 (o x está no máximo elevado ao grau 1; x¹)! Passando no ponto zero-zero, forma um espaço interessante que podemos trabalha, trata-se do _Espaço dos Vetores_. A função linear, mesmo mudando a partir da origem (zero-zero), girando a reta, continuará passando no eixo zero, então esse teste - para x de grau 1 - se faz rápido no teste em zero.**
+
+- Nem tudo que forma uma linha é linear.
+- No Exemplo 2, temos uma "função afim", que é linha mas não é Linear.
+- No Exemplo 3, temos uma "função afim", idem.
+
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/90463b44-d5b4-4d74-8691-da0318c101b9)
 
