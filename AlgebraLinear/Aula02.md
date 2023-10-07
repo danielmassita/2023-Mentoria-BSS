@@ -62,14 +62,23 @@ ___
 - ƒ(5) = 3.5 = 15
 
 - ƒ(c.a) = 3 * (c.a) = c.3.a = c.ƒ(a)
-- ƒ(4.2) = 3 * (4.2) = (3.4).2 = (4.3).2 = 4.(3.2) = 4.ƒ(2)
+- ƒ(4.2) = 3 * (4.2) = (3.4).2 = (4.3).2 = 4.(3.2) = 4.ƒ(2) = 4.(ƒ(2)) = 4.(3.2) = 24
 
 ___
 
 - Exemplo 2 (nem toda equação de primeiro grau é linear):
 
-ƒ:ℝ → ℝ      ƒ(x) = 3x
-  x → 3x
+ƒ:ℝ → ℝ      ƒ(x) = 3x + 1
+  x → 3x + 1
 
-ƒ(a + b) = 3 * (a + b) = (3a) + (3b)
-ƒ(c.a) = 3 * (c.a) = c.3.a = c.ƒ(a)
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a11fd40c-1ccd-401d-8ae7-02eaf0aca7c3)
+
+ƒ(a + b) = 3.(a + b) + 1 = (3.a) + (3.b) + 1 = ƒ(a) + ƒ(b) + 1 ≠ ƒ(a) + ƒ(b)
+ƒ(c.a) = 3.(c.a) + 1 = c.(3a) + 1 = c.ƒ(a) + 1 ≠ c.ƒ(a)
+
+**- ƒ não é linear!** Então, vamos ao ponto principal e mais importante: **NEM TUDO QUE É LINHA É LINEAR!**
+
+___
+
+- Exemplo 3:
+
