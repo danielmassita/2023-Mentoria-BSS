@@ -23,7 +23,7 @@ ___
 
 - Na última aula (01) aprendemos que uma álgebra é um conjunto unido por algumas operações em cima desse conjunto. Hoje, vamos compreender o lado do "linear".
 - Definição Matemática do que é "ser linear":
-```
+
   - A é um conjunto qualquer de elementos a ser trabalhado na álgebra
   - ℝ é o conjunto dos Reais
 
@@ -35,5 +35,20 @@ ___
     - > Dados dois elementos, vou calcular o valor da função na soma desses dois elementos, e será linear se a função calculada na ponta da soma (x+y) for igual a ela calculada isoladamente (x) e (y).  
   - ƒ(c * x) = c * ƒ(x)
     - > Se calcular o valor da função no valor de c * x, ou seja, se pegarmos o escalar (pra diferenciar do vetor x,y) de c, multiplicando o escalar c * ƒ(x). Se atender também essa propriedade, será linear. 
-```
-- 
+
+- Pro Piaget, o bebê tem uma fase inicial sensório-motora (o bebê pega a bola, esfrega a bola, cutuca a bola, empurra, aperta, etc.). Depois, ao final, temos um "estágio das operações formais", ali próximo de 16~20 anos, depende de uma abstração (contâiner da idéia de número).  
+
+___
+
+- Exemplo 1:
+
+ƒ:ℝ → ℝ      ƒ(x) = 3x
+  x → 3x
+
+ƒ(a + b) = 3 * (a + b) = (3a) + (3b)
+ƒ(c.a) = 3 * (c.a) = c.3.a = c.ƒ(a)
+
+**ƒ é linear!**
+
+___
+
