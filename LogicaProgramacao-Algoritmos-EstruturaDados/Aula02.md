@@ -54,4 +54,7 @@ ___
 - Condicionais
 - Loopings
 
-- > Cada expressão, cada linha, é uma ação imperativa (no nosso estudo). Mas em Programação, há outras abordagens que podem ter paradigmas diferentes: declarativas, funcionáis, lógicas, imperativas, orientado a objetos, orientado a eventos.
+- > Cada expressão, cada linha, é uma ação imperativa (no nosso estudo). Mas em Programação, há outras abordagens que podem ter paradigmas diferentes: imperativas, declarativas, funcionáis, procedurais, , orientado a objetos, orientado a eventos.
+- > Apesar dos protestos, o objetivo da aula é aprender a relacionar as coisas, fazer ligações, juntar as coisas. Foco é importante. Mas uma boa aula demanda que a gente consiga abrir a mente para novas idéias... "Aprender a aprender!" Focar o suficiente e ser amplo o suficiente pra não ficar bitolado e perder a "big picture". 
+
+FIM! 
