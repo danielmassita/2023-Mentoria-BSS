@@ -42,13 +42,35 @@ ___
 
 - Exemplo 1:
 
+ƒ:ℝ → ℝ (conjuntos levado noutro)      
+  ƒ(x) = 3x
+  x → 3x (valor levado noutro valor)
+
+ƒ(a + b) = 3 * (a + b) = (3a) + (3b)
+ƒ(c.a) = 3 * (c.a) = c.3.a = c.ƒ(a)
+
+**ƒ é linear!** Usar o termo "linear" é uma **definição**. Os elementos a, b, c são valores. O ƒ é uma função que opera valores.
+
+- Função é uma operação que altera valores (no caso, ƒ(x) altera os valores para 3x). Transforma um número Real em outro número Real. Transforma os valores de x em um novo valor equivalente a 3.x, e assim por diante. A função f transforma um valor no triplo desse valor.
+- Em linguagem de programação: uma função pega um valor (string), x é um parâmetro e o resultado será o valor final. Uma função que pega o nome completo (string), aplica uma transformação (split do primeiro nome), e transforma em um novo valor apenas com o primeiro nome.
+  - > fun (x: Float) { return x*3 } 
+
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/cbcfb578-8221-45ac-ba4c-ebef7f666088)
+
+ƒ(a + b) = 3 * (a + b) = (3a) + (3b)
+
+> ƒ(3 + 2) = 3 * (3 + 2) = (3 * 3) + (3 * 2) = (9)+(6) = 15
+> ƒ(5) = 3.5 = 15
+
+> ƒ(c.a) = 3 * (c.a) = c.3.a = c.ƒ(a)
+> ƒ(4.2) = 3 * (4.2) = (3.4).2 = (4.3).2 = 4.(3.2) = 4.ƒ(2)
+
+___
+
+- Exemplo 2 (nem toda equação de primeiro grau é linear):
+
 ƒ:ℝ → ℝ      ƒ(x) = 3x
   x → 3x
 
 ƒ(a + b) = 3 * (a + b) = (3a) + (3b)
 ƒ(c.a) = 3 * (c.a) = c.3.a = c.ƒ(a)
-
-**ƒ é linear!**
-
-___
-
