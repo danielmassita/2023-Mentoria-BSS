@@ -9,4 +9,4 @@ ___
 
 - ALGORITMO
 - Conjunto determinado de instruções que, quando seguidas, desempenham uma tarefa particular.
- 
+- 
