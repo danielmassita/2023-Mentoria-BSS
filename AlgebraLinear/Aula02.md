@@ -95,10 +95,11 @@ ___
   - c.ƒ(a) + (2-2.c) ≠ c.ƒ(a)
 
 **- ƒ não é linear!**
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/4c3a26ec-49f4-4722-a618-d5a4e9f8dc7b)
 
 ___
-> 
->> **NEM TUDO QUE É LINHA É LINEAR! Toda função linear precisa passar por (x,y) = (0,0) quando for de grau 1 (o x está no máximo elevado ao grau 1; x¹)! Passando no ponto zero-zero, forma um espaço interessante que podemos trabalha, trata-se do _Espaço dos Vetores_. A função linear, mesmo mudando a partir da origem (zero-zero), girando a reta, continuará passando no eixo zero, então esse teste - para x de grau 1 - se faz rápido no teste em zero passando na origem.**
+
+> **NEM TUDO QUE É LINHA É LINEAR! Toda função linear precisa passar por (x,y) = (0,0) quando for de grau 1 (o x está no máximo elevado ao grau 1; x¹)! Passando no ponto zero-zero, forma um espaço interessante que podemos trabalha, trata-se do _Espaço dos Vetores_. A função linear, mesmo mudando a partir da origem (zero-zero), girando a reta, continuará passando no eixo zero, então esse teste - para x de grau 1 - se faz rápido no teste em zero passando na origem.**
 
 - Nem tudo que forma uma linha é linear.
 - No Exemplo 2, temos uma "função afim", que é linha mas não é Linear.
