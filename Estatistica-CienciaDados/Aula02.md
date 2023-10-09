@@ -45,7 +45,8 @@ ___
 
 ## Todos os programas estarão na Área de Estudantes e no Repositório no Github!
 
-- Existe uma certa interdisciplinaridade, com o exemplo do laço na última aula de Estrutura de Dados. No exemplo abaixo, o JavaScript adotou o tipo float com essa quantidade de casas decimais. No futuro, temos de definir/calcular o nível de precisão que queremos dos números, pois isso implica numa margem de erro que vamos calcular. 
+- Existe uma certa interdisciplinaridade, com o exemplo do laço na última aula de Estrutura de Dados. No exemplo abaixo, o JavaScript adotou o tipo float com essa quantidade de casas decimais. No futuro, temos de definir/calcular o nível de precisão que queremos dos números, pois isso implica numa margem de erro que vamos calcular.
+- 
 
 ```javascript
 let lista = [
@@ -70,6 +71,28 @@ console.log(`A média é a soma ${soma}\ndividida pela quantidade de itens ${lis
 
 <details>
   <summary>Comentário Errado</summary>
-  > Dúvida: _"O fulano falou sbre os valores extremos modificarem o valor da média, a mediana serve para comparar com a média e saber se houve destorção. Já que a mediana só usa termos centrais no seu cálculo."_ (sic).
-  - > O amigo passou uma informação errada. A media não usa termos centrais no cálculo. Carece de detalhamento teórico... 
+  - > Dúvida: _"O fulano falou sbre os valores extremos modificarem o valor da média, a mediana serve para comparar com a média e saber se houve destorção. Já que a mediana só usa termos centrais no seu cálculo."_ (sic). O amigo passou uma informação errada. A media não usa termos centrais no cálculo. Carece de detalhamento teórico... 
 </details>
+
+-
+
+```javascript
+let lista = [
+  2, 4, 4, 6, 6, 8, 8, 10, 10, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32
+];
+
+let soma = 0;
+
+lista.forEach(valor => {
+  soma = soma + valor
+})
+
+let media = soma / lista.length
+
+console.log(`A mediana é o elemento central da lista ordenada, \n ou seja, o ${(lista.length + 1) / 2}º: ${lista[(lista.length - 1) / 2]} `
+)
+
+// >>> A mediana é o elemento central da lista ordenada,
+// >>> ou seja, o 11º: 12
+
+```
