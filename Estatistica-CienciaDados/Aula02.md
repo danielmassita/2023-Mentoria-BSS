@@ -49,7 +49,7 @@ ___
 
 ___
 
-- MÉDIA
+## MÉDIA
 
 ```javascript
 let lista = [
@@ -79,7 +79,7 @@ console.log(`A média é a soma ${soma}\ndividida pela quantidade de itens ${lis
 
 ___
 
-- MEDIANA
+## MEDIANA
 - Lista ordenada, mesmos valores, agora temos um **elemento central** (lista proposital com elementos ímpares), a mediana é uma questão de equilíbrio, no caso o 11º elemento cujo valor numérico atribuído é o valor "doze". A mediana é o valor no meio de um conjunto de dados quando organizados em ordem. Toda mediana só faz sentido na lista ordenada, dividindo o conjunto "pra lá e pra cá", sendo dois pedaços, fifty-fifty, 50/50, mezo-mezo, etc. A mediana separa o 50-pertencil.
   - > Dúvidas: Num conjunto "par" de dados, podemos escolher ter um número ímpar de dados (a pessoa que analisa 240 peças poderia medir 241). Evita-se um problema. Se a mediana for igual, será ela mesma (..., 11, 11, ...) a mediana será invariavelmente 11. Também poderíamos calcular a média (..., 11, 12, ...) sendo 11,5 a mediana. Numa "busca binária" (Estrutura de Dados e Algoritmos) poderíamos usar um sistema com medianas pra fazer buscas em grandes volumes de dados. Por exemplo, a busca numa lista telefônica. Quando usar a mediana? Agora não precisamos analisar, faremos isso no futuro... Agora trata-se de quem é: a média, a mediana, a moda...?  
 
@@ -98,7 +98,7 @@ console.log(`A mediana é o elemento central da lista ordenada, \n ou seja, o ${
 
 ___
 
-- MODA
+## MODA
 - asdf
 - asdf
 
