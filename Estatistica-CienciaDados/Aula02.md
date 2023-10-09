@@ -51,6 +51,8 @@ ___
 
 ## MÉDIA
 
+- Dado o exemplo de código JavaScript abaixo:
+ 
 ```javascript
 let lista = [
   2, 4, 6, 8, 10, 4, 6, 8, 10, 12, 14, 16, 18, 20, 10, 22, 24, 26, 28, 30, 32
@@ -80,9 +82,9 @@ console.log(`A média é a soma ${soma}\ndividida pela quantidade de itens ${lis
 ___
 
 ## MEDIANA
-- Lista ordenada, mesmos valores, agora temos um **elemento central** (lista proposital com elementos ímpares), a mediana é uma questão de equilíbrio, no caso o 11º elemento cujo valor numérico atribuído é o valor "doze". A mediana é o valor no meio de um conjunto de dados quando organizados em ordem. Toda mediana só faz sentido na lista ordenada, dividindo o conjunto "pra lá e pra cá", sendo dois pedaços, fifty-fifty, 50/50, mezo-mezo, etc. A mediana separa o 50-pertencil.
-  - > Dúvidas: Num conjunto "par" de dados, podemos escolher ter um número ímpar de dados (a pessoa que analisa 240 peças poderia medir 241). Evita-se um problema. Se a mediana for igual, será ela mesma (..., 11, 11, ...) a mediana será invariavelmente 11. Também poderíamos calcular a média (..., 11, 12, ...) sendo 11,5 a mediana. Numa "busca binária" (Estrutura de Dados e Algoritmos) poderíamos usar um sistema com medianas pra fazer buscas em grandes volumes de dados. Por exemplo, a busca numa lista telefônica. Quando usar a mediana? Agora não precisamos analisar, faremos isso no futuro... Agora trata-se de quem é: a média, a mediana, a moda...?  
 
+- Dado o exemplo de código JavaScript abaixo:
+ 
 ```javascript
 let lista = [
   2, 4, 4, 6, 6, 8, 8, 10, 10, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32
@@ -95,12 +97,14 @@ console.log(`A mediana é o elemento central da lista ordenada, \n ou seja, o ${
 // >>> ou seja, o 11º: 12
 
 ```
+- Lista ordenada, mesmos valores, agora temos um **elemento central** (lista proposital com elementos ímpares), a mediana é uma questão de equilíbrio, no caso o 11º elemento cujo valor numérico atribuído é o valor "doze". A mediana é o valor no meio de um conjunto de dados quando organizados em ordem. Toda mediana só faz sentido na lista ordenada, dividindo o conjunto "pra lá e pra cá", sendo dois pedaços, fifty-fifty, 50/50, mezo-mezo, etc. A mediana separa o 50-pertencil.
+  - > Dúvidas: Num conjunto "par" de dados, podemos escolher ter um número ímpar de dados (a pessoa que analisa 240 peças poderia medir 241). Evita-se um problema. Se a mediana for igual, será ela mesma (..., 11, 11, ...) a mediana será invariavelmente 11. Também poderíamos calcular a média (..., 11, 12, ...) sendo 11,5 a mediana. Numa "busca binária" (Estrutura de Dados e Algoritmos) poderíamos usar um sistema com medianas pra fazer buscas em grandes volumes de dados. Por exemplo, a busca numa lista telefônica. Quando usar a mediana? Agora não precisamos analisar, faremos isso no futuro... Agora trata-se de quem é: a média, a mediana, a moda...?  
 
 ___
 
 ## MODA
-- asdf
-- asdf
+
+- Dado o exemplo de código JavaScript abaixo:
 
 ```javascript
 let lista = [
@@ -129,4 +133,11 @@ console.log(`O(s) elemento(s) ${modas} aparece(m) com maior freqüência (${max}
 // >>> O(s) elemento(s) 10 aparece(m) com maior freqüência (3).
 ```
 
+- O laço inicial vai varrer a lista dentro de um contador, com uma chave com a quantidade de ocorrências que retornaram após percorrer a lista toda.
+- No caso do exemplo, o elemento de valor 10 aparece 3 vezes na contagem. O contador abriu um "contador" pra cada elemento, mas quando o elemento já existia, o contador apenas adicionava mais uma ocorrência no contador existente.
+- Se houverem a moda tiver dois elementos, será um valor Bi-Modal, Tri-Modal pra três elementos, multimodal...
+- A pergunta de um milhão! E se dois ou mais valores empatarem como os que mais aparecem?
+- Reposta: Nesse caso, a distribuição será chamada de bimodal (2 valores empatados), trimodal (3 valores empatados) e multimodal (daí em diante)... Uma representação multimodal pode ser usada como sentido de espalhamento. 
+- A moda é interpretada como uma forma de "espalhamento". 
 
+...
