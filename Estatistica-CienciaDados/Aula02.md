@@ -9,7 +9,7 @@ ___
 
 ## Qualitativos vs. Quantitativos
 
-  - > Começaremos fazendo uma taxonomia (classificação, táx- = classificação, -nómos = regras), separando em dados qualitativos e quantitativos.
+- Começaremos fazendo uma taxonomia (classificação, gr. táx-), separando em dados qualitativos e quantitativos.
 - Dados Qualitativos: Representam características ou qualidades (por exemplo, cores, nomes, sabores).
   - > Numa pesquisa de "Sabores de Sorvetes", organizar lista de sabores, escolher público, determinar quantidade de amostrar a serem coletadas para um estudo ser significativo. Tudo isso será estudado (pra um total de brasileiro, como eu escolheria as regiões e etc., não é aleatório, por exemplo a "pesquisa eleitoral" vs. o famigerado fakeado "data-povo" dos reaças, gados e afins).
   - > É uma qualidade, descreve um predicado. Mas que caraterizam o tema pesquisado, mais do que medir.    
@@ -45,3 +45,19 @@ ___
 
 ## Todos os programas estarão na Área de Estudantes e no Repositório no Github!
 
+```javascript
+let lista = [
+  2, 4, 6, 8, 10, 4, 6, 8, 10, 12, 14, 16, 18, 20, 10, 22, 24, 26, 28, 30, 32
+];
+
+let soma = 0;
+
+lista.forEach(valor => {
+  soma = soma + valor
+})
+
+let media = soma / lista.length
+
+console.log(`A média é a soma ${soma}\ndividida pela quantidade de itens ${lista.length}\n${media} `)
+
+```
