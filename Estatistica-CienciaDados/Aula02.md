@@ -60,8 +60,8 @@ let media = soma / lista.length
 
 console.log(`A média é a soma ${soma}\ndividida pela quantidade de itens ${lista.length}\n${media} `)
 
-# A média é a soma 310
-# dividida pela quantidade de itens 21
-# 14.761904761904763
+// A média é a soma 310
+// dividida pela quantidade de itens 21
+// 14.761904761904763
 
 ```
