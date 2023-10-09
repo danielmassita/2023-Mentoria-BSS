@@ -46,7 +46,10 @@ ___
 ## Todos os programas estarão na Área de Estudantes e no Repositório no Github!
 
 - Existe uma certa interdisciplinaridade, com o exemplo do laço na última aula de Estrutura de Dados. No exemplo abaixo, o JavaScript adotou o tipo float com essa quantidade de casas decimais. No futuro, temos de definir/calcular o nível de precisão que queremos dos números, pois isso implica numa margem de erro que vamos calcular.
-- 
+
+___
+
+- MÉDIA
 
 ```javascript
 let lista = [
@@ -74,20 +77,16 @@ console.log(`A média é a soma ${soma}\ndividida pela quantidade de itens ${lis
   - > Dúvida: _"O fulano falou sbre os valores extremos modificarem o valor da média, a mediana serve para comparar com a média e saber se houve destorção. Já que a mediana só usa termos centrais no seu cálculo."_ (sic). O amigo passou uma informação errada. A media não usa termos centrais no cálculo. Carece de detalhamento teórico... 
 </details>
 
--
+___
+
+- MEDIANA
+- Lista ordenada, mesmos valores, agora temos um **elemento central** (lista proposital com elementos ímpares), a mediana é uma questão de equilíbrio, no caso o 11º elemento cujo valor numérico atribuído é o valor "doze". A mediana é o valor no meio de um conjunto de dados quando organizados em ordem. Toda mediana só faz sentido na lista ordenada, dividindo o conjunto "pra lá e pra cá", sendo dois pedaços, fifty-fifty, 50/50, mezo-mezo, etc. A mediana separa o 50-pertencil.
+  - > Dúvidas: Num conjunto "par" de dados, podemos escolher ter um número ímpar de dados (a pessoa que analisa 240 peças poderia medir 241). Evita-se um problema. Se a mediana for igual, será ela mesma (..., 11, 11, ...) a mediana será invariavelmente 11. Também poderíamos calcular a média (..., 11, 12, ...) sendo 11,5 a mediana. Numa "busca binária" (Estrutura de Dados e Algoritmos) poderíamos usar um sistema com medianas pra fazer buscas em grandes volumes de dados. Por exemplo, a busca numa lista telefônica. Quando usar a mediana? Agora não precisamos analisar, faremos isso no futuro... Agora trata-se de quem é: a média, a mediana, a moda...?  
 
 ```javascript
 let lista = [
   2, 4, 4, 6, 6, 8, 8, 10, 10, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32
 ];
-
-let soma = 0;
-
-lista.forEach(valor => {
-  soma = soma + valor
-})
-
-let media = soma / lista.length
 
 console.log(`A mediana é o elemento central da lista ordenada, \n ou seja, o ${(lista.length + 1) / 2}º: ${lista[(lista.length - 1) / 2]} `
 )
@@ -96,3 +95,38 @@ console.log(`A mediana é o elemento central da lista ordenada, \n ou seja, o ${
 // >>> ou seja, o 11º: 12
 
 ```
+
+___
+
+- MODA
+- asdf
+- asdf
+
+```javascript
+let lista = [
+  2, 4, 6, 8, 10, 4, 6, 8, 10, 12, 14, 16, 18, 20, 10, 22, 24, 26, 28, 30, 32
+];
+
+let contadores = {}
+
+lista.forEach(valor => {
+  let chave = '' + valor
+  if (!contadores[chave]) { contadores[chave] = 0 }
+  contadores[chave] = contadores[chave] + 1
+})
+
+let chaves = Object.keys(contadores)
+let conts = Object.values(contadores)
+let max = Math.max(...conts)
+let modas = []
+
+chaves.forEach(chave => {
+  if (contadores[chave] === max { modas.push(parseInt(chave, 10)) }
+})
+
+console.log(`O(s) elemento(s) ${modas} aparece(m) com maior freqüência (${max}).`)
+
+// >>> O(s) elemento(s) 10 aparece(m) com maior freqüência (3).
+```
+
+
