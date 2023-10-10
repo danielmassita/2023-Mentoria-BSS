@@ -85,11 +85,22 @@ ___
   - > OU esse isqueiro é azul OU esse isqueiro é roxo. (verdadeiro, fig. 1)
   - > OU esse isqueiro é roxo  OU essa caneta é branca. (verdadeiro, embora a caneta seja preta, fig. 2)
   - > OU esse isqueiro é amarelo OU esse isqueiro é vermelho. (falso, pois ambas as afirmações são falsas, fig. 3)
-  - > OU o Ed passará férias na praia OU o Ed passará as férias na montanha. (verdadeiro, cedo ou tarde uma das duas sendo verdadeiras, fig. 4 ou 5) (ou falso, se o Ed ficar em casa pois tá sem dinheiro, fig. 6).   
+  - > OU o Ed passará férias na praia OU o Ed passará as férias na montanha. (verdadeiro, cedo ou tarde uma das duas sendo verdadeiras, fig. 4 ou 5) (ou falso, se o Ed ficar em casa pois tá sem dinheiro, fig. 6).
+
+- Vejamos a imagem do conjunto:
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/006f992d-467e-4c4a-b455-01a2f7cee9c8)
+- Conjunto amarelo é a UNIÃO de A com B, sendo ou A verdadeiro, ou B verdadeiro, ou A e B verdadeiros (intersecção do pontilhado). Trata-se do conjunto de União de A ∨ B. 
+
+- Vejamos a imagem do Conjunto OU-EXCLUSIVO ( ⊕ ):
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c30d3f88-29e2-417d-bd83-6ada92a767a2)
+- Ou-Exclusivo quer dizer _"um ou outro, mas não ambos"_, selecionando um, exclui-se o outro. Por exemplo, OU João está descansando, OU João está trabalhando, mas não os dois ao mesmo tempo.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/1a6f7d62-8eb2-4d4c-93b8-5ee53a32843c)
+- 
 
 ___
 
 ## Operações [das Proposições]
 
 - Negação (~): "é..." vs. "não é..."
-- 
+- Estamos entrando num momento histórico nas nossas vidas. Estamos entrando numa etapa nova da consciência, pensando sobre o ato de pensar. Poderemos entender o ato de pensar, per si, e entender e organizar muito melhor nossa maneira de pensar.
+  - > Muita gente acredita que pode usar o corpo treinando (academia, malhação), mas esquecem que pra usar o cérebro (órgão complexo e profundo) não precisamos treinar. Pelo contrário, treinando o ato de pensar, nos tornamos mais analíticos, analisando o discurso através da lógica e mais criteriosos (ou chato).  
