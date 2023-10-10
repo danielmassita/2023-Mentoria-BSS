@@ -1,4 +1,4 @@
-![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/505a3f0d-6ff2-488d-bba9-96800783662a)![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/3eb7b641-ce7d-480f-9fc0-179d3bb9b999)# Programa de Mentoria BSS 2023
+# Programa de Mentoria BSS 2023
 # Matemática Discreta Aplicada à Programação
 
 ```https://www.youtube.com/live/x6C5L4AVRJ4?si=Ida_RZ3liVgsX33Y```
@@ -79,11 +79,13 @@ ___
 - Exemplo:
   - P ∨ Q é verdadeiro se P for verdadeiro, Q for verdadeiro OU ambos forem verdadeiros. Leitura do símbolo como **"OU"**. 
 - Muito usado em eletrônica, vamos demonstrar que a Lógica Proposicional é homeomorfa à lógica/álgebra de Boole. O 1 está passando corrente, o 0 não está passando corrente. 
-  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b5e8ae11-7208-4e80-96b9-7dc56d4c1b2d) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f5c17466-f0ec-4f87-ae3f-a0fa0fd1065d) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/6f212c0b-13fb-447d-8f63-50fee9c78369) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b61befe9-580e-49c3-9bea-fdb4d330f076) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/12834a22-6659-48a4-aebe-be8c9eb3c2de)
-  - > OU esse isqueiro é roxo OU esse isqueiro é roxo. (verdadeiro, fig. 1)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b5e8ae11-7208-4e80-96b9-7dc56d4c1b2d) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f5c17466-f0ec-4f87-ae3f-a0fa0fd1065d) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/6f212c0b-13fb-447d-8f63-50fee9c78369) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b61befe9-580e-49c3-9bea-fdb4d330f076) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/12834a22-6659-48a4-aebe-be8c9eb3c2de) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a6eaa126-0b2a-49df-a867-506c49f88f96)
+
+
+  - > OU esse isqueiro é azul OU esse isqueiro é roxo. (verdadeiro, fig. 1)
   - > OU esse isqueiro é roxo  OU essa caneta é branca. (verdadeiro, embora a caneta seja preta, fig. 2)
   - > OU esse isqueiro é amarelo OU esse isqueiro é vermelho. (falso, pois ambas as afirmações são falsas, fig. 3)
-  - > OU o Ed passará férias na praia OU o Ed passará as férias na montanha. (verdadeiro, cedo ou tarde uma das duas sendo verdadeiras, fig. 4 ou 5).   
+  - > OU o Ed passará férias na praia OU o Ed passará as férias na montanha. (verdadeiro, cedo ou tarde uma das duas sendo verdadeiras, fig. 4 ou 5) (ou falso, se o Ed ficar em casa pois tá sem dinheiro, fig. 6).   
 
 ___
 
