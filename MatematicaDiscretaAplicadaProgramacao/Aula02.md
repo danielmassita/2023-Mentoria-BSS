@@ -36,7 +36,7 @@ ___
 
 ___
 
-## Negação:
+## Negação
 
 - Negação ( ~ ): Inverte o valor de verdade de uma proposição.
 - Se A é verdadeiro, ~A é falso.
@@ -58,7 +58,7 @@ ___
 
 ___
 
-## Conjunção:
+## Conjunção
 
 - Conjunção ( ∧ ): Proposição A é verdadeira apenas se ambas as proposições conectadas são verdadeiras.
 - Exemplo:
@@ -95,7 +95,38 @@ ___
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c30d3f88-29e2-417d-bd83-6ada92a767a2)
 - Ou-Exclusivo quer dizer _"um ou outro, mas não ambos"_, selecionando um, exclui-se o outro. Por exemplo, OU João está descansando, OU João está trabalhando, mas não os dois ao mesmo tempo.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/1a6f7d62-8eb2-4d4c-93b8-5ee53a32843c)
-- 
+
+___
+
+## Implicação / Causalidade
+
+- Implicação ( → ): A proposição é falsa apenas se a primeira proposição (antecedente) for verdadeira e a segunda (conseqüente) for falsa.
+- Exemplo:
+  - P → Q é falso se P for verdadeiro e Q for falso; caso contrário, é verdadeiro.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/179e26d8-b586-45b6-ab0f-e023507eb11b)
+  - Se o Ed fumar, então morrerá de câncer no pulmão... Se acontecer a proposição A, então acontecerá a proposição B. A implicação ocorre quando a ANTECEDENTE gera a CONSEQÜENTE. A segunda proposição é uma conseqüencia da primeira. 
+- Coisas absurdas podem ser ditas usando "Implicação". Por exemplo: "As rosas são vermelhas, então os elefantes são cinzas". O elefante não é cinza porque a rosa é vermelha.
+- É muito difícil estabelecer relações de Causa e Efeito! Esse é um grande problema em ciências. Pra dizer que A implica B, sendo A a causa e B a conseqüência, eu preciso tirar todos os outros elementos e possíveis coisas que poderiam causar B. Tem um filósofo, Roger Bacon, criou o método dos resíduos. Implicação é Causalidade. Se A implica B, quando A acontecer então B inevitavelmente vai acontecer também.
+  - Existe CORRELAÇÃO mas SEM CAUSALIDADE no exemplo do protetor solar. (Não é o aumento no uso do protetor solar que aumentou o número nos casos de câncer, mas o contrário).
+
+- Dúvida: _"Eles precisam ter uma relação real pra ser verdadeiro?"_ Quando trabalhamos com lógica proposicional, procuramos abstrair a idéia de real. No filme Matrix, quando Neo e Morpheus se encontram, rola a pergunta: "Isso é real?" e a resposta "O que é real, pra você?".
+
+- Dúvida: _"Se uma árvore cair na floresta e ninguém ouvir, ela fez barulho ou não?"_ No budismo, temos a idéia de KOAN (uma frase aparentemente contraditória). Em filosofia, a resposta dessa pergunta vai classificar o filósofo e sua postura filosófica entre Humanista (quem garante que não houve outro som, tipo ding-dong?, já que ninguém ouviu?) e Fenomenalista (a árvore faz o barulho com ou sem ouvintes) indica que os fenônemons acontecem independente da percepção humana, no último caso, ou então que as coisas (fenômenos) só existem dependendo da percepção humana.    
+
+- Dúvida: _"Se P for falso e Q for verdadeiro, a implicação é verdadeira?"_ Sim, é horrível. Se o Ed disse que esse isqueiro é amarelo (esq.), então esse é roxo (dir.), isso é uma implicação verdadeira. Esquisito, sim! Só existe um caso de Implicação Falsa. No exemplo, se P for verdadeiro (antecedente verdadeira) e Q for falso (conseqüente falsa) a implicação é verdadeira. Se a Conseqüente for verdadeira, a implicação sempre será verdadeira.     
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d2f02d45-f72d-4bbb-93f6-57de4a3b4f7d)
+
+```
+Na lógica e na matemática, a implicação, ou condicional é a indicação do tipo "SE...ENTÃO", indicando que uma condição deve ser satisfeita necessariamente para que a outra seja verdadeira. Por exemplo, a expressão: "Se João esquia, Maria nada" é uma implicação. Na lógica booleana, as implicações retornam FALSO se, e somente se, o antecedente é VERDADEIRO e o conseqüente é FALSO.
+
+Tabela Verdade (SE...ENTÃO / SI...TUNC / IF...THEN)
+Entrada1	        Entrada2  	      Saída
+-----------   +   -----------   +   -----------
+VERDADEIRO	      VERDADEIRO	      VERDADEIRO
+VERDADEIRO	      FALSO             FALSO
+FALSO             VERDADEIRO      	VERDADEIRO
+FALSO	            FALSO            	VERDADEIRO
+```
 
 ___
 
@@ -104,3 +135,4 @@ ___
 - Negação (~): "é..." vs. "não é..."
 - Estamos entrando num momento histórico nas nossas vidas. Estamos entrando numa etapa nova da consciência, pensando sobre o ato de pensar. Poderemos entender o ato de pensar, per si, e entender e organizar muito melhor nossa maneira de pensar.
   - > Muita gente acredita que pode usar o corpo treinando (academia, malhação), mas esquecem que pra usar o cérebro (órgão complexo e profundo) não precisamos treinar. Pelo contrário, treinando o ato de pensar, nos tornamos mais analíticos, analisando o discurso através da lógica e mais criteriosos (ou chato).  
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/116f7928-3d77-4b2c-b6df-3d53e2181594)
