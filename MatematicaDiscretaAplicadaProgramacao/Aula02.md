@@ -12,7 +12,10 @@ ___
 
 - A **Lógica Proposicional** é um ramo da lógica matemática que lida com proposiçõpes, que são declarações afirmativas ou negativas que podem ser verdadeiras ou falsas, mas não ambas.
 - Ela se concentra nas operações e relações lógicas entre proposições.
-  - > Tende a estabelecer uma lógica entre as coisas que você diz. Ao fazer uma afirmação (verdadeira ou falsa) estará encadeada com outras afirmações. Entenderemos quando um conjunto de afirmações é verdadeiro. A matéria vai ajudar a fazer demonstrações matemáticas, pois ajuda estabelecer um fluxo lógico pro pensamento. 
+  - > Tende a estabelecer uma lógica entre as coisas que você diz. Ao fazer uma afirmação (verdadeira ou falsa) estará encadeada com outras afirmações. Entenderemos quando um conjunto de afirmações é verdadeiro. A matéria vai ajudar a fazer demonstrações matemáticas, pois ajuda estabelecer um fluxo lógico pro pensamento.
+
+- Estamos entrando num momento histórico nas nossas vidas. Estamos entrando numa etapa nova da consciência, pensando sobre o ato de pensar. Poderemos entender o ato de pensar, per si, e entender e organizar muito melhor nossa maneira de pensar.
+  - > Muita gente acredita que pode usar o corpo treinando (academia, malhação), mas esquecem que pra usar o cérebro (órgão complexo e profundo) não precisamos treinar. Pelo contrário, treinando o ato de pensar, nos tornamos mais analíticos, analisando o discurso através da lógica e mais criteriosos (ou chato).  
 
 ___
 
@@ -130,9 +133,12 @@ FALSO	            FALSO            	VERDADEIRO
 
 ___
 
-## Operações [das Proposições]
+- Ref's adicionais, mas não são parte do assunto principal! Use com sabedoria e somente após ter estudado o conteúdo principal! 
 
-- Negação (~): "é..." vs. "não é..."
-- Estamos entrando num momento histórico nas nossas vidas. Estamos entrando numa etapa nova da consciência, pensando sobre o ato de pensar. Poderemos entender o ato de pensar, per si, e entender e organizar muito melhor nossa maneira de pensar.
-  - > Muita gente acredita que pode usar o corpo treinando (academia, malhação), mas esquecem que pra usar o cérebro (órgão complexo e profundo) não precisamos treinar. Pelo contrário, treinando o ato de pensar, nos tornamos mais analíticos, analisando o discurso através da lógica e mais criteriosos (ou chato).  
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/116f7928-3d77-4b2c-b6df-3d53e2181594)
+- https://www.zendobrasil.org.br/o-que-e-koan-no-zen-budismo/
+- https://olharbudista.com/2017/02/09/67-koans-zen/
+- https://pt.wikipedia.org/wiki/Implica%C3%A7%C3%A3o
+- https://youtu.be/1VMH7HSXmvk?si=1jfFzTjrDd4KzYMk
+
+FIM! 
