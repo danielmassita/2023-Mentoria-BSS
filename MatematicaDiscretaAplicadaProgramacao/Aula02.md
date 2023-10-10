@@ -46,4 +46,34 @@ ___
   - ~A = "O céu não é azul."
   - > O A que estamos observando representa uma frase, uma afirmação. O uísque Jameson é irlandês (verdadeiro). Esse uísque não é irlandês (falso). A (nova) declaração será falsa. É como visualizar uma conta matemática, mas com palavras. Quando eu nego o verdadeiro, passo a ser falso. Quando eu nego o falso, passo a ser verdadeiro. No caso do uísque Jameson, se eu disser "a garrafa é azul" essa informação é falsa; porém a negação dessa afirmação será verdadeira "a garrafa NÃO é azul".
   - > ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/22dbadad-6141-4e64-a7a3-04d5c41c226a)
+
+___
+
+## Negação em termos de Conjunto! 
+
+- Vamos ver a imagem:
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a0c0b557-f6b2-478b-b7b9-419953af27e2)
+- Olha que legal... O conjunto branco é o conjunto dos pontos onde a afirmação A é verdadeira. O conjunto amarelo é o conjunto de todos os demais pontos onde a afirmação A é falsa. Se o céu é azul de dia (conjunto A), o lugar da afirmação falsa (conjunto NÃO-A) serão a noite, o céu nublado (céu cinza), não tem céu (fim do mundo)...
+- A disciplina de lógica representa uma coisa chamada **meta-pensamento**. Meta-física = além da física (deus, ética, moral, fé). Meta-pensamento é ir além do pensamento (enxergar o pensamento de longe e enxergar quando o pensamento está correto ou incorreto). Nossa filosofia será de trabalhar com passos pequenos e sólidos. Aqui é que cada passo seja completamente aprendido! Na faculdade, o aluno vai atrás do pensamento e SE (auto) forma. 
+
+___
+
+## Conjunção:
+
+- Conjunção ( ∧ ): Proposição A é verdadeira apenas se ambas as proposições conectadas são verdadeiras.
+- Exemplo:
+  - P ∧ Q é verdadeiro apenas se P e também Q forem verdadeiros.
+  - > Na negação existia um operador unário (apenas sobre um único elemento da sentença). Na Conjunção temos um Operador Binário (que deverá atuar em dois elementos da sentença), ou seja, sobre a conexão de duas proposições, relacionadas. Quando eu tenho duas proposições afirmativas encadeadas, o resultado só será verdadeira se AMBAS as proposições forem verdadeiras.
+  - > Proposições de DeMorgan, que falam sobre afirmações compostas (o céu é azul e grande), como eu nego isso? Será assunto da próxima aula. Esse isqueiro A é azul. Esse isqueiro B é roxo. Esse isqueiro A é azul de fato E também o isqueiro B é roxo de fato.
+  - > ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c7eb8ec8-9e8f-48eb-8c74-7a3a3eb12438) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/1560fea3-47a0-4480-99ae-7144e3ee2bbb)
+
+ 
+      
+
+
+___
+
+## Operações [das Proposições]
+
+- Negação (~): "é..." vs. "não é..."
 - 
