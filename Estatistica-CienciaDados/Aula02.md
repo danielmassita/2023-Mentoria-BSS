@@ -135,9 +135,13 @@ console.log(`O(s) elemento(s) ${modas} aparece(m) com maior freqüência (${max}
 
 - O laço inicial vai varrer a lista dentro de um contador, com uma chave com a quantidade de ocorrências que retornaram após percorrer a lista toda.
 - No caso do exemplo, o elemento de valor 10 aparece 3 vezes na contagem. O contador abriu um "contador" pra cada elemento, mas quando o elemento já existia, o contador apenas adicionava mais uma ocorrência no contador existente.
-- Se houverem a moda tiver dois elementos, será um valor Bi-Modal, Tri-Modal pra três elementos, multimodal...
 - A pergunta de um milhão! E se dois ou mais valores empatarem como os que mais aparecem?
-- Reposta: Nesse caso, a distribuição será chamada de bimodal (2 valores empatados), trimodal (3 valores empatados) e multimodal (daí em diante)... Uma representação multimodal pode ser usada como sentido de espalhamento. 
-- A moda é interpretada como uma forma de "espalhamento". 
+  - > Reposta: Nesse caso, a distribuição será chamada de bimodal (2 valores empatados), trimodal (3 valores empatados) e multimodal (daí em diante)... Uma representação multimodal pode ser usada como sentido de espalhamento. Se houverem a moda tiver dois elementos, será um valor Bi-Modal, Tri-Modal pra três elementos, multimodal...
+  - > A moda é interpretada como uma forma de "espalhamento". Imaginem uma amostra de 100 números e mais de 90 se concentram na mesma região, e apenas outros 10 se distribuem espalhadamente, trata-se de uma alta freqüência modal e pouco espalhamento.
+- Comentário/Dúvida: _"Como média, mediana e moda se relaciona com listas em programação. Foi muito esclarecedor para mim."_
+  - > Há outras maneiras também de demonstrar, a somatória poderia usar função Reduce (Operator). A função Reduce poderia retornar também o máximo. Entre os alunos, existem muitos níveis de conhecimento, e nesse momento estamos dando os exemplos mais básicos (inclusive para visualizar em programação os conceitos basilares de estatística).
+- Dúvida: _"Nesse caso, é correto afirmar que a média representaria com mais fidelidade o resultado?"_
+  - > Não se trata de fidelidade! ;) São medidas diferentes, usadas pra coisas diferentes. Hoje estamos aqui pra APRENDER a calcular Média, Mediana e Moda. No futuro, vamos ver e estudar os CASOS! Como vamos utilizar, serão Análises de Medidas. Uma coisa é uma coisa, outra coisa é outra coisa. Saber calcular média, mediana e moda não nos diz nada. SABER USAR (savoir-faire) média, mediana e moda pra FAZER ANÁLISES, aprenderemos posteriormente. Por exemplo, usaremos a média pra calcular a Variância e o Desvio-Padrão de uma medida. 
+  - > Por enquanto, estamos apenas aprendendo a calcular o conceito. No futuro, em caso de anomalias, medidas anômalas (por exemplo, um vídeo varalizado no canal da BSS vs. média padrão de views), vamos aprender ANALISAR E ESTUDAR como valores anômalos perdem REPRESENTATIVIDADE, por não serem esperados, como afeta a média de maneira absurda (live de 20k views vs. normalmente ~50-300 views) e como deveremos TRATAR ou LIMPAR esses dados fora da curva, que não se repete, que não é esperado...     
 
-...
+FIM! 
