@@ -9,12 +9,29 @@ ___
 
 - Hoje vamos definir "Vetor" e "Espaço Vetorial".
 - Vamos à uma idéia intuitiva pra depois definir formalmente...
-  - Reta dos números Reais ( ℝ ), conjunto dos números Reais ( ℝ ). Por curiosidade, temos uma seqüência de conjuntos contidos uns dentro dos outros.
+- Reta dos números Reais ( ℝ ), conjunto dos números Reais ( ℝ ). Por curiosidade, temos uma seqüência de conjuntos contidos uns dentro dos outros.
+  
   - Conjunto dos números Naturais ( ℕ ), inteiros positivos sem o zero (1, 2, 3, 4, 5, ...).
-  - Conjunto dos números Inteiros (	ℤ ), da palavra Zahlen (em alemão, número), o conjunto dos números inteiros é representado por ℤ. Reúne todos os elementos dos números naturais (ℕ) e seus opostos (* -1). Assim, conclui-se que ℕ é um subconjunto de ℤ (ℕ ⊂ ℤ): 
+    - O conjunto dos números naturais é representado por ℕ. Ele reúne os números que usamos para contar (incluindo o zero somente na contagem) e é infinito. 
+
+  - Conjunto dos números Inteiros (	ℤ ), da palavra Zahlen (em alemão, número).
+    - O conjunto dos números inteiros é representado por ℤ. Reúne todos os elementos dos números naturais (ℕ) e seus opostos (* -1). Assim, conclui-se que ℕ é um subconjunto de ℤ (ℕ ⊂ ℤ):
+    - ℤ = {..., –4, –3, –2, –1, 0, 1, 2, 3, 4, ...} ou ℤ* = ℤ – {0} 
+
   - Conjunto dos números Racionais ( ℚ ), de Quociente, que pode ser escritos como uma fração/razão ( a / b ), onde a e b pertencem aos Inteiros ( a, b ∈ ℤ ).
+    - O conjunto dos números racionais é representado por ℚ. Reúne todos os números que podem ser escritos na forma p/q, sendo p e q números inteiros e q ≠ 0.
+    - ℚ = {0, ±1, ±1/2, ±1/3, ..., ±2, ±2/3, ±2/5, ..., ±3, ±3/2, ±3/4, ...}.
+    - Note que todo número inteiro é também número racional. Assim, ℤ é um subconjunto de ℚ.
+    - Importante ressaltar que as dízimas periódicas são números racionais. Elas são números decimais que se repetem após a vírgula, por exemplo: 1,4444444444... Embora possua infinitas casas decimais, pode ser escrito como a fração 13/9.
+
   - Números como Pi, E (log. Neperiano), não são Racionais e não existe uma fração exata, logo tais conjuntos são os Irracionais ( 𝕀 ).
+    - O conjunto dos números irracionais é representado por 𝕀. Reúne os números decimais não exatos com uma representação infinita e não periódica, por exemplo: 3,141592... ou 1,203040...
+        
 - A soma, a União dos conjuntos Racionais ( ℚ ) com o Irracionais ( 𝕀 ), forma o conjunto dos números Reais ( ℚ ∪ 𝕀 = ℝ ). Não parece, mas há muito mais números Irracionais do que Racionais. Mais ou menos o que acontece com as pessoas.
+  - O conjunto dos números reais é representado por ℝ. Esse conjunto é formado pelos números racionais (ℚ) e irracionais (𝕀). Assim, temos que ℝ = ℚ ∪ 𝕀.
+  - Além disso, ℕ, ℤ, ℚ e 𝕀 são subconjuntos de ℝ.
+  - Mas, observe que se um número real é racional, ele não pode ser também irracional. Da mesma maneira, se ele é irracional, não é racional. 
+
 - Vamos trabalhar na Reta do conjunto ℝ, que é a União dos Racionais com Irracionais.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c740690a-46ab-4dce-be69-0c4d471dc6d4)
 
