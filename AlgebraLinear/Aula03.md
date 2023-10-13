@@ -1,4 +1,4 @@
-![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a4494a69-83cd-4078-97f9-87f6ee1ab893)# Programa de Mentoria BSS 2023
+# Programa de Mentoria BSS 2023
 # Álgebra Linear
 
 ```https://youtu.be/taT2gdJgvSo?si=9Z8NGCyWux4XCfUZ```
@@ -46,8 +46,7 @@ ___
             (2,1); (2,2); (2,3);
             (3,1); (3,2); (3,3);
             }
-  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/315f71e4-c0ec-4d50-bfdf-73c3377dcec2)
-
+   
 - Plotando os dados no gráfico, teremos os elementos de A no eixo x, e os elementos de A no eixo y.
 - Tomamos os elementos: {(1,1); (1,2); (1,3); (2,1); (2,2); (2,3); (3,1); (3,2); (3,3)} que é A * A ou A² (vermelho).
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/117d83da-5c42-4604-bbaf-1d4ba28be3fb)
