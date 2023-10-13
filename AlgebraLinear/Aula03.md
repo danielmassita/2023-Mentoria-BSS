@@ -89,4 +89,14 @@ ___
 
 ## Outros exemplos:
 
-- 
+- Voltemos na reta Real ( ℝ ) com ponto zero, um, dois, três, etc., e também -1, -2, -3, etc.
+- Se eu somar (dentro da reta, não podemos sair da reta) 1 com 2, estou medindo o Módulo de 1 com o Módulo de 2 (1 + 2) tenho um deslocamento de uma unidade somada com duas unidades de deslocamentos. No caso, pegando um número real ℝ = 1, somando com outro número real ℝ = 2, todos na mesma reta, cujo resultado é a soma de ambos com um número real ℝ = 3 como Módulo. Faz sim sentido falar em Módulo, pois é o "comprimento" do vetor.
+- A Direção é a mesma reta Real (ℝ), a direção é única. E o Sentido vamos perceber ao somar, por exemplo +4 (-5).
+- O Sentido do vetor (+4) somado ao vetor (-5) terá como resultante o vetor 4 + (-5) = -1, ou seja, o sentido do deslocamento diminuiu, parei num ponto anterior à origem.
+- O Deslocamento somado (+4 passos) e o deslocamento quando voltei (-5 passos), vai resultar num ponto (-1 passo) de onde eu comecei (mais atrás).
+  - No fundo, ainda estamos dentro de um paralelograma (todos sobre a mesma reta), mas pensando direitinho, temos um caminhar (3 passos) positivo, mesma Direção (reta Real) ℝ, com Módulo |3|, sendo a Direção a reta Real (ℝ) que dá suporte ao vetor que mora dentro dela, e o Sentido (+) é Positivo, partindo de 0 até 3. (em vermelho/roxo)
+  - Na cor amarela, vamos ao vetor (-2), com Módulo = |2| que são duas unidades/passos, na Direção da reta Real ( ℝ ), mas com Sentido (-) Negativo, pois parte da origem e vai à esquerda dela.
+  - A Resultante será o deslocamento em vermelho somado ao deslocamento em amarelo, Resultando no ponto 1. Por isso (+3) em vermelho somado a (-2) em amarelo, temos a Resultante = +1 (amarelo).
+  - Por isso +3 +(-2) = +1, o Módulo é o deslocamento. A Direção é a reta suporte (onde passa o vetor na reta ℝ). O Sentido pode ser origem-direita (Positivos) ou origem-esquerda (Negativos).
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/258ef862-1698-410e-9643-7752176198fc)
+    
