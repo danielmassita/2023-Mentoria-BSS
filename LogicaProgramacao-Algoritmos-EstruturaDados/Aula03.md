@@ -48,13 +48,43 @@ ___
 - Se uma coisa acontecer... Faça isso...
 - Em JavaScript, nas versões mais modernas, vamos criar variáveis com o termo "let" (ao invés de "var"). Essas variáveis serão alteradas, diferente de "const".
 
-- **if01.js**
+- Script de **if01.js**
+ 
   ```javascript
-  // IF
-  
+  // IF 01
+
   let i = 23
-  
-  const a = 1 
+
+  const a = 1
   a = a + 1
   ```
+- Output de **if01.js**
+
+  ```
+  >>> TypeError: Assignment to constant variable.
+  ```
+  - Esse erro se deve ao fato de que ao "declarar uma constante de valor 1" o valor não poderá ser alterado pois se trata de uma constante.
+
+- Outro Script de **if01.js**
+ 
+  ```javascript
+  // IF 01
+
+  let i = 23
+
+  var a = 3
+  a = a + 2
+
+  console.log(a)
+  ```
+- Output de **if01.js**
+
+  ```
+  >>> 5
+  ```
+  - De uns anos pra cá, de acordo com as especificações do JavaScript, passamos a declarar as variáveis com "let" ao invés de "var", pois o "let" tem uma série de vantagens sobre o "var". Porque o escopo de "var" é global, acontece onde foi declarada e todas as funções abaixo dela.
+  - Quando declaro com "let" o escopo é local, melhor definido, vamos entender melhor posteriormente.
+ 
+  -  
+  
 
