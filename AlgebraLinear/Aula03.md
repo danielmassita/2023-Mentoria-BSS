@@ -55,5 +55,38 @@ ___
 
 ## Conjunto dos números Reais (não é um conjunto finito...)
 
-- Plano Cartesiano (René Des Cartes, cartógrafo).
+- Plano Cartesiano (René Des Cartes, cartógrafo). Quem não era da Nobreza, não era de "renome" tinha atribuídos aos nomes as suas funções profissionais (Shoe + Maker = Schumacher, 
+- Logo, temos o Espaço R-dois, ou seja:
+  - ℝ * ℝ = ℝ²
+- Os pontos desse espaço são os números da reta ℝ1, com os números da reta ℝ2, e também com seus respectivos pares da reta ℝ². São os pares de pontos (ℝ1, ℝ2).
+  - Tomemos em vermelho/roxo o ponto do par (3,1), podendo representar um vetor vermelho/roxo que sai do zero (origem) e vai até (3,1).
+  - Tomemos em laranja o ponto do par (2,3), podendo representar um vetor laranja que sai do zero (origem) e vai até (2,3).
+  - A Soma dos Vetores do ponto (3,1) com o ponto (2,3), será o novo ponto (5,4) com um vetor na cor verde...
+    - Lembrando: uma álgebra é um conjunto com duas operações, com regras específicas, e estamos definindo a primeira regra. Uma operação (soma) que relaciona dois vetores (laranja, vermelho).
+  - Podemos representar graficamente o seguinte paralelismo. Do vetor vermelho/roxo, vamos traçar uma linha paralela, no final do vetor laranja, e que coincide com o final do vetor verde, ainda assim, paralelo à origem (3,1) e com sua nova posição (2,3) -> (5,4). Trata-se do mesmo vetor vermelho/roxo, mas deslocado num novo ponto.
+  - Também podemos representar graficamente o seguinte paralelismo. Da ponta do vetor laranja (2,3), vamos traçar uma linha paralela, no final do vetor vermelho/roxo (3,1), e que coincide com o final do vetor verde (5,4), ainda assim, paralelo à origem (2,3) e com sua nova posição (3,1) -> (5,4). Trata-se do mesmo vetor laranja, mas deslocado num novo ponto.
+  - São os mesmos vetores trabalhando em paralelo, mas dois vetores começam na origem (0,0) e dois vetores começam no final dos vetores (3,1) e (2,3).
+  - Essa é a **Regra do Paralelograma**. Os lados opostos são paralelos, e essa regra é a **SOMA DE VETORES**. A soma dos vetores formam uma *Figura Geométrica*. 
+
+- Uma coisa interessante:
+- Antes, por que isso não acontecia nos Números Reais ( ℝ )?
+- Pois nos números Reais, todos ficam "dentro" da reta, somando o vetor 0->2 com o vetor 0->3, ainda estamos na RETA, estando num conjunto e sem conseguir sair de dentro dele.
+*- Pra ser uma Álgebra, precisamos ter um conjunto com duas operações (A, +, *) que precisam ser FECHADAS, ou seja, o resultado das operações continuam dentro do próprio conjunto.*
+  - Por exemplo, com um número real (2), com um número real (3), a soma deles tem de ser um número real (5), não posso sair dos números reais.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f1122af7-6882-445b-b093-a93d53c9439b)
+  - Temos um conjunto de regras pra criar objetos matemáticos.
+
+- **Nessa altura, perguntamos: "Vetores existem?". Existir é uma concepção mental das nossas cabeças, não necessariamente um objeto no mundo, mas PODEMOS usar vetores pra representar COISAS no mundo.** Isso é um ponto importante da matemática. 
+- Podemos criar uns objetos para representar coisas reais, que de fato existem.
+- O que é um vetor (já visto)? O vetor possui algumas propriedades, representando uma espécie de deslocamento, primeiro saindo do (0,0) até o ponto (3,1) tendo caminhado três unidades no total. Caminhei também duas unidades em uma direção (x) e depois três unidades em outra direção (y), fazendo o vetor saindo do (0,0) e chegando no (2,3).
+- Como vimos, **Vetores possuem Módulo, Direção e Sentido**.
+  - Na reta Real ( ℝ ) a Direção não fazia diferença, pois todos os números estavam na mesma direção (reta suporte do vetor) no exemplo, com Sentido crescente ou Decrescente (linha preta). Vetor pode me levar pra um lado ou outro. Outro vetor na reta Real (origem até (2,3)), também possui Sentido (positivo ou negativo) e Direção (reta suporte do vetor), na cor preta. Também podemos traçar uma terceira reta (também na cor preta) que será o **Vetor Resultante**, que possui Direção e Sentido. 
+  - Módulo é o "tamanho" do vetor (ou seja, o comprimento dele).
+  - Todos os vetores possuem essas três grandezas associadas a ele (Módulo, Direção e Sentido).
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c1040aab-d5c5-411b-9da9-203938af25db)
+
+___
+
+## Outros exemplos:
+
 - 
