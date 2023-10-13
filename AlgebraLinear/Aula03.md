@@ -68,7 +68,10 @@ ___
   - São os mesmos vetores trabalhando em paralelo, mas dois vetores começam na origem (0,0) e dois vetores começam no final dos vetores (3,1) e (2,3).
   - Essa é a **Regra do Paralelograma**. Os lados opostos são paralelos, e essa regra é a **SOMA DE VETORES**. A soma dos vetores formam uma *Figura Geométrica*. 
 
-- Uma coisa interessante:
+___
+
+## Uma coisa interessante:
+
 - Antes, por que isso não acontecia nos Números Reais ( ℝ )?
 - Pois nos números Reais, todos ficam "dentro" da reta, somando o vetor 0->2 com o vetor 0->3, ainda estamos na RETA, estando num conjunto e sem conseguir sair de dentro dele.
 *- Pra ser uma Álgebra, precisamos ter um conjunto com duas operações (A, +, *) que precisam ser FECHADAS, ou seja, o resultado das operações continuam dentro do próprio conjunto.*
@@ -87,7 +90,7 @@ ___
 
 ___
 
-## Outros exemplos:
+## Outros exemplos da Soma:
 
 - Voltemos na reta Real ( ℝ ) com ponto zero, um, dois, três, etc., e também -1, -2, -3, etc.
 - Se eu somar (dentro da reta, não podemos sair da reta) 1 com 2, estou medindo o Módulo de 1 com o Módulo de 2 (1 + 2) tenho um deslocamento de uma unidade somada com duas unidades de deslocamentos. No caso, pegando um número real ℝ = 1, somando com outro número real ℝ = 2, todos na mesma reta, cujo resultado é a soma de ambos com um número real ℝ = 3 como Módulo. Faz sim sentido falar em Módulo, pois é o "comprimento" do vetor.
@@ -100,3 +103,65 @@ ___
   - Por isso +3 +(-2) = +1, o Módulo é o deslocamento. A Direção é a reta suporte (onde passa o vetor na reta ℝ). O Sentido pode ser origem-direita (Positivos) ou origem-esquerda (Negativos).
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/258ef862-1698-410e-9643-7752176198fc)
     
+___
+
+## Vamos ao Conjunto ℝ² (ℝ * ℝ)
+
+- Temos um mundo bem maior, sendo a reta real (ℝx) com a outra reta real (ℝy), e formamos todo um Plano (ℝ²) infinitamente estendível aos 4 quadrantes (+,+) (+,-) (-,+) (-,-).
+- O Espaço-Produto é o Plano Cartesiano e TODOS OS PONTOS DO PLANO são vetores do ℝ² (ℝ * ℝ).
+- Vamos formalizar, com exemplos numéricos...
+- Ponto (a,b) é um ponto (ℝa, ℝb) cujo vetor sai da Origem e termina o deslocamento em (a,b). Por representar um deslocamento, o vetor pode ser TRANSLADADO.
+- Começar o ponto de início em outro lugar (em amarelo), com a mesma Direção e Sentido e Módulo, **até posso dizer que é O MESMO VETOR**. Teorema de Tales (teorema de feixes paralelos), com mesma inclinação (ângulo = θ), qualquer feixe de retas paralelas (cortado pelo vermelho/roxo), os ângulos serão sempre iguais. Teorema de Tales (de Mileto). 
+- Vetores Paralelos são Vetores Iguais (Módulos iguais, Direções iguais, Sentidos iguais). Isso nos permitirá fazer a SOMA VETORIAL.
+- Dois vetores, transladados em novas retas paralelas sobre os pontos de término, formam um Paralelograma com um Vetor Resultante da Soma (pequeno gráfico em vermelho/roxo menor e abaixo).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b51948e0-632b-4522-b809-f2e8f12311da)
+
+___
+
+## Linearidade
+
+- Lembra da história de LINEARIDADE da aula passada? Quando é Linear?
+- A Função é Linear quando:
+  - Aplicamos numa Soma, ou seja quando aplicamos numa soma ƒ(a + b) e obtemos ƒ(a) + ƒ(b), ou seja, ƒ(a+b) = ƒ(a) + ƒ(b).
+  - Aplicamos num Produto, ou seja quando aplicamos essa operação sobre uma Constante (K, um "escalar") de um número real multiplicado por um elemento, obtemos ƒ(k * a) = k * ƒ(a).
+- Essas são as **Condições de Linearidade** ƒ(a+b) = ƒ(a) + ƒ(b) e  ƒ(k.a) = k*ƒ(a).
+- Vamos entender por que o elemento "K" é chamado de "escalar"...
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/89496a80-8299-4d86-a1f4-6701e457ba27)
+
+___
+
+## Escalar ( k )
+
+- Tomemos o Plano Cartesiano (ℝ²).
+- Vamos pegar o vetor em amarelo com ponto cartesiano em (2,1). Vamos multiplicar por 2 (onde k é um número real, da condição), onde ƒ(k.a) = k * ƒ(a), com k ∈ ℝ.
+- Consideremos que vamos definir a multiplicação dizendo que a multiplicação do número pelo escalar é a multiplicação das coordenadas 2 * (2,1) = (4,2), resultando no ponto (4,2).
+- O novo vetor em rosa (4,2) é o dobro do vetor em amarelo (2,1), e possui retas suportes (eixo x e y) com os ângulos iguais ( θ ), tanto no vetor (2,1) quanto no vetor (4,2).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/2000a611-d0b4-422e-9cab-1da90fb1f59b)
+- O Módulo do vetor (4,2) em rosa é o dobro do módulo do vetor (2,1) em amarelo, ou seja, quando multiplicamos um vetor pelo seu ESCALAR o vetor não sai da reta suporte ( ), continua na mesma reta suporte (inclinação dos θ constantes, será assim no futuro com trigonometria com os ângulos independentemente do tamanho do círculo).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/6c8845ad-906c-4d03-a1d5-9bb56e0207f3)
+
+___
+
+## Mais Escalar ( k )
+
+- Vamos para um novo exemplo, com um vetor (3,1) em lilás. Vamos multiplicar por um escalar sendo o número real 2.
+- No vetor (3,1) vamos multiplicar por 2, resultando em 2 * (3,1) = (6,2), com um novo vetor (em azul claro) no ponto (6,2). Trata-se da mesma reta, são vetores na mesma reta, pois são produtos dos mesmos vetores.
+- No lado do eixo Y, na altura, temos o vetor ($_, 1) em lilás e o vetor ($_,2) em azul com a altura sendo o produto entre 1 * 2 = 2, ou (1/3) = (2/6), ou (2/6) = (2.1 / 2.3) = (1/3) simplificado.
+- Essa medida, a divisão da Altura pelo Comprimento é constante. Se multiplicar por 3, teremos 3 * (3,1) = (9,3), ou seja, a mesma medida. E a altura 3 dividido pelo comprimento 9 = (1/3), estamos falando da mesma reta, e no caso (1/3).
+- Logo, temos a (altura / comprimento) = (3/9) = (3.1 / 3.3) = (1/3)(tg), é a tangente da reta (divisão do seno pelo cosseno). A tangente é a mesma e medirá a inclinação (do ângulo θ), com a mesma abertura, mesmo que mudando os comprimentos e alturas.
+- Observamos que o vetor quando multiplicamos, ele não saiu da reta suporte (continua na reta suporte).
+- Porém, vai esticando, alongando, um deslocamento maior, faz sentido mentalmente, duplicar ele.
+- Se o vetor é o deslocamento, duplicar ele é duplicar o deslocamento. Se saímos da origem e duplicar, sairemos de (0,0) até (3,1) até (6,2) até (9,3).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d0fe52da-2578-4e15-9047-21f7fbe9eeee)
+
+___
+
+## Na aula de hoje aprendemos...
+
+- Sobre Vetores...
+- Indiretamente sobre Espaço-Vetorial (próxima aula tem mais, com definição formal)...
+- Em matemática, temos o Exemplo e a Definição Formal (explicado detalhadamente todas as coisas, objetos, operações)...
+- Na aula de hoje tivemos a introdução de Vetores e Espaço-Vetorial e na próxima aula vamos Definir Formalmente.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/3ecb54c1-a7d6-448a-b2e2-0e696ea2585c)
+
+FIM!
