@@ -68,4 +68,9 @@ ___
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e975958b-4d5c-48b2-ba3b-f2bf4b498ed8)
 - No dado, se eu tenho os números de 1 a 6, se eu fizer mil lançamentos de dados, terei uma LISTA com mil valores entre 1 e 6, inclusivos. Essa lista com mil resultados se chamará AMOSTRA, enquanto o Espaço Amostral era o conjunto de possibilidades de resultados (conjunto de valores possíveis). Quanto maior o número de lançamentos, mais as curvas centrais da Normal irão se aproximar da média ( x̅ ou μ ).
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7a7cad48-e931-4c59-903f-6aded002106d)
+- Num exemplo hipotético, se perguntássemos para todos os habitantes da terra (8 bilhões) qual o número preferido, qual o espaço amostral (valores possíveis são muito variados, muito amplo, quiçá infinitos). Mas o grosso dos valores (8 bilhões somados e divididos) teremos uma tendência de ter a maior parte dos resultados proximos da média.
+- **A média é uma medida de tendência central** (o grosso dos valores perto dela). Quanto mais números, maior a certeza da atração pra média.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d30f1f2f-24d9-40ce-a162-4b20f0a9eaf6)
+
+___
 
