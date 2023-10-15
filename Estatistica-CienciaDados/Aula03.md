@@ -23,6 +23,11 @@ ___
 
 ___
 
-##
+## Medidas de Dispersão - Variância 
 
-- 
+- Tomemos o seguinte exemplo, da seguinte amostra, coletando cinco valores: A = {2, 3, 5, 1, 10}
+- A média é indicada por x̅ (x-barra). No caso, vamos calcular a média do conjunto A.
+- x̅A = (2+3+5+1+10) / 5 = (21/5) = 4,2.
+- A média dessa amostra de cinco valores é de 4,2.
+- A Variância vai usar o x̅A = 4,2.
+-   
