@@ -39,7 +39,7 @@ ___
 - s² = 12,7 é minha Variância (da amostra)
 - Na prática, o que isso representa? De certa forma, isso diz "como minha amostra se distribuiu...", no caso de uma reta...
 - 0 --- 1 --- 2 --- 3 --- 4 --- 5 --- 6 --- 7 --- 8 --- 9 --- 10
--   --- 1 --- 2 --- 3 ---   --- 5 ---   ---   ---   ---   --- 10
+- _ --- 1 --- 2 --- 3 --- _ --- 5 --- _ --- _ --- _ --- _ --- 10
 - O valor 10 vai representar mais pra essa amostra, logo a Variância representará minha dispersão dos resultados...
 - Agora, vamos visualizar o s = sqrt(variância).
 - s = sqrt(s²)
