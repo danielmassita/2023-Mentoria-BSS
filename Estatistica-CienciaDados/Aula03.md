@@ -30,4 +30,7 @@ ___
 - x̅A = (2+3+5+1+10) / 5 = (21/5) = 4,2.
 - A média dessa amostra de cinco valores é de 4,2.
 - A Variância vai usar o x̅A = 4,2.
--   
+- Variância é s² (para variância da amostra) ou sigma-² ou σ² (para variância da população).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/89242765-3ca4-4ead-af6b-5f68785782fe)
+- 
+
