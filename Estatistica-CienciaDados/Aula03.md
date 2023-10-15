@@ -34,5 +34,17 @@ ___
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/89242765-3ca4-4ead-af6b-5f68785782fe)
 - s² = (SOMA (xi - x̅)²) / n-1
 - s² = { (2 - 4,2)² + (3 - 4,2)² + (5 - 4,2)² + (1 - 4,2)² + (10 - 4,2)² } / 5-1
-- s² =    
+- O divisor é 5-1, pois existem 4 "espaços ocupados" entre os cinco valores da amostra. Entre 5 números, há 4 espaços entre eles.
+- s² = { (-2,2)² + (-1,2)² + (0,8)² + (-3,2)² + (5,8)² } / (5-1) = {(4,84) + (1,44) + (0,64) + (10,24) + (33,64)} / 4 = {50,8}/4 = 12,7
+- s² = 12,7 é minha Variância (da amostra)
+- Na prática, o que isso representa? De certa forma, isso diz "como minha amostra se distribuiu...", no caso de uma reta...
+- 0 --- 1 --- 2 --- 3 --- 4 --- 5 --- 6 --- 7 --- 8 --- 9 --- 10
+-   --- 1 --- 2 --- 3 ---   --- 5 ---   ---   ---   ---   --- 10
+- O valor 10 vai representar mais pra essa amostra, logo a Variância representará minha dispersão dos resultados...
+- Agora, vamos visualizar o s = sqrt(variância).
+- s = sqrt(s²)
+- s = sqrt(12,7) = 3,563705936241092...
+- s ou d ou desvio-padrão ~= 3,56
+- Essa medida me dá uma idéia de como a amostra se distribuiu. No caso do exemplo, o desvio-padrão de 3,56 quer dizer que nessa amostra, a maioria dos valores estão orbitando perto do 3,56 (no caso 2, 3, 5, 1) e fica o 5 e o 10 mais pra longe... Significa que na amostra, os valores em geral estão mais próximos (oposto de dispersão, concentração) do 3,56. A maior parte dos valores "se espalham perto desse ponto".
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7c2256f3-5462-49ae-8790-f1d875e9ca06)
 
