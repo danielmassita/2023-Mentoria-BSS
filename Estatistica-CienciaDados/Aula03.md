@@ -23,7 +23,7 @@ ___
 
 ___
 
-## Medidas de Dispersão - Variância 
+## Medidas de Dispersão - Variância e Desvio-Padrão
 
 - Tomemos o seguinte exemplo, da seguinte amostra, coletando cinco valores: A = {2, 3, 5, 1, 10}
 - A média é indicada por x̅ (x-barra). No caso, vamos calcular a média do conjunto A.
@@ -47,4 +47,25 @@ ___
 - s ou d ou desvio-padrão ~= 3,56
 - Essa medida me dá uma idéia de como a amostra se distribuiu. No caso do exemplo, o desvio-padrão de 3,56 quer dizer que nessa amostra, a maioria dos valores estão orbitando perto do 3,56 (no caso 2, 3, 5, 1) e fica o 5 e o 10 mais pra longe... Significa que na amostra, os valores em geral estão mais próximos (oposto de dispersão, concentração) do 3,56. A maior parte dos valores "se espalham perto desse ponto".
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7c2256f3-5462-49ae-8790-f1d875e9ca06)
+
+___
+
+## Dois assuntos importantíssimos...
+
+- Lei dos Grandes Números
+- Distribuição Normal
+
+- Lei dos Grandes Números: se eu tiver uma amostra suficientemente grande, mais as coisas vão ficar concentradas no entorno da média.
+  - Num universo de 1 milhão (velas de automóveis), eu não poderia testar uma por uma. Quanto maior o número de valores, mais ocorrências se concentração próximo da média.
+  - Quanto mais números eu coletar, mais eu fico perto e colado e atraído na média.
+- Distribuição Normal (Curva Boca de Sino ou Curva de Gauss)
+  - No centro dessa curva temos a média ( x̅ ou μ ). Dados intervalos de desvios-padrões (d ou s), a maioria dos valores, o grosso da amostra, se concentrará nessa região perto da média e com pouca variância e desvio-padrão.
+
+- Por exemplo, tomemos um dado. O espaço amostral do dado é {1, 2, 3, 4, 5, 6} sendo as faces do dado D6.
+- Os lados opostos do D6 somam sempre 7 (1+6, 2+5, 3+4).
+- Espaço Amostral = Conjunto dos Valores Possíveis = {1, 2, 3, 4, 5, 6}
+- O espaço amostral representa a possibilidade de escolhas, no caso de elições, dos candidatos - somente os que estão concorrendo, esse é o espaço amostral, e os resultados serão variáveis...
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e975958b-4d5c-48b2-ba3b-f2bf4b498ed8)
+- No dado, se eu tenho os números de 1 a 6, se eu fizer mil lançamentos de dados, terei uma LISTA com mil valores entre 1 e 6, inclusivos. Essa lista com mil resultados se chamará AMOSTRA, enquanto o Espaço Amostral era o conjunto de possibilidades de resultados (conjunto de valores possíveis). Quanto maior o número de lançamentos, mais as curvas centrais da Normal irão se aproximar da média ( x̅ ou μ ).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7a7cad48-e931-4c59-903f-6aded002106d)
 
