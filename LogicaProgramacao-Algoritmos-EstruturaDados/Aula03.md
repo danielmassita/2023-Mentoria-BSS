@@ -220,3 +220,62 @@ ___
   >>> O valor de i é 9
   (Muito embora o script tenha atualizado o valor de i para 10, ao final do loop, o programa não vai executar o console pois o valor 10 excede a condição i<10), saindo do loop e finalizando o script).
   ```
+- Esse processo de atribuir um valor, em loop, e atualizar esse valor, e verificar passo a passo, se chama DEPURAR ou DEPURAÇÃO.
+
+___
+
+## Estruturas de Repetições - While
+
+- Vamos ao código de while.02. Tudo é uma questão de sofisticação. Conforme Darwin, um Bonobo não vira um Chimpanzé, tampouco vira um Humano.
+- Na natureza, tudo muda de pouquinho em pouquinho, de maneira lenta e gradual... Mudando, aumentando a complexidade e sofisticação aos poucos.
+- Vamos adicionar Controle (if) e Loop (while), com uma condição de Operador (resto da divisão inteira).
+- A condição (i % 2 === 0) quer dizer i dividido por dois e o resto da divisão for zero... 
+- Corrigindo **while02.js**
+  ```javascript
+  // WHILE 02
+
+  let i = 0
+  while ( i < 10 ) {
+      if ((i % 2 === 0) {
+          console.log(`${i} é par`)
+      } else {
+          console.log(`${i} é ímpar`)
+      }
+      i++ 
+  } 
+  ```
+- Output de **while02.js**
+  ```
+  >>> 0 é par
+  >>> 1 é ímpar
+  >>> 2 é par
+  >>> 3 é ímpar
+  >>> 4 é par
+  >>> 5 é ímpar
+  >>> 6 é par
+  >>> 7 é ímpar
+  >>> 8 é par
+  >>> 9 é ímpar
+  (Muito embora o script tenha atualizado o valor de i para 10, ao final do loop, o programa não vai executar o console pois o valor 10 excede a condição i<10), saindo do loop e finalizando o script).
+  ```
+- Esse mesmo script poderia ser usado com i < 1000 e de fato seria executado até o valor de 999.
+
+___
+
+## DESAFIO E EXERCÍCIO! 
+
+- Até 10.000, dizer quais números são múltiplos de três.
+- Desafio **while03.js**
+  ```javascript
+  // WHILE 03 Desafio - De 0 até 10.000, quais números são múltiplos de três.
+
+  let i = 0
+  while ( i < 10000 ) {
+      if ((i % 3 === 0) {
+          console.log(`O valor de i, no caso ${i}, é múltiplo de 3, pois (i % 3) tem como resto zero, então é divisível por três.`)
+      } else {
+          console.log(`${i}`)
+      }
+      i++ 
+  } 
+  ```
