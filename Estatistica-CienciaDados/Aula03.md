@@ -74,3 +74,16 @@ ___
 
 ___
 
+- O desvio-padrão serve para nos mostrar a medida que a nossa amostra se dispersou. Não temos uma distribuição igual, os números de bilhões são raros, mas na média os resultados se encontram perto desses intervalos de + ou - 2 desvio-padrões (-2s até +2s).
+- O desvio-padrão representa a forma como a amostra se dispersou em relação à média (curtose), nível de inclinação da amostra. Mais concentrado, menos concentrado, mas por regra, os valores serão mais concentrados e recorrentes próximos da média.
+- Faz, então, um papel muito importante nas nossas análises. Pois vai representar a proximidade de onde estão os valores (o grosso dos valores) da amostra. Essa é a idéia por trás...
+- A = {1, 8, 18, 15, 32, 1, 1, 8, 9, 16, 19, 1, 80, 51, 1, 3, 2, 8, 1, 5}
+- Média ou x̅ ou μ = (SOMA(A)/20) = 290 / 20 = 14,5
+- **Vamos plotar um gráfico chamado HISTOGRAMA**.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/3b2ad4f3-f5b9-4812-ab3d-43a5a64a0b6c)
+- Histograma é um gráfico que diz "quem ocorreu" e "quantas vezes" ocorreu. O espaço amostral vai de 1 até 80 (min, max). Essa é a AMPLITUDE de uma Amostra (espaço entre menor e maior valor).
+- Amplitude = 80 - 1 = 79 espaços no meio da reta de (espaço amostral).
+- A Moda é 1, pois é o valor que mais se repetiu.
+- A Média é aprox. 13,8, então aleatoriamente os valores do Espaço Amostral tendem a se concentrarem (ocorrerem mais vezes) próximos da média, o grosso está perto, embora tenha 51 ou 80, fogem do padrão.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/ddcc9177-1eeb-4c0f-ba0c-da07feaedb01)
+
