@@ -121,4 +121,45 @@ ___
   
 ___
 
+## Estruturas de Controle - If-Else
 
+- Vamos trabalhar um novo script, de **if02.js**
+  ```javascript
+  // IF 02
+
+  let i = 23
+
+  if ( i < 30 ) {
+      console.log("Menor que 30")
+  } else {
+      console.log("Maior ou igual a 30")
+  }
+  ```
+- Output de **if02.js**
+  ```
+  >>> Menor que 30
+  ```
+- A pergunta (i < 30 ?) enão a condição inicial é verdadeira (True), então o script vai executar o primeiro bloco (do if) e depois vai pular (o else).
+- Na aula de Matemática Discreta, aprendemos que uma proposição pode ser Verdadeira ou Falsa.
+- Programar é apenas falar, consigo mesmo, pra mostrar pra si mesmo como resolvemos um problemas. E então, traduzimos pra um computador em uma linguagem de programação.
+- Por exemplo, num ATM, se o saldo da pessoa for menor que o valor do saque, diga "não pode".
+- O ELSE é o "se-não", caso contrário... Se a condição 1 for verdadeira, eu executo o bloco 1. Senão (for verdadeira, no caso é Falsa), eu executo o bloco 2.
+
+- Vamos trabalhar um novo script, de **if02.js**
+  ```javascript
+  // IF 02
+
+  let i = 32
+
+  if ( i < 30 ) {
+      console.log("Menor que 30")
+  } else {
+      console.log("Maior ou igual a 30")
+  }
+  ```
+- Output de **if02.js**
+  ```
+  >>> Maior ou igual a 30
+  ```
+- Agora, diante da condição/bifurcação, teremos a pergunta: "O valor de i é menor que 30?". Não, não é. Então é Falso. Pula o primeiro bloco (False) e executa o segundo bloco do ELSE (True, 32 > 30).
+-  
