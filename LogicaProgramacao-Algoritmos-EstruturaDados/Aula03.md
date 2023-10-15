@@ -83,8 +83,42 @@ ___
   >>> 5
   ```
   - De uns anos pra cá, de acordo com as especificações do JavaScript, passamos a declarar as variáveis com "let" ao invés de "var", pois o "let" tem uma série de vantagens sobre o "var". Porque o escopo de "var" é global, acontece onde foi declarada e todas as funções abaixo dela.
-  - Quando declaro com "let" o escopo é local, melhor definido, vamos entender melhor posteriormente.
+  - Quando declaro com "let" o escopo é local, melhor definido, vamos entender melhor posteriormente. Resumindo, "let" > "var", "const" é caso a caso.
  
-  -  
+ - Mais um outro Script de **if01.js**
+  ```javascript
+  // IF 01
+
+  let i = 23
+  if ( i < 20 ) {
+      console.log("Menor que 20")
+  }
+  ```
+- Output de **if01.js**
+
+  ```
+  >>> 
+  ```
+- Nada aparece, pois como o bloco de código só seria executado se i < 20, e o valor de i == 23 (no caso, False é a condição), como foi designado no let, então nada acontece.
+
+- Mais um outro script, agora corrigido, de **if01.js**
+ 
+  ```javascript
+  // IF 01
+
+  let i = 23
+
+  if ( i < 25 ) {
+      console.log("Menor que 25")
+  }
+  ```
+- Output de **if01.js**
+
+  ```
+  >>> Menor que 25
+  ```
+- Agora, o programa executa o bloco abaixo do "if", pois a condição é verdadeira (True) e então o script vai correr por dentro do bloco de controle.
   
+___
+
 
