@@ -189,3 +189,34 @@ ___
   >>> O valor de i é 0
   (infinitamente até cancelar com Ctrl + C no Terminal)
   ```
+- No JavaScript, usamos o acento grave (crase) pra usar uma String especial no caso, f-string, que será uma string de formatação.
+- `bla bla bla bla mas eu posso mudar o valor de ${variável} bla bla bla...`
+- Esse formato, na parte ${variável} vai aparecer apenas o valor da variável como se ainda fosse parte da frase/string, em cada passada
+- Para cancelar um loop infinito, usamos Ctrl + C no Terminal.
+- Devemos utilizar um método de saída do loop infinito (no caso, usando uma nova atribuição de valor, que atualizará o valor de i (inicialmente zero) para i + 1 (posteriormente 1, 2, 3, ... pra cada loop).
+- Podemos usar a expressão i = i + 1 (atribuímos o valor de i + 1 ao valor anterior de i, no caso = quer dizer atribuição). Ou podemos usar i++.
+- Corrigindo **while01.js**
+  ```javascript
+  // WHILE 01
+
+  let i = 0
+
+  while ( i < 10 ) {
+      console.log(`O valor de i é ${i}`)
+      i = i + 1 
+  } 
+  ```
+- Output de **while01.js**
+  ```
+  >>> O valor de i é 0
+  >>> O valor de i é 1
+  >>> O valor de i é 2
+  >>> O valor de i é 3
+  >>> O valor de i é 4
+  >>> O valor de i é 5
+  >>> O valor de i é 6
+  >>> O valor de i é 7
+  >>> O valor de i é 8
+  >>> O valor de i é 9
+  (Muito embora o script tenha atualizado o valor de i para 10, ao final do loop, o programa não vai executar o console pois o valor 10 excede a condição i<10), saindo do loop e finalizando o script).
+  ```
