@@ -98,3 +98,28 @@ ___
 - Praticamente, quase, todos os elementos ficaram entre -5,6 e 33,28, sendo o desvio-padrão -1d e o desvio-padrão +1d. Só não serão representados dentro desse intervalo os 51 e 80.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/89c983b6-763a-449b-9e26-3504690d4fad)
 
+___
+
+- Histograma é o gráfico que pega o elemento que ocorreu e o número de vezes que ocorreu.
+- O Histograma nos mostra onde estão os elementos da nossa amostra e onde se concentram.
+- Se pegarmos o intervalo de x̅, e também os valores até 2\*desvio-padrão positivos (+2d) e também os valores até 2\*desvio-padrão*-1 (-2d), teremos nesse intervalo
+- (... -2d ... -1d ... x̅ ... +1d ... +2d ...) Nesse intervalo entre -2d e +2d, se encontrarão e se concentrarão o grosso das ocorrências da minha amostra (em lilás).
+- Somente o valor "80" estará fora dessa concentração (no caso, pra além de +2d).
+- O meu desvio-padrão serviu pra medir a concentração de onde está espalhada a minha amostra no determiando espaço.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/11601dc1-6b1c-40db-8760-6e5664838a17)
+
+___
+
+- A = {1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 20}, totalizando vinte-e-um elementos
+- Média = (20*1)+20 / 21 = 40/21 = 1,9
+- Variância = [{20 * (1 - 1,9)²} + (20 - 1,9)² ] / 20 = (20*(0,81) + (18,1)²) / 20 = (16,2 + 327,61) = 17,19
+- Desvio-padrão = sqrt(Variância) = sqrt(17,19) = aprox. 4,15
+- Desvio-padrão -1d = 1,9 - 4,15 =~ -2,25 (limite inferior desvio-padrão)
+- Desvio-padrão +1d = 1,9 + 4,15 =~ 6,05 (limite superior desvio-padrão)
+- 2 * desvio-padrão -2d e +2d vai cobrir basicamente quase todos os elementos, exceto o 20 (que fugiu da média e foi um dado anômalo!)
+- O valor 20 é muito pesado (a soma de todos os outros), então houve um pequeno pêso para 20, mas o grosso dos resultados se concentrou dentro de -1d e +1d, também -2d e +2d. E somente 20 foi anômalO!
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/911a58fc-4cbe-4218-99cc-6a0ebc079ba6)
+- Não se apavorem com os cálculos! O computador e a calculadora farão a parte pesada. Os programas de computadores farão esses cálculos. Vamos analisar apenas os resultados.
+- Questão mais de pensar do que fazer contas... 
+
+FIM! 
