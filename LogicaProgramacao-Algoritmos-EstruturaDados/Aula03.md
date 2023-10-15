@@ -69,7 +69,6 @@ ___
  
   ```javascript
   // IF 01
-
   let i = 23
 
   var a = 3
@@ -85,11 +84,11 @@ ___
   - De uns anos pra cá, de acordo com as especificações do JavaScript, passamos a declarar as variáveis com "let" ao invés de "var", pois o "let" tem uma série de vantagens sobre o "var". Porque o escopo de "var" é global, acontece onde foi declarada e todas as funções abaixo dela.
   - Quando declaro com "let" o escopo é local, melhor definido, vamos entender melhor posteriormente. Resumindo, "let" > "var", "const" é caso a caso.
  
- - Mais um outro Script de **if01.js**
+  - Mais um outro Script de **if01.js**
   ```javascript
   // IF 01
-
   let i = 23
+
   if ( i < 20 ) {
       console.log("Menor que 20")
   }
@@ -100,14 +99,12 @@ ___
   >>> 
   ```
 - Nada aparece, pois como o bloco de código só seria executado se i < 20, e o valor de i == 23 (no caso, False é a condição), como foi designado no let, então nada acontece.
-
 - Mais um outro script, agora corrigido, de **if01.js**
  
   ```javascript
   // IF 01
 
   let i = 23
-
   if ( i < 25 ) {
       console.log("Menor que 25")
   }
@@ -162,4 +159,33 @@ ___
   >>> Maior ou igual a 30
   ```
 - Agora, diante da condição/bifurcação, teremos a pergunta: "O valor de i é menor que 30?". Não, não é. Então é Falso. Pula o primeiro bloco (False) e executa o segundo bloco do ELSE (True, 32 > 30).
--  
+- If-Else é a primeira ESTRUTURA DE CONTROLE que estamos estudando.
+- Com o tempo, vamos aumentar a complexidade dos conceitos.
+
+___
+
+## Estruturas de Repetições - WHILE
+
+- No exemplo da BSS, precisaríamos verificar quem já pagou ou não a mensalidade do mês atual.
+- WHILE quer dizer "Enquanto". Vamos usar como uma estrutura de repetição (LOOP).
+
+- No script, de **while01.js**
+  ```javascript
+  // WHILE 01
+
+  let i = 0
+
+  while ( i < 10 ) {
+      console.log(`O valor de i é ${i}`)
+  } 
+  ```
+- Output de **while01.js**
+  ```
+  >>> O valor de i é 0
+  >>> O valor de i é 0
+  >>> O valor de i é 0
+  >>> O valor de i é 0
+  >>> O valor de i é 0
+  >>> O valor de i é 0
+  (infinitamente até cancelar com Ctrl + C no Terminal)
+  ```
