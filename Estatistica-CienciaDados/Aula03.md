@@ -87,3 +87,14 @@ ___
 - A Média é aprox. 13,8, então aleatoriamente os valores do Espaço Amostral tendem a se concentrarem (ocorrerem mais vezes) próximos da média, o grosso está perto, embora tenha 51 ou 80, fogem do padrão.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/ddcc9177-1eeb-4c0f-ba0c-da07feaedb01)
 
+___ 
+
+- A = {1, 8, 18, 15, 32, 1, 1, 8, 9, 16, 19, 1, 80, 51, 1, 3, 2, 8, 1, 5}
+- SOMA = 7.588,80
+- Média = 13,8 (erro do enunciado do Ed, temos 20 elementos e não 21). 
+- Variância = 379,44
+- Desvio-padrão = sqrt(379,44) ~= 19,48
+- Vamos somar +1d (um * desvio-padrão) e vamos subtrair -1d (um * desvio-padrão).
+- Praticamente, quase, todos os elementos ficaram entre -5,6 e 33,28, sendo o desvio-padrão -1d e o desvio-padrão +1d. Só não serão representados dentro desse intervalo os 51 e 80.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/89c983b6-763a-449b-9e26-3504690d4fad)
+
