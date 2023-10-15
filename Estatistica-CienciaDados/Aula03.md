@@ -32,5 +32,7 @@ ___
 - A Variância vai usar o x̅A = 4,2.
 - Variância é s² (para variância da amostra) ou sigma-² ou σ² (para variância da população).
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/89242765-3ca4-4ead-af6b-5f68785782fe)
-- 
+- s² = (SOMA (xi - x̅)²) / n-1
+- s² = { (2 - 4,2)² + (3 - 4,2)² + (5 - 4,2)² + (1 - 4,2)² + (10 - 4,2)² } / 5-1
+- s² =    
 
