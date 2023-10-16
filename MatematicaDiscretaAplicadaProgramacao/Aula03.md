@@ -28,6 +28,8 @@ ___
 
 ___
 
+### Usando um Contra-Exemplo...
+
 - Para provar teoremas, temos o Contra-Exemplo, a fim de tentar [com-]provar um teorema. Todo teorema é uma afirmação (verdadeira ou falsa), e tentamos comprovar...
 - "Todo número primo é ímpar..."
   - Universo dos Números (em azul) > Conjunto dos Primos (vermelho) > Conjunto dos Ímpares (em roxo).
