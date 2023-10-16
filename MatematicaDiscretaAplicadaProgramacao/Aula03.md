@@ -33,3 +33,8 @@ ___
   - Nesse caso, o Contra-Exemplo do 2 acaba com a afirmação, pois é um número par - não-ímpar - e dois é primo: pois ( 2 ∉ I ) e também ( 2 ∈ P ).
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/1c363ec7-2152-4c4a-8e63-0230df4066d8)
 
+___
+
+- Aristóteles é contemporâneo de Platão (que foi o mais famoso aluno do Sócrates).
+- Sócrates foi executado a tomar veneno (cicuta) acusado de corromper os jovens com sabedoria. A Maiêutica de Sócrates era uma metodologia de ensinamento usando perguntas, e vai perguntando cada uma das afirmações e tenta trabalhar com "contra-exemplos". A Maiêutica é uma série de ensinamentos que visava chegar a uma conclusão ou reflexão perguntando várias vezes ao interlocutor.
+- 
