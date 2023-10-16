@@ -98,7 +98,7 @@ ___
 
 ___
 
-## Nos devaneios de loucura...
+## Nos devaneios de loucura da extrema direita...
 
 - _"Todo petista é ladrão"_ é uma frase que o gado adora usar...
 - No Universo (U) dos seres humanos brasileiros, existe uma cateogira dos petistas (P) que está inteiramente contida dentro da categoria dos ladrões (L), segundo eles.
@@ -110,3 +110,19 @@ ___
 ___
 
 ## 
+
+- _"Toda pessoa de direita é burra."_
+    - Dentre todas as pessoas do universo (U), temos a Categoria D (pessoas de direita) e temos a categoria dos burros (B).
+    - A categoria das pessoas de direita (D) está contida no conjunto de pessoas burras (B), num universo de pessoas.
+    - O conjunto em amarelo (U) quer dizer o conjunto ~B (pessoas não burras do universo de pessoas). Assim, ( x ∈ ~B ) ∧ ( x ∈ D ).
+- De fato, existem pessoas como FHC, ou Roberto Campos (economista) eram extremamente inteligentes embora fossem de direita...
+- Essa frase é FALSA.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b2fa8b01-f348-483b-b58f-88efa50edc87)
+
+___
+
+## 
+
+- asdasd
+- asdasd
+- 
