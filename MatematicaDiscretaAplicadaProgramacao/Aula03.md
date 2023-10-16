@@ -109,7 +109,7 @@ ___
 
 ___
 
-## 
+## Na direita política...
 
 - _"Toda pessoa de direita é burra."_
     - Dentre todas as pessoas do universo (U), temos a Categoria D (pessoas de direita) e temos a categoria dos burros (B).
@@ -121,8 +121,24 @@ ___
 
 ___
 
-## 
+## Nos extremos...
 
-- asdasd
-- asdasd
-- 
+- _"Toda pessoa de extrema-direita é burra."_
+- Num universo de pessoas (U), existe uma categoria de extrema-direita (E) que está dentro da categoria de pessoas burras (B).
+- Existe algum ponto fora do conjunto B, sendo ~B (não burra) e que ao mesmo tempo seja de extrema-direita (D)? Aguardamos exemplos, mas até agora None.
+- Não temos elementos de provas.
+- Não existe um indivíduo que pertence a não-B ( ∄ x ∈ ~B ) e que também pertence ao grupo de extremistas ( x ∈ E ).
+- ( ∄ x ∈ ~B ) ∧ ( x ∈ E )
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/da61d49a-5fa0-409e-a6c3-04fb3c9589e1)
+
+- São exemplos que nos ajudam a pensar em categorias (por exemplo POO - Programação Orientada a Objetos), considerando Classes (com formas, funções/métodos). Aristóteles é o pai da OOP.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/dd4d32d7-3345-4a84-93b6-c61f139afc98)
+- No portal, vai ter uma lista de exercícios...
+- Dica de treino, é pensar a lógica, as informações, pensar no "espaço complementar".
+- _"Todo A é B..."_ podemos pensar no A sendo parte de B, e o espaço complementar (~B) em roxo. Se acharmos um ponto de A e também de ~B, então a afirmação é falsa. Se não achar, não quer dizer que é verdadeira, trata-se de uma "ausência de evidências". Não quer dizer que não existe essa pessoas, quer dizer apenas que você não encontrou essa pessoa/ponto. 
+- **Ausência de evidência não é evidência de ausência!"** 
+- Não se pode dizer que o "oposto é verdadeiro". Por exemplo, não existe "prova negativa" na lógica. Eu não posso provar logicamente que deus não existe.
+- Não posso garantir que deus não existe porque eu não achei a evidência.
+- Darwin falou do "elo perdido" que dizia que existe um ancestral em comum entre homens e macacos. Mas foi a igreja católica que afirmou que o homem veio do macaco, pra refutar a afirmação. Porém, de fato temos um ancestral em comum (indícios), mas não encontramos o "elo perdido" (evidência) e portanto não posso NEGAR a afirmação do elo perdido.
+
+FIM!
