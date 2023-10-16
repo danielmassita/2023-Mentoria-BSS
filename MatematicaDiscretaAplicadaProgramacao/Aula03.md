@@ -28,7 +28,7 @@ ___
 
 ___
 
-### Usando um Contra-Exemplo...
+## Usando um Contra-Exemplo...
 
 - Para provar teoremas, temos o Contra-Exemplo, a fim de tentar [com-]provar um teorema. Todo teorema é uma afirmação (verdadeira ou falsa), e tentamos comprovar...
 - "Todo número primo é ímpar..."
@@ -60,4 +60,14 @@ ___
 - Aristóteles pegou todas as formas de silogismo (64 formas) e demonstrou que apenas 16 são válidas o tempo todo. E as demais podem levar a conclusões enganosas. E provou tudo isso na argumentação racional. 
 
 ___
+
+## Kategorien (de objetos) no Organon, de Aristóteles
+
+- PM (Premissa Maior): "Apenas os homens têm pêlos no rosto."
+- Pm (Premissa menor): "Carlos tem pêlos no rosto." Aqui existe uma premissa particular (e não universal). 
+- C (Conclusão): "Carlos é um homem." Aqui existe uma alteração considerável (universal -> particular) e a afirmação é verdadeira (pois usamos o termo "apenas"). 
+  - Agora, o conjunto P = H ("Apenas os homens têm pêlos no rosto").
+  - P = H, portanto se x pertence a P, podemos concluir que x também pertence à H.
+  - ( P = H ), se ( x ∈ P) ⇒ ( x ∈ H )
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e008adcc-4869-40f5-883e-47482d5f0742)
 
