@@ -71,3 +71,11 @@ ___
   - ( P = H ), se ( x ∈ P) ⇒ ( x ∈ H )
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e008adcc-4869-40f5-883e-47482d5f0742)
 
+___
+
+## Quantificadores
+
+- Todos, Sempre, Alguns, Nenhum...
+- Estabelecem relações de CONTINÊNCIA ou PERTINÊNCIA dentro de determinados conjuntos, qualificando o assunto dentro de determinadas afirmações.
+- Nenhum elfo é orc.
+- 
