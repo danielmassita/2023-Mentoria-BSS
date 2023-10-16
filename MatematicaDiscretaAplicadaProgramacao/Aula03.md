@@ -86,10 +86,13 @@ ___
 
 ___
 
-    - "Todo terraplanista é ignorante" (frase em roxo)
-    - Categoria A: terraplanista, categoria B: ignorante.
-    - No universo (U) dos seres humanos, há um conjunto de pessoas que são ignorantes (I) e todo terraplanista (T) está dentro desse conjunto.
-    - x ∈ T ⇒ x ∈ I (se fulano é terraplanista, então isso implica que fulano é ignorante).
-    - Cada indivíduo de terraplanista está contida dentro da categoria de ignorante. É óbvio que podem ter ignorantes por outra razão, sem ser terraplanista (grande ponto vermelho).
-    - Relação da Frase usando o universo da Fala, passamos pra uma representação de Conjuntos (gráfica/visual) e ao final temos uma forma de representar Matematicamente.
-    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d8e16d8e-0e50-4460-8e00-2f1691218c77)
+## Exemplo com bozolóides...
+
+- _"Todo terraplanista é ignorante"_ (frase em roxo)
+- Categoria A: terraplanista, categoria B: ignorante.
+- No universo (U) dos seres humanos, há um conjunto de pessoas que são ignorantes (I) e todo terraplanista (T) está dentro desse conjunto.
+- x ∈ T ⇒ x ∈ I (se fulano é terraplanista, então isso implica que fulano é ignorante).
+- Cada indivíduo de terraplanista está contida dentro da categoria de ignorante. É óbvio que podem ter ignorantes por outra razão, sem ser terraplanista (grande ponto vermelho).
+- Relação da Frase usando o universo da Fala, passamos pra uma representação de Conjuntos (gráfica/visual) e ao final temos uma forma de representar Matematicamente.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d8e16d8e-0e50-4460-8e00-2f1691218c77)
+
