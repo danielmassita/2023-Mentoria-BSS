@@ -77,5 +77,7 @@ ___
 
 - Todos, Sempre, Alguns, Nenhum...
 - Estabelecem relações de CONTINÊNCIA ou PERTINÊNCIA dentro de determinados conjuntos, qualificando o assunto dentro de determinadas afirmações.
-- Nenhum elfo é orc.
-- 
+- Afirmação Universal Negativa:
+    - **"Nenhum elfo é orc."** Essa é uma _Afirmação Universal Negativa_!
+    - Existe um conjunto (U) do universo das criaturas do Tolkien do Senhor dos Anéis. Existe a categoria dos Elfos (E) e também a categoria dos Orcs (O). Não existe intersecção.
+    - Podemos representar frases através de conjuntos. Matemáticos pensam assim (e batem pino), mas muitas pessoas não pensam assim. 
