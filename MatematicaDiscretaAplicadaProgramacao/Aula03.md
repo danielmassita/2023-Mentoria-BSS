@@ -9,8 +9,11 @@ ___
 
 - Nessa aula, vamos abordar um tema importante que serão os **QUANTIFICADORES**.
 - Numa sentença, eu atribuo uma quantidade de predicados pra uma determinada afirmação. Vamos ao exemplo:
-- **Quantificador Universal**:
-  - **Todo A é B.**
+
+### **Quantificador Universal**:
+- Quantificador Universal - Na lógica de predicados, a quantificação universal é uma formalização da noção de que algumas coisas são verdadeiras para todas as coisas, ou para todas as coisas relevantes. O resultado é uma afirmação universalmente quantificada. Em símbolos lógicos, o quantificador universal (usualmente ∀) é o símbolo usado para denotar o universo de quantificação, informalmente lido como "para todo" ou "para qualquer".
+
+-  **Todo A é B.**
     - Atribuímos a todos os elementos do conjunto A a propriedade B.
     - _"Todo homem tem pêlos no rosto."_ Essa frase é uma quantificação universal. 
       - Todo indivíduo da categoria A (homens); possuem a característica/propriedade B (pêlos no rosto);
@@ -35,6 +38,24 @@ ___
 
 ___
 
+## Silogismos e Aristóteles
+
 - Aristóteles é contemporâneo de Platão (que foi o mais famoso aluno do Sócrates).
 - Sócrates foi executado a tomar veneno (cicuta) acusado de corromper os jovens com sabedoria. A Maiêutica de Sócrates era uma metodologia de ensinamento usando perguntas, e vai perguntando cada uma das afirmações e tenta trabalhar com "contra-exemplos". A Maiêutica é uma série de ensinamentos que visava chegar a uma conclusão ou reflexão perguntando várias vezes ao interlocutor.
-- 
+- A escola de Sócrates era a "Peripatética". Platão tinha uma escola chamada "Akademia" que falava sobre as universidades, sendo considerada uma das primeiras instituições formais de ensino no mundo.
+- Platão era matematicista, acreditava que todas as relações do mundo, eram estabelecidas pela matemática/geometria. Na porta da Academia platônica tava escrita: "Não entre se não for geômetra!", e o Aristóteles era bom de pensamento mas ruim de matemática... E como não majava de geometria, ficou bolado e foi pra casa matutar... 
+- Foi pra casa, e bolou uma série de textos "Organon" que nos ensina a pensar desde a base (Silogismo).
+- Silogismo é composto por:
+  - PM (Premissa Maior): "todo homem tem pêlos no rosto"
+  - Pm (Premissa menor): "Carlos tem pêlos no rosto"
+  - C (Conclusão): "Carlos é um homem"
+- Esse raciocínio **não é válido**. Vamos pensar em conjuntos!
+  - Universo de todas as criaturas > Conjunto P das criaturas com pêlos no rosto > Conjunto H dos homens.
+  - H ⊂ P ⊂ U ("todos os homens" está contindo em criaturas com "pêlos no rosto" que está contido no "universo de criaturas"). A frase ("todo homem tem pêlo no rosto") é a Premissa Maior ( H ⊂ P ).
+  - "Carlos tem pêlo no rosto" me permite concluir que Carlos é um homem? Não, podia ser meu chimpanzé de estimação, ou uma toupeira (dentro do conjunto P com pêlos no rosto, mas sem ser homem (H)).
+  - Não foi afirmado que "apenas os homens têm pêlos no rosto", logo Carlos pode não vir a ser um homem, logo a Conclusão "Carlos é um homem" pode ser falsa (C).  
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/0fbe21a7-f7ed-4550-85cf-3fb9d77ddfbd)
+- Aristóteles pegou todas as formas de silogismo (64 formas) e demonstrou que apenas 16 são válidas o tempo todo. E as demais podem levar a conclusões enganosas. E provou tudo isso na argumentação racional. 
+
+___
+
