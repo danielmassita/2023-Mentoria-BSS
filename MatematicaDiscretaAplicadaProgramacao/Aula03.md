@@ -96,3 +96,17 @@ ___
 - Relação da Frase usando o universo da Fala, passamos pra uma representação de Conjuntos (gráfica/visual) e ao final temos uma forma de representar Matematicamente.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d8e16d8e-0e50-4460-8e00-2f1691218c77)
 
+___
+
+## Nos devaneios de loucura...
+
+- _"Todo petista é ladrão"_ é uma frase que o gado adora usar...
+- No Universo (U) dos seres humanos brasileiros, existe uma cateogira dos petistas (P) que está inteiramente contida dentro da categoria dos ladrões (L), segundo eles.
+- Ora, se ( P ⊂ L ) todo petista está incluído na categoria dos ladrões, isso implicaria que se ( x ∈ P ) ⇒ ( x ∈ L ).
+- Em vermelho, temos a categoria ~L (não ladrão). Basta pegar um indivíduo do conjunto U, sendo ~L (por exemplo o Ed, no caso Ed. Suplicy). O Ed é um indivíduo petista (y ∈ P ), mas que ( y ∉ L ) o Ed não é ladrão (~L), logo acabamos de comprovar outra afirmação FALSA dos imbrocháveis...
+- Isso é um exemplo de demonstração. Uma maneira de falar de modo organizado, pensar de forma organizada...
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/343014f1-08d5-4858-a0f0-7c51a7d0b5cc)
+
+___
+
+## 
