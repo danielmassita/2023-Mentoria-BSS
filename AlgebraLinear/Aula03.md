@@ -12,7 +12,7 @@ ___
 - Reta dos números Reais ( ℝ ), conjunto dos números Reais ( ℝ ). Por curiosidade, temos uma seqüência de conjuntos contidos uns dentro dos outros.
   
   - Conjunto dos números Naturais ( ℕ ), inteiros positivos sem o zero (1, 2, 3, 4, 5, ...).
-    - O conjunto dos números naturais é representado por ℕ. Ele reúne os números que usamos para contar (incluindo o zero somente na contagem) e é infinito. 
+    - O conjunto dos números naturais é representado por ℕ. Ele reúne os números que usamos para contar (incluindo ou não o zero, é uma questão debatida entre matemáticos, mas a historiografia mostra que o zero foi conceituado _a posteriori_ (vide números romanos sem haver zero), e antigamente não era tido como algo natural, tipo "não é nem contável, saca...?") e é infinito. 
 
   - Conjunto dos números Inteiros (	ℤ ), da palavra Zahlen (em alemão, número).
     - O conjunto dos números inteiros é representado por ℤ. Reúne todos os elementos dos números naturais (ℕ) e seus opostos (* -1). Assim, conclui-se que ℕ é um subconjunto de ℤ (ℕ ⊂ ℤ):
