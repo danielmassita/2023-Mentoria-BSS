@@ -163,7 +163,7 @@ ___
 
 - Vamos para um novo exemplo, com um vetor (3,1) em lilás. Vamos multiplicar por um escalar sendo o número real 2.
 - No vetor (3,1) vamos multiplicar por 2, resultando em 2 * (3,1) = (6,2), com um novo vetor (em azul claro) no ponto (6,2). Trata-se da mesma reta, são vetores na mesma reta, pois são produtos dos mesmos vetores.
-- No lado do eixo Y, na altura, temos o vetor ($_, 1) em lilás e o vetor ($_,2) em azul com a altura sendo o produto entre 1 * 2 = 2, ou (1/3) = (2/6), ou (2/6) = (2.1 / 2.3) = (1/3) simplificado.
+- No lado do eixo Y, na altura, temos o vetor (\_, 1) em lilás e o vetor (\_,2) em azul com a altura sendo o produto entre 1 * 2 = 2, ou (1/3) = (2/6), ou (2/6) = (2.1 / 2.3) = (1/3) simplificado.
 - Essa medida, a divisão da Altura pelo Comprimento é constante. Se multiplicar por 3, teremos 3 * (3,1) = (9,3), ou seja, a mesma medida. E a altura 3 dividido pelo comprimento 9 = (1/3), estamos falando da mesma reta, e no caso (1/3).
 - Logo, temos a (altura / comprimento) = (3/9) = (3.1 / 3.3) = (1/3)(tg), é a tangente da reta (divisão do seno pelo cosseno). A tangente é a mesma e medirá a inclinação (do ângulo θ), com a mesma abertura, mesmo que mudando os comprimentos e alturas.
 - Observamos que o vetor quando multiplicamos, ele não saiu da reta suporte (continua na reta suporte).
@@ -182,3 +182,7 @@ ___
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/3ecb54c1-a7d6-448a-b2e2-0e696ea2585c)
 
 FIM!
+
+- Agora são 01:48h e terminando de revisar o material, segue duas imagens com anotações (em papel, vish!) dessa aula.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/182388e2-677c-4a2c-9553-8ecb56f1405d)
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5d417f43-834e-411d-a3a6-0672414d80cf)
