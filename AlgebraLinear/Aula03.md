@@ -183,6 +183,6 @@ ___
 
 FIM!
 
-- Agora são 01:48h e terminando de revisar o material, segue duas imagens com anotações (em papel, vish!) dessa aula.
+- Agora estou terminando de revisar o material, seguem duas imagens com anotações (em papel, vish!) dessa aula. Sugiro FORTEMENTE que anotem e DESENHEM! 
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/182388e2-677c-4a2c-9553-8ecb56f1405d)
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5d417f43-834e-411d-a3a6-0672414d80cf)
