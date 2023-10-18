@@ -91,7 +91,7 @@ ___
 
 - Antes, por que isso não acontecia nos Números Reais ( ℝ )?
 - Pois nos números Reais, todos ficam "dentro" da reta, somando o vetor 0->2 com o vetor 0->3, ainda estamos na RETA, estando num conjunto e sem conseguir sair de dentro dele.
-*- Pra ser uma Álgebra, precisamos ter um conjunto com duas operações (A, +, *) que precisam ser FECHADAS, ou seja, o resultado das operações continuam dentro do próprio conjunto.*
+**- Pra ser uma Álgebra, precisamos ter um conjunto com duas operações (A, +, \*) que precisam ser FECHADAS, ou seja, o resultado das operações continuam dentro do próprio conjunto.**
   - Por exemplo, com um número real (2), com um número real (3), a soma deles tem de ser um número real (5), não posso sair dos números reais.
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f1122af7-6882-445b-b093-a93d53c9439b)
   - Temos um conjunto de regras pra criar objetos matemáticos.
