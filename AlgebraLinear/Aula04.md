@@ -35,6 +35,7 @@ ___
   - k ∈ ℝ, Vetor(a) ∈ C ⇒ k.Vetor(a) ∈ C  
 - Ou seja, **o conjunto C é FECHADO em termos de Soma de Vetores e em termos de Multiplicação por Escalar** (isso é a própria definição de Linearidade Algébrica).
   - Se pegarmos uma função linear, pegando o  ƒ(a+b) = ƒ(a) + ƒ(b) e também ƒ(k.a) = k*ƒ(a).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/ec400c9f-332a-4cd7-b30d-4bd75f25aa42)
 
 ___
 
