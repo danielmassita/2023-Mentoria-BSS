@@ -26,16 +26,16 @@ ___
 
   - B. Vocabulary Preview
     - Match up as many words and meanings as you can. Check this exercise again after seeing the words in context on page 2.
-      - 1. artificial intelligence
-      - 2. efficiency
-      - 3. minimal
-      - 4. input
-      - 5. refine
-      - 6. suit
-      - 7. output
-      - 8. counterargument
-      - 9. plagiarism
-      - 10. adaptive
+      - 1- artificial intelligence
+      - 2- efficiency
+      - 3- minimal
+      - 4- input
+      - 5- refine
+      - 6- suit
+      - 7- output
+      - 8- counterargument
+      - 9- plagiarism
+      - 10- adaptive
       - a) very little
       - b) able to change when necessary
       - c) something that is produced
