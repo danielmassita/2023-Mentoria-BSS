@@ -74,11 +74,12 @@ ___
 ### ESTRUTURA DE CONTROLE
 
 - SE:
-```
-  - SE [    condição de teste    ] ENTÃO:
-    - lista de comandos 1
-    - lista de comandos 2
-    - lista de comandos 3
+```portugol
+SE [    condição de teste    ] ENTÃO
+    lista de comandos 1
+    lista de comandos 2
+    lista de comandos 3
+FIM
 ```
   - As 3 últimas linhas são chamados de BLOCO DE COMANDOS que só será executado se a condição for VERDDEIRA (true).
   - Ou então, se não for VERDADEIRA (false), então o script vai pular o bloco de comandos (listas 1 até 3) e vai continuar a execução do código "pulando" esse bloco.
