@@ -55,4 +55,29 @@ ___
  
 ___
 
+### Outro exemplo...
+
+- Tomemos uma única dimensão com direção sobre a reta suporte Real ( ℝ ).
+- Temos um Vetor(a) = 3, sendo que o módulo = |3|, direção = ℝ, sentido = positivo (+).
+- Temos um Vetor(b) = -4, sendo que o módulo = |4|, direção = ℝ, sentido = negativo (-). Não existe módulo negativo, módulo é uma grandeza sempre positiva, porém o sentido são outros quinhentos.
+- Colocamos um Vetor(b) no final do Vetor(a), ou vice-versa. Vetor(a) = 3, Vetor(b) = -4, Vetor(a+b) = Vetor(b+a), (3)+(-4)=(-1), ou (-4)+(3)=(-1).
+- Podemos pensar na matemática que a direção de uma reta quer dizer a inclinação (ângulo theta, θ ), e como só temos uma direção pois só temos uma reta suporte dos reais, vamos desconsiderar o ângulo aqui. 
+  - Na matemática a direção de uma reta é inclinação da reta (no caso de unidimensional, horizontal = 0, mantemos a reta suporte real).
+- Pensando em Módulos quando tratando vetores, PODEMOS pensar como um DESLOCAMENTO. Trazendo a origem do Vetor(a) em o Vetor(b), ou vice-versa.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/8b975858-4a04-4515-9c1a-d53b4299091d)
+- Independentemente da ordem dos fatores, vamos voltar nos CONCEITOS de COMUTATIVIDADE (a + b) = (b + a).
+  - Se o Espaço é Linear, a OPERAÇÃO TEM DE SER COMUTATIVA.
+  - ƒ(a+b) = ƒ(a) + ƒ(b) e também ƒ(k.a) = k*ƒ(a).
+    - A + B = B + A
+    - ƒ(a + b) = ƒ(a) + ƒ(b)
+    - ƒ(b + a) = ƒ(b) + ƒ(a)
+  - **Quando não existe uma Propriedade Comutativa dentro do Espaço, diz-se que as operações não ficam bem definidas, pois a operação "indo" fica diferente da operação "voltando".**
+  - Faz-se necessário ter uma Precisão na Definição. Até existem espaços não comutativos, mas não vamos estudar nesse curso de Álgebra Linear.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/4a56e84d-7666-4762-8b97-cf4baccab32c)
+- Outra propriedade que vamos enxergar, será muito utilizada em Computação Gráfica, e portanto vamos aumentar a complexidade e trabalhar no Espaço R².
+
+___
+
+### Outro exemplo, agora no espaço R²
+
 - 
