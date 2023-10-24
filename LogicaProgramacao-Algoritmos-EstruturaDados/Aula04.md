@@ -58,12 +58,12 @@ ___
 ## Portugol
 
 ### ARMAZENE
-  **- ARMAZENE 1 EM X:**
-    - Vai criar uma caixinha na memória, dando o rótulo de X, e colocando dentro da caixinha o valor "1". Pega um "endereço da memória", pra nós é um mero X, mas pro interpretador/compilador, se trata de um "endereço de memória", que é dividido em blocos de endereços (essa é a diferença entre uma linguagem de baixo-nível e alto-nível;
+- ARMAZENE 1 EM X:
+  - Vai criar uma caixinha na memória, dando o rótulo de X, e colocando dentro da caixinha o valor "1". Pega um "endereço da memória", pra nós é um mero X, mas pro interpretador/compilador, se trata de um "endereço de memória", que é dividido em blocos de endereços (essa é a diferença entre uma linguagem de baixo-nível e alto-nível;
     - na Primeira, eu trabalho a nível de máquina (preciso saber o endereço da posição de memória - armazene 1 no endereço hexadecima 3BA5... da posição de memória, mas tem um problema, só serve para aquela máquina em específico (história dos computadores e processadores limitados, antigamente os circuitos e fiação eram relevantes, um programa de um computador não funcionava em outro, ou apenas com adição de hardware como ++RAM...));
     - na Segunda, eu trabalho num nível de abstrações (no caso, abstraímos o endereço da posição da memória, pensando somente na "variável x" como um mnemônico) - se precisar mudar o programa, re-compilar o programa, isso não vai trazer problemas que antigamente existiam...; 
-    - Armazene TAL COISA em TAL LUGAR;
-    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f9f4c02f-d6af-4389-8c66-5125570908d9)
+  - Armazene TAL COISA em TAL LUGAR;
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f9f4c02f-d6af-4389-8c66-5125570908d9)
 
 ### FAÇA
   **- FAÇA X IGUAL A X + 1:**
