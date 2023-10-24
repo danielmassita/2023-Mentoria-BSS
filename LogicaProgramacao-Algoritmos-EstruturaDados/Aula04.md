@@ -96,6 +96,16 @@ SE x = 1 ENTÃO:
 FIM
 ```
   - A questão visual, a IDENTAÇÃO DO BLOCO é fundamental, não pode ser negligenciada! Precisamos usar vários níveis de identação, vários níveis de aninhamento! Não podemos perder a noção de onde se está!
-  - 
+  - (Inclusive, existe uma contenda entre Tab vs. Spaces no mundo da programação - https://www.youtube.com/watch?v=V7PLxL8jIl8 )
+  - No caso do exemplo, o SE não é uma atribuição, mas sim estou perguntando se "é X igual a UM?", então (bloco de comandos).
+  - Contudo, em JavaScript, quando temos uma atribuição, usamos apenas um sinal de ( x = 3 ), porém pra TESTAR um IF, usamos IF ( x == 3 ).
+    ```javascript
+    if ( x == 3 ) {
+      // lista de comandos 1
+      // lista de comandos 2
+      // lista de comandos 3
+    }
+    ```
+  - asdf
 ___
 
