@@ -112,14 +112,16 @@ FIM
 
 ___
 
-### Detalhes sobre =, ==, ===, linguagens Tipadas e Não Tipadas:
+### Detalhes sobre =, ==, ===, linguagens Tipadas e Não-Tipadas:
 
 - Apenas no nosso caso de uso do JAVASCRIPT!:
   - Quando temos x = 3, estamos atribuindo o valor 3 na variável x.
   - Quando temos x == 3, estamos testando a igualdade do valor 3 com o conceito de "3", mas sem testar o tipo (e.g.: "3" == 3 retornará True) (== verifica o conteúdo apenas).
   - Quando temos x === 3, estamos testando a igualdade do valor 3 com o conceito de "3", mas TAMBÉM TESTANDO IGUALDADE entre o TIPO (e.g.: "3" === 3 (string != integer) retornará False) (=== verifica o conteúdo E o tipo).
-- Existe uma história da Linguagens Tipadas vs. Linguagens Não Tipadas:
-  -  
+- Existe uma história da Linguagens Tipadas vs. Linguagens Não-Tipadas:
+  - Linguagem C, C++, Pascal, muitas linguagens compiladas... são tipada, pois dizemos _"int x = 0;"_, estou declarando que a variável X é do tipo INTeiro, diferente do tipo CHARactere, no qual usaríamos _"char y = "0"_;
+  - Algumas pessoas cortam o número 7, por causa do 7º Mandamento, pois Deus ao entregar os Mandamentos pra Moisés, no 7º dizia "Não cobiçarás a mulher do próximo" e a galera gritou: "CORTA O SETE!" (tu-dum-pxt-tzz);
+  - Todavia, algumas linguagens como o Typescript (JavaScript com tipagem, o JS é NÃO-TIPADA). 
 
 ___
 
