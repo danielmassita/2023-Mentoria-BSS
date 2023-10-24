@@ -26,8 +26,8 @@ ___
 
   - B. Vocabulary Preview
     - Match up as many words and meanings as you can. Check this exercise again after seeing the words in context on page 2.
-      1. artificial intelligence
-      2. efficiency
+      - 1. artificial intelligence
+      - 2. efficiency
       3. minimal
       4. input
       5. refine
