@@ -104,12 +104,22 @@ FIM
       // lista de comandos 1
       // lista de comandos 2
       // lista de comandos 3
-      // Observe que apesar de eu ter IDENTADO o bloco de comandos, existe um controle de sinais que {inicia e termina o bloco - mesmo que em outra linha porém no mesmo nível de identação} após o (teste de verdade).
+      // Observe que apesar de eu ter IDENTADO o bloco de comandos, existe um controle de sinais que {inicia e termina o bloco - mesmo que em outra linha porém no mesmo nível de identação} após o (teste de verdade). E no Portugol, usamos o FIM pra finalizar o conjunto, mas no JavaScript (JS) usamos a estrutura {    } identado.
     }
     ```
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/831ee16c-0094-46c0-9655-ec034025488a)
+
+
+___
+
+### Detalhes sobre =, ==, ===, linguagens Tipadas e Não Tipadas:
+
+- Apenas no nosso caso de uso do JAVASCRIPT!:
   - Quando temos x = 3, estamos atribuindo o valor 3 na variável x.
-  - Quando temos x == 3, estamos testando a igualdade do valor 3 com o conceito de "3", mas sem testar o tipo (e.g.: "3" == 3 retornará True).
-  - Quando temos x === 3, estamos testando a igualdade do valor 3 com o conceito de "3", mas TAMBÉM TESTANDO IGUALDADE entre o TIPO (e.g.: "3" (string) == 3 (integer) retornará False).
-  - 
+  - Quando temos x == 3, estamos testando a igualdade do valor 3 com o conceito de "3", mas sem testar o tipo (e.g.: "3" == 3 retornará True) (== verifica o conteúdo apenas).
+  - Quando temos x === 3, estamos testando a igualdade do valor 3 com o conceito de "3", mas TAMBÉM TESTANDO IGUALDADE entre o TIPO (e.g.: "3" === 3 (string != integer) retornará False) (=== verifica o conteúdo E o tipo).
+- Existe uma história da Linguagens Tipadas vs. Linguagens Não Tipadas:
+  -  
+
 ___
 
