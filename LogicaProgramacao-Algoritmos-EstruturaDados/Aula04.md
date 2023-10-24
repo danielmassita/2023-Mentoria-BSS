@@ -82,9 +82,9 @@ FAÇA    (nome_variável)    IGUAL A    (valor_atribuído):
 - SE:
 ```portugol
 SE [    condição de teste TRUE    ] ENTÃO
-    lista de comandos 1
-    lista de comandos 2
-    lista de comandos 3
+    lista de comandos 1 (aninhado nesse bloco)
+    lista de comandos 2 (aninhado nesse bloco)
+    lista de comandos 3 (aninhado nesse bloco)
 FIM
 ```
   - As 3 últimas linhas são chamados de BLOCO DE COMANDOS que só será executado se a condição for VERDDEIRA (true).
