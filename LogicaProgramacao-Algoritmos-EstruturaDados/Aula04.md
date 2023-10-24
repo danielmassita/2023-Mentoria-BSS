@@ -20,5 +20,16 @@ ___
     - IF ( x GT 10 ) 30 = IF greater than, linha 30
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/2d34ac19-7c88-4007-8e82-375b541cc6ab)
 
-  - Em Pascal,  
-  
+  - Em Pascal, linguagem mais sofisticada, trabalhava com "goto" baseado em um LABEL (ou Rótulo).
+  - No script, na linha poderíamos escrever "Return1: " e essa linha adquiria um rótulo, assim eu poderia referenciar o rótulo em outro momento do script.
+  - Foi abandonado o GOTO pois deixava os programadores malucos, pois a lógica do GOTO criava programas quase ilegíveis.
+  - Hoje em dia, utilizamos o DEBUGGER, mas antigamente o método era "fazer-o-chinês", ou seja, seguir comando por comando até encontrar o erro, o que resultava num código "espaguete", todo enrolado.
+  - Vai pra linha tal... Vai pra outra linha... Vai pra linha xyz... Etc...
+  - Djistra foi um programador sueco na década de 90 que provou que GOTO beirava o perigoso, e propôs novas estruturas de controle como: while, repeat, switch, etc...
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7afaad50-26b9-4030-b1c1-cfa07838f772)
+
+___
+
+## PORTUGOL
+
+- 
