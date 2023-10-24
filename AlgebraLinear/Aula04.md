@@ -44,4 +44,15 @@ ___
   - O Vetor(v) tem módulo 1 = |1|, em roxo.
   - O Vetor(t) tem módulo 2 = |2|, o módulo representa o "comprimento" do vetor, em amarelo.
   - Ambos os vetores estão na mesma reta suporte dos Reais ( ℝ ) sendo essa última a Direção (ℝ), e possuem o mesmo Sentido (Positivo, no caso).
-  - Calculamos a SOMA DE VETORES através de um simples expediente: pegamos um dos vetores e levamos junto à origem do outro.  
+  - Calculamos a SOMA DE VETORES através de um simples expediente: pegamos um dos vetores e levamos junto à origem do outro.
+    - Um vetor se repete.
+    - O outro vetor, terá o mesmo módulo, ou seja, o comprimento do deslocamento será o mesmo, no caso, Vetor(t) = |2| (pois 0->2), e repetiremos o |2| na nova posição (agora, 1->3).
+    - A direção é uma só, pois a reta suporte da direção é a própria Reta Real ( ℝ ).
+    - Como o sentido é o mesmo, somamos os módulos (os deslocamentos se somam, ao invés de subtrair se fosse sentidos opostos). O Sentido é o mesmo da Reta Suporte.
+    - Qualquer dois (ou -n) vetores que você somar na Reta R, vai continuar na reta R.
+  - Pois R é um conjunto unidimensional (só precisa de um número pra caracterizar o vetor (número positivo ou negativo), mas a reta é mesma da direção e o módulo dependerá de cada vetor).
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/962f3785-b1fd-4a7e-8488-8be90a4ab8b5)
+ 
+___
+
+- 
