@@ -88,7 +88,14 @@ SE [    condição de teste TRUE    ] ENTÃO
 FIM
 ```
   - As 3 últimas linhas são chamados de BLOCO DE COMANDOS que só será executado se a condição for VERDDEIRA (true).
-  - Ou então, se não for VERDADEIRA (false), então o script vai pular o bloco de comandos (listas 1 até 3) e vai continuar a execução do código "pulando" esse bloco.
+  - Ou então, se não for VERDADEIRA (false), então o script vai pular o bloco de comandos (listas 1 até 3) e vai continuar a execução do código "pulando" esse bloco, e continuando de FIM em diante...
+  - Por exemplo:
+```portugol
+SE x = 1 ENTÃO:
+    x = 2
+FIM
+```
+  - A questão visual, a IDENTAÇÃO DO BLOCO é fundamental, não pode ser negligenciada! Precisamos usar vários níveis de identação, vários níveis de aninhamento! Não podemos perder a noção de onde se está!
   - 
 ___
 
