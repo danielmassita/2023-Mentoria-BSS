@@ -104,8 +104,12 @@ FIM
       // lista de comandos 1
       // lista de comandos 2
       // lista de comandos 3
+      // Observe que apesar de eu ter IDENTADO o bloco de comandos, existe um controle de sinais que {inicia e termina o bloco - mesmo que em outra linha porém no mesmo nível de identação} após o (teste de verdade).
     }
     ```
-  - asdf
+  - Quando temos x = 3, estamos atribuindo o valor 3 na variável x.
+  - Quando temos x == 3, estamos testando a igualdade do valor 3 com o conceito de "3", mas sem testar o tipo (e.g.: "3" == 3 retornará True).
+  - Quando temos x === 3, estamos testando a igualdade do valor 3 com o conceito de "3", mas TAMBÉM TESTANDO IGUALDADE entre o TIPO (e.g.: "3" (string) == 3 (integer) retornará False).
+  - 
 ___
 
