@@ -78,6 +78,25 @@ ___
 
 ___
 
-### Outro exemplo, agora no espaço R²
+### Outro exemplo, agora no espaço ℝ²
 
-- 
+- Temos o Espaço Vetorial com dois eixos, sendo x e y.
+- Teremos ℝ² como um conjunto de pares (x, y) onde ambos são Reais.
+- Pensemos num Vetor(a,b), de maneira abstrata, com eixo x = a, e eixo y = b.
+- E imagine que tenho uma Função qualquer (f) que TRANSFORMA o Vetor(a,b) em um novo Vetor(c,d), ou seja, a afunção faz alguma coisa com ele, e transporta pra um novo lugar.
+- O que se diz é EXTREMAMENTE IMPORTANTE. Se eu pegar um ponto pertinho do Vetor(a,b), e aplicar a mesma função, esse novo ponto ficará pertinho do Vetor(c,d).
+  - **Isso quer dizer que o meu Espaço Vetorial é HOMOGÊNEO.** Ou seja, é contínuo, é homogêneo, tem uma propriedade que deixam as coisas agarradinhas umas nas outras.
+  - Não é uma idéia de resultante.... Mas muito mais uma idéia de VIZINHANÇA. Se tivermos uma "bolinha" ao redor do vetor, se o vetor for pra outro lugar, a bolinha vai junto.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/0a3429fc-5040-479a-91ef-af142d994ed1)
+
+- Hausdorf-Besikovich, citado por Carl Sagan em Cosmos (70's) explica as multidimensionalidades possíveis.
+- Para nós, vamos trabalhar simples (com Álgebra Linear e Pares de Elementos):
+  - ℝ     a
+  - ℝ²    (a, b)
+  - ℝ³    (a, b, c)  
+  - ℝ^4   (a, b, c, d)
+  - ℝ^n   (A1, A2, A3, A4, ..., An)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e9799087-3eb0-4875-ab4a-f64fec59606f)
+
+___
+
