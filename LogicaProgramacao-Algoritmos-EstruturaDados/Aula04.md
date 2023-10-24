@@ -48,4 +48,28 @@ ___
 
   - Pergunta: _"Em microcontroladores a solução pro goto são as interrupções, é usado também em javascript?"_
     - Não. Interrupções são ações de "baixo nível", pois acontecem a nível de processador mesmo. Existem estruturas de programação que criamos situações pro programa ser processado na ordem correta (listener?).
-    - A Interrupção pode ser de Software ou de Hardware. Existe um evento de hardware (tecla, mouse, etc.) que interrompe o que estava fazendo e processa o novo input. Isso acontece em nível de Sistema Operacional, e não de software (que é algo bem diferente). Interrupções acontecem bastante no "chão de fábrica", com automação industrial e etc.    
+    - A Interrupção pode ser de Software ou de Hardware. Existe um evento de hardware (tecla, mouse, etc.) que interrompe o que estava fazendo e processa o novo input. Isso acontece em nível de Sistema Operacional, e não de software (que é algo bem diferente). Interrupções acontecem bastante no "chão de fábrica", com automação industrial e etc.
+  - Pergunta: _"Do lado esquerdo é write e do lado direito é read?"_ Sim, é possível interpretar assim!
+  - Pergunta: _"Nesse caso, faz diferença usar x minúsculo ou X maiúsculo?"_ Sim, na maioria das linguagens de programação, faz diferença. Algumas não faz, contudo, por padrão, vamos nos atentar ao caso de que hoje não faz diferença, mas pensando no futuro, vamos manter a coerência visual do programa por inteiro, pra trabalhar junto a máquina com nosso cérebro (faz diferença o que vemos!).
+  -  
+
+___
+
+## Portugol
+
+### ARMAZENE
+  **- ARMAZENE 1 EM X:**
+    - Vai criar uma caixinha na memória, dando o rótulo de X, e colocando dentro da caixinha o valor "1". Pega um "endereço da memória", pra nós é um mero X, mas pro interpretador/compilador, se trata de um "endereço de memória", que é dividido em blocos de endereços (essa é a diferença entre uma linguagem de baixo-nível e alto-nível;
+    - na Primeira, eu trabalho a nível de máquina (preciso saber o endereço da posição de memória - armazene 1 no endereço hexadecima 3BA5... da posição de memória, mas tem um problema, só serve para aquela máquina em específico (história dos computadores e processadores limitados, antigamente os circuitos e fiação eram relevantes, um programa de um computador não funcionava em outro, ou apenas com adição de hardware como ++RAM...));
+    - na Segunda, eu trabalho num nível de abstrações (no caso, abstraímos o endereço da posição da memória, pensando somente na "variável x" como um mnemônico) - se precisar mudar o programa, re-compilar o programa, isso não vai trazer problemas que antigamente existiam...; 
+    - Armazene TAL COISA em TAL LUGAR;
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f9f4c02f-d6af-4389-8c66-5125570908d9)
+
+### FAÇA
+  **- FAÇA X IGUAL A X + 1:**
+    - Vai
+___
+
+## Portugol
+
+- ****
