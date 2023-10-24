@@ -121,7 +121,17 @@ ___
 - Existe uma história da Linguagens Tipadas vs. Linguagens Não-Tipadas:
   - Linguagem C, C++, Pascal, muitas linguagens compiladas... são tipada, pois dizemos _"int x = 0;"_, estou declarando que a variável X é do tipo INTeiro, diferente do tipo CHARactere, no qual usaríamos _"char y = "0"_;
   - Algumas pessoas cortam o número 7, por causa do 7º Mandamento, pois Deus ao entregar os Mandamentos pra Moisés, no 7º dizia "Não cobiçarás a mulher do próximo" e a galera gritou: "CORTA O SETE!" (tu-dum-pxt-tzz);
-  - Todavia, algumas linguagens como o Typescript (JavaScript com tipagem, o JS é NÃO-TIPADA). 
+  - Todavia, algumas linguagens como o Typescript são de fato TIPADAS.
+  - JavaScript é menos rígido, o JS é NÃO-TIPADA. O PHP não é tipado (mas algumas versões como PHP8, pode ser delcarado o tipo se quiser). 
+    - Por exemplo, em JS usa-se um "let = 0" para criar uma variável x e dentro dela atribuímos o valor de zero (no caso, por padrão, será float), mas sem informar o tipo. Podemos, depois, alterar o x = "a" para representar uma cadeia de caracteres (string) sem nenhum problema.
+  - No Typescript, int x = 0, impedirá que futuramente eu utilizasse i = "a", pois iria gerar conflito entre INT e STR.
+  - JAVA é uma linguagem FORTEMENTE TIPADA, ou seja, quando declaramos um tipo, não podemos mudá-lo, via de regra.
+  - Existem linguagens FRACAMENTE TIPADAS, que permitem alterar depois o tipo (re-declarando o tipo). Basicamente, quase não usamos...
+  - Em linguagem de programação não tem "uma melhor". C, C++, Pascal são linguagens COMPILADAS.
+    - Existe um programa chamado COMPILADOR. Eu dou/escrevo meu programa para o Compilador. O Compilador executa o programa e faz diversas Verificações em tempo de compilação (enquanto prepara o programa pra rodar). Nesses casos, variáveis tipadas são praticamente uma obrigação pois devemos informar para o compilador "o que está acontecendo"...
+    - Linguagens não tipadas (como JavaScript ou PHP), geralmente são linguagens INTERPRETADAS, no browser existe um programinha que INTERPRETA o JavaScript, ocorre na medida que o programa vai sendo executado. Logo, com mais possibilidades de erros, 
+  - **Declarar TIPOS tem uma vantagem: costuma-se errar menos, pois evitam-se conflitos entre operações de tipos diferentes, já na premissa.**
+  - No caso do TypeScript, não tem um compilador, mas tem uma espécie CONVERSOR, TypeScript não roda em máquina nenhuma, primeiro ele é traduzido para JavaScript pra ser executado, e nessa tradução se verificam os tipos. Então, fica-se mais perto de "livrar-se de potenciais erros". O TypeScript precisa de muitas configurações para ser usado, já o JavaScript é muito mais fácil ver e tangibilizar os resultados.    
 
 ___
 
