@@ -38,9 +38,7 @@ ___
       10. adaptive
 
       a. very little
-      
       b. able to change when necessary
-
       c. something that is produced
       d. to fit, to satisfy, to be right for
       e. the copying and presenting of another's work as if it were one's own
