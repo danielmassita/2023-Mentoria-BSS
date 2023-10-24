@@ -32,16 +32,16 @@ ___
       9. plagiarism
       10. adaptive
 
-      a) very little
-      b) able to change when necessary
-      c) something that is produced
-      d) to fit, to satisfy, to be right for
-      e) the copying and presenting of another's work as if it were one's own
-      f) information giveno to a computer
-      g) a computer system or machine that copies human behavior
-      h) an argument that opposes a particular idea
-      i) to improve something by making small changes to it
-      j) the ability to accomplish something without wasting resources
+      a. very little
+      b. able to change when necessary
+      c. something that is produced
+      d. to fit, to satisfy, to be right for
+      e. the copying and presenting of another's work as if it were one's own
+      f. information giveno to a computer
+      g. a computer system or machine that copies human behavior
+      h. an argument that opposes a particular idea
+      i. to improve something by making small changes to it
+      j. the ability to accomplish something without wasting resources
 
       Answers: 1.G, 2.J, 3.A, 4.F, 5.I, 6.D, 7.C, 8.H, 9.E, 10.B
 
