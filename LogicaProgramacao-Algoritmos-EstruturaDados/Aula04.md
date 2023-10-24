@@ -51,7 +51,7 @@ ___
     - A Interrupção pode ser de Software ou de Hardware. Existe um evento de hardware (tecla, mouse, etc.) que interrompe o que estava fazendo e processa o novo input. Isso acontece em nível de Sistema Operacional, e não de software (que é algo bem diferente). Interrupções acontecem bastante no "chão de fábrica", com automação industrial e etc.
   - Pergunta: _"Do lado esquerdo é write e do lado direito é read?"_ Sim, é possível interpretar assim!
   - Pergunta: _"Nesse caso, faz diferença usar x minúsculo ou X maiúsculo?"_ Sim, na maioria das linguagens de programação, faz diferença. Algumas não faz, contudo, por padrão, vamos nos atentar ao caso de que hoje não faz diferença, mas pensando no futuro, vamos manter a coerência visual do programa por inteiro, pra trabalhar junto a máquina com nosso cérebro (faz diferença o que vemos!).
-  -  
+  - Pergutna: _"Uma dúvida que sempre tive, esse espaço de memória é usado só durante o processamento da variável ou declaração dela?"_ Não, a variável fica lá até que se libere. Algumas linguagens possuem mecanismos pra liberar os valores. Outras linguagens, não, só vai criando e vai deixando as variáveis lá. Pra nós, nesse momento agora, não faz diferença.  
 
 ___
 
@@ -66,10 +66,17 @@ ___
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f9f4c02f-d6af-4389-8c66-5125570908d9)
 
 ### FAÇA
-  **- FAÇA X IGUAL A X + 1:**
-    - Vai
+- FAÇA X IGUAL A X + 1:
+  - Também semelhante a dizer "ARMAZENE X + 1 EM X". Portugol não é uma linguagem de programação, mas sim uma maneira de se expressar de modo que possamos entender. Pode ser ambínguo, ATÉ CERTO PONTO, mas precisa manter a consistência. Não posso confundir, pois apesar de falarmos com humanos, nossa programação é direcionado pra máquina, que não tem a nossa percepção (por exemplo, não poderia escrever uma ordem pra armazenar dois valores distintos em uma única variável: "ARMAZENE X + 1 E X + 2 EM X", pois a lógica será truncada). 
+  - O valor antigo de X, ao ser atribuído novo valor, vai desaparecer! ;) Por isso se chama "variável"...
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/781c088d-2832-41f0-ab91-26376adbbdc3)
+
 ___
 
-## Portugol
+### Estruturas de Controle
 
-- ****
+- SE:
+  - 
+
+___
+
