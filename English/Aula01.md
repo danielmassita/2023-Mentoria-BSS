@@ -1,5 +1,5 @@
 # Programa de Mentoria BSS 2023
-# English as Foreign Language
+# English with Daniel Magndon
 
 ```https://drive.google.com/drive/u/0/folders/1k0e45wD0ts13MfW4M4KOGscfMYEC0Ytd```
 
