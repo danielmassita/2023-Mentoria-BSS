@@ -71,12 +71,17 @@ ___
   - O valor antigo de X, ao ser atribuído novo valor, vai desaparecer! ;) Por isso se chama "variável"...
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/781c088d-2832-41f0-ab91-26376adbbdc3)
 
-___
-
-### Estruturas de Controle
+### ESTRUTURA DE CONTROLE
 
 - SE:
+```
+  - SE [    condição de teste    ] ENTÃO:
+    - lista de comandos 1
+    - lista de comandos 2
+    - lista de comandos 3
+```
+  - As 3 últimas linhas são chamados de BLOCO DE COMANDOS que só será executado se a condição for VERDDEIRA (true).
+  - Ou então, se não for VERDADEIRA (false), então o script vai pular o bloco de comandos (listas 1 até 3) e vai continuar a execução do código "pulando" esse bloco.
   - 
-
 ___
 
