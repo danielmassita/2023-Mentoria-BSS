@@ -117,3 +117,10 @@ ___
   - Por isso são COMUTATIVOS, tanto faz a ordem que somamos.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/cc2ef51c-4d2a-49f8-81c2-75d22d0c2222)
 
+___
+
+- A escola padrão é como uma linha de montagem, tira do artesão/fabricante a visão geral do todo.
+- Tempos Modernos (Charles Chaplin).
+- Antigamente, os professores eram tutores, preceptores, mecenas, estudavam e ensinavam apenas para nobres, logo eram estudos 1:1
+- Atualmente, há salas com na média ~30 pax, até +100 em casos extremos.
+- 
