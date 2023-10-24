@@ -123,4 +123,7 @@ ___
 - Tempos Modernos (Charles Chaplin).
 - Antigamente, os professores eram tutores, preceptores, mecenas, estudavam e ensinavam apenas para nobres, logo eram estudos 1:1
 - Atualmente, há salas com na média ~30 pax, até +100 em casos extremos.
-- 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/90af4584-8b5b-43a8-82b4-ef837ffeea3a)
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7b865b24-1865-4e36-926b-b231f6b72ebe)
+
+FIM!
