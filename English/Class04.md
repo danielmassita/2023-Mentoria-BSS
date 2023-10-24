@@ -13,6 +13,8 @@ ___
 
 ___
 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/43a5731e-79d5-4490-aca4-de5cef6a5233)
+
 - Pre-Reading
   - A. Warm-Up Questions 
     1. What are some jobs that machines can perform better than humans?
@@ -49,6 +51,8 @@ ___
 
       Answers: 1.G, 2.J, 3.A, 4.F, 5.I, 6.D, 7.C, 8.H, 9.E, 10.B
 
+___
 
+- 
 
 
