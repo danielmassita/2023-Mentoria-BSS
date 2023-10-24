@@ -95,8 +95,25 @@ ___
   - ℝ²    (a, b)
   - ℝ³    (a, b, c)  
   - ℝ^4   (a, b, c, d)
-  - ℝ^n   (A1, A2, A3, A4, ..., An)
+  - ℝ^n   (A1, A2, A3, A4, ..., An) - R com índice N, não se trata de exponenciação! 
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e9799087-3eb0-4875-ab4a-f64fec59606f)
 
 ___
+
+### Novo exemplo, ainda em ℝ²
+
+- A reta ℝx costuma ser a primeira coordenada. A reta ℝy costuma ser a segunda. Tanto faz, no futuro, basta ser COERENTE e manter a CONSISTÊNCIA. Ângulo de 90° também é relativo...
+- Imagine um novo Vetor(a) com coordenadas (2, 2) na cor azul.
+- Imagine um novo Vetor(b) com coordenadas (2, 1) na cor vermelha.
+- Ao aplicarmos a Regra dos Paralelogramas, a SOMA dos dois Vetores vai ter um Vetor Resultante Vetor(resultante) = (4, 3).
+- A própria Regra do Paralelogramas mostra **QUE A SOMA É COMUTATIVA**. Levando uma perna de um no braço do outro, e o oposto, chegamos nessa conclusão, ambos chegando no mesmo lugar.
+- Agora vamos a uma Definição Formal:
+  - Se o Vetor(a) possui coordenadas (a1, a2) sendo números reais.
+  - Se o Vetor(b) possui coordenadas (b1, b2) sendo números reais.
+  - Pra SOMAR DOIS VETORES basta somar as duas COORDENADAS.
+  - Vetor(a) + Vetor(b) = (a1 + b1    ,    a2 + b2 )
+  - Vetor(b) + Vetor(a) = (b1, + a1   ,    b2 + a2 )
+  - a1, b1, a2, b2 ∈ ℝ, todos pertencem aos Reais e portanto todos também respondem às mesmas regras (regra das somas dos números reais)
+  - Por isso são COMUTATIVOS, tanto faz a ordem que somamos.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/cc2ef51c-4d2a-49f8-81c2-75d22d0c2222)
 
