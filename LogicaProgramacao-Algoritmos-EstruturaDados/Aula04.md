@@ -59,6 +59,9 @@ ___
 
 ### ARMAZENE
 - ARMAZENE 1 EM X:
+```portugol
+ARMAZENE    (valor_designado)    EM    (variável):       
+```
   - Vai criar uma caixinha na memória, dando o rótulo de X, e colocando dentro da caixinha o valor "1". Pega um "endereço da memória", pra nós é um mero X, mas pro interpretador/compilador, se trata de um "endereço de memória", que é dividido em blocos de endereços (essa é a diferença entre uma linguagem de baixo-nível e alto-nível;
     - na Primeira, eu trabalho a nível de máquina (preciso saber o endereço da posição de memória - armazene 1 no endereço hexadecima 3BA5... da posição de memória, mas tem um problema, só serve para aquela máquina em específico (história dos computadores e processadores limitados, antigamente os circuitos e fiação eram relevantes, um programa de um computador não funcionava em outro, ou apenas com adição de hardware como ++RAM...));
     - na Segunda, eu trabalho num nível de abstrações (no caso, abstraímos o endereço da posição da memória, pensando somente na "variável x" como um mnemônico) - se precisar mudar o programa, re-compilar o programa, isso não vai trazer problemas que antigamente existiam...; 
@@ -67,6 +70,9 @@ ___
 
 ### FAÇA
 - FAÇA X IGUAL A X + 1:
+```portugol
+FAÇA    (nome_variável)    IGUAL A    (valor_atribuído):       
+```
   - Também semelhante a dizer "ARMAZENE X + 1 EM X". Portugol não é uma linguagem de programação, mas sim uma maneira de se expressar de modo que possamos entender. Pode ser ambínguo, ATÉ CERTO PONTO, mas precisa manter a consistência. Não posso confundir, pois apesar de falarmos com humanos, nossa programação é direcionado pra máquina, que não tem a nossa percepção (por exemplo, não poderia escrever uma ordem pra armazenar dois valores distintos em uma única variável: "ARMAZENE X + 1 E X + 2 EM X", pois a lógica será truncada). 
   - O valor antigo de X, ao ser atribuído novo valor, vai desaparecer! ;) Por isso se chama "variável"...
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/781c088d-2832-41f0-ab91-26376adbbdc3)
@@ -75,7 +81,7 @@ ___
 
 - SE:
 ```portugol
-SE [    condição de teste    ] ENTÃO
+SE [    condição de teste TRUE    ] ENTÃO
     lista de comandos 1
     lista de comandos 2
     lista de comandos 3
