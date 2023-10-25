@@ -135,3 +135,25 @@ ___
 
 ___
 
+### Voltando no Portugol
+
+- ARMAZENE 1 em X
+- ENQUANTO ( X < 10):
+  - ARMAZENE X.cos(x) em Y  
+  - FAÇA X = X + 1 
+- FIM
+
+- Nesse exemplo, testamos no início uma condição de controle ( x < 10 ), e enquanto essa condição for verdadeira, o bloco será executado ( Y receberá o resultado de X.cos(x)), e depois faremos o incremento (X = X + 1, ou X++ em JavaScript).
+- Esse loop se repetirá enquanto a condição de teste for Verdadeira.
+- Ao final, quando o teste retornar Falso, o script vai sair do loop (graças ao incremento de X, que atualizava o valor e evitava um loop infinito).
+- 
+  
+- ENQUANTO:
+```portugol
+ENQUANTO [    condição de teste TRUE    ]:
+    lista de comandos 1 (aninhado nesse bloco)
+    lista de comandos 2 (aninhado nesse bloco)
+    lista de comandos 3 (aninhado nesse bloco)
+    [  condição de incremento do teste (x++) para, em algum momento, quebrar o loop infinito  ]
+FIM
+```
