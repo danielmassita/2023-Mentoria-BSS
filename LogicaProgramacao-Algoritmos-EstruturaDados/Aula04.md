@@ -131,7 +131,8 @@ ___
     - Existe um programa chamado COMPILADOR. Eu dou/escrevo meu programa para o Compilador. O Compilador executa o programa e faz diversas Verificações em tempo de compilação (enquanto prepara o programa pra rodar). Nesses casos, variáveis tipadas são praticamente uma obrigação pois devemos informar para o compilador "o que está acontecendo"...
     - Linguagens não tipadas (como JavaScript ou PHP), geralmente são linguagens INTERPRETADAS, no browser existe um programinha que INTERPRETA o JavaScript, ocorre na medida que o programa vai sendo executado. Logo, com mais possibilidades de erros, 
   - **Declarar TIPOS tem uma vantagem: costuma-se errar menos, pois evitam-se conflitos entre operações de tipos diferentes, já na premissa.**
-  - No caso do TypeScript, não tem um compilador, mas tem uma espécie CONVERSOR, TypeScript não roda em máquina nenhuma, primeiro ele é traduzido para JavaScript pra ser executado, e nessa tradução se verificam os tipos. Então, fica-se mais perto de "livrar-se de potenciais erros". O TypeScript precisa de muitas configurações para ser usado, já o JavaScript é muito mais fácil ver e tangibilizar os resultados.    
+  - No caso do TypeScript, não tem um compilador, mas tem uma espécie CONVERSOR, TypeScript não roda em máquina nenhuma, primeiro ele é traduzido para JavaScript pra ser executado, e nessa tradução se verificam os tipos. Então, fica-se mais perto de "livrar-se de potenciais erros". O TypeScript precisa de muitas configurações para ser usado, já o JavaScript é muito mais fácil ver e tangibilizar os resultados.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/22635abd-fc52-4ae9-b8ee-52156510fdc1)
 
 ___
 
@@ -146,7 +147,7 @@ ___
 - Nesse exemplo, testamos no início uma condição de controle ( x < 10 ), e enquanto essa condição for verdadeira, o bloco será executado ( Y receberá o resultado de X.cos(x)), e depois faremos o incremento (X = X + 1, ou X++ em JavaScript).
 - Esse loop se repetirá enquanto a condição de teste for Verdadeira.
 - Ao final, quando o teste retornar Falso, o script vai sair do loop (graças ao incremento de X, que atualizava o valor e evitava um loop infinito).
-- 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/afe7bc12-23ad-4821-8f39-5d30e2c00e3b)
   
 - ENQUANTO:
 ```portugol
@@ -157,3 +158,5 @@ ENQUANTO [    condição de teste TRUE    ]:
     [  condição de incremento do teste (x++) para, em algum momento, quebrar o loop infinito  ]
 FIM
 ```
+- Ao final, após o FIM, considerando que o teste é FALSO, sairemos do bloco.
+- Podemos também, criar uma CONDIÇÃO INALCANÇÁVEL, por exemplo rolando eternamente o script adiante antes do teste atingí-lo, somamos o X somente dentro do IF, então nunca atualizaremos o X fora do IF e não sairemos do bloco.  
