@@ -72,5 +72,33 @@ ___
     - Suitabiliy and efficiency. 
 
   - 5- What are some drawbacks of AI-generated content?
-    - Lack of trustworthy content, biased content, a huge increase in not-original content produced, a tremendous problem with plagiarism.   
+    - Lack of trustworthy content, biased content, a huge increase in not-original content produced, a tremendous problem with plagiarism.
 
+___
+
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/08312e8c-a2fb-4333-8961-f159ef9f3f0c)
+
+  1. artificial intelligence
+  2. efficiency
+  3. output
+  4. refined
+  5. plagiarism
+  6. adaptatives
+  7. minimal
+  8. counterargument
+
+___
+
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f0595ada-24c8-43d5-a08e-8c74c0b60c62)
+- Grammar Review
+  - 1- ChatGPT was released in November 2022 by OpenAI.
+  - 2- Essays can be written by students using Artificial Intelligence.
+  - 3- The technology is being improved every day by tech companies.
+  - 4- Jobs will be created by AI.
+  - 5- The labor market is always disrupted by new technologies.
+  - 6- Content for different audiences is personalized by these tools.
+  - 7- Chatbots have been used for many years by the customer service industry.
+
+___
+
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/40b55934-9802-433b-9acc-008b9f8a14d5)
