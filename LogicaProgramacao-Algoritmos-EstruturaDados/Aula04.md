@@ -159,4 +159,25 @@ ENQUANTO [    condição de teste TRUE    ]:
 FIM
 ```
 - Ao final, após o FIM, considerando que o teste é FALSO, sairemos do bloco.
-- Podemos também, criar uma CONDIÇÃO INALCANÇÁVEL, por exemplo rolando eternamente o script adiante antes do teste atingí-lo, somamos o X somente dentro do IF, então nunca atualizaremos o X fora do IF e não sairemos do bloco.  
+- Podemos também, criar uma CONDIÇÃO INALCANÇÁVEL, por exemplo rolando eternamente o script adiante antes do teste atingí-lo, somamos o X somente dentro do IF, então nunca atualizaremos o X fora do IF e não sairemos do bloco.
+- Por exemplo, também, multiplicar o valor do x, de modo que a taxa de incremento seja maior do que o "incremento do teste" (em cada iteração). Ou então fazer uma diminuição (if i <= 10; ; i--), um decremento.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/1056c1b6-8766-49fd-8ee9-df01d6c2efa4)
+
+- REPITA:
+  - linha sub 01
+  - linha sub 02
+  - linha sub 03
+- ATÉ QUE  [    condição de teste no final    ]
+
+- Vejam só, o teste do REPITA acontece no final. Porém, na condição ENQUANTO, pode ser que eu nunca execute o bloco, uma vez que o teste de condição se dá no início. No exemplo abaixo, considerando que a variável x recebe o valor de 10, ao testarmos a condição para Verdadeira (True), temos que X=10, logo não pode ser x < 10, então a condição retorna False e pula o bloco aninhado direto para FIM...
+  ```portugol
+  ARMAZENE 10 EM x
+  ENQUANTO ( X < 10 )
+      ...
+      ...
+      ...
+  FIM  
+  ```
+- 
+___
+
