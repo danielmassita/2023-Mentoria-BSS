@@ -7,6 +7,6 @@
 
 ___
 
-## Medidas de Dispersão (Variância e Desvio-Padrão)
+### Retrospectiva
 
-- A Variância e o Desvio-Padrão são **Medidas de Dispersão**.
+- Na última aula, tivemos alguns conceitos de medidas centrais...
