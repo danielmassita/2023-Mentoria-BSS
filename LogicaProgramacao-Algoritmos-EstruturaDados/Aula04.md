@@ -79,7 +79,8 @@ FAÇA    (nome_variável)    IGUAL A    (valor_atribuído):
 
 ### ESTRUTURA DE CONTROLE
 
-- SE:
+### SE
+- Estrutura de Controle SE - ENTÃO:
 ```portugol
 SE [    condição de teste TRUE    ] ENTÃO
     lista de comandos 1 (aninhado nesse bloco)
