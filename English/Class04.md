@@ -53,6 +53,24 @@ ___
 
 ___
 
-- 
+- Reading + Comprehension
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7218bd89-0084-4423-b3ed-5f5e02f61bd4)
+- A. True or False?
+  - Answers: False, False, False, True, True
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/38c2e75e-d77e-481e-8586-1ea28f02a9a8)
+- B. Questions
+  - 1- What is AI-generated content?
+    - It is a kind of content (usually a image, an audio/voice, a text) that was produced by a machine, using some human-like methods, also through a process of Machine Learning where some inputs covers basically the machine with instructions and, using a model of speach prediction, based on innumerous texts and media analysed, the machine is able to output a text based on the prompt provided by the user. The content is produced with the assistance of AI algorithms. These algorithms can generate content autonomously or assist human creators in various creative and practical ways.   
 
+  - 2- Is AI something new?
+    - Not, it is not. Since the 50's, AI is studied and used, but with the revolutionary of Big Data, AI models could become even more efficient and precise.  
+
+  - 3- How do these tools work in practice?
+    - It has various forms of outputs, but we can describe some custom types of outputs: texts (imput prompt, model prediction, autonomous generation, refinements), images (input description, generative models, iterative refinements), content sumarization (input, model of NLP, sumarization quality), language translation, chatbots, etc. Very frequently, AI-generated content is just a simple algorith that receives an input, uses it's features, and delivers and output. Nowadays, with cloud computing and big data sets, it is becoming increasingly efficient the potential of outputs closer to human-like content. 
+
+  - 4- What are some advantages of AI-generated content?
+    - Suitabiliy and efficiency. 
+
+  - 5- What are some drawbacks of AI-generated content?
+    - Lack of trustworthy content, biased content, a huge increase in not-original content produced, a tremendous problem with plagiarism.   
 
