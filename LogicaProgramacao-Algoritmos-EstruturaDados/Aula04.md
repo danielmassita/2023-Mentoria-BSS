@@ -138,12 +138,14 @@ ___
 
 ### Voltando no Portugol
 
-- ARMAZENE 1 em X
-- ENQUANTO ( X < 10):
-  - ARMAZENE X.cos(x) em Y  
-  - FAÇA X = X + 1 
-- FIM
-
+```portugol
+ARMAZENE 1 em X
+ENQUANTO ( X < 10):
+    ARMAZENE X.cos(x) em Y  
+    FAÇA X = X + 1 
+FIM
+```
+- Nesse caso, temos uma atribuição de ARMAZENAR o valor 1 na variável X, ENQUANTO o valor de x for menor que 10 (no caso, sim, x=1), entramos no código calculando X=1, 1*cos(1) atribuído à Y, aumentamos X++, e saímos da condição quando o valor de X passar a ser => 10. 
 - Nesse exemplo, testamos no início uma condição de controle ( x < 10 ), e enquanto essa condição for verdadeira, o bloco será executado ( Y receberá o resultado de X.cos(x)), e depois faremos o incremento (X = X + 1, ou X++ em JavaScript).
 - Esse loop se repetirá enquanto a condição de teste for Verdadeira.
 - Ao final, quando o teste retornar Falso, o script vai sair do loop (graças ao incremento de X, que atualizava o valor e evitava um loop infinito).
@@ -183,6 +185,21 @@ ATÉ QUE  [    condição de teste no final    ]
   ```
 - Nunca vai acontecer nesse exemplo a condição True, pois a condição já "ENTRA FALSA".
 - A não ser, por amor ao debate, que pensemos um determinado tipo de programa que fica "monitorando" um determinado sinal, e.g.: uma porta serial, um ping pra escutar um pong, atualizar um número, lendo dados de uma porta serial, e gerando relatórios... Ou por exemplo, um monitor cardíaco, manda dados a partir de uma porta serial, enquanto estiver esse dado correndo (pode-se, eventualmente, o loop infinito escutar um sinal nulo ("piiiiiii......."), None.
--  
+- Com a CONDIÇÃO DE CONTROLE REPITA, nós vamos mudar a lógica. Pra quê, então, serve o REPITA?
+  - No ENQUANTO, repetimos quando é True.
+  - Aqui no REPITA, vamos repetir quando a condição é False.
+  - Usamos o REPITA até quando? Quando queremos esperar um determinado número, por exemplo... Enquanto eu "não conseguir aquilo" eu vou voltando... Repita é Repita (não, não é um while - nem todas as linguagens implementam o repita. Pra usar while, é necessário inverter a lógica do while, veremos no futuro). While = Enquanto (teste na cabeça), teste executado 0x ou mais...; Repeat/Until, Do-While = Repita (teste é no pé, na base), teste executado ao menos 1x ou mais...
+- Um novo exemplo:
+```portugol
+ARMAZENE 1 EM X
+REPITA:
+    FAÇA X = X + 1
+ATÉ QUE ( x = 100 )
+...
+```
+- 
+- Imagem
+
+
 ___
 
