@@ -197,9 +197,37 @@ REPITA:
 ATÉ QUE ( x = 100 )
 ...
 ```
-- 
-- Imagem
+- Inicializamos uma variável X e atribuímos à ela o valor de 1. Começamos o processo, repetindo o seguinte código (x = x + 1), tornando o valor de x antes 1 agora 2, e retornará ao loop. X=2 < 100? Sim, é menor que 100. Então, x antes 2 agora 3. Repetimos... Até que x = 99. 99 ainda não é 100, então adicionamos x + 1, x agora é 100, encerramos o loop.
+- O ENQUANTO (while) é um teste no começo, se entrar já Falso, vai pular o bloco (execução = 0). Pode executar ou não.
+- Porém, o REPITA (do-while) é um teste no final, pode entrar Falso ao menos 1x, acontece e executa o bloco (execução min. = 1 ou +). E testa a condição enfim. Se já for VERDADEIRO (o teste no final), acaba saindo do bloco com apenas uma única execução. Caso contrário, REPITA (repita enquanto falso até que se torne verdadeiro).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/8ff92bd5-a89a-426e-8ffe-ee0864c9e88d)
 
 
 ___
 
+### Resumindo...
+
+- Resumo de Hoje:
+  - Linguagem Tipada e Não-Tipada
+  - Uso de atribuição =, igualdade == e igualdade estrita de tipo ===
+  - ARMAZENTE
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/8fcae998-0224-42e4-8929-8f3c7b7b734d)
+  - FAÇA
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/66b426db-7396-4975-9547-f82ec8ceba61)
+  - SE
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/ab8e784a-328b-4f72-8030-64032c791ccc)
+  - ENQUANTO
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/26c6bcb5-0710-41cb-8953-b2b52c1d4fe4)
+  - REPITA
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/cb5e641c-7073-4d63-88fa-9917112a887b)
+  -
+  - Faltam do-while, switch-case, se-senão... Nossa aula foi sobre Estruturas de Controle, usando Portugol! ;0
+  - Usar o Portugol nos ajuda a ter um raciocínio fluído, sem precisar pensar na sintaxe de uma certa linguagem.
+    - Nessa fase do curso, o objetivo é ajudar e ensinar a ELABORAR um ALGORITMO, aprenderemos como criar, desenvolver um algoritmo, pra depois fazer algo complexo.
+    - Nesse estudo, o mais importante é entender a SUA ORGANIZAÇÃO MENTAL, ENTENDER o problema e saber EXPRESSAR o problema em alguma linguagem determinada (somos a favor de ir lenta e gradualmente, etapa por etapa).
+    - Meu primeiro pensamento é pegar a turma e ensinar a criar algoritmos complexos, e expressá-los em termos de linguagem natural. Assim, focaremos no problema e não na linguagem de programação. Vamos assim manter o foco no problema que estamos tentando resolver, e não na linguagem de programação... Isso abre a mente do programador. Pois um algoritmo pode ser implementado em várias linguagens (Java, C++, Javascript, etc.), não importar agora. Agora precisamos APRENDER A RESOLVER OS PROBLEMAS usando a lógica, usando o pensamento, a mente organizada!
+    - Vamos estudar algoritmos diferentes, algoritmos de ORDENAÇÃO (sort, bubble-sort, bubble-sort-invertido, bubble-sort-otimizado, etc.), falta esse conhecimento nos programadores.
+    - Hoje tem função pra fazer tudo, podemos ordenar uma matriz com uma função, mas tem gente que não sabe ordenar (um algoritmo que saiba ordenar a matriz), precisamos saber CRIAR algoritmos. Primeiro pensamos no problema e expressamos em termos de linguagem. Numa etapa futura, transportamos o problema pra uma linguagem de programação específica (e vamos testar em várias, "pra ver como fica", talvez em termos de performance e etc. ;) PRECISAMOS APRENDER A RESOLVER PROBLEMAS SEM UMA BIBLIO... ;) Como faz? 
+
+
+FIM! 
