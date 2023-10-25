@@ -163,11 +163,14 @@ FIM
 - Por exemplo, também, multiplicar o valor do x, de modo que a taxa de incremento seja maior do que o "incremento do teste" (em cada iteração). Ou então fazer uma diminuição (if i <= 10; ; i--), um decremento.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/1056c1b6-8766-49fd-8ee9-df01d6c2efa4)
 
-- REPITA:
-  - linha sub 01
-  - linha sub 02
-  - linha sub 03
-- ATÉ QUE  [    condição de teste no final    ]
+```portugol
+REPITA:
+    linha sub 01
+    linha sub 02
+    linha sub 03
+    i++ // Note que o script já aconteceu, mesmo se houvesse um incremento ao final (tipo i++), pois a primeira condição ENTRA FALSA anyway, e só altera no final ao checar se é VERDADEIRA [condição de teste]... 
+ATÉ QUE  [    condição de teste no final    ]
+```
 
 - Vejam só, o teste do REPITA acontece no final. Porém, na condição ENQUANTO, pode ser que eu nunca execute o bloco, uma vez que o teste de condição se dá no início. No exemplo abaixo, considerando que a variável x recebe o valor de 10, ao testarmos a condição para Verdadeira (True), temos que X=10, logo não pode ser x < 10, então a condição retorna False e pula o bloco aninhado direto para FIM...
   ```portugol
@@ -176,8 +179,10 @@ FIM
       ...
       ...
       ...
-  FIM  
+  FIM  // Note que nesse caso do ENQUANTO a 
   ```
-- 
+- Nunca vai acontecer nesse exemplo a condição True, pois a condição já "ENTRA FALSA".
+- A não ser, por amor ao debate, que pensemos um determinado tipo de programa que fica "monitorando" um determinado sinal, e.g.: uma porta serial, um ping pra escutar um pong, atualizar um número, lendo dados de uma porta serial, e gerando relatórios... Ou por exemplo, um monitor cardíaco, manda dados a partir de uma porta serial, enquanto estiver esse dado correndo (pode-se, eventualmente, o loop infinito escutar um sinal nulo ("piiiiiii......."), None.
+-  
 ___
 
