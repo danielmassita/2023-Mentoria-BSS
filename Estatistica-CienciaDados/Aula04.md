@@ -27,5 +27,15 @@ ___
 - Pode ser usada para aproximar outras distribuições
 - Pode ser "convertida" para uma "curva normal padrão" para facilitar cálculos.
 - Z-Escore
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/0aa601a7-343a-433c-9db8-b7f8299dbcfe)
 
--  
+
+- Agora, vamos começar a colocar "tudo num pacote só"...
+- Distribuição de probabilidade é uma curva (ou curva boca de sino) normal, ou gausiana (do matemático Gauss).
+- Característica importantíssima, é uma distribuição modal simples, na qual a Média, Mediana e Moda coincidem (e quando não, ajustamos! para caber, dentro de certa margem de erro).
+- Agora, vamos usar pra medir coisas e probabilidades. Essa distribuição é muito usada para aproximar outras distribuições (como binomial), mas a D. Normal abrange um imenso leque de fenômenos.
+  - Mesmo quando a D. não é normal, podemos aproximá-la através de uma d. normal, calcular a probabilidade, e adicionar uma margem de erro (pouco maior pois há aproximação), mas ainda assim, dependendo do tamanho da amostra será ainda uma margem aceitável de erro.
+- Outra vantagem fantástica: Pode ser convertida pra uma "Curva Normal Padrão" (pra facilitar os cálculos).
+
+-    
+
