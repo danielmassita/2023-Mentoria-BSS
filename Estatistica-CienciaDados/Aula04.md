@@ -37,5 +37,64 @@ ___
   - Mesmo quando a D. não é normal, podemos aproximá-la através de uma d. normal, calcular a probabilidade, e adicionar uma margem de erro (pouco maior pois há aproximação), mas ainda assim, dependendo do tamanho da amostra será ainda uma margem aceitável de erro.
 - Outra vantagem fantástica: Pode ser convertida pra uma "Curva Normal Padrão" (pra facilitar os cálculos).
 
--    
+- O que a Curva representa pra nós?
+- Aqui no meio temos a média (x-barra), que é um somatório dos X (andar em todos os x) da amostra, dividido pelo n (número total da amostra). Somamos todos os elementos da amostra, coletando índices de 1-n, e temos a média (x-barra) no centro da curva.
+- A PROBABILIDADE em relação à curva normal?
+  - A área abaixo da curva! A área do gráfico será a probabilidade de ocorrência, sendo a distribuição da área e da curva em relação aos desvios-padrões.
+  - Ou seja, entre -1d (desvio-padrão) e +1d, poderemos assegurar que esse "range" representa 68,26% dos resultados, estando ali dentro. E a probabilidade de não ser o caso, é de aprox. 31,...%
+  - Adicionalmente, se considerarmos entre -2d e +2d, a áera de incidência da probabilidade será de -2d, -1d, média, +1d, +2d, ou seja, a probabilidade de ocorrer um evento dentro desse "range" de desvios-padrões será de 95,44%. Inversamente, as chances de ocorrerem eventos FORA desse desvio-padrão será de 100% - 95,44% = 4,66%.
+  - Por fim, entre o "range" de -36d e +3d, teremos a probabilidade de 99,74% de ocorrências dos casos.
+-   
 
+___
+
+### Exemplo Distribuição Normal
+
+- Considere uma pesquisa de alturas de homens brasileiros.
+- A média da altura dos homens brasileiros é de 1,70 cm, com desvio padrão de 10 cm.
+  - Ou seja, entre -1d (1,60m) e +1d (1,80m) temos uma distribuição mais abundante e próxima da média (1,80m). Esse conjunto representa, em média e aproximadamente, 68,26%.
+  - Adicionalmente, se considerarmos o range de -2d até +2d, teremos o conjunto de pessoas entre 1,50m (-2d) e 1,90m (+2d). Esse conjunto representa, em média e aproximadamente, 95,44%.
+  - Some-se, se considerarmos o range de -3d e +3d, teremos o conjunto de pessoas entre 1,40m (mais raro, perto de -3d) e 2,00m (mais raro, perto de +3d). Esse conjunto representa, em média e aproximadamente, 99,74%.
+- Pra facilitar, **qual seria a PROBABILIDADE de alguém ter mais de 1,90?** Ora, a chance disso ocorrer é a área sobre a curva e além de +2d, ou seja, ou seja, o indivíduo está duas vezes o desvio-padrão além da média ( 1,70m + 0,10m + 0,10m ).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/95908a19-ff91-494a-86e7-c193f81a956a)
+
+- Porém, a Curva Normal é uma Integral incalculável, não tem como calcular sem métodos numéricos. Não há uma técnica de integração que me permita fazer uma integral direta e calcular a área da curva normal. Então, usamos Métodos Numéricos (discuivo no futuro), mas basicamente, vamos calcular pedacinhos, transformando a curva em "pequenas barrinhas", cada vez mais próximas, cada vez mais finas, tendendo para um Limite (que será a área). Mas isso é MUITO TRABALHOSO!
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7b6cc449-8546-4265-b067-aea6ec76e50b)
+
+- Medida de erro muito grande, etc. Pois a cada "passo" preciso ver quanto eu perdi. Computadores eletrônicos digitais possuem um "erro" pra cada cálculo que fazemos, são os erros decimais (pi, 3,141592854367...) em algum ponto isso estará além da representação, então teremos uma aproximação do valor de pi no computador. Mesmo uma dízima periódica não será representada infinitamente, é uma limitação da maneira como os números são representados dentro dos computadores no registro de memória.
+- Quando fazemos um cálculo muito longo, muito preciso, com muitas coisas, sempre tem uma margem de erro grande, vai aumentando, quanto mais eu calculo mais eu preciso "armazenar".
+  - Um número real (float) ocupa uns 4 bytes, em linguagem C, C++, etc... O problema é que fica limitado aos 4 bytes, se não tiver um compilador pra permitir aumentar o espaço de memória (e ir colocando mais coisas). Existem artifícios de programação, mas sempre incorre-se em uma margem de erro, existe "precisões em relações à frações". 
+-  Assim, pra facilitar a vida da gente, apareceu a Curva Normal Padrão.
+
+___
+
+### Curva Normal Padrão e Escore Z (z-score)
+
+- Curva Normal medida em "unidades de desvio-padrão". 
+  - Z = ( x - x.barra ) / d
+    - x.barra = Média
+    - d = desvio-padrão
+    - x = valor da amostra
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/72c7380d-537d-411b-ae4a-0ccae45326f9)
+
+- Imaginemos uma curva normal padrão, semelhante à cobra que comeu um elefante (O Pequeno Príncipe) e o chapéu.
+- O formato dessa curva é igual, mesmo que as proporções sejam diferentes (se a média é grande, a curva fica mais alta, mas o formato geral é o mesmo).
+- Os caras pensaram _"vamos criar uma curva normal onde a unidade de medida seja o desvio-padrão, a média=mediana=moda será o zero, e a curva vai ter área 1"_.
+  - A curva tem área 1, a probabilidade abaixo da curva é de 100%, sendo a área total (-∞ até +∞) é 1. Tudo que pode acontecer está dentro dessa curva.
+- Qual a vantagem da Curva Normal Padrão?
+  - Podemos usar a Tabela Escore Z. Essa tabela representa a relação entre
+  - Tabela: https://www.ime.unicamp.br/~cnaber/tabela_normal.pdf
+  - A média é 0 (zero).
+  - A unidade de medida é o desvio-padrão (0, +1d, +2d, +3d) e também o inverso (-1s, -2s, -3s).
+  - No exemplo da altura, a média é 170 cm e o desvio-padrão era +/- 10 cm.
+  - Não me interessa saber o valor do desvio-padrão, não sei e não interessa saber, pois ao calcular o z-score (escore Z) vamos anular a necessidade de saber o valor.
+- O Escore Z é dado pela fórmula: ``` Z = ( x - x.barra ) / desvio-padrão ```
+- Pegamos o valor da amostra que queremos encontrar, subtraímos da média, e dividimos pelo desvio-padrão.
+  - No exemplo da altura:
+    - A média será 0, com o valor de 170 cm. O desvio-padrão é uma variação de 10 cm.
+    - Vamos pensar numa variação de 1,5x desvio-padrão, ou seja, na tabela, para 1,5 x 0.00, temos o valor de 0,9332.
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7465f783-776b-4466-89ab-d5752564716b)
+    - Logo, isso representa que a probabilidade de -infinito, até o ponto onde quero achar (1,5 * desvio-padrão), ou seja, +1,5d, o somatório dessa probabilidade (-∞, -3d, -2d, -1d, 0, +1d, ..., +1,5d) será de 93,32% de chances de, aleatoriamente, encontrar alguém com 185 cm ou menos.
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/ba575aa3-7bb7-4ae9-b6da-92831984b4ee)
+
+-  
