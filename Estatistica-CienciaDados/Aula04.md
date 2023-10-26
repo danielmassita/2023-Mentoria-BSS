@@ -120,9 +120,15 @@ ___
     - Tabela > -∞ até média = 0,5000, até 1,5d = 0,9332, ou seja, 93,32%.
     - Então, P = (1 - 0,9332) = (100% - 93,32%), ou seja, aproximadamente, 0,0668, ou seja, 6,68% de chances.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/547fc781-bd48-4c5e-b219-70ebed97dd54)
-     
+  - Usando as fórmulas, vamos para o Escore Z.
+  - Vamos calcular um índice de Z que será o meu índice aqui nessa tabela (o Z), que é uma tabela medida em desvio-padrões.
+  - Nosso Z será ``` Z = (amostra - média) / desvio-padrão ```
+  - ``` Z = ( 185 - 170 ) / 10 ``` que vai resultar em ``` Z = 15 / 10 ``` então o Z será ``` Z = 1,500 ```
+  - Na tabela, na vertical temos os valores inteiros ( 1,5 primeira decimal ) e, também à coluna Z horizontal ( segunda decimal do acréscimo ) + 0,0, ou seja 1,5 + 0.0 = 1,500.
+  - Se procurássemos, por exemplo, Z = 2,23, teríamos de procurar na vertical 2,2 e na horizontal 0,03 = 2,23 que é uma Probabilidade de 0,9871 ou 98,71%.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/6ec16729-c5d9-43bd-adf9-77219340ef54)
  
-     
+
 - **Exemplo 2**
 - A média de acertos em um exame com 100 questões foi de 70 questões, com desvio-padrão de 5 questões. Qual a probabilidade da nota de um examinando aleatório ser de 90?
   - 
