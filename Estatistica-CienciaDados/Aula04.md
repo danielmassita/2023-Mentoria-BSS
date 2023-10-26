@@ -88,7 +88,7 @@ ___
   - A unidade de medida é o desvio-padrão (0, +1d, +2d, +3d) e também o inverso (-1s, -2s, -3s).
   - No exemplo da altura, a média é 170 cm e o desvio-padrão era +/- 10 cm.
   - Não me interessa saber o valor do desvio-padrão, não sei e não interessa saber, pois ao calcular o z-score (escore Z) vamos anular a necessidade de saber o valor.
-- O Escore Z é dado pela fórmula: ``` Z = ( x - x.barra ) / desvio-padrão ```
+- O Escore Z é dado pela fórmula: ``` Z = ( x - média ) / desvio-padrão ```
 - Pegamos o valor da amostra que queremos encontrar, subtraímos da média, e dividimos pelo desvio-padrão.
   - No exemplo da altura:
     - A média será 0, com o valor de 170 cm. O desvio-padrão é uma variação de 10 cm.
@@ -97,4 +97,32 @@ ___
     - Logo, isso representa que a probabilidade de -infinito, até o ponto onde quero achar (1,5 * desvio-padrão), ou seja, +1,5d, o somatório dessa probabilidade (-∞, -3d, -2d, -1d, 0, +1d, ..., +1,5d) será de 93,32% de chances de, aleatoriamente, encontrar alguém com 185 cm ou menos.
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/ba575aa3-7bb7-4ae9-b6da-92831984b4ee)
 
--  
+___
+
+### Façamos mais um novo exemplo! 
+
+- **Exemplo 1**
+- Suponhamos que a média da altura da população masculina brasileira é de 170 cm, com desvio-padrão de 10 cm. Qual a probabilidade de um homem escolhido ao acaso em meio a essa população ter mais de 185 cm?
+  - Começamos com os dados:
+    - *Qual o **P(x > 1,85 m)**?* 
+    - d = 0,1
+    - (x.barra) ou média = 1,70
+    - Vamos calcular, da média (metade da curva), até +1,5 desvio-padrão (no caso, 10 cm + 5 cm).
+    - Ora, vamos medir o número em "desvios-padrões" de unidades, ou seja, +1,5d (ou +1,5s)
+    - média   |---- +1,5 * desvio-padrão
+    -   0     |---- +1,5d
+    -  170cm  |---- +15cm
+   
+    
+  - P ( x < 185 cm) é toda a área de -∞ até 1,85m.
+  - Ora, sabemos que a soma da probabilidade total é 1, ou seja, é de 100%.
+    - Então, estamos querendo calcular o complemento, ou seja, 1 - essa probabilidade (da tabela).
+    - Tabela > -∞ até média = 0,5000, até 1,5d = 0,9332, ou seja, 93,32%.
+    - Então, P = (1 - 0,9332) = (100% - 93,32%), ou seja, aproximadamente, 0,0668, ou seja, 6,68% de chances.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/547fc781-bd48-4c5e-b219-70ebed97dd54)
+     
+ 
+     
+- **Exemplo 2**
+- A média de acertos em um exame com 100 questões foi de 70 questões, com desvio-padrão de 5 questões. Qual a probabilidade da nota de um examinando aleatório ser de 90?
+  - 
