@@ -140,4 +140,3 @@ ___
 
 - Exemplo 2
 - A média de acertos em um exame com 100 questões foi de 70 questões, com desvio-padrão de 5 questões. Qual a probabilidade da nota de um examinando aleatório ser de 90?
-  - 
