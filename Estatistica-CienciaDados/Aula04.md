@@ -140,3 +140,11 @@ ___
 
 - Exemplo 2
 - A média de acertos em um exame com 100 questões foi de 70 questões, com desvio-padrão de 5 questões. Qual a probabilidade da nota de um examinando aleatório ser de 90?
+- Obtivemos eses dados, de média e desvio-padrão:
+  - Usando a curva normal, sabemos que a média é de 70 questões.
+  - Usando a curva normal, sabemos que o desvio-padrão é de 5 questões.
+  - -------------------- | 70  questões | -------------------    ```x.barra = média```
+  - -----------------|65q|-- | 70 q | --|75q|----------------    ``` -1d | 0 | +1d ```
+  - ----------|60q|--|65q|-- | 70 q | --|75q|--|80q|---------    ``` -2d | -1d | 0 | +1d | +2d ```
+  - ---|55q|--|60q|--|65q|-- | 70 q | --|75q|--|80q|--|85q|--    ``` -3d | -2d | -1d | 0 | +1d | +2d | +3d ```
+  - 
