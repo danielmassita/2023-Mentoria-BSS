@@ -127,8 +127,17 @@ ___
   - Na tabela, na vertical temos os valores inteiros ( 1,5 primeira decimal ) e, também à coluna Z horizontal ( segunda decimal do acréscimo ) + 0,0, ou seja 1,5 + 0.0 = 1,500.
   - Se procurássemos, por exemplo, Z = 2,23, teríamos de procurar na vertical 2,2 e na horizontal 0,03 = 2,23 que é uma Probabilidade de 0,9871 ou 98,71%.
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/6ec16729-c5d9-43bd-adf9-77219340ef54)
- 
+  - Pergunta: "Ali na tabela de distribuição normal, no pdf, tem P ( Z < z ), e tem outra página com valores negativos.
+    - O z (zezinho) é o valor que buscamos na tabela. 
+    - Na primeira página, temos os valores positivos de Z. Na segunda página, temos os valores negativos de Z. Como a curva normal é simétrica, um lado é igual ao outro.
+    - Se quiser calcular -0,3, é só imaginar que está do outro lado, e subtrair de um.
+    - A segunda página representam as probabilidades "do lado de cá" da média (abaixo da média); por exemplo, em z = -2d, temos toda a área de -infinito até -2d.
+    - É a mesma coisa que calcular tudo (dos dois lados) e subtrair de 1, sendo o resultado o restante (valor super baixo, pois tende de -∞ até -2d (no exemplo da altura, menores que 150 cm). Seria o total de Z = 2.00 (resultado é de 0,9772) e subtrair de 1, ou seja, ```1 - 0,9772 = 0,0228``` ou 2,28% de chances.  
+    - Áreas equivalentes pois a curva é simétrica. A segunda página é o Índice Z negativo (desvio-padrão negativos).
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/0994c17a-5a3f-40e2-b42c-fc42233fd69a)
 
-- **Exemplo 2**
+___
+
+- Exemplo 2
 - A média de acertos em um exame com 100 questões foi de 70 questões, com desvio-padrão de 5 questões. Qual a probabilidade da nota de um examinando aleatório ser de 90?
   - 
