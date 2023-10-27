@@ -143,8 +143,31 @@ ___
 - Obtivemos eses dados, de média e desvio-padrão:
   - Usando a curva normal, sabemos que a média é de 70 questões.
   - Usando a curva normal, sabemos que o desvio-padrão é de 5 questões.
+
+- **Pergunta-se:**
+  - Qual a probabilidade de uma nota de um examinando aleatório ser de 90 questões?
+  - E agora, qual a chance de encontrar ao acaso alguém com nota maior que 80 questõe?
+  - Ademais, qual a chance de alguém, aleatoriamente, ter um resultado menor que 60 questões?
+
+- Vamos resolver questão por questão:
+  - Montamos a tabela, com média (x.barra) = 70. Pra cada desvio-padrão, aumentamos E reduzimos 5 questões, ou seja, para +1d e -1d, temos 65 e 75. Para +2d/-2d, temos 60 e 80. Vamos plotar essa curva num primeiro momento, e depois também uma nova curva normal padrão com x.barra (média) = 0. E desvios-padrões como +1s/-1s, +2s/-2s, +3s/-3s...
+  -  
   - -------------------- | 70  questões | -------------------    ```x.barra = média```
   - -----------------|65q|-- | 70 q | --|75q|----------------    ``` -1d | 0 | +1d ```
   - ----------|60q|--|65q|-- | 70 q | --|75q|--|80q|---------    ``` -2d | -1d | 0 | +1d | +2d ```
-  - ---|55q|--|60q|--|65q|-- | 70 q | --|75q|--|80q|--|85q|--    ``` -3d | -2d | -1d | 0 | +1d | +2d | +3d ```
-  - 
+  - ---|55q|--|60q|--|65q|-- | 70 q | --|75q|--|80q|--|85q|--    ``` -3d | -2d | -1d | 0 | +1d | +2d | +3d ``` 
+  -
+  
+  - Para encontrar a probabilidade aleatória de um resultado de 90 questões?
+    - ```P (x > 90 questões)```, usamos a tabela Escore-Z, ``` Z = (x - média)/desvio ``` que será ``` Z = (90-70)/5 ```, simplificando, ``` Z = (20/5) ``` então ``` Z = 4 ```, ora, para um Z igual a 4, não temos essa aproximação na tabela (vai somente até +3,99) sendo o total igual a 1 (área probabilística abaixo da curva). Então, temos uma chance de 0% (nulo) de alguém ter marcado 90 questões, aleatoriamente.
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/47c72aa2-23b0-48e6-b3cd-7ae7bfabf0e9)
+
+  - Para encontrar a probabilidade aleatória de um resultado maior (/igual?) 80 questões?
+    - ```P (x > 80 questões)```, usamos a tabela Escore-Z, ``` Z = (x - x.barra)/desvio ``` que será ``` Z = (80-70)/5 ```, simplificando, ``` Z = (10/5) ``` então ``` Z = 2 ```, ora, para um Z igual a 2,00, temos aproximação na tabela (vertical 2,0 e horizontal *,00) sendo o total da área igual a 0,9772 ou **97,72%**. A área probabilística abaixo da curva, da diferença para além de +2d, é a diferença entre +2s até +∞. Como a área total de -∞ até +∞ é igual a 1, vamos calcular a área entre +∞ e +2d = ``` 1,0000 - 0,9772 ``` que é o mesmo de ``` 2,28% ```. Então, temos uma chance de 2,28% (+2d até +∞) de alguém ter marcado 80 questões ou mais, aleatoriamente.
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c010198e-d162-4d27-8bb6-be609e66f2d1)
+
+  - Para encontrar a probabilidade aleatória de um resultado menor (/igual?) 60 questões?
+    - ```P (x < 60 questões)```, usamos a tabela Escore-Z, ``` Z = (x - média)/desvio ``` que será ``` Z = (60-70)/5 ```, simplificando, ``` Z = (-10/5) ``` então ``` Z = -2 ```, ora, para um Z igual a -2,00, temos aproximação na tabela (vertical -2,0 e horizontal 0,00) sendo o total da área igual a 0,0228 ou **2,28%**. A área probabilística abaixo da curva e à esquerda, da diferença para antes de -2d, é a diferença entre -∞ até -2d. Como a área total de -∞ até +∞ é igual a 1, vamos calcular a área entre -∞ e -2d = ``` 0,0000 + 0,0228 ``` que é o mesmo de ``` 2,28% ```. Então, temos uma chance de 2,28% (-∞ até -2s) de alguém ter marcado 60 questões ou menos, aleatoriamente.
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e6bac909-2495-4268-a58a-cacf0315a1c0)
+
+  
