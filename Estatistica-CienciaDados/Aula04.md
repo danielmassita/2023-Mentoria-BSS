@@ -1,7 +1,7 @@
 # Programa de Mentoria BSS 2023
 # Estatística e Ciência de Dados
 
-```[https://youtu.be/gMHd8GNTz4o?si=y5Z2xXd40e9jIJ5S](https://www.youtube.com/live/2y4jijQE5kI?si=cbIhWN-A3vpr7F_0)```
+```https://www.youtube.com/live/2y4jijQE5kI?si=cbIhWN-A3vpr7F_0```
 
 ## Estatística e Ciência de Dados - Aula 04
 
@@ -170,4 +170,8 @@ ___
     - ```P (x < 60 questões)```, usamos a tabela Escore-Z, ``` Z = (x - média)/desvio ``` que será ``` Z = (60-70)/5 ```, simplificando, ``` Z = (-10/5) ``` então ``` Z = -2 ```, ora, para um Z igual a -2,00, temos aproximação na tabela (vertical -2,0 e horizontal 0,00) sendo o total da área igual a 0,0228 ou **2,28%**. A área probabilística abaixo da curva e à esquerda, da diferença para antes de -2d, é a diferença entre -∞ até -2d. Como a área total de -∞ até +∞ é igual a 1, vamos calcular a área entre -∞ e -2d = ``` 0,0000 + 0,0228 ``` que é o mesmo de ``` 2,28% ```. Então, temos uma chance de 2,28% (-∞ até -2s) de alguém ter marcado 60 questões ou menos, aleatoriamente.
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e6bac909-2495-4268-a58a-cacf0315a1c0)
 
+  - Para encontrar a probabilidade aleatória de um resultado menor (/igual?) 60 questões E também maior (/igual?) a 80 questões?
+    - ```P (x < 60 E x > 80) ```, usamos a tabela Escore-Z,, ora, para um Z igual a -2,00, temos aproximação na tabela (vertical -2,0 e horizontal 0,00) sendo o total da área igual a 0,0228 ou **2,28%**. A área probabilística abaixo da curva e à direita, OPOSTA À ÚLTIMA, da diferença para depois de +2d, é o mesmo valor entre (-∞ até -2d) e (-+2d até +∞). Como a área total de -∞ até -2s é igual a 2,28%, calcular a área oposta, mesmo valor, igual a 2,28%. Somando as probabilidades, temos ``` 0,0228 + 0,0228 ``` que resulta em ``` 4,56% ```. Então, temos uma chance de 4,56% (-∞ até -2s E +2d até +∞) de alguém ter marcado < 60 questões e > 80 questões, aleatoriamente. O inverso, é a área de abrangência (range -2s até +2s) do gráfico do começo da aula! 
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/fe649cdc-80a4-4b46-87c7-2fd0edb74d14)
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/0aa601a7-343a-433c-9db8-b7f8299dbcfe)
   
