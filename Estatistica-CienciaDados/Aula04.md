@@ -174,4 +174,22 @@ ___
     - ```P (x < 60 E x > 80) ```, usamos a tabela Escore-Z,, ora, para um Z igual a -2,00, temos aproximação na tabela (vertical -2,0 e horizontal 0,00) sendo o total da área igual a 0,0228 ou **2,28%**. A área probabilística abaixo da curva e à direita, OPOSTA À ÚLTIMA, da diferença para depois de +2d, é o mesmo valor entre (-∞ até -2d) e (-+2d até +∞). Como a área total de -∞ até -2s é igual a 2,28%, calcular a área oposta, mesmo valor, igual a 2,28%. Somando as probabilidades, temos ``` 0,0228 + 0,0228 ``` que resulta em ``` 4,56% ```. Então, temos uma chance de 4,56% (-∞ até -2s E +2d até +∞) de alguém ter marcado < 60 questões e > 80 questões, aleatoriamente. O inverso, é a área de abrangência (range -2s até +2s) do gráfico do começo da aula! 
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/fe649cdc-80a4-4b46-87c7-2fd0edb74d14)
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/0aa601a7-343a-433c-9db8-b7f8299dbcfe)
-  
+
+___
+
+### Resumindo...
+
+- Distribuição Normal (Curva de Gauss)
+  - Média = Mediana = Moda
+  - Pode ser usada para aproximar outras distribuições
+  - Pode ser "convertida" para uma "curva normal padrão" para facilitar cálculos.
+- Curva Normal Padrão (e tabela Escore Z)
+  - ```Z = ( x - x.barra ) / d ```
+    - x.barra = Média = zero
+    - d ou s = Desvio-Padrão = unidades de desvio +/- da média
+    - x = valor da amostra
+    - Z = área sob a curva (de 0 até 1) 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7fa7ec25-c44e-41c2-9a28-5513f8f81a3f)
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/da731f45-e9de-43c3-a2d5-76a85ccefa92)
+
+FIM!
