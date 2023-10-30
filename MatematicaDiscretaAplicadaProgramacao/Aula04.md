@@ -51,4 +51,11 @@ ___
 
 ### Cuidado com as Falácias! 
 
-- Slippery Slopes, Fake News, Falácias, etc... Cuidado com afirmações do tipo A ⇒ B (A implica B). 
+- Slippery Slopes, Fake News, Falácias, etc... Cuidado com afirmações do tipo A ⇒ B (A implica B).
+- Ajudando a galera com o "problema do processo seletivo"... Em Lógica, eu só sei aquilo que posso garantir com base nas premissas. Só isso, qualquer outra coisa é uma suposição.
+  - Aqui temos um Conjunto Universo (U), um Conjunto dos Cavalos (C) e o Conjunto dos Eqüinos (E). Ao dizer, no enunciado, que "Tsuguru é um Eqüino" existe uma afirmação que pode garantir que um elemento Fulano está nesse setor amarelo (inclusive conjunto Cavalos), então EM TESE o Tsuguru pode ser um cavalo, mas na lógica não vivemos de "pode ser", mas sim apenas o que pode ser dito COM CERTEZA. **A Lógica é Categórica, é Declarativa, é Assertiva (to assert: ss vs. acerto: c)**. Tsuguru até pode ser um cavalo, mas não posso concluir que ele é. Existe uma IMENSA distância entre "pode ser" e o "é". O Ed poderia ser o Brad Pitt disfarçado, mas não é. Quando declaramos que ALGO É, é uma instância única, não tem erro. Quando dizemos que Tsuguru é um Eqüino, há diversas possibilidades. Logo, não podemos fazer essa afirmação.
+  - Se nós invertéssemos a ordem, e disséssemos que _"Tsuguru é um Cavalo"_ (conjunto menor), teríamos que, com certeza ele é um Eqüino: ``` ( C ⊂ E ) | t ∈ C ⇒ t ∈ E ```
+  - Se (t ∈ C) e (C ⊂ E) ∴ seguramente (t ∈ E). ``` ( C ⊂ E ) | t ∈ C ⇒ t ∈ E ``` VERDADEIRO
+  - Porém, (t' ∈ E) e (C ⊂ E) ∴ (t' ∈ E), mas não é certo que (t' ∈ C), embora até pudésse ser... FALSO
+  - Matemáticos são chatos, pois exigem muito da linguagem. Um pequeno detalhe da linguagem pode mudar toda a realidade do que se está afirmando.
+  - 
