@@ -66,3 +66,6 @@ ___
   - Na matemática, medimos a distância baseado no Teorema de Pitágoras, a distância de r² é a soma dos quadrados dos catetos (a² + b²).
   - ``` r² = (a² + b²) ``` O quadrado da hipotenusa (r²) é igual à soma dos quadrados dos catetos (a² + b²). Trata-se de uma **"Bola Euclidiana"**.
   - 
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5562144d-3f43-4c0c-bbc7-f0d5893388a8)
+  - IMG2
+
