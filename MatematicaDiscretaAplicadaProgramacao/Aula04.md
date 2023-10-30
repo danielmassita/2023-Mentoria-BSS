@@ -67,5 +67,6 @@ ___
   - ``` r² = (a² + b²) ``` O quadrado da hipotenusa (r²) é igual à soma dos quadrados dos catetos (a² + b²). Trata-se de uma **"Bola Euclidiana"**.
   - 
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5562144d-3f43-4c0c-bbc7-f0d5893388a8)
-  - IMG2
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/6fc90c0e-5bd9-48c1-983c-04c1321dbeb3)
+
 
