@@ -22,7 +22,6 @@ ___
 - Palavras que qualificam em termos de relação ao Conj. Universo, os elementos que estamos tratando...
   - Usando essa frase pra "sair do real". Nomes absurdos pra "fugir" da realidade, pois na aula passada houve uma dúvida e respondemos: "A premissa não deve ter relação com a realidade!", num exercício de lógica, temos de abstrair as "verdades" acostumadas, observar APENAS o enunciado, e não supôr aquilo que não foi declarado.
   - **Só é Verdadeiro num problema de lógica aquilo que foi declarado como Verdadeiro** ("toda as galinhas são mamíferos..."), mesmo que essa frase não seja a realidade como a percebemos. Não se pode presumir nada, não se pode assumir nada, que não tenha sido declarada. Assim, com base nessa abstração, Aristóteles pôde classificar 64 tipos de Silogismos, e apenas 16 tipos concluem coisas Verdadeiras.
- 
 
 - Por exemplo:
 - PM (Premissa Maior): ``` "Todos os Plics são Rastabuns." ``` 
