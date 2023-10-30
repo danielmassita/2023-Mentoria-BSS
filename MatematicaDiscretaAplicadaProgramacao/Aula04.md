@@ -8,4 +8,13 @@ ___
 ## Matemática Discreta Aplicada à Programação - Aula 04
 
 - Retomando a última aula, abordamos um tema importante que foram os **QUANTIFICADORES**.
-- 
+- Quantificadores Universais (Todo, Sempre, Alguns, Nenhum); Contra-Exemplos (todo número primo é ímpar vs. 2 é par); Silogismos e Aristóteles (PM como Premissa Maior, Pm como Premissa menor, C como conclusão).
+  - Dica de treino, é pensar a lógica, as informações, pensar no "espaço complementar".
+  - "Todo A é B..." podemos pensar no A sendo parte de B, e o espaço complementar (~B) em roxo. Se acharmos um ponto de A e também de ~B, então a afirmação é falsa. Se não achar, não quer dizer que é verdadeira, trata-se de uma "ausência de evidências". Não quer dizer que não existe essa pessoas, quer dizer apenas que você não encontrou essa pessoa/ponto.
+  - Ausência de evidência não é evidência de ausência!"
+  - Não se pode dizer que o "oposto é verdadeiro". Por exemplo, não existe "prova negativa" na lógica. Eu não posso provar logicamente que deus não existe.
+- Premissas Universais, Silogismos e hoje vamos trabalhar com mais exemplos! 
+
+___
+
+### asdf
