@@ -58,4 +58,11 @@ ___
   - Se (t ∈ C) e (C ⊂ E) ∴ seguramente (t ∈ E). ``` ( C ⊂ E ) | t ∈ C ⇒ t ∈ E ``` VERDADEIRO
   - Porém, (t' ∈ E) e (C ⊂ E) ∴ (t' ∈ E), mas não é certo que (t' ∈ C), embora até pudésse ser... FALSO
   - Matemáticos são chatos, pois exigem muito da linguagem. Um pequeno detalhe da linguagem pode mudar toda a realidade do que se está afirmando.
+ 
+  
+- _"Mas tem que ter a ver com a realidade?"_ Não. Vamos aprender a abstrair... Tipo a famosa "Bola Quadrada".
+- Na matemática, quando eu DEFINO bola, podemos trabalhar de acordo com a definição.
+  - Na matemática, BOLA é um conjunto de pontos que está a uma mesma distância (1 un.) do centro (no caso, o raio = r = 1 un.).
+  - Na matemática, medimos a distância baseado no Teorema de Pitágoras, a distância de r² é a soma dos quadrados dos catetos (a² + b²).
+  - ``` r² = (a² + b²) ``` O quadrado da hipotenusa (r²) é igual à soma dos quadrados dos catetos (a² + b²). Trata-se de uma **"Bola Euclidiana"**.
   - 
