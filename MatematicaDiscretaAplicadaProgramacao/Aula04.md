@@ -17,4 +17,9 @@ ___
 
 ___
 
-### asdf
+### Silogismos e Quantificadores
+
+- Palavras que qualificam em termos de relação ao Conj. Universo, os elementos que estamos tratando...
+- Por exemplo: ``` "Todos os Plics são Rastabuns." ```
+  - Usando essa frase pra "sair do real". Nomes absurdos pra "fugir" da realidade, pois na aula passada houve uma dúvida e respondemos: "A premissa não deve ter relação com a realidade!", num exercício de lógica, temos de abstrair as "verdades" acostumadas, observar APENAS o enunciado, e não supôr aquilo que não foi declarado.
+-  
