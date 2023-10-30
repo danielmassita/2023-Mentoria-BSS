@@ -1,11 +1,11 @@
 # Programa de Mentoria BSS 2023
 # Matemática Discreta Aplicada à Programação
 
-``` ```
+``` https://www.youtube.com/live/UtP1aIrQ5xc?si=48W9ABl3YCVZxP7e ```
 
 ___
 
-## Matemática Discreta Aplicada à Programação - Aula 03
+## Matemática Discreta Aplicada à Programação - Aula 04
 
-- Nessa aula, vamos abordar um tema importante que serão os **QUANTIFICADORES**.
-- Numa sentença, eu atribuo uma quantidade de predicados pra uma determinada afirmação. Vamos ao exemplo:
+- Retomando a última aula, abordamos um tema importante que foram os **QUANTIFICADORES**.
+- 
