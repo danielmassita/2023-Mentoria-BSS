@@ -47,3 +47,8 @@ ___
     - A Estrutura é mais importante do que o que é dito (cavalo, rastabuns, eqüinos, plics, terraplanistas, extremistas, etc.)
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c29d85b2-ab75-43b7-bf81-b2a7e504aff1)
 
+___
+
+### Cuidado com as Falácias! 
+
+- Slippery Slopes, Fake News, Falácias, etc... Cuidado com afirmações do tipo A ⇒ B (A implica B). 
