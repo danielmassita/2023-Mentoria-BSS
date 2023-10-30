@@ -20,6 +20,18 @@ ___
 ### Silogismos e Quantificadores
 
 - Palavras que qualificam em termos de relação ao Conj. Universo, os elementos que estamos tratando...
-- Por exemplo: ``` "Todos os Plics são Rastabuns." ```
   - Usando essa frase pra "sair do real". Nomes absurdos pra "fugir" da realidade, pois na aula passada houve uma dúvida e respondemos: "A premissa não deve ter relação com a realidade!", num exercício de lógica, temos de abstrair as "verdades" acostumadas, observar APENAS o enunciado, e não supôr aquilo que não foi declarado.
--  
+  - **Só é Verdadeiro num problema de lógica aquilo que foi declarado como Verdadeiro** ("toda as galinhas são mamíferos..."), mesmo que essa frase não seja a realidade como a percebemos. Não se pode presumir nada, não se pode assumir nada, que não tenha sido declarada. Assim, com base nessa abstração, Aristóteles pôde classificar 64 tipos de Silogismos, e apenas 16 tipos concluem coisas Verdadeiras.
+ 
+
+- Por exemplo:
+- PM (Premissa Maior): ``` "Todos os Plics são Rastabuns." ``` 
+- Pm (Premissa menor): ``` "Tsuguru é um Plic." ```
+- C (Conclusão): ``` "" ```
+  - **Posso concluir que Tsuguru é um Rastabun?** Resposta: Sim. Pois esse tipo de silogismo é um dos 16 silogismos Verdadeiros.
+  - Na prática, esse silogismo ele pega o Conjunto Universo (de todas as criaturas com nomes esquisitos) e diz que existe um Conjunto dos Plics. E diz que "todos os Plics são Rastabuns", então tem a Categoria dos Rastabuns. O Conjunto P (dos Plics) ESTÁ CONTIDO no Conjunto R (dos Rastabuns), ambos dentro dum Universo possível.
+  - ``` ( P ⊂ R ) | x ∈ P ⇒ x ∈ R ``` Qualquer elemento do conjunto dos Plics, isso também implicará que ele está dentro do Conjunto Rastabuns. 
+  - Essa estrutura que faz uma **"Universal Afirmativa"** do Conjunto A para o Conjunto B (Todos os Plics pertencem ao conjunto Rastabuns), e depois individualiza um único sujeito do conjunto menor (plics), sempre poderemos tomar essa conclusão.
+
+- Por exemplo:
+-   
