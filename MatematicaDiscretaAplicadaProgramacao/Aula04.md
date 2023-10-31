@@ -97,5 +97,28 @@ ___
   - #define A + B = A - B
   - Daqui em diante, o COMPILER vai tratar todos os "x + y" e aplicar "x - y", pois não é a realidade per si, mas sim aquela DEFINIDA.
   - Antigamente, escreviam-se "#defines" pra criptografar o próprio código (e proteger os "direitos autorais"), ou seja, para atrapalhar, a fim de "obfuscar", diferente da BSS.
-- Realidade é relativa!   
+- Realidade é relativa! Precisamos entender que em Lógica, dependemos das Definições.       
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/8bb5755e-52d7-4954-8e03-4c2b59ea5930)
+
+___
+
+### Lógica é uma Álgebra, Computação Quântica, Evolução Humana e Inteligência Ampliada
+
+- **A Lógica é uma Álgebra**:
+  - Álgebra é um terno (um conjunto e duas operações) <A, &, $>, sendo (x, y ∈ A) ∴ (a & b = r1), (a $ b = r2), qualquer operação que seja feita deverá ter resultado pertencente ao conjunto A. Por isso consideremos o **"conjunto fechamento"**.
+    - a,b ∈ ℕ são fechados pra soma, pois qualquer a + b Natural só resultará em um número Natural.
+    - a,b ∉ ℕ não é fechado pra subtração, pois 4 - 8 = negativo, então deixa de ser Natural e passa a ser Inteiro.
+  - A Lógica é uma Álgebra com as operações E (representamos por ∧ ) e OU (representamos por ∨ ), sendo que o Conjunto da Lógica é Binário (Verdadeiro ou Falso).
+    - ``` Lógica é uma Álgebra, pois possui um Conjunto (B) e duas Operações E e OU. ```
+    - ``` < B, ∧, ∨ >, B = {V,F} ```
+    - Essa é a Álgebra Booleana, então toda lógica será definida por essa álgebra.
+  - Computação Quântica, é uma partícula P associada a quatro números quânticos (sharp, principal, difuse, fundamental), e alguns números são CONTÍNUOS:
+    - sharp = gira pra um lado ou outro (- ou +)...
+    - difuse |-----> é um "range" entre 0 e alguma coisa...
+    - Uma partícula quântica ao invés de um bit, temos uma lógica muito mais complexa e sofisticada.
+  - Nos dedicamos a ensinar computadores como gente. Mas podemos melhorar quando ensinarmos as pessoas a pensarem como computadores.
+  - No romance "Duna", os "mentats" eram pessoas ensinadas desde o nascimento a pensarem como máquinas usando suas capacidades biológicas cerebrais.
+- Em programação, é necessário reduzir a carga de trabalho pra poder clarear a mente...
+
+___
 
