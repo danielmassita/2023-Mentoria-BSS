@@ -120,5 +120,4 @@ ___
   - No romance "Duna", os "mentats" eram pessoas ensinadas desde o nascimento a pensarem como máquinas usando suas capacidades biológicas cerebrais.
 - Em programação, é necessário reduzir a carga de trabalho pra poder clarear a mente...
 
-___
-
+FIM!
