@@ -80,6 +80,8 @@ ___
     - Não é a _"palavra que importa, mas sim a definição que damos..."_ 
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5562144d-3f43-4c0c-bbc7-f0d5893388a8)
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/6fc90c0e-5bd9-48c1-983c-04c1321dbeb3)
+  - ![image](http://www.mat.ufpb.br/~lenimar/seno.gif)
+  - ![image](http://www.mat.ufpb.br/~lenimar/cosseno.gif)
 
 ___
 
