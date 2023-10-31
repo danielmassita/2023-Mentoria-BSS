@@ -82,4 +82,4 @@ ___
 - A direção do vetor é o ângulo em relação à reta suporte (no caso padrão, eixo x). 
 - A Direção do vetor é a inclinação do ângulo = θ (theta).
 - A ```Inclinação (aka. Direção) α desse vetor é a Tangente αº (tg α)``` é para "onde" aponta o vetor, na reta do vetor, sendo que:
-- A tangente de alfa (Tg.α) é a relação entre o Cateto Oposto (eixo.y) e o Cateto Adjacente (eixo.x), que é a razão entre o Seno de Alfa (Sen.α) e  ``` (Tg.α) = (Sen.α)/(Cos.α) ``` 
+- A tangente de alfa (Tg.α) é a relação entre o Cateto Oposto (eixo.y) e o Cateto Adjacente (eixo.x), que é a razão entre o Seno de Alfa (Sen.α) e o Cosseno de Alfa (Cos.α) ``` Direção = Inclinação = (Tg.α) = (cateto oposto)/(cateto adjacente) = (Tg.α) = (Sen.α)/(Cos.α) ``` 
