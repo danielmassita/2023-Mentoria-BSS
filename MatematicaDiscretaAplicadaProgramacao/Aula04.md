@@ -65,8 +65,27 @@ ___
   - Na matemática, BOLA é um conjunto de pontos que está a uma mesma distância (1 un.) do centro (no caso, o raio = r = 1 un.).
   - Na matemática, medimos a distância baseado no Teorema de Pitágoras, a distância de r² é a soma dos quadrados dos catetos (a² + b²).
   - ``` r² = (a² + b²) ``` O quadrado da hipotenusa (r²) é igual à soma dos quadrados dos catetos (a² + b²). Trata-se de uma **"Bola Euclidiana"**.
-  - 
+  - Tomemos um eixo cartesiano, com um conjunto de pontos com raio = r. Isso será uma circunferência.
+    - A distância do centro até o arco de raio, será o próprio raio.
+    - Medimos a distância baseado no Teorema de Pitágora (h² = c² + c²) = (r² = a² + b²).
+    - Trata-se de uma "Bola Euclidiana"... Se mudarmos a maneira de calcular a distância... Imagine uma cidade com ruas paralelas...
+    - Estou no ponto A, num canto, e quero visitar alguém no canto B. Não posso usar a Distância Euclidiana, pra ir da minha casa A pra casa B, a menos que fosse um fantasma.
+    - Assim, pra medir a Distância, preciso andar de lado (distância = a) e depois subir (distância = b).
+    - Na circunferência, quando movemos o raio pra mais perto do eixo Y, a distância de Y aumenta (até igualar o raio) embora a distância de X diminua (relação de Senos e Cossenos?).
+    - Na cidade de ruas paralelas, se eu mudar o local da casa, subindo um quarteirão pra cima, embora uma rua mais perto, ficamos com um total de distâncias = 7, sendo a = 4 quarteirões + b = 3 quarteirões. Distância = 4 + 3. Se mudarmos a posição da casa, teremos de andar um quarteirão adicional pra cima, e subtrair um quarteirão da horizontal. Assim, todos os pontos estarão na mesma distância d = 7.
+    - Assim também funciona o raio, e os catetos que "se compensam".
+    - Então teremos que a distância é o deslocamento feito nas ruas paralelas, sendo que ``` d = |a| + |b| ```. ao final temos um gráfico em que podemos representar (r/2) no eixo x, (r/2) no eixo y, mas a reta que representa o raio será constante.  
+    - Assim, teremos uma "bola quadrada" pois usamos a lógica e implicamos os passos lógicos para produzí-la.
+    - https://pt.wikipedia.org/wiki/Bola_(matem%C3%A1tica)
+    - Não é a _"palavra que importa, mas sim a definição que damos..."_ 
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5562144d-3f43-4c0c-bbc7-f0d5893388a8)
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/6fc90c0e-5bd9-48c1-983c-04c1321dbeb3)
 
+___
+
+### A Linguagem é limitada...
+
+- Usamos algumas palavras "coringas" (trem, bagulho, coisar, coiso, etc.). Essa é a VARIÁVEL.
+- Coringa é aquela carta que podemos usar, de acordo com a regra aplicada. 
+- 
 
