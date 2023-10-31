@@ -19,6 +19,7 @@ ___
 
 ### Espaço Vetorial (definição formal)
 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/edcb8295-f4b9-46cc-8b44-e163d350ef0e)
 - Definição Formal de Espaço Vetorial:
 - ```"Um espaço vetorial V sobre um corpo F é um Conjunto, munido de duas operações (soma e multiplicação por escalar), que atende algumas propriedades."```
   - Espaço Vetorial V, Corpo F (de onde tiramos os escalares), duas operações (soma e multiplicação-escalar), atende algumas propriedades. 
@@ -58,6 +59,20 @@ ___
   - Distributividade da Multiplicação em relação à Adição de Vetores
   - Distributividade da Multiplicação em relação à Multiplicação de Escalares
 
-- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/edcb8295-f4b9-46cc-8b44-e163d350ef0e)
+___
 
-- Positivo e negativo são uma convenção. 
+### Relatividades
+
+- Pergunta: _"Quando temos um vetor bi-dimensional, sendo x=2 e y=-3, isso é um vetor com sentido Positivo, Negativo, ou tem um sentido misto?"_
+- No plano cartesiano, vetor centrado na origem (0,0), o vetor x=2, y=-3, vetor.(2,-3), chegamos a refletir que "positivo e negativo são convenções".
+- Quando trabalhamos vetores num plano, estou vendo deslocamentos (da origem (0,0) até ponto (2,-3) sendo uma caminhada). Se foi feito uma caminhada, houve um movimento de 2*módulo, mas não houve deslocamento referente ao ponto inicial.
+- Tudo depende do referencial, é essa a essência da Mecânica de Newton. A mecânica newtoniana é baseada em vetores, tudo dependerá do referencial.
+  - Velocidade, é grandeza vetorial. Saio do ponto A ao B, vetor origem -> destino. Velocidade é o deslocamento em função do tempo. Temos módulo da velocidade, direção e sentido (acelar, freiar pra mudar velocidade). Se eu tô num carro à 60km/h, e um carro me ultrapassa à +20km/h e se afasta nessa velocidade. Se considerássemos nossa partida na mesma origem, depois de uma hora, eu estaria no carro A há 60 km da origem, a outra pessoa no carro B à 80 km da origem, teríamos uma distância entre nós de 20 km, decorrido o tempo de 1h. Duas horas depois, 40 km de diferença. Nossa velocidade relativa é de apenas 20 km/h, relativos à mim.
+  - Por isso, sem referência, não sentimos o movimento de um veículo em velocidade constante (tipo uma caixa de vidros pretos sem ref.) Não podemos dizer que estamos em movimento. Precisamos sempre olhar pra referência de fora. Por isso, nos metrôs existem janelas, embora não se possa ver muito (pra evitar fobias). Exemplo do ônibus, quando estamos num ônibus parado, e o ônibus do lado começa a dar ré, a gente desequilibra, temos a impressão que estamos indo pra frente...
+  - Logo, não tem sentido Negativo e Positivo, mas sim SENTIDOS OPOSTOS. Não existe positivou ou negativo absoluto.
+  - Da mesma forma, o oposto, se estou dirigindo à 60 km/h e outro carro na minha direção vindo do sentido oposto à 80 km/h, vamos colidir como se estivesse parada a parede e o carro chegasse à 140km/h (60km/h + 80km/h).
+- Não confundir a Relatividade Newtoniana (tudo depende do referencial que eu adoto), com a Relatividade de Einstein e com o Relativismo Moral.
+  - Outro dia, alguém disse que Einstein falou que tudo é relativo, mas não é fato. Cuidado com computação quântica, massagem quântica, boquete quântico, relatividade espiritual, pessoas falam sobre coisas quânticas e relativísticas por charlatões.
+  - A Relatividade de Einstein vale pra um corpo de massa gigantesca (estrela, planeta) ou velocidades próximas da luz.
+  - Efeito Quântico, só é perpetível à nível de sub-partículas atômicas. Coach-quântico é um trapaceiro, charlatão, usa a desinformação sobre física pra ganhar dinheiro de trouxas.
+  - Voltamos pro Inverso Aditivo, o ```(vetor.u) = -(vetor.v)```, ou ``` vetor.u + (-vetor.v) = 0 ```.    
