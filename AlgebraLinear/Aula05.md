@@ -76,3 +76,10 @@ ___
   - A Relatividade de Einstein vale pra um corpo de massa gigantesca (estrela, planeta) ou velocidades próximas da luz.
   - Efeito Quântico, só é perpetível à nível de sub-partículas atômicas. Coach-quântico é um trapaceiro, charlatão, usa a desinformação sobre física pra ganhar dinheiro de trouxas.
   - Voltamos pro Inverso Aditivo, o ```(vetor.u) = -(vetor.v)```, ou ``` vetor.u + (-vetor.v) = 0 ```.    
+
+___
+
+- A direção do vetor é o ângulo em relação à reta suporte (no caso padrão, eixo x). 
+- A Direção do vetor é a inclinação do ângulo = θ (theta).
+- A ```Inclinação (aka. Direção) α desse vetor é a Tangente αº (tg α)``` é para "onde" aponta o vetor, na reta do vetor, sendo que:
+- A tangente de alfa (Tg.α) é a relação entre o Cateto Oposto (eixo.y) e o Cateto Adjacente (eixo.x), que é a razão entre o Seno de Alfa (Sen.α) e  ``` (Tg.α) = (Sen.α)/(Cos.α) ``` 
