@@ -48,6 +48,7 @@ ___
     - Agora usamos a Regra do Paralelograma: Um vetor.u de módulo |m| que vai, com mesma direção (inclinação ângulo = θ (theta)), um vetor.v de módulo |m| que volta, com mesma direção, ambos com sentidos opostos (um vai, outro volta), vai resultar em uma "volta ao ponto de origem", com deslocamento total de zero.
     - Como se anulam, o (vetor.u) é igual ao inverso do (vetor.-v): ``` vetor.u = -1 * (vetor.v) ``` e ``` (vetor.u) + (-vetor.v) = 0 ``` O vetor.v é o inverso aditivo do vetor.u.
     - É como andar 5m numa direção, voltar 5m dessa direção, mesmo tendo andado 10m, não houve deslocamento total (voltamos à origem). O deslocamento total é nulo.
+    - [Pergunta: digressão de 10' sobre relatividade, vide item seguinte]
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/1ef01907-7c34-49cc-b4c6-50e7040cca1a)
 
     
