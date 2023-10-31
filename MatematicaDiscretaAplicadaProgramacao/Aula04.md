@@ -92,5 +92,10 @@ ___
 - A partir do séc. XIX, tivemos vários pensadores que questionaram a Linguagem (Nietzsche, Wittgenstein, Kurt Gödel)
   - Para Nietzsche, a garrafa junta dois pedaços abstratos (som "garrafa" em inglês é [ˈbɒtl̩],[ˈbɑtɫ̩] (IPA, UK-En, US-En)) com a idéia de "contâiner usualmente cilíndrico pra conter líqüidos com tampa preferencialmente". Chamamos de SIGNO = Significante (STE) + Significado (SDO).
   - Dica da Rita Von Hunty, _"A Realidade é Subjetiva"_ ( https://www.youtube.com/watch?v=kdHmy0_Rkcw ), falando sobre Signos, Significante e Significados. 
-  - Em lógica matemática, temos de ABSTRAIR! 
+  - Em lógica matemática, temos de ABSTRAIR! Na dúvida, trocamos as "caixinhas" das "variáveis" por _"Todo A é B"_...
+- Em Linguagem C, podemos escrever no começo do script algo como "#define" que é um comando de pré-processador. O programa em C lê em duas etapas, primeiro os "define", "pragmas", "function" e depois faz a FASE DE COMPILAÇÃO usando as definições que foram dadas na primeira passada.
+  - #define A + B = A - B
+  - Daqui em diante, o COMPILER vai tratar todos os "x + y" e aplicar "x - y", pois não é a realidade per si, mas sim aquela DEFINIDA.
+  - Antigamente, escreviam-se "#defines" pra criptografar o próprio código (e proteger os "direitos autorais"), ou seja, para atrapalhar, a fim de "obfuscar", diferente da BSS.
+- Realidade é relativa!   
 
