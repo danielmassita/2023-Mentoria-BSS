@@ -87,5 +87,10 @@ ___
 
 - Usamos algumas palavras "coringas" (trem, bagulho, coisar, coiso, etc.). Essa é a VARIÁVEL.
 - Coringa é aquela carta que podemos usar, de acordo com a regra aplicada. 
-- 
+- Sofremos com conceitos novos e palavras antigas.
+- Em matemática, trabalhamos com conceitos muito elaborados/abstratos pois nos falta a linguagem...
+- A partir do séc. XIX, tivemos vários pensadores que questionaram a Linguagem (Nietzsche, Wittgenstein, Kurt Gödel)
+  - Para Nietzsche, a garrafa junta dois pedaços abstratos (som "garrafa" em inglês é [ˈbɒtl̩],[ˈbɑtɫ̩] (IPA, UK-En, US-En)) com a idéia de "contâiner usualmente cilíndrico pra conter líqüidos com tampa preferencialmente". Chamamos de SIGNO = Significante (STE) + Significado (SDO).
+  - Dica da Rita Von Hunty, _"A Realidade é Subjetiva"_ ( https://www.youtube.com/watch?v=kdHmy0_Rkcw ), falando sobre Signos, Significante e Significados. 
+  - Em lógica matemática, temos de ABSTRAIR! 
 
