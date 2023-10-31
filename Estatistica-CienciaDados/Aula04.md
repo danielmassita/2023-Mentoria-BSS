@@ -60,7 +60,8 @@ ___
 
 - Porém, a Curva Normal é uma Integral incalculável, não tem como calcular sem métodos numéricos. Não há uma técnica de integração que me permita fazer uma integral direta e calcular a área da curva normal. Então, usamos Métodos Numéricos (discuivo no futuro), mas basicamente, vamos calcular pedacinhos, transformando a curva em "pequenas barrinhas", cada vez mais próximas, cada vez mais finas, tendendo para um Limite (que será a área). Mas isso é MUITO TRABALHOSO!
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7b6cc449-8546-4265-b067-aea6ec76e50b)
-- http://www.mat.ufpb.br/~lenimar/integ.gif (clique para ver gif) - ![image](http://www.mat.ufpb.br/~lenimar/integ.gif)
+- http://www.mat.ufpb.br/~lenimar/integ.gif (clique para ver gif)
+- ![image](http://www.mat.ufpb.br/~lenimar/integ.gif)
 
 - Medida de erro muito grande, etc. Pois a cada "passo" preciso ver quanto eu perdi. Computadores eletrônicos digitais possuem um "erro" pra cada cálculo que fazemos, são os erros decimais (pi, 3,141592854367...) em algum ponto isso estará além da representação, então teremos uma aproximação do valor de pi no computador. Mesmo uma dízima periódica não será representada infinitamente, é uma limitação da maneira como os números são representados dentro dos computadores no registro de memória.
 - Quando fazemos um cálculo muito longo, muito preciso, com muitas coisas, sempre tem uma margem de erro grande, vai aumentando, quanto mais eu calculo mais eu preciso "armazenar".
