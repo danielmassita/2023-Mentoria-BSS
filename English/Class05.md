@@ -33,16 +33,16 @@ ___
 
 ___
 
-### New Vocabulary (to look fancy and write fiercely)
+### New Vocabulary (to look fancy) 
 
-- Social Crunch (?)
-  -  
-- Busy Environments
-  -  
 - Commuting
   - noun [ U ], US: /kəˈmjuː.t̬ɪŋ/ UK: /kəˈmjuː.tɪŋ/
   - the activity of traveling regularly between work and home:
-  - _"The new job will involve much less commuting."_  
+  - _"The new job will involve much less commuting."_
+- Social Crunch (?)
+  - 
+- Busy Environment
+  -  
 
 ___ 
 
