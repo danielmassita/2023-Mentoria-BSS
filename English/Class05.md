@@ -38,15 +38,15 @@ ___
 - Commuting
   - noun [ U ], US: /kəˈmjuː.t̬ɪŋ/ UK: /kəˈmjuː.tɪŋ/
   - the activity of traveling regularly between work and home:
-  - _"The new job will involve much less commuting."_
+  - *"The new job will involve much less commuting."*
 - Social Crunch (?)
   - 
 - Busy Environment
   -  
 
-___ 
+___
 
-## Sentences to Practice Grammar and Speaking (to look cool)
+### Sentences to Practice Grammar and Speaking (to look cool)
 
 - Experiencing several delay issues...
 - Not IN mobile device, it's ON mobile device...
