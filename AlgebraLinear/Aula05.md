@@ -77,9 +77,17 @@ ___
     - Ora, se eu fizer a resultante do dobro do Vetor.u e o dobro do Vetor.V, (2\*vec.u + 2\*vec.v), usando a Regra dos Paralelogramas, teremos um vetor resultante de 2*(Vec.u + Vec.v).
     - Com o Escalar k = 2, teremos 2\*vetor.u, teremos 2*vetor.v, e também teremos a resultante 2\*(vetor.u + vetor.v).
     - ``` k ∈ F | (Vec.u), (Vec.v) ∈ V ``` sendo k=2, logo ``` k*(vec.u) + k*(vec.v) = k*(Vec.u + Vec.v) ``` no exemplo será ``` 2*u + 2*v = 2*(u+v) ```.
-  - Identidade Multiplicativa
-  - Distributividade da Multiplicação em relação à Adição de Vetores
-  - Distributividade da Multiplicação em relação à Multiplicação de Escalares
+    - Trata-se, novamente, do Teorema de Tales, com retas paralelas que suportam o Vetor V, paralelas que suportam o Vetor u, teremos o Vetor Dobro U, teremos o Vetor Dobro V, também teremos o Vetor Dobro u+v. Poderia ser o triplo ou quádruplo (k=3, k=4, ...), a operação será a mesma (k.u + k.v = k.(u+v)), não muda a inclinação, só continuar esticando. Essa é a Associatividade da Multiplicação por Escalar.
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/769a61db-256e-448b-bc97-9c590af5c721)
+
+  - **Identidade Multiplicativa**
+    - Significa dizer que existe ( ∃ ) um cara K dentro (pertecente ∈ ) do Corpo F, tal que, esse cara (k) multiplicado por V é sempre igual à V, para todo V ( ∀ ) pertencente ao Espaço Vetorial.
+    - ``` ∃ k ∈ F | k * (Vetor.v) = (Vetor.v)    ∀    (Vetor.v) ∈ V ```
+    -       
+  - **Distributividade da Multiplicação em relação à Adição de Vetores**
+    - asdf 
+  - **Distributividade da Multiplicação em relação à Multiplicação de Escalares**
+    - asdf 
 
 ___
 
