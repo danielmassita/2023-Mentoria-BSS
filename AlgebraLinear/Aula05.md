@@ -25,6 +25,20 @@ ___
   - Espaço Vetorial V, Corpo F (de onde tiramos os escalares), duas operações (soma e multiplicação-escalar), atende algumas propriedades. 
 
 - **SOMA VETORIAL**:
+  - *Associatividade da Adição*
+  - *Comutatividade da Adição*
+  - *Identidade Aditiva*
+  - *Inverso Aditivo*
+- **MULTIPLICAÇÃO POR ESCALAR**:
+  - *Associatividade da Multiplicação*
+  - *Identidade Multiplicativa*
+  - *Distributividade da Multiplicação em relação à Adição de Vetores*
+  - *Distributividade da Multiplicação em relação à Multiplicação de Escalares*
+- Vejamos, detalhadamente...
+
+___
+
+- **SOMA VETORIAL**:
   - **Associatividade da Adição**
     - Essa propriedade, basicamente, diz que se eu pegar 3 vetores (u, v, w) pertencentes à V (espaço vetorial), ```(u+v)+w = u+(v+w)```, tanto faz a ordem que fazemos a operação, de modo que não há diferença se calculamos primeiro (u+v)+w ou u+(v+w), ambas as operações vão dar o mesmo resultado de acordo com a Regra do Paralelograma.
     - Vamos tomar como exemplo um vetor preto (vetor.u), um vetor amarelo (vetor.v) e um vetor vermelho (vetor.w). Podemos traçar uma paralela a (vetor.u) e (vetor.v), preto e amarelo, e a Soma será a resultante (u+v).
@@ -79,7 +93,16 @@ ___
 
 ___
 
+### Sobre Direção, Inclinação e Tangente α
+
 - A direção do vetor é o ângulo em relação à reta suporte (no caso padrão, eixo x). 
 - A Direção do vetor é a inclinação do ângulo = θ (theta).
 - A ```Inclinação (aka. Direção) α desse vetor é a Tangente αº (tg α)``` é para "onde" aponta o vetor, na reta do vetor, sendo que:
-- A tangente de alfa (Tg.α) é a relação entre o Cateto Oposto (eixo.y) e o Cateto Adjacente (eixo.x), que é a razão entre o Seno de Alfa (Sen.α) e o Cosseno de Alfa (Cos.α) ``` Direção = Inclinação = (Tg.α) = (cateto oposto)/(cateto adjacente) = (Tg.α) = (Sen.α)/(Cos.α) ``` 
+- A tangente de alfa (Tg.α) é a relação entre o Cateto Oposto (eixo.y) e o Cateto Adjacente (eixo.x), que é a razão entre o Seno de Alfa (Sen.α) e o Cosseno de Alfa (Cos.α) ``` Direção = Inclinação = (Tg.α) = (cateto oposto)/(cateto adjacente) = (Tg.α) = (Sen.α)/(Cos.α) ```
+- Então, o que caracteriza o ângulo é a inclinação da reta, que é justamente a Tangente do ângula que se faz com o eixo horizontal.
+- Quando duas retas são paralelas, pelo Teorema de Tales (paralelas cortadas por uma reta, os ângulos correspondentes são iguais), os ângulos, Direção do Vetor e Inclinação são iguais. Os vetores possuem a mesma DIREÇÃO.
+- *Não nos preocupamos com o "onde está a paralela", pois não nos importa tanto uma vez que podemos DESLOCAR vetores (trasladar e afins, fazer paralelos), tanto que na Soma Vetoria fazemos um paralelo e traçamos novas paralelos nos destinos/origens dos vetores, bastando manter a INCLINAÇÃO, tendo Módulos, Direções e Sentidos, sobre a mesma reta suporte.*
+- Sentido, logo, é arbitrado. Módulo é comprimento do vetor (deslocamento), Direção é a Inclinação sobre a reta suporte na qual anda, Sentido é arbitrado pra ser positivo e o oposto é negativo.
+- Em alguns problemas, vale inverter sinais pra simplificar a solução. Em matemática, é necessário manter a cabeça solta e aberta para outras perspectivas.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/345456ab-8a56-49db-bc4d-70414660bc67)
+
