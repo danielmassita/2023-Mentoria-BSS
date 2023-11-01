@@ -17,7 +17,6 @@ ___
 
 - specifically (/spəˈsɪf.ɪ.kəl.i/) 
 - usually (/ˈjuː.ʒu.ə.li/)
-<details>
 - launched (US: /lɑːntʃ/ UK: /lɔːntʃ/)
 - think (US: /θɪŋk/ UK: /θɪŋk/)
 - nostalgia (US: /nɑːˈstæl.dʒə/ UK: /nɒsˈtæl.dʒə/)
@@ -31,7 +30,6 @@ ___
 - surroundings (US: /səˈraʊn.dɪŋz/ UK: /səˈraʊn.dɪŋz/)
 - thing (US: /θɪŋ/ UK: /θɪŋ/)
 - problematic (US: /ˌprɑː.bləˈmæt̬.ɪk/ UK: /ˌprɒb.ləˈmæt.ɪk/)
-</details>
 
 ___
 
