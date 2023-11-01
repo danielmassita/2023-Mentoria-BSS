@@ -40,9 +40,7 @@ ___
   - the activity of traveling regularly between work and home:
   - *"The new job will involve much less commuting."*
 - Social Crunch (?)
-  - 
 - Busy Environment
-  -  
 
 ___
 
