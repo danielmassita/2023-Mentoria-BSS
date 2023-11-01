@@ -24,12 +24,12 @@ ___
 - ```"Um espaço vetorial V sobre um corpo F é um Conjunto, munido de duas operações (soma e multiplicação por escalar), que atende algumas propriedades."```
   - Espaço Vetorial V, Corpo F (de onde tiramos os escalares), duas operações (soma e multiplicação-escalar), atende algumas propriedades. 
 
-- **SOMA VETORIAL**:
+- **SOMA VETORIAL** {Conjunto V}:
   - *Associatividade da Adição*
   - *Comutatividade da Adição*
   - *Identidade Aditiva*
   - *Inverso Aditivo*
-- **MULTIPLICAÇÃO POR ESCALAR**:
+- **MULTIPLICAÇÃO POR ESCALAR** {Conjunto Corpo F}:
   - *Associatividade da Multiplicação*
   - *Identidade Multiplicativa*
   - *Distributividade da Multiplicação em relação à Adição de Vetores*
@@ -68,7 +68,10 @@ ___
 
     
 - **MULTIPLICAÇÃO POR ESCALAR**:
-  - Associatividade da Multiplicação
+  - O conjunto do Corpo F é de onde eu tiro os "escalares", em geral o corpo ℝ é o conjunto dos números reais (ℝ). Corpo também possui propriedades (eg.: Completude, conjunto completo sem espaços vazios dentro do corpo, sem buracos, conjunto denso, não é conjunto magro... Na multiplicação por escalar, pegamos um elemento do corpo F, e os elementos dos vetores do conjunto V. 
+      
+  - **Associatividade da Multiplicação (por Escalar)**
+    - Essa primeira propriedade, imagine um Escalar K, pertecente ao Conj. Corpo F ``` k ∈ F | (vetor.u), (vetor.v) ∈ V ``` e vetor "u" e vetor "v" pertencentes ao Conj. Espaço Vetorial "V". A Associatividade da Multiplicação da Escalar quer dizer que (k\*vetor.u) + (k\*vec.v) = k\*(vetor.u + vetor.v) colocamos o "k em evidência". ``` k\*(vetor.u) + k\*(vetor.v) = k * (vetor.u + vetor.v) ```.
   - Identidade Multiplicativa
   - Distributividade da Multiplicação em relação à Adição de Vetores
   - Distributividade da Multiplicação em relação à Multiplicação de Escalares
