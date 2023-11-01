@@ -62,4 +62,4 @@ ___
 ### Memes
 
 - “I don’t wanna see you catching any Pokémon’s up in this bitch” – Rihanna at her shows.
-  - [image!](https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/30/1469427986-giphy-41.gif)
+  - [image!][https://hips.hearstapps.com/digitalspyuk.cdnds.net/16/30/1469427986-giphy-41.gif]
