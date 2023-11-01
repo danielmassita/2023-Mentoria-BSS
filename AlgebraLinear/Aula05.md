@@ -38,7 +38,8 @@ ___
 
 ___
 
-- **SOMA VETORIAL**:
+### SOMA VETORIAL
+
   - **Associatividade da Adição**
     - Essa propriedade, basicamente, diz que se eu pegar 3 vetores (u, v, w) pertencentes à V (espaço vetorial), ```(u+v)+w = u+(v+w)```, tanto faz a ordem que fazemos a operação, de modo que não há diferença se calculamos primeiro (u+v)+w ou u+(v+w), ambas as operações vão dar o mesmo resultado de acordo com a Regra do Paralelograma.
     - Vamos tomar como exemplo um vetor preto (vetor.u), um vetor amarelo (vetor.v) e um vetor vermelho (vetor.w). Podemos traçar uma paralela a (vetor.u) e (vetor.v), preto e amarelo, e a Soma será a resultante (u+v).
@@ -46,17 +47,20 @@ ___
     - Podemos fazer o contrário (operação inversa), (v+w) e depois (v+w)+u. Não vai haver diferença.
     - Como não importa por onde começamos, podemos falar em "associatividade da soma", pois a regra do paralelograma vai gerar o mesmo resultado.
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/439a5839-5436-4412-b806-b58c16355b2e)
+      
   - **Comutatividade da Adição**
     - Lembremos, que estamos falando de somas vetoriais. A comutatividade diz basicamente que, se eu somar um vetor.u com um vetor.v, tanto faz por onde começo.
     - A regra dos paralelogramas já deixa claro que é irrelevante por onde começo. Vai no destino do vetor.u e traça uma paralela ao vetor.v.
     - Vai no destino do vetor.v e traçamos uma paralela ao vetor.u. Não faz diferença qual fazemos primeiro. ```Tanto faz somar (v+u) = (u+v)```. A própria operação adição de vetores é comutativa.
-    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/54395b8e-4ea8-4748-9f4e-bead857effe2) 
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/54395b8e-4ea8-4748-9f4e-bead857effe2)
+      
   - **Identidade Aditiva**
     - Existe um vetor que se eu somar com qualquer outro vetor, não altero ele.
     - Vetor.Nulo + Vetor.a = Vetor.a
     - Imagine um (vetor.u), sozinho, e vamos adicionar um Vetor.Nulo, não começa nem termina. É só um ponto no início do vetor.u, ou no final do vetor.u, transportanto um ponto e uma paralela, NÃO altera o vetor, portanto o Vetor.Nulo não afeta o Vetor.A. Simplesmente não afeta o vetor.
     - ``` (v.0) + vetor.u = vetor.u ``` é o mesmo que ``` vetor.u + v.0 = vetor.u ``` pela comutatividade da soma.
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/96b140ec-17ae-40aa-a117-d78cf57d7b48)
+      
   - **Inverso Aditivo**
     - Temos um vetor.u (em preto), e traçamos um vetor.v (em vinho), que segue a mesma direção, mesmo módulo e direção oposta.
     - Vetor é caracterizado por três grandezas (Módulo = tamanho da distância), (Direção = inclinação da reta suporte que são paralelas {Teorema do Feixe de Paralelas}) e (Sentido = um vai/aumenta outro volta/diminui na reta).
@@ -66,9 +70,11 @@ ___
     - [Pergunta: digressão de 10' sobre relatividade, vide item seguinte]
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/1ef01907-7c34-49cc-b4c6-50e7040cca1a)
 
+___
     
-- **MULTIPLICAÇÃO POR ESCALAR**:
-  - O conjunto do Corpo F é de onde eu tiro os "escalares", em geral o corpo ℝ é o conjunto dos números reais (ℝ). Corpo também possui propriedades (eg.: Completude, conjunto completo sem espaços vazios dentro do corpo, sem buracos, conjunto denso, não é conjunto magro... Na multiplicação por escalar, pegamos um elemento do corpo F, e os elementos dos vetores do conjunto V. 
+### MULTIPLICAÇÃO POR ESCALAR
+
+- O conjunto do Corpo F é de onde eu tiro os "escalares", em geral o corpo ℝ é o conjunto dos números reais (ℝ). Corpo também possui propriedades (eg.: Completude, conjunto completo sem espaços vazios dentro do corpo, sem buracos, conjunto denso, não é conjunto magro... Na multiplicação por escalar, pegamos um elemento do corpo F, e os elementos dos vetores do conjunto V. 
       
   - **Associatividade da Multiplicação (por Escalar)**
     - Essa primeira propriedade, imagine um Escalar K, pertecente ao Conj. Corpo F ``` k ∈ F | (vetor.u), (vetor.v) ∈ V ``` e vetor "u" e vetor "v" pertencentes ao Conj. Espaço Vetorial "V". A Associatividade da Multiplicação da Escalar quer dizer que (k\*vetor.u) + (k\*vetor.v) = k*(vec.u + vec.v), colocamos o "k em evidência". ``` k*(vetor.u) + k*(vetor.v) = k*(vetor.u + vetor.v) ```.
@@ -82,10 +88,15 @@ ___
 
   - **Identidade Multiplicativa**
     - Significa dizer que existe ( ∃ ) um cara K dentro (pertecente ∈ ) do Corpo F, tal que, esse cara (k) multiplicado por V é sempre igual à V, para todo V ( ∀ ) pertencente ao Espaço Vetorial.
-    - ``` ∃ k ∈ F | k * (Vetor.v) = (Vetor.v)    ∀    (Vetor.v) ∈ V ```
-    -       
+    - ``` ∃ k ∈ F | k*(Vetor.v)=(Vetor.v)    ∀ (Vetor.v) ∈ V ```
+    - Definição: _"Existe um k pertencente ao Corpo F, tal que k*v é igual a v, para todo V pertencente à V"_.
+    - No caso, a Identidade Multiplicativa é o número 1. Dentro do Corpo F (ℝ) existe ao menos um elemento (se dois, são elementos iguais, é único) que multiplicado por ele, dá o próprio vetor no Espaço Vetorial (V).
+    - { 1 ∈ ℝ (Corpo ℝ) e quando (1 * Vetor) = Vetor }
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/00ec1465-79f7-4a85-a893-b80f50382035)
+      
   - **Distributividade da Multiplicação em relação à Adição de Vetores**
-    - asdf 
+    - asdf
+
   - **Distributividade da Multiplicação em relação à Multiplicação de Escalares**
     - asdf 
 
