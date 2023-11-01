@@ -71,7 +71,12 @@ ___
   - O conjunto do Corpo F é de onde eu tiro os "escalares", em geral o corpo ℝ é o conjunto dos números reais (ℝ). Corpo também possui propriedades (eg.: Completude, conjunto completo sem espaços vazios dentro do corpo, sem buracos, conjunto denso, não é conjunto magro... Na multiplicação por escalar, pegamos um elemento do corpo F, e os elementos dos vetores do conjunto V. 
       
   - **Associatividade da Multiplicação (por Escalar)**
-    - Essa primeira propriedade, imagine um Escalar K, pertecente ao Conj. Corpo F ``` k ∈ F | (vetor.u), (vetor.v) ∈ V ``` e vetor "u" e vetor "v" pertencentes ao Conj. Espaço Vetorial "V". A Associatividade da Multiplicação da Escalar quer dizer que (k * vetor.u) + (k * vetor.v) = k * (vetor.u + vetor.v), colocamos o "k em evidência". ``` k * (vetor.u) + k * (vetor.v) = [k * (vetor.u + vetor.v)] ```.
+    - Essa primeira propriedade, imagine um Escalar K, pertecente ao Conj. Corpo F ``` k ∈ F | (vetor.u), (vetor.v) ∈ V ``` e vetor "u" e vetor "v" pertencentes ao Conj. Espaço Vetorial "V". A Associatividade da Multiplicação da Escalar quer dizer que (k\*vetor.u) + (k\*vetor.v) = k*(vec.u + vec.v), colocamos o "k em evidência". ``` k*(vetor.u) + k*(vetor.v) = k*(vetor.u + vetor.v) ```.
+    - Tomemos como exemplo um vetor.u e um vetor.v. Façamos, pela Regra dos Paralelogramas, suas correspondentes paralelas, e no meio traçamos o vetor resultante (vec.u + vec.v). Se por acaso eu dobrar (escalar k = 2) o vetor.u terei (2 * vec.u). Igualmente, se por acaso eu multiplicar por dois (escalar k = 2) o vetor.v terei (2 * vec.v).
+    - Na Soma dos vetores, vamos na origem do primeiro ou segundo, traçamos a paralela, e buscamos o ponto em que se encontram (vetor resultante u+v).
+    - Ora, se eu fizer a resultante do dobro do Vetor.u e o dobro do Vetor.V, (2\*vec.u + 2\*vec.v), usando a Regra dos Paralelogramas, teremos um vetor resultante de 2*(Vec.u + Vec.v).
+    - Com o Escalar k = 2, teremos 2\*vetor.u, teremos 2*vetor.v, e também teremos a resultante 2\*(vetor.u + vetor.v).
+    - ``` k ∈ F | (Vec.u), (Vec.v) ∈ V ``` sendo k=2, logo ``` k*(vec.u) + k*(vec.v) = k*(Vec.u + Vec.v) ``` no exemplo será ``` 2*u + 2*v = 2*(u+v) ```.
   - Identidade Multiplicativa
   - Distributividade da Multiplicação em relação à Adição de Vetores
   - Distributividade da Multiplicação em relação à Multiplicação de Escalares
