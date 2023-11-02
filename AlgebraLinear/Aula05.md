@@ -145,4 +145,12 @@ ___
 - Essa propriedade explica muitas coisas (Identidade Multiplicativa e Identidade Aditiva) nos números que conhecemos, e são extremamentes relacionadas entre elas!
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/3b9d877f-410b-4392-9ea6-8e7e91330347)
 
+___
+
+### Resumoindo:
+
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e62f43e6-ac66-464b-b880-55d01cfc11c9)
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/78e83c16-97b5-471e-a657-ceace8f62008)
+
+
 FIM!
