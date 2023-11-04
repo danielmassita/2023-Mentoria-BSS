@@ -14,7 +14,8 @@ ___
 ___
 
 ### Phonetics - _"Please, repeat after me..."_
->!asdf!<
+
+<span style="color: black; background: black; ">
 - specifically (/spəˈsɪf.ɪ.kəl.i/) 
 - usually (/ˈjuː.ʒu.ə.li/)
 - launched (US: /lɑːntʃ/ UK: /lɔːntʃ/)
@@ -30,7 +31,7 @@ ___
 - surroundings (US: /səˈraʊn.dɪŋz/ UK: /səˈraʊn.dɪŋz/)
 - thing (US: /θɪŋ/ UK: /θɪŋ/)
 - problematic (US: /ˌprɑː.bləˈmæt̬.ɪk/ UK: /ˌprɒb.ləˈmæt.ɪk/)
-!<
+</span>
 ___
 
 ### New Vocabulary (to look fancy) 
