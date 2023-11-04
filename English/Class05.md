@@ -14,7 +14,7 @@ ___
 ___
 
 ### Phonetics - _"Please, repeat after me..."_
->!
+>!asdf!<
 - specifically (/spəˈsɪf.ɪ.kəl.i/) 
 - usually (/ˈjuː.ʒu.ə.li/)
 - launched (US: /lɑːntʃ/ UK: /lɔːntʃ/)
