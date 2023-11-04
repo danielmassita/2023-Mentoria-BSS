@@ -15,6 +15,9 @@ ___
 
 ### Phonetics - _"Please, repeat after me..."_
 
+<p>
+<details>
+<summary>Spaced spoiler</summary>
 
   - specifically (/spəˈsɪf.ɪ.kəl.i/)
   - usually (/ˈjuː.ʒu.ə.li/)
@@ -31,7 +34,12 @@ ___
   - surroundings (US: /səˈraʊn.dɪŋz/ UK: /səˈraʊn.dɪŋz/)
   - thing (US: /θɪŋ/ UK: /θɪŋ/)
   - problematic (US: /ˌprɑː.bləˈmæt̬.ɪk/ UK: /ˌprɒb.ləˈmæt.ɪk/)
-</span>
+
+
+</details>
+</p>
+
+
 ___
 
 ### New Vocabulary (to look fancy) 
