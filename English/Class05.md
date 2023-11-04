@@ -17,7 +17,7 @@ ___
 
 <p>
 <details>
-<summary>Spaced spoiler</summary>
+<summary>Phonetics in UK and US using IPA (International Phonetic Alphabet)</summary>
 
   - specifically (/spəˈsɪf.ɪ.kəl.i/)
   - usually (/ˈjuː.ʒu.ə.li/)
