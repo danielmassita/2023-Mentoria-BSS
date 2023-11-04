@@ -15,13 +15,11 @@ ___
 
 ### Phonetics - _"Please, repeat after me..."_
 
->! Spoiler Text
->  - specifically (/spəˈsɪf.ɪ.kəl.i/)
->  - usually (/ˈjuː.ʒu.ə.li/)
->  - launched (US: /lɑːntʃ/ UK: /lɔːntʃ/)
->  - think (US: /θɪŋk/ UK: /θɪŋk/)
->
->!
+
+  - specifically (/spəˈsɪf.ɪ.kəl.i/)
+  - usually (/ˈjuː.ʒu.ə.li/)
+  - launched (US: /lɑːntʃ/ UK: /lɔːntʃ/)
+  - think (US: /θɪŋk/ UK: /θɪŋk/)
   - nostalgia (US: /nɑːˈstæl.dʒə/ UK: /nɒsˈtæl.dʒə/)
   - interactivity (UK: /ˌɪntərækˈtɪvəti/)
   - criteria (/ kraɪˈtɪər i ə /)
