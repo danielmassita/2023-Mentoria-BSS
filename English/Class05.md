@@ -20,6 +20,8 @@ ___
 >  - usually (/ˈjuː.ʒu.ə.li/)
 >  - launched (US: /lɑːntʃ/ UK: /lɔːntʃ/)
 >  - think (US: /θɪŋk/ UK: /θɪŋk/)
+>
+>!
   - nostalgia (US: /nɑːˈstæl.dʒə/ UK: /nɒsˈtæl.dʒə/)
   - interactivity (UK: /ˌɪntərækˈtɪvəti/)
   - criteria (/ kraɪˈtɪər i ə /)
