@@ -22,6 +22,8 @@ ___
   - REPEAT (REPITA)
   - GOTO (VÁ PARA) - essa sintaxe cria códigos confusos e tende a ser cada vez menos utilizada ("Simplicidade ou Morte") 
 &nbsp;
+&nbsp;
+
 - Estatísticas no mundo de gerenciamento de projetos:
   - 25% dos projetos de TI falham (não entregam nada ao final)
   - 25% desse recorte já nascem defasados, ou seja, muitos dos projetos de TI, dado seu tempo de elaboração;
