@@ -40,4 +40,28 @@ ___
 &nbsp;
 ___
 
-### 
+### PARA (FOR)
+
+- Estrutura de Controle para uma quantidade conhecida de casos, quanto sabemos "índices" conhecidos de casos.
+- Função recebe três PARÂMETROS:
+  - Primeiro parâmetro é uma variável de controle, em geral inteira (int: i=0);
+  - Segundo parâmetro é um teste booleano TRUE/FALSE (i < 100);
+  - Terceiro parâmetro é um "incremento" (i = i + 1, ou no JavaScript j++);
+- No caso do PORTUGOL, vamos fazer assim:
+
+```portugol
+PARA (  parâmetro_1  ;  parâmetro_2  ;  parâmetro_3  ):
+    script interno 1
+    script interno 2
+    script interno 3
+    ...
+FIM
+```
+
+- Por exemplo:
+```portugol
+PARA (i=6; i<100; i=i+2):
+  IMPRIMA i
+```
+- Teremos um script que percorre em loop (PARA/FOR), definindo a variável contadora como 6, repetindo a ação enquanto i < 100, e percorrendo/atualizando os números pares (no caso, o incremento é de 2 em 2).
+- 
