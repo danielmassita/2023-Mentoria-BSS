@@ -55,7 +55,6 @@ PARA (  parâmetro_1  ;  parâmetro_2  ;  parâmetro_3  ):
     script interno 2
     script interno 3
     ...
-FIM
 ```
 
 - Por exemplo:
