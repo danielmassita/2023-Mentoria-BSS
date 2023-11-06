@@ -71,4 +71,8 @@ PARA (i=6; i<100; i=i+2):
   - Até que i = 98, teste = TRUE, entra no código e imprimte "i" 98, ao final adiciona +2;
   - Até que i = 100, teste = FALSE, NÃO ENTRA no código e não imprime nada.
   - A variável i já vale 100, porém o valor não será impresso, e nem incrementado. Ao final, o script termina.
--  
+- Usamos a estrutura PARA (FOR) de repetição, quando conhecemos a faixa de valores e o incrmento.
+
+___
+
+- DÚVIDA: asdf
