@@ -64,4 +64,12 @@ PARA (i=6; i<100; i=i+2):
   IMPRIMA i
 ```
 - Teremos um script que percorre em loop (PARA/FOR), definindo a variável contadora como 6, repetindo a ação enquanto i < 100, e percorrendo/atualizando os números pares (no caso, o incremento é de 2 em 2).
-- 
+  - A variável de incialização será i = 6, valendo 6;
+  - O teste será i<100? Sim, atualmente i = 6, então para teste TRUE, entramos no bloco de código indentado;
+  - Vamos imprimir em tela o valor de i, no caso, vamos apenas imprimir o número 6;
+  - Ao final do script, vamos para o incremento, adicionando i=i+2, ou seja, aumentando +2 no valor da variável, e agora i = 8;
+  - Repete o loop...
+  - Até que i = 98, teste = TRUE, entra no código e imprimte "i" 98, ao final adiciona +2;
+  - Até que i = 100, teste = FALSE, NÃO ENTRA no código e não imprime nada.
+  - A variável i já vale 100, porém o valor não será impresso, e nem incrementado. Ao final, o script termina.
+-  
