@@ -31,7 +31,7 @@ ___
 - Onde as empresas ganham muito em TI (crimes de Elizabeth Holmes dentro da Theranos)? Com investidores, rodadas de investimentos, **VENDENDO IDÉIAS**, e não os produtos.
   - Google Wave, com +10 bi USD foi descontinuado após 3 anos.
   - [DICA DE VÍDEO [EN subs]- _"interviewing in a startup be like..."_ - Joma Tech
-  - https://youtu.be/314OLE6mKOo?si=SCrrQkP9MpUhQDR8&t=256
+    - https://youtu.be/314OLE6mKOo?si=SCrrQkP9MpUhQDR8&t=256
   - https://www.blackscorpion.blog/2023/10/simplicidade-ou-morte.html
   - **NÃO PROGRAMEM PENSANDO NA PROGRAMAÇÃO!**
   - A fase de programação de um sistema, é realtivamente curta. A fase problemática é a manutenção. Exemplo, com 8 meses de projeto, implementado e durante 5 anos no mercado, esse produto terá consumido quase 7x o tempo de desenvolvimento da manutenção. Se a manutenção foi mal feita, isso vai dar problemas em escalas crescentes. Temos de ter essa visão do todo, como parte da nossa "mentalidade".
