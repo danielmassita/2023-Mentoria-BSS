@@ -44,9 +44,9 @@ ___
 
 - Estrutura de Controle para uma quantidade conhecida de casos, quanto sabemos "índices" conhecidos de casos.
 - Função recebe três PARÂMETROS:
-  - Primeiro parâmetro é uma variável de controle, em geral inteira (int: i=0);
-  - Segundo parâmetro é um teste booleano TRUE/FALSE (i < 100);
-  - Terceiro parâmetro é um "incremento" (i = i + 1, ou no JavaScript j++);
+  - Primeiro parâmetro é uma **variável de controle**, em geral inteira (int: i=0);
+  - Segundo parâmetro é um **teste booleano** TRUE/FALSE (i < 100);
+  - Terceiro parâmetro é um **"incremento"** (i = i + 1, ou no JavaScript j++);
 - No caso do PORTUGOL, vamos fazer assim:
 
 ```portugol
