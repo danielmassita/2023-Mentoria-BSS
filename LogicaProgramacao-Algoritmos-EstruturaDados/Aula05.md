@@ -16,13 +16,25 @@ ___
   - Custa, em média, 3 mil reais pra xingar o Jair (Fundo Xingamento do Jair).
 
 &nbsp;
-&nbsp;
 - Retomando a **ÚLTIMA AULA**:
   - IF (SE)
   - WHILE (ENQUANTO)
   - REPEAT (REPITA)
   - GOTO (VÁ PARA) - essa sintaxe cria códigos confusos e tende a ser cada vez menos utilizada ("Simplicidade ou Morte") 
+&nbsp;
+- Estatísticas no mundo de gerenciamento de projetos:
+  - 25% dos projetos de TI falham (não entregam nada ao final)
+  - 25% desse recorte já nascem defasados, ou seja, muitos dos projetos de TI, dado seu tempo de elaboração;
+  - 50% dessa razão não são amplamente rentáveis, ou seja, seus ganhos não excedem amplamente seus custos de implementação;
+- Onde as empresas ganham muito em TI (crimes de Elizabeth Holmes dentro da Theranos)? Com investidores, rodadas de investimentos, **VENDENDO IDÉIAS**, e não os produtos.
+- Google Wave, com +10 bi USD foi descontinuado após 3 anos.
 
+<p>
+  <details>
+    <sumary>- [DICA DE VÍDEO [EN subs]- _"interviewing in a startup be like..."_ - Joma Tech</sumary>
+  https://youtu.be/314OLE6mKOo?si=SCrrQkP9MpUhQDR8&t=256
+  </details>
+</p>
 ___
 
 ### 
