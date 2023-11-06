@@ -30,10 +30,9 @@ ___
 - Google Wave, com +10 bi USD foi descontinuado após 3 anos.
 
 <p>
-  <details>
-    <sumary>- [DICA DE VÍDEO [EN subs]- _"interviewing in a startup be like..."_ - Joma Tech</sumary>
+  <sumary>- [DICA DE VÍDEO [EN subs]- _"interviewing in a startup be like..."_ - Joma Tech</sumary>
   https://youtu.be/314OLE6mKOo?si=SCrrQkP9MpUhQDR8&t=256
-  </details>
+
 </p>
 ___
 
