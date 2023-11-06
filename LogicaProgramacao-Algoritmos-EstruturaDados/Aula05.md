@@ -15,7 +15,7 @@ ___
   - O Ed só muda de versão um sistema (Node 14 para Node 18) quando existem NOVAS funcionalidades que são necessárias. Já existe o Node 20, mas como não há novas funcionalidades não vale a pena acompanhar cada novo lançamento na TI.
   - Custa, em média, 3 mil reais pra xingar o Jair (Fundo Xingamento do Jair).
 
-
+<br/>
 - Retomando a **ÚLTIMA AULA**:
   - IF (SE)
   - WHILE (ENQUANTO)
