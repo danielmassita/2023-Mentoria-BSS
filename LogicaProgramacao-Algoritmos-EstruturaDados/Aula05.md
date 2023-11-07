@@ -126,10 +126,16 @@ ___
   switch (user.role) {
       "student":
           exibirMenu1()
+          ...
+          break
       "admin":
           exibirMenu2()
+          ...
+          break
       "super":
           exibirMenu3()
+          ...
+          break
       default:
           throwError()    
   }
