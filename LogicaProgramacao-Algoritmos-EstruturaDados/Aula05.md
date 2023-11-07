@@ -75,4 +75,22 @@ PARA (i=6; i<100; i=i+2):
 
 ___
 
-- DÚVIDA: asdf
+### Dúvida de alunes...
+
+- DÚVIDA: _"No caso, o i carrega o 6. Quando ele desce no código, para o comando "IMPRIMA", ainda tá o 6? (sim!) Depois de imprimir, que é atualizado o valor (i=i+2)? (sim!), qualquer coisa a ser realizada dentro do bloco só seria realizada com o valor de 6, e só ao final do bloco que acontece o INCREMENTO e depois volta pro loop inicial? (sim!)"_
+  - Sim, para todas as dúvidas. A idéia é seguir os 3 parâmetros (inicialização; controle; incremento).
+- O FOR tem uma tendência de ser "REDUZIDA" (ou eliminada?), por várias razões, sobretudo por **TER UMA PERFORMANCE RUIM**.
+  - Quem já programa, sabe o que é o "LINTER" (é uma espécie de checagem de sintaxe que usamos pra ver se a sintaxe está válida, se as construções são verdadeiras, bem elaboradas e etc.).
+  - O "LINTER" do Ed começou a eliminar a necessidade de usar "for", sendo mais customizado para o uso específico.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c0ca24d7-1a68-48c9-9b5c-c80f8c25d301)
+  - Podemos fazer a mesma coisa, usando ENQUANTO:
+
+    ```portugol
+    i = 6    
+    ENQUANTO (i < 100) {
+        IMPRIMA i
+        i = i + 2
+    }
+    ```
+
+  - 
