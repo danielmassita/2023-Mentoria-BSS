@@ -126,18 +126,47 @@ ___
   switch (user.role) {
       "student":
           exibirMenu1()
-          ...
           break
       "admin":
           exibirMenu2()
-          ...
           break
       "super":
           exibirMenu3()
-          ...
           break
       default:
           throwError()    
   }
   ```
+- Observe que nesse exemplo, é OBRIGATÓRIO usar o **break**, caso contrário, o loop iria PERCORRER todas as entradas, mesmo sendo falsas. Por exemplo, SEM o break (em cada trecho indentado abaixo de cada "user.role", o script iria percorrer o código e entrar no comando mesmo com respostas falsas. No caso, um "user.role" = "student", iria ativar o exibirMenu1(), mas sem o break, iria ENTRAR TAMBÉM no "admin" (mesmo sendo False) e ativar também o exibirMenu2(), e continuaria percorrendo o código e entraria no "super" e também ativaria o exibirMenu3(), pois no começo, o TESTE INICIAL (user.role = "student") foi True, logo a partir do primeiro true - sem breaks - o switch percorre todos os casos até o final, sem ser interrompido.
+  - Observe que um código pode ter propositadamente um switch sem uso do "break" se o interesse for "percorrer" ações de modo cumulativo.
+  - Mas, em geral e via de regra, sempre usamos switch-case-break!
+- O Switch tem um bom uso como *DISPATCHER* (não é estrutura de controle não!).
+  - Dispatcher é quando estou processando um monte de coisas (os menus), e pra cada coisa daquela, eu tenho uma condição que me direciona pra outra parte do programa.
+  - Quando a condição é ativada, vou pra outro parte do programa (se for uma coisa, faz isso; se for outra coisa, faz aquilo).
+  - O switch-case tende a ser uma estrutura de uso único, específico.
+  - Se tentarmos usar o Swtich-case no papel de um IF, poderemos gerar GRANDES CONFUSÕES como por exemplo o GOTO.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/31fa8ca0-167a-4e9c-94ac-7b4c01ca6aa8)
 
+&nbsp;
+___
+
+### Comentários sobre Paradigmas de Programação
+
+- Na prática, tudo pode ser feito com COMANDOS SEQÜENCIAIS + ENQUANTO.
+- Niklaus Wïrth (bad guy, niquels worth lol de mau caráter) e Djisktra estudaram e teorizaram várias paradas maneiras sobre Estruturas de Controle.
+  - Um deles criou umas paradas e o outro melhorou outras paradas.
+- _"No principio era o Verbo, e o Verbo era uma bosta..."_ Programar em seus primórdios era algo extremamente FÍSICO, precisando mexer em fios para unir circuitos lógicos, válvulas quentes pra cacete, espaços apertados, etc., até o surgimento de linguagens de alto nível (semelhante à linguagem humana). Nessa época, Programação e Computadores eram temas compreendidos por uma vasta maioria de matemáticos e físicos (dentro das faculdades). 
+- Como programação tinha esse background (matemáticos e físicos), usava-se muito a idéia de "FUNÇÕES".
+- FUNÇÃO é uma estrutura onde passamos um **Conjunto de Parâmetros** e essa estrutura **Retorna** um **Valor** (pode ser número, string, outro conjunto, etc.).
+  - ``` ( p1, p2, p3, ... ) ---> Valor ```
+  - ``` Input ---> [ Algoritmo ] ---> Output ```
+- Inicialmente, fazíamos a **PROGRAMAÇÃO ESTRUTURADA** (pega um problemão, quebra em vários problemas menores, escrever os problemas menores como funções, se os menores fossem divisíveis, também faríamos novas divisões de problemas menores, até chegar numa árvore invertida que trabalhando coordenandamente teria um bom funcionamento). Assim foi até o final dos anos 80's e início dos anos 90's.
+&nbsp;
+- No início dos anos 80's começou a ser falado algo sobre **POO - Programação Orientada a Objetos**, um outro paradigma de programação que no final dos anos 80's passou a ter maior visibilidade e aplicabilidade. Descrevendo o sistema em termos de **OBJETOS**:
+  - class Paquiderme
+    - Elefante:
+      - E. Indiano
+      - E. Africano
+    - Mamute:
+  - Por exemplo, na função _"ffffuuuuhhhhnnnn()"_ chamaríamos uma função que faz o barulho do som do elefante. A classe era estruturada com essa função (no objeto "pai") e os demais objetos herdariam essa função por exemplo.
+  - Então, criava-se a funcionalidade de acordo com a especialidade da classe.      
