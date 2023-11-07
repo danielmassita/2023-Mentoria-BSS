@@ -100,8 +100,23 @@ ___
   - Ao final, não fica claro o incremento, o objetivo do incremento fica AMBÍGUO.
   - Podemos usar um i+2, i+3, etc. Mas a variável de controle é alienígena, foi criada só pra fazer o loop e perdemos "readibility". A variável "FOR", em termos de PERFORMANCE, tem sua estrutura de maneira que DEMANDA mais operações do processador do que o ENQUANTO. Por isso, tentamos EVITAR. 
   - Cuidado com CODERS VIOLENTOS, que no momento do "code review", fica boladão. Temos que aprender, pra no futuro, reduzir a merda que escrevemos (regra dos 6 meses).
-  - **REGRA DOS 6 MESES:** Se você (daqui a 6 meses) retornar a ler um código que você fez, e não achar problemas/criticá-lo, <ins>então você não evoluiu NADA nesse período.</ins>  
+  - **REGRA DOS 6 MESES:** Se você (daqui a 6 meses) retornar a ler um código que você fez, e não achar problemas/criticá-lo, <ins>então você não evoluiu NADA nesse período.</ins> Nessa indústria, ficar 6 meses sem aprender algo é uma perda. É igual a perda de tempo de "guerras das linguagens" ou "space vs. tab". Tudo depende do contexto. Tem coisas que o Ed só faz em Ling. C, C++ (sistemas embarcados), mas jamais faria em JavaScript. Em outras situações, cada desenvolvedor fará o balanço entre prós e cons. Por exemplo, recentemente o próprio Ed redescobriu novas formas de usar o GraphQL.
 
+___
 
+### CASO (case, switch, switch-case)
 
-
+- A estrutura CASO recebe uma variável como parâmetro, e o script vai executar o bloco de código, acaso a variável seja TRUE.
+- Exemplo de código, para um momento de login, acaso o meu papel no sistema seja cadastrado como "user" normal, vou ter acesso a um determinado bloco de código. Acaso o meu papel seja como "admin", terei acesso a outro bloco de códigos. Acaso meu papel seja de "super", terei outras linhas de código, e acaso seja "outros" eu terei acesso somente a outras funcionalidades:
+  ```portugol
+  CASO(PAPEL) {
+      "USER":
+          ...
+      "ADMIN":
+          ...
+      "SUPER":
+          ...
+      "OUTROS":
+          ...
+  }
+  ```
