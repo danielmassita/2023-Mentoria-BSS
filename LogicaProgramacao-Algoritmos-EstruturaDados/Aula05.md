@@ -72,6 +72,7 @@ PARA (i=6; i<100; i=i+2):
   - Até que i = 100, teste = FALSE, NÃO ENTRA no código e não imprime nada.
   - A variável i já vale 100, porém o valor não será impresso, e nem incrementado. Ao final, o script termina.
 - Usamos a estrutura PARA (FOR) de repetição, quando conhecemos a faixa de valores e o incrmento.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/ff013d96-c85d-48c7-bafe-088c2fe37619)
 
 ___
 
@@ -84,7 +85,6 @@ ___
   - O "LINTER" do Ed começou a eliminar a necessidade de usar "for", sendo mais customizado para o uso específico.
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c0ca24d7-1a68-48c9-9b5c-c80f8c25d301)
   - Podemos fazer a mesma coisa, usando ENQUANTO:
-
     ```portugol
     i = 6    
     ENQUANTO (i < 100) {
@@ -92,5 +92,5 @@ ___
         i = i + 2
     }
     ```
-
-  - 
+  - Podemos inicializar uma variável FORA do loop, o que é positivo, pois podemos usar uma variável que já estávamos trabalhando (e não uma nova).
+  - Outro problema comum, dentro do PARA, que acaba gerando uma situação esquisita, é o fato de que  
