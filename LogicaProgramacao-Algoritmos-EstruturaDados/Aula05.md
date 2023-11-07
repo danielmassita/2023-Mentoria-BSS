@@ -47,14 +47,13 @@ ___
   - Segundo parâmetro é um **teste booleano** TRUE/FALSE (i < 100);
   - Terceiro parâmetro é um **"incremento"** (i = i + 1, ou no JavaScript j++);
 - No caso do PORTUGOL, vamos fazer assim:
-```portugol
-PARA (  parâmetro_1  ;  parâmetro_2  ;  parâmetro_3  ):
-    script interno 1
-    script interno 2
-    script interno 3
-    ...
-```
-
+  ```portugol
+  PARA (  parâmetro_1  ;  parâmetro_2  ;  parâmetro_3  ):
+      script interno 1
+      script interno 2
+      script interno 3
+      ...
+  ```
 - Por exemplo:
   ```portugol
   PARA (i=6; i<100; i=i+2):
