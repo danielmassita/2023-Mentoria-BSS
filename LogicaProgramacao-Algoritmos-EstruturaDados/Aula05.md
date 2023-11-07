@@ -92,5 +92,18 @@ ___
     }
     ```
   - Podemos inicializar uma variável FORA do loop, o que é positivo, pois podemos usar uma variável que já estávamos trabalhando (e não uma nova).
-  - Outro problema comum, dentro do PARA, que acaba gerando uma situação esquisita, é o fato de que
-  - 
+  - Outro problema comum, dentro do PARA, que acaba gerando uma situação esquisita, é quem escreve assim: 
+```portugol
+PARA (i=0; i<0; i++) {
+    IMPRIMA i
+    i++
+}
+```
+  - Ao final, não fica claro o incremento, o objetivo do incremento fica AMBÍGUO.
+  - Podemos usar um i+2, i+3, etc. Mas a variável de controle é alienígena, foi criada só pra fazer o loop e perdemos "readibility". A variável "FOR", em termos de PERFORMANCE, tem sua estrutura de maneira que DEMANDA mais operações do processador do que o ENQUANTO. Por isso, tentamos EVITAR. 
+  - Cuidado com CODERS VIOLENTOS, que no momento do "code review", fica boladão. Temos que aprender, pra no futuro, reduzir a merda que escrevemos (regra dos 6 meses).
+  - **REGRA DOS 6 MESES:** Se você (daqui a 6 meses) retornar a ler um código que você fez, e não achar problemas/criticá-lo, <ins>então você não evoluiu NADA nesse período.</ins>  
+
+
+
+
