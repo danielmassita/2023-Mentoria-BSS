@@ -35,7 +35,6 @@ ___
   - https://www.blackscorpion.blog/2023/10/simplicidade-ou-morte.html
   - **NÃO PROGRAMEM PENSANDO NA PROGRAMAÇÃO!**
   - A fase de programação de um sistema, é realtivamente curta. A fase problemática é a manutenção. Exemplo, com 8 meses de projeto, implementado e durante 5 anos no mercado, esse produto terá consumido quase 7x o tempo de desenvolvimento da manutenção. Se a manutenção foi mal feita, isso vai dar problemas em escalas crescentes. Temos de ter essa visão do todo, como parte da nossa "mentalidade".
-  - 
 
 &nbsp;
 ___
@@ -93,4 +92,5 @@ ___
     }
     ```
   - Podemos inicializar uma variável FORA do loop, o que é positivo, pois podemos usar uma variável que já estávamos trabalhando (e não uma nova).
-  - Outro problema comum, dentro do PARA, que acaba gerando uma situação esquisita, é o fato de que  
+  - Outro problema comum, dentro do PARA, que acaba gerando uma situação esquisita, é o fato de que
+  - 
