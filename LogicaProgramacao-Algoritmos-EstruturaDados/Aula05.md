@@ -192,4 +192,22 @@ ___
     ```
   - São paradigmas (são maneiras de escrever), e os paradigmas da programação não excluem as Estruturas de Controle.
   - Dentro dos paradigmas vamos continuar trabalhando também com as estruturas. Na verdade, usamos o conjunto dessas coisas organizadas de acordo com a necessidade.
-  - 
+  - Lembrando que **JavaScript** é uma linguagem **multiparadigmas**. Por isso, podemos usar uma estrutura de Classes (POO) e também usar as funcionalidades dos métodos (Funcional). 
+
+___
+
+- DÚVIDA: _"Por exemplo, toda linguagem de programação que é mais POO, ela é por padrão mais verbosa? Por causa de toda aquela construção da classe, tem toda aquela verbosidade?"_
+  - Não necessariamente. O pouco de PHP que usei, é bem objetivo. Se você tá falando de Java especificamente (percebo pela sua fala), ela é de fato muito verbosa - quem programa em Java sabe disso - no entanto... Apesar de ser verbosa, 9/10 vezes eu ensinaria a programar em Java. Tirando a verbosidade, aprendendo em Java ter-se-á uma base muito mais sólida de aprendizado.
+&nbsp;    
+  - Java é uma linguagem de programação **SOLID = S.O.L.I.D.**, que são cinco **princípios de programação** e cada letra representa um princípio:
+    - **S = single responsability (princípio da responsabilidade única, cada coisa faz uma coisa)**
+      - Numa linguagem como Pascal ou JavaScript+Node, eu gravo um arquivo usando aqruivo_tal.write e acabou-se, é uma coisa direta. Crio um objeto, importo o cara, coloco lá "fs" (file system) e manda bala... Em Java não... Em Java seria necessário criar um cara específico pra gravar aquele tipo de objeto, pois se eu criar um cara que simplesmente "grava", esse simplismente "gravar" seria genérico e fugiria da **responsabilidade simples**. Se fóssemos gravar informações de alunos e de professores, teríamos de ter um "save.student" e também um "save.teacher", sei lá... (classes diferentes pra fazer coisas especializadas).    
+    - O = 
+    - L = 
+    - I = 
+    - D =
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/46048d9d-6b58-4d64-97ee-9dadd7d0de92)
+  - Não escolhemos Java como linguagem padrão para ensinar pela BSS.
+  - Na BSS, optamos por escolher o JavaScript pois tem maior uso no desenvolvimento web (front-end), com uso também com back-end no Node.JS, com diversas bibliotecas. Mas a primeira vantagem é "rodar no browser", qualquer pessoa consegue rodar JavaScript, mesmo sem experiência (basta um Ctrl + Shift + i -> Área do Programador -> Aba Console -> Executa o JavaScript). A vida do estudante será mais fácil pois vai programar VENDO acontecer as mudanças (com hot-reaload, servidor rodando).
+ 
+FIM! 
