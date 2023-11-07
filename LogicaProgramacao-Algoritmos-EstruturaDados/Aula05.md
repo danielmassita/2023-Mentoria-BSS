@@ -47,7 +47,6 @@ ___
   - Segundo parâmetro é um **teste booleano** TRUE/FALSE (i < 100);
   - Terceiro parâmetro é um **"incremento"** (i = i + 1, ou no JavaScript j++);
 - No caso do PORTUGOL, vamos fazer assim:
-
 ```portugol
 PARA (  parâmetro_1  ;  parâmetro_2  ;  parâmetro_3  ):
     script interno 1
@@ -57,10 +56,10 @@ PARA (  parâmetro_1  ;  parâmetro_2  ;  parâmetro_3  ):
 ```
 
 - Por exemplo:
-```portugol
-PARA (i=6; i<100; i=i+2):
-  IMPRIMA i
-```
+  ```portugol
+  PARA (i=6; i<100; i=i+2):
+    IMPRIMA i
+  ```
 - Teremos um script que percorre em loop (PARA/FOR), definindo a variável contadora como 6, repetindo a ação enquanto i < 100, e percorrendo/atualizando os números pares (no caso, o incremento é de 2 em 2).
   - A variável de incialização será i = 6, valendo 6;
   - O teste será i<100? Sim, atualmente i = 6, então para teste TRUE, entramos no bloco de código indentado;
@@ -93,12 +92,12 @@ ___
     ```
   - Podemos inicializar uma variável FORA do loop, o que é positivo, pois podemos usar uma variável que já estávamos trabalhando (e não uma nova).
   - Outro problema comum, dentro do PARA, que acaba gerando uma situação esquisita, é quem escreve assim: 
-```portugol
-PARA (i=0; i<0; i++) {
-    IMPRIMA i
-    i++
-}
-```
+    ```portugol
+    PARA (i=0; i<0; i++) {
+        IMPRIMA i
+        i++
+    }
+    ```
   - Ao final, não fica claro o incremento, o objetivo do incremento fica AMBÍGUO.
   - Podemos usar um i+2, i+3, etc. Mas a variável de controle é alienígena, foi criada só pra fazer o loop e perdemos "readibility". A variável "FOR", em termos de PERFORMANCE, tem sua estrutura de maneira que DEMANDA mais operações do processador do que o ENQUANTO. Por isso, tentamos EVITAR. 
   - Cuidado com CODERS VIOLENTOS, que no momento do "code review", fica boladão. Temos que aprender, pra no futuro, reduzir a merda que escrevemos (regra dos 6 meses).
