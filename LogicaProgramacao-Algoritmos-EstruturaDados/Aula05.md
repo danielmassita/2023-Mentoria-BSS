@@ -161,12 +161,35 @@ ___
   - ``` ( p1, p2, p3, ... ) ---> Valor ```
   - ``` Input ---> [ Algoritmo ] ---> Output ```
 - Inicialmente, fazíamos a **PROGRAMAÇÃO ESTRUTURADA** (pega um problemão, quebra em vários problemas menores, escrever os problemas menores como funções, se os menores fossem divisíveis, também faríamos novas divisões de problemas menores, até chegar numa árvore invertida que trabalhando coordenandamente teria um bom funcionamento). Assim foi até o final dos anos 80's e início dos anos 90's.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/68c37fc3-7f5a-452c-a3ec-81df700bcca5)
 &nbsp;
 - No início dos anos 80's começou a ser falado algo sobre **POO - Programação Orientada a Objetos**, um outro paradigma de programação que no final dos anos 80's passou a ter maior visibilidade e aplicabilidade. Descrevendo o sistema em termos de **OBJETOS**:
   - class Paquiderme
     - Elefante:
-      - E. Indiano
-      - E. Africano
-    - Mamute:
+      - E. Indiano // (esse carrega pessoas)
+      - E. Africano // (esse mata pessoas)
+    - Mamute: // (esse tá extinto)
   - Por exemplo, na função _"ffffuuuuhhhhnnnn()"_ chamaríamos uma função que faz o barulho do som do elefante. A classe era estruturada com essa função (no objeto "pai") e os demais objetos herdariam essa função por exemplo.
-  - Então, criava-se a funcionalidade de acordo com a especialidade da classe.      
+  - Então, criava-se a funcionalidade de acordo com a especialidade da classe.
+&nbsp;
+- São exemplos e paradigmas de programação (Funcionais, POO, ...).
+  - O paradigma funcional surgiu com o **"smalltalk"**, que é antiga (~60's). O conceito é antigo, embora tenha sido retomado recentemente.
+  - O JavaScript usa um "prototype" pra determinar certas funcionalidades embutidas (tipo objetos STR possuem o método _split()_) dentro do Object Prototype.
+    ```javascript
+    a = "casa"
+    b = a.split()
+    console.log(b)
+    b = ["c", "a", "s", "a"]
+    ```
+  - No exemplo, a função "split()" está descrita dentro do Protótipo de Objetos da STRING (o JavaScript considera a string como um objeto que Descende/Herda certas características do objeto STR). No caso, as funções embutidas de Objetos Definidos [como tipos] chamamos de Métodos.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d5302ade-a7da-4868-940a-f37e7d33dbad)
+  - Quando pegamos uma string em JavaScript, podemos adicionar funcionalidades, acrescentar, decorar, criar um monte de coisas.
+  - Essa é a idéia da Programação Funcional, trabalhar com as coisas como se fossem funções que eu pudesse me comunicar com essas funções e obter resultados diretos, eas funlções pudessem ser encadeadas também, eu poderia escrever coisas encadeadas (resultados de uma função para outras) como por exemplo:
+    ```javascript     
+    a = "casa"
+    a.split().toUpperCase().join()
+    // A variável "a" vai receber o resultado da separação de caracteres com .split(), também vai ter o primeiro caractere maiúsculo com .toUpperCase(), e também vai ser adicionada a uma lista provavelmente com .join(). 
+    ```
+  - São paradigmas (são maneiras de escrever), e os paradigmas da programação não excluem as Estruturas de Controle.
+  - Dentro dos paradigmas vamos continuar trabalhando também com as estruturas. Na verdade, usamos o conjunto dessas coisas organizadas de acordo com a necessidade.
+  - 
