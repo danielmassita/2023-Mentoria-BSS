@@ -111,12 +111,27 @@ ___
   ```portugol
   CASO(PAPEL) {
       "USER":
-          ...
+          IMPRIMA "Esse perfil tem acesso de 'user'."
       "ADMIN":
-          ...
+          IMPRIMA "Esse perfil tem acesso de 'admin'."
       "SUPER":
-          ...
+          IMPRIMA "Esse perfil tem acesso de 'super'."
       "OUTROS":
-          ...
+          IMPRIMA "Esse perfil tem acessos limitados e/ou inválidos."
   }
   ```
+- Esse uso, em JavaScript é conhecida como "SWITCH", e teremos uma variável:
+- Vamos entender o código abaixo. Pegamos a variável "user.role" que é o papel da pessoa habilitada dentro do sistema. Se essa variável (como STRing) for "student", eu vou chamar a função "ExibirMenu1()". Se, no caso, o papel for "admin", vou ativar a função "ExibirMenu2()", se o acesso do perfil for "super", vou chamar a função "ExibirMenu3()". Em última hipótese, se nenhum desses "casos" forem ativados, vou retornar como padrão uma estrutura de erro (aqui no exemplo, throwError() que vai dar outra destinação pro código.)
+  ```javascript
+  switch (user.role) {
+      "student":
+          exibirMenu1()
+      "admin":
+          exibirMenu2()
+      "super":
+          exibirMenu3()
+      default:
+          throwError()    
+  }
+  ```
+
