@@ -1,7 +1,8 @@
 # Mentorship Program by BSS 2023
 # English with Daniel Magndon
 
-```https://drive.google.com/drive/u/0/folders/1k0e45wD0ts13MfW4M4KOGscfMYEC0Ytd```
+- ``` https://drive.google.com/drive/u/0/folders/1k0e45wD0ts13MfW4M4KOGscfMYEC0Ytd ```
+- ``` https://youtu.be/tnUthSGfuR0 ``` 
 
 ___
 
