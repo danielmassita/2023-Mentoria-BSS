@@ -63,6 +63,12 @@ ___
   - Qual a probabilidade de tirar uma bola que NÃO SEJA PRETA?
     - 50%! Vamos ver, a Probabilidade de NÃO ser preta é igual a 1 menos a probabilidade de ela ser preta.
       - ``` P(~preta) = (1 - P(preta)) ```
-      - Sendo que ``` P(preta) = 12/24 ```
+      - Sendo que ``` P(preta) = 12/24 = (1 * 12)/(2 * 12) = 1/2 = 0,5 ``` ou também 50%
       - Então teremos que ``` P(~preta) = 1 - (12/24) = [(24/24) - (12/24)] = (24 - 12)/24 = 12/24 = 0,5 = 50% ```
-      -     
+      - A probabilidade de não ser preta pode ser expressa de duas maneiras:
+        - A soma da P(azul) + P(vermelha) é a chance de NÃO SER PRETA.  
+        - ``` P(~preta) = P(azul) + P(vermelha) = (5/24) + (7/24) = (5+7)/24 = 12/24 = (1 * 12)/(2 * 12) = 1/2 = 0,5 ``` ou 50%
+      - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d1349d22-b477-4ab5-a43c-fef8034f18da)
+
+___ 
+
