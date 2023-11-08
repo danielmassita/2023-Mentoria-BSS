@@ -151,8 +151,24 @@ ___
 
 ## Ayrton Senna
 
-- asdf
-- asdf
+- Vamos imaginar que eu tenho uma probabilidade, em cada corrida, de morrer de 10% (Evento Principal). Para cada 100 eventos, tenho 10 chances de morrer.
+- O Evento Composto é a chance de TERMINAR A CORRIDA VIVO!
+- Se a probabilidade de morrer é 10%, a probabilidade de viver é de 90%. (Evento Complementar)
+- A probabilidade de chegar Vivo = 0,9. Como os eventos são independentes, um evento anterior não influencia um evento posterior.
+- A probabilidade de chegar Vivo na segunda corrida = (0,90) * (0,90) = 0,81 .
+- A probabilidade de Viver-Viver = 0,81.
+- A probabilidade de Viver-Viver-Viver = 0,9 * 0,9 * 0,9 = 0,729.
+- A probabilidade de Viver-Viver-Viver-Viver = 0,9 * 0,9 * 0,9 * 0,9 = 0,6561
+- A probabilidade de Viver-Viver-Viver-Viver = 0,9 * 0,9 * 0,9 * 0,9 * 0,9 = 0,59049
+- Em outros termos, teremos:
+  - P(1ª.viver) = (0,9)¹
+  - P(2ª.viver) = (0,9)²
+  - P(3ª.viver) = (0,9)³
+  - P(4ª.viver) = (0,9)^4
+  - P(5ª.viver) = (0,9)^5
+- Assim, sucessivamente... _"In the long run, we are all dead!"_ - Maynard Keynes
+- Senna concluiu que: _"Se você correr tempo suficiente, morrer é inevitável!"_
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/9469d071-8a2e-48e4-ae71-298b4864c393)
 
 ___ 
 
