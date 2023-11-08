@@ -1,7 +1,7 @@
 # Programa de Mentoria BSS 2023
 # Estatística e Ciência de Dados
 
-``` https://www.youtube.com/live/Ujao0izC4VQ ```
+``` https://www.youtube.com/watch?v=Ujao0izC4VQ ```
 
 ## Estatística e Ciência de Dados - Aula 05
 
@@ -147,11 +147,44 @@ ___
       ```
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/593ef445-e247-4c7f-9869-fa1de3bc2859)
   
-&nbsp;
-- DÚVIDA: _"A ordem em que as bolas foram retiradas influencia no cálculo se o número de bolas forem distintos?"_
-      - Claro que sim! ;)
-      -   
-
 ___
 
 ## Ayrton Senna
+
+- asdf
+- asdf
+
+___ 
+
+- DÚVIDA: _"A ordem em que as bolas foram retiradas influencia no cálculo se o número de bolas forem distintos?"_
+  - As quedas (retiradas de bolas) são iguais, logo não influencia e o resutado é o mesmo para o OPERADOR DE MULTIPLICAÇÃO (PRODUTO). 
+- Imaginem uma caixa com 10 bolas pretas, 10 bolas amarelas, 10 bolas verdes. Qual a probabilidade de, nessa ordem, retirarmos Preta-Preta-Verde?
+  - ```
+    P(1ª.⚫) ∧ P(2ª.⚫) ∧ P(3ª.🟢) =    
+    P(1ª.preta) * P(2ª.preta) * P(3ª.verde) = 
+    P(⚫⚫🟢) = (10/30) * (9/29) * (10/28) = (10 * 9 * 10) / (30 * 29 * 28) = (900 / 24360) = (90 / 2436) ≅ 0,0369458128078818
+    ```
+- ```
+  P(1ª.⚫) ∧ P(2ª.🟢) ∧ P(3ª.⚫) =
+  P(1ª.preta) * P(2ª.verde) * P(3ª.preta) = 
+  P(⚫🟢⚫) = (10/30) * (10/29) * (9/28) = (10 * 10 * 9) / (30 * 29 * 28) = (900 / 24360) = (90 / 2436) ≅ 0,0369458128078818
+  ```
+- Considerando que a ordem de retirada das cores não influencia esses eventos, temos a mesma proporção de chances... 
+- P(⚫⚫🟢) = P(⚫🟢⚫) = P(🟢⚫⚫)
+
+___
+
+- Em outro exemplo, teremos 1 bola preta, 2 bolas amarelas, 3 bolas verdes.
+- Qual a chance de tirar, nessa seqüência, as cores Preta-Verde-Verde?
+  - P(⚫), P(🟡🟡), P(🟢🟢🟢) = 6 bolas
+  - P(⚫🟢🟢) = ?
+  - ```
+    P(⚫🟢🟢) = (1/6) * (3/5) * (2/4) = 6/120 = (2 * 3)/(2 * 60) = 3/60 = (3 * 1)/(3 * 20) = 1/20 = 0,05
+    ```
+  - E agora, qual a probabilidade de tirarmos P(🟢🟢⚫)?  
+    ```
+    P(🟢🟢⚫) = (3/6) * (2/5) * (1/4) = 6/120 = (2 * 3)/(2 * 60) = 3/60 = (3 * 1)/(3 * 20) = 1/20 = 0,05
+    ```
+  - Ou seja, a ordem não vai alterar, se o sistema permanecer isolado e seqüencial, considerando A MESMA AMOSTRA, probabilidade constante não importando a ordem nesses exemplos.
+
+FIM! 
