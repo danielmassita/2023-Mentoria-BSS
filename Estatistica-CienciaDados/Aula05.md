@@ -72,9 +72,10 @@ ___
 &nbsp;
 - Podemos pensar também no **EVENTO COMPLEMENTAR** (ou seja, de não ser uma bola preta).
 - Qual a probabilidade de NÃO-SER uma bola preta? Temos o conjunto das bolas pretas. E o **COMPLEMENTO** é o conjunto de todas as possibilidades que NÃO-SÃO bolas pretas.
-  - Conjunto Bolas Pretas = <span style="color: black"> { * * * * * * * * * * * * } </span>
-  - Conjunto Bolas Vermelhas = <span style="color: red"> { * * * * * * * } </span>
-  - Conjunto Bolas Azuis = <span style="color: blue"> { * * * * * } </span>
+  ```diff
+  . Conjunto Bolas Pretas = { * * * * * * * * * * * * }
+  - Conjunto Bolas Vermelhas = { * * * * * * * }
+  @@ Conjunto Bolas Azuis = { * * * * * }
 - 
 
 ___ 
