@@ -47,10 +47,16 @@ ___
     - **Regra dos 6 Meses** - se daqui a 6 meses eu for convidado a ler uma peça de código e não achar ruim, então evoluímos pouco nesse tempo.
   &nbsp;
   - Assim, encerramos basicamente as estruturas de controle. Complexidade só deve ser acrescentada se houver uma vantagem visível. Caso contrário, evite. Podemos ter 4 possibilidades diferentes com apenas 2 IF's.
-  - "Navalha de Ockham" - Se eu tiver duas hipóteses pra explicar um fenômeno, a mais simples é sempre a melhor (corta uma hipótese fora). Se tiver que ser mais complexa, descobriremos logo no começo o problema pois a mais simples vai mostrar antes o problema. 
+  - **"Navalha de Ockham"** - Se eu tiver duas hipóteses pra explicar um fenômeno, a mais simples é sempre a melhor (corta uma hipótese fora). Se tiver que ser mais complexa, descobriremos logo no começo o problema pois a mais simples vai mostrar antes o problema. 
 
 ___ 
 
 ### Estrutura de Dados
 
-- 
+- Esse é um dos aspectos mais importantes da programação. A escolha entre uma ou outra estrutura de dados poderá ser a diferença entre um programa complicado e um simples.
+- Estruturas de Controle servem para TESTAR, não vamos pensar o CONTROLE do programa, mas sim COMO REPRESENTAR os dados no programa (envolvendo vários aspectos).
+- Uma das primeiras Estruturas de Dados serão as **Estrutura FIFO** (_First In First Out_) e **Estrutura LIFO** (_Last In First Out_).
+  - **FIFO** (First In, First Out) = primeiro que entra é o primeiro que sai, por exemplo, fila do banco...
+  - **LIFO** (Last In, First Out) = último que entra é o primeiro que sai, por exemplo, pilha de pratos na hora de lavar a louça... (fila invertida)
+-  ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b1027436-529a-44e9-b224-70d8c5e136b8)
+
