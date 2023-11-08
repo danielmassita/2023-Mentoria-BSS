@@ -59,5 +59,43 @@ ___
   - **FIFO** (First In, First Out) = primeiro que entra é o primeiro que sai, por exemplo, fila do banco...
   - **LIFO** (Last In, First Out) = último que entra é o primeiro que sai, por exemplo, pilha de pratos na hora de lavar a louça... (fila invertida)
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b1027436-529a-44e9-b224-70d8c5e136b8)
-- 
 
+___
+
+### FIFO - First In First Out
+
+- Programa que recebe os dados de várias pessoas, por exemplo o Apache Kafka que faz um enfileiramento (e.g.: RabbitMQ, Pulsar).
+- Recebemos os dados em uma determinada ordem, mas não podemos processar todos os dados relativo à nossa capacidade de consumo de dados.
+- Imagine uma fila que produz 5 registros por minutos, mas o programa que consome os dados só dá conta de 2 registros/minuto.
+  - No primeiro minuto, produzimos 5 registros e consumimos apenas 2 registros.
+  - No segundo minuto, teremos +5 registros e consumiremos apenas o 3º e 4º registro.
+  - São exemplos de Problemas Produtor-Consumidor, que dizem respeito à questão de Filas.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/03398d61-e482-4f67-a51c-d98ec8b4af28)
+&nbsp;
+- Por exemplo, quando programas "competem" pelo mesmo recurso (no passado era mais comum, hoje temos dispositivos pra evitar tal situação nos BD's - Banco de Dados)...     
+- Imagine um tabela num banco de dados. Cada nova linha é um novo registro, que está sendo gerado.
+  - Por exemplo, um formulário de matrícula da mentoria. Cada novo usuário, uma nova linha era acrescentada.
+  - Antigamente, havia uma TRAVA que, quando chegava um novo registro (query) e alguém tava usando a tabela, havia uma trava e uma sinalização. Uma segunda pessoa chegou e preencheu. Porém, era necessário esperar liberar a primeira trava. Nesse meio tempo, outras pessoas também chegaram com novos registros. O segundo da fila acessa a tabela, gerando uma NOVA TRAVA. Nesse ínterim, novos registros foram recebidos. Ao final do processo da segunda pessoa, a terceira pessoa chegava e começava um novo processo, travando o registro, sendo atendido, liberando o registro, e assim sucessivamente.
+  - A natureza do problema é um problema FIFO.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/60fe1cfa-ca17-411a-9692-191763e443c8)
+
+___ 
+
+### LIFO - Last In First Out
+
+- Um outro problema, mas ao contrário, é quando estamos processando FUNÇÕES em um programa de computador.
+- Imagine uma função que chama outras funções. A primeira função realiza um pedaço do cálculo e chama OUTRA função para realizar outros cálculos. Como isso é realizado na memória do computador?
+  - Aula de Dízimas Periódicas - Parte 1 - https://www.youtube.com/watch?v=yXWUL2hYDGo
+  - Aula de Dízimas Periódicas - Parte 2 - https://www.youtube.com/watch?v=p5KLSyd9ePA 
+- Por exemplo, calcular o valor de PI (através de uma série numérica). Ou melhor, ESQUECE O PI, vamos ser mais simples...
+- Tomemos como exemplo o número: 0,35353535...
+  - Qual a fração que gera essa dízima periódica? Vamos usar um artifício... Chamar a dízima periódica (s) e dividir em pedacinhos...
+  -
+  ```
+  s = 0,35353535...
+    = .,35..... = 35/100 = 0,35
+    = .,..35... = 35/10000 = 0,0035
+    = .,....35. = 35/1000000 = 0,000035
+    = SOMATÓRIO = 0,35 + 0,0035 + 0,000035 ...
+  ```
+  - Imagina, que toda vez que vamos calcular essa dízima periódica, tivéssemos uma FUNÇÃO (n) que calcula a SOMA de: ```(35)/10^n```, onde n varia de 2 em 2 até infinito, e a SOMA se dá por: ``` 35/10² + 35/10^4 + 35/10^6 + ... ``` 
