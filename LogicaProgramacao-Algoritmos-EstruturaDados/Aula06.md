@@ -37,7 +37,7 @@ ___
   - Com muitos níveis de IF-ELIF, fica complicado trabalhar.
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5e90cc2f-7511-4e8f-91ac-ed3b0de6f239)
 
-&nsbp;
+&nbsp;
   - **"Teoria do 7 ± 2"**, relação com a complexidade das coisas que eu consigo lembrar. Por exemplo, se pedissem pra 100 pessoas memorizarem um único número, a maioria lembraria depois de 30 minutos. Se pedissem pra 100 pessoas memorizarem dois números, a maioria lembraria depois de 30 minutos. A partir de 5, a queda de memorização é drástica. É como se nosso cérebro fosse uma "LIST" que tem alta performance até índice 4 (de 0 até 4), depois começa a falhar...
   - [The Magical Number 7+/-2 - How to Grab Attention?](https://medium.com/stylumia/the-magical-number-7-2-how-to-grab-attention-8864e0f5592b)https://medium.com/stylumia/the-magical-number-7-2-how-to-grab-attention-8864e0f5592b
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/2b265a6b-821e-44df-a6a3-1f8ba0370790)
