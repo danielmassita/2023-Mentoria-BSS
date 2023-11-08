@@ -186,7 +186,6 @@ ___
     P(🟢🟢⚫) = (3/6) * (2/5) * (1/4) = 6/120 = (2 * 3)/(2 * 60) = 3/60 = (3 * 1)/(3 * 20) = 1/20 = 0,05
     ```
   - Ou seja, a ordem não vai alterar, se o sistema permanecer isolado e seqüencial, considerando A MESMA AMOSTRA, probabilidade constante não importando a ordem nesses exemplos.
-- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b5527dad-be07-4f13-b29f-084217013dc9)
-
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/36a6c0cd-e409-438d-86e5-ee5b5bd59fdc)
 
 FIM! 
