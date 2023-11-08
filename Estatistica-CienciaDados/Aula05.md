@@ -156,6 +156,8 @@ ___
 
 ___ 
 
+### Dúvida 
+
 - DÚVIDA: _"A ordem em que as bolas foram retiradas influencia no cálculo se o número de bolas forem distintos?"_
   - As quedas (retiradas de bolas) são iguais, logo não influencia e o resutado é o mesmo para o OPERADOR DE MULTIPLICAÇÃO (PRODUTO). 
 - Imaginem uma caixa com 10 bolas pretas, 10 bolas amarelas, 10 bolas verdes. Qual a probabilidade de, nessa ordem, retirarmos Preta-Preta-Verde?
@@ -171,9 +173,7 @@ ___
     ```
 - Considerando que a ordem de retirada das cores não influencia esses eventos, temos a mesma proporção de chances... 
 - P(⚫⚫🟢) = P(⚫🟢⚫) = P(🟢⚫⚫)
-
-___
-
+&nbsp;
 - Em outro exemplo, teremos 1 bola preta, 2 bolas amarelas, 3 bolas verdes.
 - Qual a chance de tirar, nessa seqüência, as cores Preta-Verde-Verde?
   - P(⚫), P(🟡🟡), P(🟢🟢🟢) = 6 bolas
@@ -186,5 +186,7 @@ ___
     P(🟢🟢⚫) = (3/6) * (2/5) * (1/4) = 6/120 = (2 * 3)/(2 * 60) = 3/60 = (3 * 1)/(3 * 20) = 1/20 = 0,05
     ```
   - Ou seja, a ordem não vai alterar, se o sistema permanecer isolado e seqüencial, considerando A MESMA AMOSTRA, probabilidade constante não importando a ordem nesses exemplos.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b5527dad-be07-4f13-b29f-084217013dc9)
+
 
 FIM! 
