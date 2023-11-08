@@ -31,11 +31,9 @@ ___
   - genes			- US  /dʒiːn/ UK  /dʒiːn/
   - human (being)		- US/ˈhju·mən (ˈbi·ɪŋ)/ 
   - psycho		- US  /ˈsaɪ.koʊ/ UK  /ˈsaɪ.kəʊ/
-  - nearsightedness	- US  /ˌnɪrˈsaɪ.t̬ɪd.nəs/ UK  /ˌnɪəˈsaɪ.tɪd.nəs/
-  (UK usually short-sightedness)
+  - nearsightedness	- US  /ˌnɪrˈsaɪ.t̬ɪd.nəs/ UK  /ˌnɪəˈsaɪ.tɪd.nəs/ (UK usually short-sightedness)
   - myopia		- US  /maɪˈoʊ.pi.ə/ UK  /maɪˈəʊ.pi.ə/
-  - thesis		- US  /ˈθiː.sɪs/ UK  /ˈθiː.sɪs/
-  plural theses US  UK  /ˈθiː.siːz/
+  - thesis		- US  /ˈθiː.sɪs/ UK  /ˈθiː.sɪs/  plural theses US  UK  /ˈθiː.siːz/
   - tough			- US  /tʌf/ UK  /tʌf/
   - though		- US  /ðoʊ/ UK  /ðəʊ/
   - obsolescence		- US  /ˌɑːb.səˈles.əns/ UK  /ˌɒb.səˈles.əns/
