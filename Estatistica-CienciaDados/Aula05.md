@@ -46,5 +46,12 @@ ___
   - P(vermelha) = 5 / 25 =
   - P(verde) = 8 / 25 =
   - Soma dos valores será de:
-    - ``` (12/25) + (5/25) + (8/25) = (12 + 5 + 8) / (25) = 25/25 = 1 = 100% ```
-  - Notem que temos o mesmo denominador (25), então podemos manter o denominador comum e somar os numeradores (12 + 5 + 8). 
+    - ``` (12/25) + (5/25) + (8/25) = (12+5+8)/(25) = 25/25 = 1 = 100% ```
+  - Notem que temos o mesmo denominador (25), então podemos manter o denominador comum e somar os numeradores (12 + 5 + 8).
+  - A maior chance é de tirar uma bola preta (12 > 8 > 5). Porém, a chance de tirar verde OU vermelha é ligeiramente maior que a de tirar preta (12 < 8+5).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/79033dc0-a323-4128-bb66-eb7a3d4a391e)
+
+___ 
+
+### 
+
