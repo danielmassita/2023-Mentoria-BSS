@@ -58,8 +58,8 @@ ___
 - A **Probabilidade do Evento Complementar** é o
 - Novo exemplo, imagine uma caixa com 12 bolas pretas, 7 bolas vermelhas, 5 bolas azuis.
   - ``` P(preta) = (12)/(12+7+5) = (12)/(24) = 1/2 = 0,5 = 50% ```
-  - ``` P(vermelha) = (7)/(12+7+5) = (7)/(24) = 7/24 = 0,2916666666666667 = 29% ```
-  - ``` P(azul) = (5)/(12+7+5) = (5)/(24) = 5/24 = 0,2083333333333333 = 21% ```  
+  - ``` P(vermelha) = (7)/(12+7+5) = (7)/(24) = 7/24 ≅ 0,2916666666666667 ≅ 29% ```
+  - ``` P(azul) = (5)/(12+7+5) = (5)/(24) = 5/24 ≅ 0,2083333333333333 ≅ 21% ```  
   - Qual a probabilidade de tirar uma bola que NÃO SEJA PRETA?
     - 50%! Vamos ver, a Probabilidade de NÃO ser preta é igual a 1 menos a probabilidade de ela ser preta.
       - ``` P(~preta) = (1 - P(preta)) ```
@@ -101,4 +101,32 @@ ___
   - Ou, com o Teorema do Evento Complementar, posso apenas trabalhar com: P(~amarela) = 1 - P(amarela)
     - ``` P(amarela) = (12) / (100) = (4 * 3)/(4 * 25) = 3/25 = 0,12 ```
     - ``` P(~amarela) = 1/1 - (3/25) = (25/25)-(3/25) = 22/25 = 0,88 ```
-    - 
+&nbsp;
+- A vantagem do Teorema do Evento Complementar é que eu não preciso me preocupar com todas as outras amostras.
+- Basta saber a probabilidade do que eu quero, que por tabela, saberei a probabilidade daquilo que eu não quero.
+- Se eu sei a probabilidade do SER, eu também sei a probabilidade do ~SER (não-ser).
+- Se houver um espaço amostral de 500 tipos diferentes, fica difícil calcular um evento composto por todos os demais, basta calcular a diferença do que eu sei.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c0a9e27b-2970-4cdf-9e0d-00cc446a329f)
+
+___ 
+
+### Probabilidade do Evento Composto
+
+- Evento composto é quando eu tenho dois eventos em seqüência.
+- No exemplo da caixa, com 10 bolas pretas, 10 bolas amarelas, 10 bolas roxas. Totalizando 30 bolinhas.
+  ```
+  Bolas Pretas = {⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫}
+  Bolas Amarelas = {🟡🟡🟡🟡🟡🟡🟡🟡🟡🟡}
+  Bolas Roxas = {🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣}
+  ```   
+  - As probabilidades são iguais, entre as bolas, ao acaso, num primeiro momento.
+- Imaginem o seguinte **EVENTO:** _"Vamos retirar duas bolas em seqüência, e qual seria a probabilidade de ambas serem roxas?"_ 
+  - Agora, temos 3 tipos de bolas, mas vamos fazer um passo de cada vez:
+  - Qual a probabilidade da primeira bola ser roxa?
+    - ``` P(1ª.roxa) = 10/30 = 1/3 ≅ 0,3333333333333333 ```
+  - Qual a probabilidade da segunda bola ser roxa? Não é a mesma, pois já tirei uma bola antes...
+    - ``` P(2ª.roxa) = 9/29 ≅ 0,3103448275862069 ```
+  - Qual a probabilidade de esse evento acontecer em seqüência (1ª.roxa E 2ª.roxa)? A probabilidade é o produto delas.
+    - ```
+      P(1ª.roxa ∧ 2ª.roxa) = P(1ª.roxa) * P{2ª.roxa)
+      P(1ª.roxa ∧ 2ª.roxa) = (1/3) * (9/29) = 9/87 ≅  
