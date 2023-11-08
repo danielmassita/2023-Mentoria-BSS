@@ -42,9 +42,9 @@ ___
 - Qual o tamanho do Espaço Amostral/Probabilístico?
   - 25 bolas = 25/25 = 1/1 = 100%
 - Qual a probabilidade de eu tirar uma bola preta? E vermelha? E verde? 
-  - P(preta) = 12 / 25 = 
-  - P(vermelha) = 5 / 25 =
-  - P(verde) = 8 / 25 =
+  - P(preta) = 12 / 25 = 0,48
+  - P(vermelha) = 5 / 25 = 0,20
+  - P(verde) = 8 / 25 = 0,32
   - Soma dos valores será de:
     - ``` (12/25) + (5/25) + (8/25) = (12+5+8)/(25) = 25/25 = 1 = 100% ```
   - Notem que temos o mesmo denominador (25), então podemos manter o denominador comum e somar os numeradores (12 + 5 + 8).
@@ -58,8 +58,8 @@ ___
 - A **Probabilidade do Evento Complementar** é o
 - Novo exemplo, imagine uma caixa com 12 bolas pretas, 7 bolas vermelhas, 5 bolas azuis.
   - ``` P(preta) = (12)/(12+7+5) = (12)/(24) = 1/2 = 0,5 = 50% ```
-  - ``` P(vermelha) = (7)/(12+7+5) = (7)/(24) =_/_ = 0,_ = 50% ```
-  - ``` P(azul) = (5)/(12+7+5) = (5)/(24) = _/_ = 0,_ = 50% ```  
+  - ``` P(vermelha) = (7)/(12+7+5) = (7)/(24) = 7/24 = 0,2916666666666667 = 29% ```
+  - ``` P(azul) = (5)/(12+7+5) = (5)/(24) = 5/24 = 0,2083333333333333 = 21% ```  
   - Qual a probabilidade de tirar uma bola que NÃO SEJA PRETA?
     - 50%! Vamos ver, a Probabilidade de NÃO ser preta é igual a 1 menos a probabilidade de ela ser preta.
       - ``` P(~preta) = (1 - P(preta)) ```
