@@ -10,7 +10,7 @@ ___
 - Na aula passada, começamos a falar sobre **Estruturas de Controle** (Enquanto, If-simples, Repita, Switch).
 - Agora, vamos falar do SE "composto", ou seja, mais sofisticado.
 - Na última aula nós vimos:
-  - SE (IF)
+  - SE (IF) simples
   ```portugol
   SE (condição_teste_true) {
       bloco teste True
@@ -22,7 +22,7 @@ ___
       ...
   }
   ```
-  - ELSE-IF
+  - ELSE-IF (se-composto)
   ```portugol
   SE (condição_1_true) {
       bloco condição 1 verdadeira
@@ -32,7 +32,7 @@ ___
       ...
   } 
   ``` 
-  - Essas condicionais (ELIF) passam a impressão de serem interdependentes, mas podem gerar confusão...
+  - Essas condicionais (IF-ELIF) passam a impressão de serem interdependentes, mas podem gerar confusão...
   - Por exemplo: Condição de SE (a > 0) {pipipi} SENÃO, SE (B < 0) {pópópó}. Ao testar a primeira condição, sendo a > 0 True, o script executaria o primeiro bloco {pipipi}, e pularia o segundo bloco. Porém, se A for False (menor ou igual a zero), porém B for True, eu executo o bloco {pópópó}, mas NÃO NECESSARIAMENTE existe relação de A com B. Por isso, fica confuso.
   - Com muitos níveis de IF-ELIF, fica complicado trabalhar.
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5e90cc2f-7511-4e8f-91ac-ed3b0de6f239)
@@ -44,10 +44,13 @@ ___
   - Em sistemas complexos, lembrem-se desse fator importante! Se o sistema possui diversos casos possíveis, ao final dessa árvore, teremos dificuldades de associação.
   - JAMAIS PROGRAME PENSANDO NO CÓDIGO (em programar), MAS SIM NA HORA DE DEPURAR (evitar o erro futuro)! Vamos reduzir a complexidade ao máximo possível.
     - Filme: O Patriota - "Mire pequeno, erre pequeno!" Se o código for pequeno, pouco complexo, fácil de debugar.
-    - **Regra dos 6 Meses** - se daqui a 6 meses eu for convidado a ler uma peça de código e não achar ruim, então evoluímos pouco nesse tempo.  
+    - **Regra dos 6 Meses** - se daqui a 6 meses eu for convidado a ler uma peça de código e não achar ruim, então evoluímos pouco nesse tempo.
+  &nbsp;
+  - Assim, encerramos basicamente as estruturas de controle. Complexidade só deve ser acrescentada se houver uma vantagem visível. Caso contrário, evite. Podemos ter 4 possibilidades diferentes com apenas 2 IF's.
+  - "Navalha de Ockham" - Se eu tiver duas hipóteses pra explicar um fenômeno, a mais simples é sempre a melhor (corta uma hipótese fora). Se tiver que ser mais complexa, descobriremos logo no começo o problema pois a mais simples vai mostrar antes o problema. 
 
 ___ 
 
-### 
+### Estrutura de Dados
 
 - 
