@@ -145,3 +145,13 @@ ___
                                 ≅ 0,041050903
                                 ≅ 4,105%   
       ```
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/593ef445-e247-4c7f-9869-fa1de3bc2859)
+  
+&nbsp;
+- DÚVIDA: _"A ordem em que as bolas foram retiradas influencia no cálculo se o número de bolas forem distintos?"_
+      - Claro que sim! ;)
+      -   
+
+___
+
+## Ayrton Senna
