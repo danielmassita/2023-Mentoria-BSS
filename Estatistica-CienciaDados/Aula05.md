@@ -31,10 +31,20 @@ ___
   - Nos nossos exemplos, vamos ter a probabilidade de um evento aleatório retirar a bola preta, ou a bola branca. 
     - ``` P(preta) = (nº de oportunidades)/(espaço total) = (6)/(10) = 0,6 ``` ou então 60%
     - ``` P(branca) = (nº de oportunidades)/(espaço total) = (4)/(10) = 0,4 ``` ou então 40%
-  - **CONCLUSÃO: A soma das probabilidades SEMPRE deve resultar em 1.** _"A soma de todas as probabilidades envolvidas em um determinado evento ali vai ser sempre 1."_ Ou seja, 1 = 100%.
+  - **CONCLUSÃO: A soma das probabilidades SEMPRE deve resultar em 1.** _"A soma de todas as probabilidades envolvidas em um determinado evento ali vai ser sempre 1."_ Ou seja, 1 = 100%. De fato, a probabilidade de eu colocar a mão na caixa e retirar uma bola é de 100% (seja ela qual for). Porém, P(preta) = 6/10, e a P(branca) = 4/10, então a chance de ser uma bola é de 1/1.
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/43313304-1388-4c1c-a7be-a483f86d83a2)
  
 ___ 
 
-### 
+### Ampliando a quantidade de bolas dentro da caixa...
 
+- Imaginem agora uma caixa com: 12 bolas pretas, 5 bolas vermelhas, 8 bolas verdes. Total de 25 bolas.
+- Qual o tamanho do Espaço Amostral/Probabilístico?
+  - 25 bolas = 25/25 = 1/1 = 100%
+- Qual a probabilidade de eu tirar uma bola preta? E vermelha? E verde? 
+  - P(preta) = 12 / 25 = 
+  - P(vermelha) = 5 / 25 =
+  - P(verde) = 8 / 25 =
+  - Soma dos valores será de:
+    - ``` (12/25) + (5/25) + (8/25) = (12 + 5 + 8) / (25) = 25/25 = 1 = 100% ```
+  - Notem que temos o mesmo denominador (25), então podemos manter o denominador comum e somar os numeradores (12 + 5 + 8). 
