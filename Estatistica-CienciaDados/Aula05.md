@@ -77,7 +77,20 @@ ___
   - Conjunto Bolas Vermelhas = { 🔴🔴🔴🔴🔴🔴🔴 }
   - Conjunto Bolas Azuis = { 🔵🔵🔵🔵🔵 }
   ```
-- 
+- Vamos lembrar das QUALIFICAÇÕES, onde temos um "conjunto das bolas" e temos também um "conjunto das bolas pretas" (A). Temos também um "conjunto das bolas vermelhas" (B). Temos também um "conjunto das bolas azuis" (C).
+- Observe que a INTERSECÇÃO de A, B, C é vazio: ``` A ∩ B ∩ C = ∅ ```
+  - Ou seja, uma bola preta não pode ser vermelha nem azul. Uma bola não pode ter uma cor E outra ao mesmo tempo, logo, não existe intersecções (**Conjuntos Disjuntos**), ou seja, Intersecção = ∅ = { }.   
+- A probabilidade de não-ser-preta é justamente a probabilidade de ser um dos conjuntos B e C. Então o COMPLEMENTO de A, é o B + C.
+  - Evento Complementar de A = B ∪ C, é aquilo que falta àquilo pra ser um conjunto total.  
+- P(~preta) = Complemento do Conjunto das Pretas = Conj.(vermelho) + Conj.(azul).
+- ``` P(~preta) = 1 - P(preta) ```
+- ``` P(~preta) = P(vermelha) + P(azul) ```
+- P(~p) = 1 - 0,5 = 0,5
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/137605b4-950e-4143-ab71-e3ec4f918b1a)
+- Nesse exemplo, não ficou claro pois temos poucas opções de eventos distintos... Vamos nos aprofundar...
 
 ___ 
 
+### 
+
+- asdf 
