@@ -69,6 +69,13 @@ ___
         - A soma da P(azul) + P(vermelha) é a chance de NÃO SER PRETA.  
         - ``` P(~preta) = P(azul) + P(vermelha) = (5/24) + (7/24) = (5+7)/24 = 12/24 = (1 * 12)/(2 * 12) = 1/2 = 0,5 ```
       - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d1349d22-b477-4ab5-a43c-fef8034f18da)
+&nbsp;
+- Podemos pensar também no **EVENTO COMPLEMENTAR** (ou seja, de não ser uma bola preta).
+- Qual a probabilidade de NÃO-SER uma bola preta? Temos o conjunto das bolas pretas. E o **COMPLEMENTO** é o conjunto de todas as possibilidades que NÃO-SÃO bolas pretas.
+  - Conjunto Bolas Pretas = <span style="color:black">{ * * * * * * * * * * * * }</span>
+  - Conjunto Bolas Vermelhas = <span style="color:red">{ * * * * * * * }</span>
+  - Conjunto Bolas Azuis = <span style="color:blue">{ * * * * * }</span>
+- 
 
 ___ 
 
