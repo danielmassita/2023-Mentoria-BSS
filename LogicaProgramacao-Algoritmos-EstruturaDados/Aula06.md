@@ -97,4 +97,8 @@ ___
       = .,....35. = 35/1000000 = 0,000035
       = SOMATÓRIO = 0,35 + 0,0035 + 0,000035 ...
     ```
-  - Imagina, que toda vez que vamos calcular essa dízima periódica, tivéssemos uma FUNÇÃO (n) que calcula a SOMA de: ```(35)/10^n```, onde n varia de 2 em 2 até infinito, e a SOMA se dá por: ``` 35/10² + 35/10^4 + 35/10^6 + ... ``` 
+  - Imagina, que toda vez que vamos calcular essa dízima periódica, tivéssemos uma FUNÇÃO (n) que calcula a SOMA de: ```(35)/10^n```, onde n varia de 2 em 2 até infinito, e a SOMA se dá por: ``` 35/10² + 35/10^4 + 35/10^6 + ... ```
+  - O que o computador faz ao chamar essa função?
+    - O computador vai e armazena o endereço da função numa pilha; a próxima função que vier, será armazenada e colocada sobre a pilha, quando chega num ponto limite do resultado (definida a aproximação limite), a função sai DESEMPILHANDO os valores, e vai retrocedendo a medida que retorna o [pedaço] do valor desejado...
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e4b56c46-bfa2-45fa-8f4c-8ec0219d54f9)
+
