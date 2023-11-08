@@ -57,9 +57,9 @@ ___
 
 - A **Probabilidade do Evento Complementar** é o
 - Novo exemplo, imagine uma caixa com 12 bolas pretas, 7 bolas vermelhas, 5 bolas azuis.
-  - P(preta) = (12)/(12+7+5) = (12)/(24) = 1/2 = 0,5 = 50% ```
-  - P(vermelha) = (7)/(12+7+5) = (7)/(24) =_/_ = 0,_ = 50% ```
-  - P(azul) = (5)/(12+7+5) = (5)/(24) = _/_ = 0,_ = 50% ```  
+  - ``` P(preta) = (12)/(12+7+5) = (12)/(24) = 1/2 = 0,5 = 50% ```
+  - ``` P(vermelha) = (7)/(12+7+5) = (7)/(24) =_/_ = 0,_ = 50% ```
+  - ``` P(azul) = (5)/(12+7+5) = (5)/(24) = _/_ = 0,_ = 50% ```  
   - Qual a probabilidade de tirar uma bola que NÃO SEJA PRETA?
     - 50%! Vamos ver, a Probabilidade de NÃO ser preta é igual a 1 menos a probabilidade de ela ser preta.
       - ``` P(~preta) = (1 - P(preta)) ```
