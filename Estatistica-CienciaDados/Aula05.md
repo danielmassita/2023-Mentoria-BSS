@@ -78,7 +78,7 @@ ___
   - Conjunto Bolas Azuis = { 🔵🔵🔵🔵🔵 }
   ```
 - Vamos lembrar das QUALIFICAÇÕES, onde temos um "conjunto das bolas" e temos também um "conjunto das bolas pretas" (A). Temos também um "conjunto das bolas vermelhas" (B). Temos também um "conjunto das bolas azuis" (C).
-- Observe que a INTERSECÇÃO de A, B, C é vazio: ``` A ∩ B ∩ C = ∅ ```
+- Observe que a INTERSECÇÃO de A, B, C é vazio: ``` A ∩ B ∩ C = ∅ ```, ou seja, **CONJUNTO DISJUNTOS**, _"uma coisa é uma coisa, outra coisa é outra coisa"_
   - Ou seja, uma bola preta não pode ser vermelha nem azul. Uma bola não pode ter uma cor E outra ao mesmo tempo, logo, não existe intersecções (**Conjuntos Disjuntos**), ou seja, Intersecção = ∅ = { }.   
 - A probabilidade de não-ser-preta é justamente a probabilidade de ser um dos conjuntos B e C. Então o COMPLEMENTO de A, é o B + C.
   - Evento Complementar de A = B ∪ C, é aquilo que falta àquilo pra ser um conjunto total.  
