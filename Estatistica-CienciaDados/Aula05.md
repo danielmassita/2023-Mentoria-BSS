@@ -124,9 +124,24 @@ ___
   - Agora, temos 3 tipos de bolas, mas vamos fazer um passo de cada vez:
   - Qual a probabilidade da primeira bola ser roxa?
     - ``` P(1ª.roxa) = 10/30 = 1/3 ≅ 0,3333333333333333 ```
-  - Qual a probabilidade da segunda bola ser roxa? Não é a mesma, pois já tirei uma bola antes...
+  - Qual a probabilidade da segunda bola ser roxa? Não é a mesma, pois já tirei uma bola antes (reduz 1 do numerado e 1 do denominador)... Existe uma DEPENDÊNCIA entre os eventos.
     - ``` P(2ª.roxa) = 9/29 ≅ 0,3103448275862069 ```
-  - Qual a probabilidade de esse evento acontecer em seqüência (1ª.roxa E 2ª.roxa)? A probabilidade é o produto delas.
+  - Qual a probabilidade de esse evento acontecer em seqüência (1ª.roxa E 2ª.roxa)? **A probabilidade é o produto delas**.
     - ```
-      P(1ª.roxa ∧ 2ª.roxa) = P(1ª.roxa) * P{2ª.roxa)
-      P(1ª.roxa ∧ 2ª.roxa) = (1/3) * (9/29) = 9/87 ≅  
+      P(1ª.🟣 ∧ 2ª.🟣) = P(1ª.🟣) * P(2ª.🟣)
+      P(1ª.roxa ∧ 2ª.roxa) = (1/3) * (9/29) = 9/87 ≅ 0,103448275862069 ≅ 10%
+      ```
+    - Sim, a probabilidade é muito baixa, pois cada produto entre 0 e 1, aumentamos os espaços e tendemos à zero.
+  - Qual a probabilidade de tirarmos, nessa seqüência, uma bola preta, uma amarela e uma roxa, nessa ordem?
+    - ``` P(preta) = P(⚫) = 10/30 = 1/3 ≅ 0,3333333333333333 ```
+    - ``` P(amarela) = P(🟡) = 10/30 = 1/3 ≅ 0,3333333333333333 ```
+    - ``` P(roxa) = P(🟣) = 10/30 = 1/3 ≅ 0,3333333333333333 ```
+    - ``` P(1ª.preta) ∧ P(2ª.amarela) ∧ P(3ª.roxa) = P(⚫) * P(🟡)' * P(🟣)'' ``` P' exclui o primeiro evento, P'' exclui o primeiro e o segundo evento
+    - ```
+      P(⚫) * P(🟡)' * P(🟣)'' = (10/30) * (10/29) * (10/28)
+                                = (1/3) * (10/29) * [(2*5)/(2*14)]
+                                = (1/3) * (10/29) * (5/14)
+                                ≅ 0,3333333333333333 * 0,3448275862068966 * 0,3571428571428571
+                                ≅ 0,041050903
+                                ≅ 4,105%   
+      ```
