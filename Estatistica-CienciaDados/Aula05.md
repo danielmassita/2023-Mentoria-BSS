@@ -91,6 +91,14 @@ ___
 
 ___ 
 
-### 
+### Vamos adicionar complexididade na caixa...
 
-- asdf 
+- Imagine uma caixa com 40 cores diferentes de bolas (como uma piscina de bolas de parquinho infantil). Eu sei a quantidade exata de cada cor de bolas.
+- Qual a probabilidade de NÃO-SER amarela, escolhendo ao acaso?
+- O total do conjunto é de 100 bolas, divididas em 18 cores diferentes. Sei também que temos 12 bolas amarelas.
+- Qual a Probabilidade do Evento Complementar? Temos duas opções de calcular:
+  - Somando todas as outras bolas coloridas, sendo 17 frações de cores diferentes. Por exemplo: P(preta) + P(vermelha) + P(azul) + P(rosa) + ... EXCETO a P(amarelo). Um espaço amostral com muitos elementos tornará a soma demasiada longa. 
+  - Ou, com o Teorema do Evento Complementar, posso apenas trabalhar com: P(~amarela) = 1 - P(amarela)
+    - ``` P(amarela) = (12) / (100) = (4 * 3)/(4 * 25) = 3/25 = 0,12 ```
+    - ``` P(~amarela) = 1/1 - (3/25) = (25/25)-(3/25) = 22/25 = 0,88 ```
+    - 
