@@ -51,12 +51,13 @@ ___
 
 ___ 
 
-### Estrutura de Dados
+### Estruturas de Dados
 
 - Esse é um dos aspectos mais importantes da programação. A escolha entre uma ou outra estrutura de dados poderá ser a diferença entre um programa complicado e um simples.
 - Estruturas de Controle servem para TESTAR, não vamos pensar o CONTROLE do programa, mas sim COMO REPRESENTAR os dados no programa (envolvendo vários aspectos).
 - Uma das primeiras Estruturas de Dados serão as **Estrutura FIFO** (_First In First Out_) e **Estrutura LIFO** (_Last In First Out_).
   - **FIFO** (First In, First Out) = primeiro que entra é o primeiro que sai, por exemplo, fila do banco...
   - **LIFO** (Last In, First Out) = último que entra é o primeiro que sai, por exemplo, pilha de pratos na hora de lavar a louça... (fila invertida)
--  ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b1027436-529a-44e9-b224-70d8c5e136b8)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/b1027436-529a-44e9-b224-70d8c5e136b8)
+- 
 
