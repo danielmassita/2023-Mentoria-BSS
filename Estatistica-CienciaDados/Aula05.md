@@ -75,7 +75,7 @@ ___
   ```diff
   . Conjunto Bolas Pretas = { * * * * * * * * * * * * }
   - Conjunto Bolas Vermelhas = { * * * * * * * }
-  @@ Conjunto Bolas Azuis = { * * * * * }
+  @@ Conjunto Bolas Azuis = { * * * * * }@@
 - 
 
 ___ 
