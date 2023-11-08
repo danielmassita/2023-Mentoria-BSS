@@ -42,5 +42,12 @@ ___
   - [The Magical Number 7+/-2 - How to Grab Attention?](https://medium.com/stylumia/the-magical-number-7-2-how-to-grab-attention-8864e0f5592b)
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/2b265a6b-821e-44df-a6a3-1f8ba0370790)
   - Em sistemas complexos, lembrem-se desse fator importante! Se o sistema possui diversos casos possíveis, ao final dessa árvore, teremos dificuldades de associação.
-  - JAMAIS PROGRAME PENSANDO NO CÓDIGO (em programar), MAS SIM NA HORA DE DEPURAR (evitar o erro futuro)! Vamos reduzir a complexidade ao máximo possível. 
+  - JAMAIS PROGRAME PENSANDO NO CÓDIGO (em programar), MAS SIM NA HORA DE DEPURAR (evitar o erro futuro)! Vamos reduzir a complexidade ao máximo possível.
+    - Filme: O Patriota - "Mire pequeno, erre pequeno!" Se o código for pequeno, pouco complexo, fácil de debugar.
+    - **Regra dos 6 Meses** - se daqui a 6 meses eu for convidado a ler uma peça de código e não achar ruim, então evoluímos pouco nesse tempo.  
 
+___ 
+
+### 
+
+- 
