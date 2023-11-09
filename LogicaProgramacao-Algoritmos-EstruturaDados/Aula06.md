@@ -133,7 +133,7 @@ ___
     }
     ```
     - Por exemplo, vamos calcular o fatorial de 10, onde (N = 10).
-    - ```
+      ```
       fatorial(10), vamos testar 10 = 1?, NÃO, então ativa o SENÃO
       - retorna 10 * (10-1) [guarda na memória 10*f(9)]
         - fatorial(9), vamos testar 9 = 1?, NÃO, então ativa o SENÃO
