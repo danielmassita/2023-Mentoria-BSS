@@ -105,8 +105,62 @@ ___
 
 ___
 
-### Calcular n! (n-fatorial)
+### Calcular n! (n-fatorial) - Exemplo de LIFO
 
 - n! = (n) * (n-1) * (n-2) * (n-3) * ... 3 * 2 * 1
 - 10! = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 = 3.628.800
 - ``` n! = n * (n-1)! ```
+- ```
+  10! = 10 * 9!
+      = 10 * 9 * 8!
+      = 10 * 9 * 8 * 7!
+      = 10 * 9 * 8 * 7 * 6!
+      = 10 * 9 * 8 * 7 * 6 * 5!
+      = 10 * 9 * 8 * 7 * 6 * 5 * 4!
+      = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3!
+      = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2!
+      = 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1
+      = 3.628.800
+  ```
+- Ora, sendo assim, precisamos calcular o elemento ANTERIOR do cálculo do atual...
+- Isso, em **PROGRAMAÇÃO, SE CHAMA RECURSIVIDADE!**
+- No exemplo:
+  - ```
+    fatorial(n) = {
+        SE (n=1) RETORNE 1
+        SENÃO RETORNE (n * fatorial(n-1)) 
+        } 
+    }
+    ```
+    - Por exemplo, vamos calcular o fatorial de 10, onde (N = 10).
+    - fatorial(10), vamos testar 10 = 1?, NÃO, então ativa o SENÃO
+      - retorna 10 * (10-1) [guarda na memória 10*f(9)]
+        - fatorial(9), vamos testar 9 = 1?, NÃO, então ativa o SENÃO
+          - retorna 9 * (9-1) [guarda na memória 9*f(8)]
+            - fatorial(8), vamos testar 8 = 1?, NÃO, então ativa o SENÃO
+              - retorna 8 * (8-1) [guarda na memória 8*f(7)]
+                - fatorial(7), vamos testar 7 = 1?, NÃO, então ativa o SENÃO
+                  - retorna 7 * (7-1) [guarda na memória 7*f(6)]
+                    - fatorial(6), vamos testar 6 = 1?, NÃO, então ativa o SENÃO
+                      - retorna 6 * (6-1) [guarda na memória 6*f(5)]
+                        - fatorial(5), vamos testar 5 = 1?, NÃO, então ativa o SENÃO
+                          - retorna 5 * (5-1) [guarda na memória 5*f(4)]
+                            - fatorial(4), vamos testar 4 = 1?, NÃO, então ativa o SENÃO
+                              - retorna 4 * (4-1) [guarda na memória 4*f(3)]
+                                - fatorial(3), vamos testar 3 = 1?, NÃO, então ativa o SENÃO
+                                  - retorna 3 * (3-1) [guarda na memória 3*f(2)]
+                                    - fatorial(2), vamos testar 2 = 1?, NÃO, então ativa o SENÃO
+                                      - retorna 2 * (2-1) [guarda na memória 2*f(1)]
+                                        - fatorial(1), vamos testar 1 = 1?, SIM PORRA!, então retorna 1 E VOLTA DESEMPILHANDO AS MEMÓRIAS ARMAZENADAS
+                                          - retorna 1 (e volta desempilhando e "juntanto tudo")
+                                            - retorna (memória 2 * (ele mesmo ex-1)) = 2
+                                          - retorna (memória 3 * (2)) = 6
+                                        - retorna (memória 4 * (6)) = 24
+                                      - retorna (memória 5 * (24)) = 120
+                                    - retorna (memória 6 * (120)) = 720
+                                  - retorna (memória 7 * (720)) = 5.040
+                                - retorna (memória 8 * (5040)) = 40.320
+                              - retorna (memória 9 * (40320)) = 362.880
+                            - retorna (memória 10 * (362880)) = 3.628.800
+                          - retorna o valor FINAL de 3.628.800
+    - FIM! <3  
