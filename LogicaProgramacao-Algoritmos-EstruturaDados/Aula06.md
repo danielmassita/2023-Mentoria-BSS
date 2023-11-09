@@ -133,7 +133,8 @@ ___
     }
     ```
     - Por exemplo, vamos calcular o fatorial de 10, onde (N = 10).
-    - fatorial(10), vamos testar 10 = 1?, NÃO, então ativa o SENÃO
+    - ```
+      fatorial(10), vamos testar 10 = 1?, NÃO, então ativa o SENÃO
       - retorna 10 * (10-1) [guarda na memória 10*f(9)]
         - fatorial(9), vamos testar 9 = 1?, NÃO, então ativa o SENÃO
           - retorna 9 * (9-1) [guarda na memória 9*f(8)]
@@ -163,4 +164,5 @@ ___
                               - retorna (memória 9 * (40320)) = 362.880
                             - retorna (memória 10 * (362880)) = 3.628.800
                           - retorna o valor FINAL de 3.628.800
+      ```
     - FIM! <3  
