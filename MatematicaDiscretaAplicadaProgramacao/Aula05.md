@@ -31,8 +31,27 @@ ___
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/67b42a0a-2573-4283-91bc-bbcde34c4057)
 &nbsp;
 - Vamos usar a Tabela de Decisão. É uma maneira de ligar essas expressões, de uma forma coerente.
+  
+  | A | B | A ∧ B | C | R |
+  | --- | --- | --- | --- | --- |
+  | ✅ | ✅ | ✅ | . | . |
+  | ❌ | ❌ | ❌ | . | . |
 
-| A | B | A e B | C | R |
-| --- | --- | --- | --- | --- |
-| ✅ | ✅ | ✅ | . | . |
-| ❌ | ❌ | ❌ | . | . |
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/be89b913-8cfd-45dc-8188-7177189dee46)
+- Temos para o valor de A, B e C as possibilidades de serem True/False. Logo,
+  - para A=True, podemos ter B=True/B=False
+    - para B=True, podemos ter
+      - C=True
+      - C=False 
+    - para B=False, podemos ter 
+      - C=True
+      - C=False
+  - para A=False, podemos ter B=True/B=False
+    - para B=True, podemos ter 
+      - C=True
+      - C=False
+    - para B=False, podemos ter
+      - C=True
+      - C=False
+&nbsp;
+- Sendo assim...
