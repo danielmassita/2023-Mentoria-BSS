@@ -179,4 +179,9 @@ ___
 
 ___ 
 
-### 
+### Código de Honra
+
+- https://pt.wikipedia.org/wiki/Buxido
+- Buxido (em japonês: 武士道; romaniz.:Bushidō) literalmente, "caminho do guerreiro", é um código de conduta e modo de vida para os samurais (a classe guerreira do Japão feudal ou bushi), vagamente semelhante ao conceito de cavalheirismo que define os parâmetros para os Samurais viverem e morrerem com honra.
+
+FIM! 
