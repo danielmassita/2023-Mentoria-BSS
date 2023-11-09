@@ -172,6 +172,11 @@ ___
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/150ab0ad-31ad-4b7d-ad7e-b3cd1bf546bf)
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/4166e136-e40c-444b-8e83-5729d1ec038d)
 - Stackoverflow é o termo para quando uma pilha empilha tantos pratos que começa a bater em outros lugares, no teto, do lado, ou competir por recursos limitados de processamento.
+- Façam cadastro no GitHub.
+- Façam cadastro no StackOverflow.
+- Vamos usar o VS Code.
+- Vamos usar o Linux.
+
 ___ 
 
 ### 
