@@ -176,6 +176,8 @@ ___
 - Façam cadastro no StackOverflow.
 - Vamos usar o VS Code.
 - Vamos usar o Linux.
+- Cooperação > competição! 
+- Sugestão de leitura de sci-fi: DUNA!
 
 ___ 
 
