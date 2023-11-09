@@ -28,9 +28,11 @@ ___
   - B = Cachorros Latem
   - C = Gatos Miam
 - Como podemos saber o resultado desse "cálculo final"?
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/67b42a0a-2573-4283-91bc-bbcde34c4057)
+&nbsp;
 - Vamos usar a Tabela de Decisão. É uma maneira de ligar essas expressões, de uma forma coerente.
 
 | A | B | A e B | C | R |
 | --- | --- | --- | --- | --- |
-| True | True | True | . | . |
-| False | False | False | . | . |
+| ✅ | ✅ | ✅ | . | . |
+| ❌ | ❌ | ❌ | . | . |
