@@ -100,5 +100,9 @@ ___
   - Imagina, que toda vez que vamos calcular essa dízima periódica, tivéssemos uma FUNÇÃO (n) que calcula a SOMA de: ```(35)/10^n```, onde n varia de 2 em 2 até infinito, e a SOMA se dá por: ``` 35/10² + 35/10^4 + 35/10^6 + ... ```
   - O que o computador faz ao chamar essa função?
     - O computador vai e armazena o endereço da função numa pilha; a próxima função que vier, será armazenada e colocada sobre a pilha, quando chega num ponto limite do resultado (definida a aproximação limite), a função sai DESEMPILHANDO os valores, e vai retrocedendo a medida que retorna o [pedaço] do valor desejado...
+    - Por exemplo, o último cálculo foi de 35/10^6, a memória busca essa variável e retorna pra função inicial esse pedaço de informação, e libera a memória do 35/10^6 (desempilha um prato). Aí a penúltima função calculou o 35/10^4, a memória junta esse valor com o último (35/10^6), retorna o novo valor (35/10^4 + 35/10^6), empacota o valor e devolve pra ante-penúltima função, e libera a memória (retira outro prato da pilha). Essa ante-penúltima função pega o resultado até agora retornado, e calcula com o seu 35/10², e soma com os retornos (35/10^4 + 35/10^6). Ou seja, no final, vamos desempacotando o resultado e liberando a memória, sendo: 0,000035 + 0,003500 + 0,350000, que vai retornar 0,353535... até o limite estipaldo.
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e4b56c46-bfa2-45fa-8f4c-8ec0219d54f9)
 
+___
+
+### asdf
