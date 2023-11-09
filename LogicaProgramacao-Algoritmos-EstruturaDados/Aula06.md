@@ -124,6 +124,8 @@ ___
   ```
 - Ora, sendo assim, precisamos calcular o elemento ANTERIOR do cálculo do atual...
 - Isso, em **PROGRAMAÇÃO, SE CHAMA RECURSIVIDADE!**
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/488fda5b-f44c-4a29-955c-5cbce1552876)
+&nbsp;
 - No exemplo:
   - ```
     fatorial(n) = {
@@ -165,4 +167,11 @@ ___
                             - retorna (memória 10 * (362880)) = 3.628.800
                           - retorna o valor FINAL de 3.628.800
       ```
-    - FIM! <3  
+    - FIM! <3
+  - RECURSIVIDADE ;)
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/150ab0ad-31ad-4b7d-ad7e-b3cd1bf546bf)
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/4166e136-e40c-444b-8e83-5729d1ec038d)
+- Stackoverflow é o termo para quando uma pilha empilha tantos pratos que começa a bater em outros lugares, no teto, do lado, ou competir por recursos limitados de processamento.
+___ 
+
+### 
