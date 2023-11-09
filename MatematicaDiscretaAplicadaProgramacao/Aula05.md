@@ -16,4 +16,21 @@ ___
     - ``` A ∨ B ``` é True se, ou A=True, ou B=True
     - ``` A	⊕ B ``` é True quando A e B são opostos, True/False, A ≠ B, A != B, A=True/B=False, A=False/B=True
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e1d11b08-45d0-4aa9-8846-02152bad5feb)
+&nbsp;
+- Quando as coisas começam a ficar mais complexas, precisamos recorrer à uma Tabela de Decisão.
 
+___ 
+
+### Tabela de Decisão
+
+- Imagina que tenhamos agora uma expressão lógica com 3 proposições (A, B, C). ``` A ∧ B ∨ C ```
+  - A = Gatos tomam banhos.
+  - B = Cachorros Latem
+  - C = Gatos Miam
+- Como podemos saber o resultado desse "cálculo final"?
+- Vamos usar a Tabela de Decisão. É uma maneira de ligar essas expressões, de uma forma coerente.
+
+| A | B | A e B | C | R |
+| --- | --- | --- | --- | --- |
+| True | True | True | . | . |
+| False | False | False | . | . |
