@@ -54,4 +54,6 @@ ___
       - C=True
       - C=False
 &nbsp;
-- Sendo assim...
+- Sendo assim, teremos...
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/3a2ef9ab-0b0c-4c1f-a254-e876aaa67270)
+  - 
