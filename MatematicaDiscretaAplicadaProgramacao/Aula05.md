@@ -56,4 +56,10 @@ ___
 &nbsp;
 - Sendo assim, teremos...
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/3a2ef9ab-0b0c-4c1f-a254-e876aaa67270)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5cc53ba4-826d-4eb0-986a-7083acde1a0a)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/1840aacb-fa43-4b18-bb27-50f544a74398)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7bef6319-c554-41f4-acd1-3aac3f4becd5)
   - 
+
+
+
