@@ -11,10 +11,10 @@ ___
 - Retomando a última aula, abordamos um tema importante que foram os Quantificadores, Silogismos, Proposições (cálculo proposicional)...
 - Estamos caminhando e vindo de um entendimento de uma lógica baseada em cálculos, e hoje vamos precisar compreender as TABELAS DE DECISÕES.
 - Nem sempre, as expressões que nós usamos pra fazer cálculos lógicos são simples (tipo A e B, A ou B, A exclusivo B, etc.)...
-  - ``` A ∧ B ```, ``` A ∨ B ```, ``` A	⇔ B ```
+  - ``` A ∧ B ```, ``` A ∨ B ```, ``` A ⊕ B ```
     - ``` A ∧ B ``` é True somente se A = True, B = True.
     - ``` A ∨ B ``` é True se, ou A=True, ou B=True
-    - ``` A	⊕ B ``` é True quando A e B são opostos, True/False, A ≠ B, A != B, A=True/B=False, A=False/B=True
+    - ``` A ⊕ B ``` é True quando A e B são opostos, True/False, A ≠ B, A != B, A=True/B=False, A=False/B=True
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e1d11b08-45d0-4aa9-8846-02152bad5feb)
 &nbsp;
 - Quando as coisas começam a ficar mais complexas, precisamos recorrer à uma Tabela de Decisão.
