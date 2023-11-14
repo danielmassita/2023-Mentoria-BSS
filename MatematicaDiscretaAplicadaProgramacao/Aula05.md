@@ -85,7 +85,14 @@ ___
   - Essa expressão acima é equivalente a uma expressão mais simples, usando algumas estratégias pra torcer a lógica e escrever de maneira mais simples e reduzir a tabela. Essas expressões são usadas muito na _ELETRÔNICA_, sendo que existem formas/fluxogramas que correspondem à circüitos elétricos.
   - Gabriel Luis - Portas Lógicas na Eletrônica - https://youtu.be/vCeX-y9RBR0?si=zkn9WRS1jJ0THa_2
   - Boole é (1815-1864) o propositor dessa Álgebra Booleana (foi meio desacreditado como matemático, morreu cedo, só foi reconhecido depois).
-  - ![Uploading image.png…]()
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/17a819e8-537c-4abd-9965-2becab2a02af)
+- RELEMBRANDO: Uma álgebra, como definição, é um certo Conjunto (C) munido de duas operações (costumeiramente chamadas de Adição e Multiplicação, mas não necessariamente nossa soma e multiplicação habitual, a operação é chamada de ADIÇÃO, mas nos falta a linguagem pra expressar as coisas, muitas idéias e poucas palavras).
+- (Conjunto, +, x)
+- (C, +, x) Álgebra Aritmética é uma das álgebras (onde C = Conjunto Inteiros, Adição e Multiplicação como conhecemos).
+- Essa é uma (das várias) possibilidades de Álgebra, deveríamos falar como em Espanhol que dicimos MatemáticaS.
+- MatemáticaS eram consideradas a ferramenta pra entender a modelagem do mundo (conceito até o Iluminismo e Rev. Francesa).
+- 
+
 
 
 
