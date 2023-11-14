@@ -71,8 +71,14 @@ ___
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/15e1edcc-74b1-4c0f-a0df-487984aff5d1) 01:08:49
   - 
 
+___
 
+###
 
+- Essas tabelas possuem uma utilidade incrível na avaliação de expressões complexas.
+- Podemos construir tabelas (ou mesmo excel, com funções) pra fazer tabelas com expressões complexas.
+  - Por exemplo, imagine que tenham que calcular algo do tipo: ``` (A ∧ B) ⊕ (C ∨ D) ⊕ E ```
+  - Consideremos que temos 2^5 possibilidades (2 * 2 * 2 * 2 * 2 = 32), tipo o jogo 2048 (jogo tipo puzzle, é uma base 2 exponencial).
 
 
 
