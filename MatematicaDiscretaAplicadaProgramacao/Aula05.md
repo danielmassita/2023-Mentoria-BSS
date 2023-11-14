@@ -79,6 +79,10 @@ ___
 - Podemos construir tabelas (ou mesmo excel, com funções) pra fazer tabelas com expressões complexas.
   - Por exemplo, imagine que tenham que calcular algo do tipo: ``` (A ∧ B) ⊕ (C ∨ D) ⊕ E ```
   - Consideremos que temos 2^5 possibilidades (2 * 2 * 2 * 2 * 2 = 32), tipo o jogo 2048 (jogo tipo puzzle, é uma base 2 exponencial).
+  - Seria uma árvore com 32 colunas, sendo que:
+    - Seriam Verdadeiro e Falso pro A, Verdadeiro e Falso pro B pra cada A, Verdadeiro e Falso do C pra cada B, Verdadeiro e Falso do
+- Existe um conceito mais complexo chamado **REDUÇÃO DE TABELAS** que não iremos estudar agora pra não zuar o cabeção.
+- 
 
 
 
