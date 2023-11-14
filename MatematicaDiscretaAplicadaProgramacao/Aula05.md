@@ -97,7 +97,7 @@ ___
 - Tycho Brahe e Johannes Kepler, planetas com órbitas elípticas ao redor do sol. A matemática não precisa ser o modelo do universo, mas pode ser algo até maior mesmo que não saibamos pra que é... Por isso, até mesmo o Boole, inventou essa Álgebra, onde o Conjunto C só tinha 0, 1, e as operações era E e OU, e com isso teve toda uma estrutura lógica pra isso (sem uma aplicação prática), mas um século depois isso possibilitou a criação dos primeiros computadores eletrônicos digitais.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/15642950-ef2c-4e72-98ca-02e6f1f2cde6)
 &nbsp;
-FIM! 
+- FIM! 
 
 
 
