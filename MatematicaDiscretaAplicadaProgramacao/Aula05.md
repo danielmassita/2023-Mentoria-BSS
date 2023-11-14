@@ -84,7 +84,7 @@ ___
 - Existe um conceito mais complexo chamado **REDUÇÃO DE TABELAS** que não iremos estudar agora pra não zuar o cabeção.
   - Essa expressão acima é equivalente a uma expressão mais simples, usando algumas estratégias pra torcer a lógica e escrever de maneira mais simples e reduzir a tabela. Essas expressões são usadas muito na _ELETRÔNICA_, sendo que existem formas/fluxogramas que correspondem à circüitos elétricos.
   - Gabriel Luis - Portas Lógicas na Eletrônica - https://youtu.be/vCeX-y9RBR0?si=zkn9WRS1jJ0THa_2
-  - [![IMAGE FROM YOUTUBE](https://img.youtube.com/vi/vCeX-y9RBR0/295.jpg)](https://www.youtube.com/watch?v=vCeX-y9RBR0)
+  - [![IMAGE FROM YOUTUBE](https://img.youtube.com/vi/vCeX-y9RBR0/0.jpg)](https://www.youtube.com/watch?v=vCeX-y9RBR0)
 
   - Boole é (1815-1864) o propositor dessa Álgebra Booleana (foi meio desacreditado como matemático, morreu cedo, só foi reconhecido depois).
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/17a819e8-537c-4abd-9965-2becab2a02af)
