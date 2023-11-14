@@ -73,7 +73,7 @@ ___
 
 ___
 
-###
+### Portas Lógicas (Eletrônica) e Álgebra Booleana
 
 - Essas tabelas possuem uma utilidade incrível na avaliação de expressões complexas.
 - Podemos construir tabelas (ou mesmo excel, com funções) pra fazer tabelas com expressões complexas.
@@ -85,7 +85,8 @@ ___
   - Essa expressão acima é equivalente a uma expressão mais simples, usando algumas estratégias pra torcer a lógica e escrever de maneira mais simples e reduzir a tabela. Essas expressões são usadas muito na _ELETRÔNICA_, sendo que existem formas/fluxogramas que correspondem à circüitos elétricos.
   - Gabriel Luis - Portas Lógicas na Eletrônica - https://youtu.be/vCeX-y9RBR0?si=zkn9WRS1jJ0THa_2
   - Boole é (1815-1864) o propositor dessa Álgebra Booleana (foi meio desacreditado como matemático, morreu cedo, só foi reconhecido depois).
-  - 
+  - ![Uploading image.png…]()
+
 
 
 
