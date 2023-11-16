@@ -15,7 +15,9 @@ ___
   - A Multiplicação por Escalar era comutativa;
   - Blá blá blá...
 - Pra ter uma sensação mais prática na nossa vida, vamos falar hoje sobre **APLICAÇÕES** dos vetores (física, matemática, para além da teoria e não meramente abstrato.
-&nbsp;
+
+___
+
 - Por exemplo, uma das formas mais básicas, já vimos quando **pensamos em um vetor como um DESLOCAMENTO** (do ponto A ao ponto B).
     - Interessante o vetor como DESLOCAMENTO, pois mostra outra visão: o vetor trabalhar com a idéia da resultante (do ponto A ao ponto B). Depois do ponto B ao ponto C. Depois, do ponto C e retornei ao ponto A: meu deslocamento foi zero.
     - Isso aconteceu pois o vetor (vetor.CA) = -(vetor.AB), ou seja, a resultante do ponto A ao ponto B e ao ponto C, é na verdade a SOMA dos (vetor.A) + (vetor.B) = SOMA = Resultante do (vetor.(A+B)). Como a resultante vetor.(A+B) = ao ponto C, o vetor de C para A, é o inverso (mesmo módulo, mesma direção/inclinação, sentido OPOSTO, ou seja, *-1).
@@ -26,6 +28,7 @@ ___
     - Todas as Características de um Vetor: Módulo (que é o tamanho dele); Direção (que é a reta na qual estou andando); Sentido (do ponto de saída ao ponto de chegada).
     - Também falamos sobre a convenção (convencionar que de A para B é positivo/negativo, somar/subtrair, ir/voltar).
     - DESLOCAMENTO TOTAL pode ser expresso na forma de vetor, pois possui todas as características de vetor (módulo, direção, sentido).
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/963283e0-1c6e-4c71-a779-6d0b873939ce)
 
 ___
 
