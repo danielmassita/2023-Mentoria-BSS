@@ -18,6 +18,8 @@ ___
 
 ___
 
+### Aglumas Aplicações
+
 - Por exemplo, uma das formas mais básicas, já vimos quando **pensamos em um vetor como um DESLOCAMENTO** (do ponto A ao ponto B).
     - Interessante o vetor como DESLOCAMENTO, pois mostra outra visão: o vetor trabalhar com a idéia da resultante (do ponto A ao ponto B). Depois do ponto B ao ponto C. Depois, do ponto C e retornei ao ponto A: meu deslocamento foi zero.
     - Isso aconteceu pois o vetor (vetor.CA) = -(vetor.AB), ou seja, a resultante do ponto A ao ponto B e ao ponto C, é na verdade a SOMA dos (vetor.A) + (vetor.B) = SOMA = Resultante do (vetor.(A+B)). Como a resultante vetor.(A+B) = ao ponto C, o vetor de C para A, é o inverso (mesmo módulo, mesma direção/inclinação, sentido OPOSTO, ou seja, *-1).
@@ -34,5 +36,11 @@ ___
 
 ### Velocidade também pode ser Vetor
 
-- Velocidade também pode ser expressa na forma de vetor.
-- 
+- Velocidade de um corpo também pode ser expressa na forma de vetor, pois possui as características de um vetor.
+- Por exemplo, estou dirigindo a 30 km/h, estou dizendo que:
+  - Módulo Velocidade = 30 km/h (valor da minha velocidade);
+  - Estrada é a minha Direção (pois estou circulando nessa "reta suporte" - pensemos hoje em termos de reta, futuramente em termos de curva), já que vetor é uma **grandeza finita**
+  - Sentido, pra minha velocidade, pois a minha velocidade também tá andando junto comigo na mesma direção que eu estou indo (se vou de A-B à 30 km/h, o vetor velocidade também vai nessa direção, exceto em caso de dirigir em marcha à ré (velocidade negativa)).
+- Mais curioso, ainda que estivesse numa estrada curva, poderia pensar em termos de vetor.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/cecd9030-250d-4df7-b534-8a354208abdb)
+- Veja melhor 
