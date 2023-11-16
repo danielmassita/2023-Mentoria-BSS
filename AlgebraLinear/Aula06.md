@@ -32,4 +32,7 @@ ___
 
 ___
 
-- Velocidade também pode ser expressa na forma de vetor.      
+### Velocidade também pode ser Vetor
+
+- Velocidade também pode ser expressa na forma de vetor.
+- 
