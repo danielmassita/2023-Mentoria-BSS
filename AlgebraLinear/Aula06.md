@@ -101,8 +101,31 @@ ___
 
 ___
 
-###
+### Conceito de Gradiente
 
+- Imagine uma chapa de metal, e no meio dessa chapa existe um Bico de Bunsen (com fogo). A temperatura no centro será bem maior, e vai resfriar a medida que se aproxima das extremidades, até que a chapa fique toda vermelha e a temperatura se distribúa, durante o aquecimento geral.
+- Pensemos no centro, com um raio com várias diferenças de temperaturas, entre um ponto para outro.
+  - Como temos **duas grandezas diferentes**, em **pontos diferentes**, podemos pensar como um Vetor.
+  - Do ponto raio-1, até o ponto raio-2, está _"andando a minha temperatura"_ (no centro mais quente, nas bordas mais frio).
+  - Então, o **Módulo da Diferença da Temperatura** passa a ser um Vetor (Módulo, Direção, Sentido).
+    - Módulo: diferença de temperatura entre dois pontos distintos;
+    - Direção: pra onde vamos andando, no caso aí, todas as radiais serão iguais (do centro para os raios);
+    - Sentido: esfria na direção da borda (mais quente na direção do centro (positivo) e bordas (como negativo) e a temperatura conflui nesse sentido;
+  - Eis um novo vetor.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/abf277f7-edb4-4f0d-abcf-9709b97284e4)
+
+&nbsp;
+- **_E podemos também PEGAR QUALQUER GRANDEZA ESCALAR, e transformar em uma GRANDEZA VETORIA, basta pensar no tal do Gradiente!_**
+- **Gradiente:**
+  - _Gradiente é uma FUNÇÃO que associa, a cada ponto do espaço (ponto a-b), uma diferença de alguma coisa em relação aos outros pontos._
+  - Quando pensamos desse jeito, o meu campo ESCALAR de temperatura (cada ponto, tem um valor de temperatura, é uma Escalar). Mas quando pensamos nas DIFERENÇAS, podemos ver o campo Escalar como um Vetor.
+- Um mapa de calor gráfico é uma REPRESENTAÇÃO DE UM GRADIENTE. As curvas de níveis são pontos isotérmicos (temperatura igual, mudança na margem). 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a7a772b7-02b8-40e4-aa85-e064ddd772c9)
+- Um mapa isotérmico marca nas bordas os pontos onde há uma grande mudança no limite de temperatura. Mas na prática TRATA-SE DE UM CONTÍNUO (temperatura), o que muda é o GRADIENTE que vão aumentando a DIFERENÇA em relação ao ponto central.
+- Se escolher outro ponto no mapa, **todo o conjunto de vetores muda, mas o GRADIENTE continua o mesmo (pois mede a "diferença")**!
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/dc9c202a-e3df-42da-a546-1503f85bd6ef)
 - 
+
+
 
      
