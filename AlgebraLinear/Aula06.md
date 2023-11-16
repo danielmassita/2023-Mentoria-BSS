@@ -83,7 +83,10 @@ ___
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/ab4e9ecc-b44f-408a-b67e-cfca74786948)
 - **A Vida imita a Arte, ou a Arte imita a Vida?** Exemplos de usos da resistência do ar vs. gravidade...
 &nbsp;
-- Conselho para programadores! Ao criar uma solução, cuidado pra não criar outro problema! 
+- Conselho para programadores! **Ao criar uma solução, cuidado pra não criar outro problema!**
+- Exemplo do encontro bi-anual no IMPA (Inst. Matemática Pura e Aplicada), no Horto no Rio de Janeiro! Formato do jato de água do bebedouro que não é perfeito, após o limite da parábola, o filete da água começa a sofrer turbulências e se destaca... No centro do fluxo de água, a velocidade tende a ser minimamente maior, e nas bordas com o atrito, tende a ser minimamente mais lento. MecFlu (Mecânica dos Fluidos). A medida que a parábola da água fica mais alta, a velocidade final começa a diminuir, e o vetor pêso começa a afetar mais, proporcionalmente ao ápice da parábola... Na tangente, a velocidade vertical se anula, e a força pêso começa a puxar pra baixo e o fluido começa a ganhar velocidade. A resistência do ar passa a ser relevante, e o tubo de água se desfaz já que a parte interna vai descompassar, gotas sofrem mais resistência (dada ao seu formato) e a resistência começa a dispersar o fluxo de água, e no final se espalha...
+- Todo problema é uma simplificação, ignoramos os fatores, a medida que valem ser ignorados (ou não!).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/99f84ca7-a477-4956-b739-3543b1744b6f)
 
 ___ 
 
