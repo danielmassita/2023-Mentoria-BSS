@@ -44,4 +44,8 @@ ___
 &nbsp;
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/cecd9030-250d-4df7-b534-8a354208abdb)
 - Mais curioso, ainda que estivesse numa estrada curva, poderia pensar em termos de vetor.
-- Veja melhor, saindo do ponto A ao ponto B, na verdade é como se eu saísse SOMANDO PEQUENOS VETORES, vários e vários, entre o A-B. Porém, se calcularmos a SOMA DOS PEQUENOS VETORES, será o mesmo que o VETOR A-B. 
+- Veja melhor, saindo do ponto A ao ponto B, na verdade é como se eu saísse SOMANDO PEQUENOS VETORES, vários e vários, entre o A-B.
+- Porém, se calcularmos a SOMA DOS PEQUENOS VETORES, será o mesmo que o VETOR A-B.
+  - Por isso, temos terra-planistas, que acreditam que se pegarmos dois pontos suficientemente próximos entre A-B, acha-se que é uma reta, quando na verdade é um arco de curva tão pequeno, diante do raio da Terra, que o cara não percebe a magnitude do Planeta, e ignora a curva aparentemente "reta" pois sua perspectiva é pequena demais.
+  - A soma dos "pequenos segmentos de reta" (pequenos passos) será o VETOR TOTAL (resultante), sendo um DESLOCAMENTO QUASE-LINEAR!
+  - 
