@@ -78,6 +78,10 @@ ___
   - O pêso do grão de areia: força da gravidade fraca (na atmosfera alta, gravidade pra baixo) representada por (Vetor.Gravidade) + Resistência do Ar e Velocidade Limite de Queda representada por (Vetor.Resistência).
   - Com o mesmo Módulo, uma força da gravidade é o (Vetor.Gravidade), uma outra força da resistência que é (Vetor.Resistência), ambos com MESMO MÓDULO, ambos vetores no Sentido "Vertical", porém com Sentidos opostos (gravidade=baixo; resistência=cima). Vetores sem deslocamento, se anulam as forças, o grão de areia fica suspenso! Ainda sem contar a rotação da terra! ;)
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/feccea94-3ebd-4e1d-b73d-80f0afa7b712)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/73d7e0c8-ae06-443d-ad94-4c444b7b5e6f) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c9de13ed-7338-4c48-b9c8-89dbc75f7ca9) ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/ab4e9ecc-b44f-408a-b67e-cfca74786948)
+
+
+
 
 
 ___ 
