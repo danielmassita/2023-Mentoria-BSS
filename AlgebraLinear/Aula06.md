@@ -73,9 +73,16 @@ ___
 
 - Dúvida: _"O que acontece se jogarmos uma formiga do avião?"_
   - A força pêso quase se equipara com a resistência do ar, talvez nada aconteça... Melhor seria não jogar nenhum animal, bixinha...
-  - O mesmo acontece com os grãos de areia que cruzam o Mediterrâneo de África até Europa!
+- O mesmo acontece com os grãos de areia que cruzam o Mediterrâneo de África até Europa, ou as cinzas 
   - A poeira levantado por um vulcão pode demorar a se sedimentar na terra, pode ficar em suspensão por tempo prolongado! Talvez o formato dos grãos sejam tão "leves" que a resistência do ar e a própria corrente do ar (ventos) pode levantar os grãos e mantê-los suspensos!
-  -  
+  - O pêso do grão de areia: força da gravidade fraca (na atmosfera alta, gravidade pra baixo) representada por (Vetor.Gravidade) + Resistência do Ar e Velocidade Limite de Queda representada por (Vetor.Resistência).
+  - Com o mesmo Módulo, uma força da gravidade é o (Vetor.Gravidade), uma outra força da resistência que é (Vetor.Resistência), ambos com MESMO MÓDULO, ambos vetores no Sentido "Vertical", porém com Sentidos opostos (gravidade=baixo; resistência=cima). Vetores sem deslocamento, se anulam as forças, o grão de areia fica suspenso! Ainda sem contar a rotação da terra! ;)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/feccea94-3ebd-4e1d-b73d-80f0afa7b712)
+
+
+___ 
+
+
 
 
      
