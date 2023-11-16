@@ -85,14 +85,24 @@ ___
 &nbsp;
 - Conselho para programadores! **Ao criar uma solução, cuidado pra não criar outro problema!**
 - Exemplo do encontro bi-anual no IMPA (Inst. Matemática Pura e Aplicada), no Horto no Rio de Janeiro! Formato do jato de água do bebedouro que não é perfeito, após o limite da parábola, o filete da água começa a sofrer turbulências e se destaca... No centro do fluxo de água, a velocidade tende a ser minimamente maior, e nas bordas com o atrito, tende a ser minimamente mais lento. MecFlu (Mecânica dos Fluidos). A medida que a parábola da água fica mais alta, a velocidade final começa a diminuir, e o vetor pêso começa a afetar mais, proporcionalmente ao ápice da parábola... Na tangente, a velocidade vertical se anula, e a força pêso começa a puxar pra baixo e o fluido começa a ganhar velocidade. A resistência do ar passa a ser relevante, e o tubo de água se desfaz já que a parte interna vai descompassar, gotas sofrem mais resistência (dada ao seu formato) e a resistência começa a dispersar o fluxo de água, e no final se espalha...
-- Todo problema é uma simplificação, ignoramos os fatores, a medida que valem ser ignorados (ou não!).
+- Todo problema é uma simplificação, ignoramos os fatores, a medida que valem ser ignorados (ou não!) para podermos trabalhar de modo razoável...
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/99f84ca7-a477-4956-b739-3543b1744b6f)
 
 ___ 
 
-### 
+### Todo problema é uma simplificação
 
-- Conselho pra
+- Para construir um prédio, usamos a Lógica de Euclides, e fazendo o "aplainamento" da fundação, trabalhamos com uma "reta quase reta", mesmo que sobre uma curva da terra.
+- Diferente seria com uma obra que cobrissem alguns quilômetros de área (um prédio de 2 km de raio), o pedreiro de um lado, separado de outro 4 km do outro lado, temos uma variação no prumo do prédio (que apontam ao centro da terra)... 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/e55e7492-1c4c-45df-8da0-b1e647f7a6f3)
+- Numa grande obra, como hidrelétricas ou uma ponte muito longa, isso tudo tem de ser considerado, por exemplo, numa construção de uma ponte, certamente teremos um rigor técnico mais preciso e com menor margem de erro.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7db8afbe-d815-476d-9f40-19c8a4c94461)
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/21f6a8f7-9ef6-4fb0-a3bc-25e452397377)
 
+___
+
+###
+
+- 
 
      
