@@ -48,4 +48,22 @@ ___
 - Porém, se calcularmos a SOMA DOS PEQUENOS VETORES, será o mesmo que o VETOR A-B.
   - Por isso, temos terra-planistas, que acreditam que se pegarmos dois pontos suficientemente próximos entre A-B, acha-se que é uma reta, quando na verdade é um arco de curva tão pequeno, diante do raio da Terra, que o cara não percebe a magnitude do Planeta, e ignora a curva aparentemente "reta" pois sua perspectiva é pequena demais.
   - A soma dos "pequenos segmentos de reta" (pequenos passos) será o VETOR TOTAL (resultante), sendo um DESLOCAMENTO QUASE-LINEAR!
-  - 
+- Essas GRANDEZAS que podemos definir como tendo Módulo, Direção e Sentido, todas elas serão bem expressas e aplicadas na forma de vetores.
+
+___
+
+### Aceleração também pode ser vista como Vetor
+
+- Aceleração é a Variação da Velocidade.
+- Problemas de 'queda livre' (aceleração da gravidade, g ≅ 10 m/s²), a velocidade vai aumentando enquanto estou caindo, ou seja: "a cada segundo, minha velocidade aumenta 10m/s".
+- Imagine jogar uma pedra do alto de um prédio de 500m. A pedra inicialmente está parada. Quando soltamos, ela vai começar a cair, saindo do estacionário, a pedra vai aumentar sua velocidade em 10m/s, a cada segundo, por isso ``` (10 m/s)/(s) = (10 m/s) / (1/s) = (10 m/s) * (s/1) = 10 m/s² ```
+- Num primeiro momento a pedra estava parada. Depois de 1 segundo, a velocidade dela passou a ser de 10 m/s. Depois de +1 segundo, a velocidade dela passou a ser de 20 m/s. Depois de +1 segundo, a velocidade dela passou a ser de 30 m/s...
+  - O Módulo tá crescendo na proporção da Aceleração (Variação da Velocidade); 10m/s; 20m/s; 30m/s...
+  - Mesma Direção/Inclinação (na mesma vertical até o centro da terra) e no mesmo Sentido (do alto pro chão, na mesma reta-vertical).
+  - Apenas o Módulo que tá aumentando, pois estou sujeito à uma Aceleração.
+  - A Aceleração é a TAXA que a minha velocidade aumenta a cada segundo. Vetor velocidade continua sendo um vetor, mas variável, a cada segundo aumenta.
+  - VETOR está sendo MULTIPLICADO por um ESCALAR (10): 10; 20; 30; ...
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/79aa1d98-ad4d-4a02-9cda-e1e0adc6337c)
+- Na vida real, existem outros fatores, como Resistência do Ar, Formato do Corpo, Velocidade Limite (senão, morreríamos pela gota de água de chuva...).
+- 
+     
