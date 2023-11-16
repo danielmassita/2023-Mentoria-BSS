@@ -65,5 +65,7 @@ ___
   - VETOR está sendo MULTIPLICADO por um ESCALAR (10): 10; 20; 30; ...
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/79aa1d98-ad4d-4a02-9cda-e1e0adc6337c)
 - Na vida real, existem outros fatores, como Resistência do Ar, Formato do Corpo, Velocidade Limite (senão, morreríamos pela gota de água de chuva...).
-- 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a58feea3-d607-4235-86d5-03ca9183baf8)
+- Brian Cox visits the world's biggest vacuum | Human Universe - BBC - https://youtu.be/E43-CfukEgs
+
      
