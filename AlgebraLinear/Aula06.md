@@ -132,13 +132,28 @@ ___
 
 ___
 
-### A visão do progamador... 
+### A visão do progamador e os Estágios de Jean Piaget... 
 
 - Hoje em dia não é como antiamente... (HAHA!)
 - Pensar em toda a lógica antes, na mente, antes do código!
 - Pensamento abstrato é o rolê - Jean Piaget! 
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/2d87bf5b-9232-49a1-ba4a-81373f7577be)
+- Jean Piaget, e os estágios do aprendizado:
+  - Concreto - Sensório-Motor
+  - [...]
+  - Operações Formais - Abstrações do concreto e representar como um problema de outra maneira...
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5bbe20a7-cc2d-467b-8a74-8cb924556374)
 
+___
+
+### Sair do CONCRETO e buscar o ABSTRATO
+
+- Sair do Concreto e criar Abstratos; O que importa é a natureza da coisa, e não a forma.
+- POO (Programação Orientada a Objetos), é sobre isso, temos classes de objetos que possuem determinadas funcionalidades e não tô preocupado com a cor da garrafa de refrigerante, mas sim com a funcionalidade (abrir, servir), conteúdo (água, refri, etc.) mas pertence à mesma CLASSE garrafa. E tem coisas que colocamos na garrafa, 
+- Entender a Lógica de Vetores dentro de problemas REAIS, transformar um problema concreto em um problema abstrato usando vetores. Vamos fazer isso com Programação!
+- Uma imagem, um leito vê uma imagem apenas. Eu vou ver um conjunto de vetores, representados por pontos-pixels na minha tela, posso aplicar uma transformação linear expressa por uma matriz, etc... Precisamos entender a lógica por trás de representar um problema através de uma estrutura de vetor. Álgebra Linear não é apenas decoréba.
+- Ao falar em Transformação Linear, temos que ter consciência que estamos TRANSFORMANDO UM CONJUNTO QUALQUER DE OBJETO (pixels da imagem em tela, gradiente de temperatura da placa de metal, linhas isotérmicas num mapa, etc.)
+- 
 
 
      
