@@ -69,7 +69,7 @@ ___
 - Brian Cox visits the world's biggest vacuum | Human Universe - BBC - https://youtu.be/E43-CfukEgs
 - Da mesma forma, na água (pois o ar E a água se comportam como fluidos - Mecânica dos Fluídos!), existe resistência do fluido! Na água, afundar um "freesbee" e uma bola de bilhar é visível e perceptível!
 
-- ___
+___
 
 -  
 
