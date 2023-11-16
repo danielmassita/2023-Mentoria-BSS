@@ -41,6 +41,7 @@ ___
   - Módulo Velocidade = 30 km/h (valor da minha velocidade);
   - Estrada é a minha Direção (pois estou circulando nessa "reta suporte" - pensemos hoje em termos de reta, futuramente em termos de curva), já que vetor é uma **grandeza finita**
   - Sentido, pra minha velocidade, pois a minha velocidade também tá andando junto comigo na mesma direção que eu estou indo (se vou de A-B à 30 km/h, o vetor velocidade também vai nessa direção, exceto em caso de dirigir em marcha à ré (velocidade negativa)).
-- Mais curioso, ainda que estivesse numa estrada curva, poderia pensar em termos de vetor.
+&nbsp;
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/cecd9030-250d-4df7-b534-8a354208abdb)
-- Veja melhor 
+- Mais curioso, ainda que estivesse numa estrada curva, poderia pensar em termos de vetor.
+- Veja melhor, saindo do ponto A ao ponto B, na verdade é como se eu saísse SOMANDO PEQUENOS VETORES, vários e vários, entre o A-B. Porém, se calcularmos a SOMA DOS PEQUENOS VETORES, será o mesmo que o VETOR A-B. 
