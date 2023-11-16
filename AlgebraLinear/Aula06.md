@@ -67,6 +67,11 @@ ___
 - Na vida real, existem outros fatores, como Resistência do Ar, Formato do Corpo, Velocidade Limite (senão, morreríamos pela gota de água de chuva...).
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a58feea3-d607-4235-86d5-03ca9183baf8)
 - Brian Cox visits the world's biggest vacuum | Human Universe - BBC - https://youtu.be/E43-CfukEgs
+- Da mesma forma, na água (pois o ar E a água se comportam como fluidos - Mecânica dos Fluídos!), existe resistência do fluido! Na água, afundar um "freesbee" e uma bola de bilhar é visível e perceptível!
+
+- ___
+
+-  
 
 
      
