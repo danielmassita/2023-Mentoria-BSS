@@ -115,8 +115,9 @@ ___
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/abf277f7-edb4-4f0d-abcf-9709b97284e4)
 
 &nbsp;
-- **_E podemos também PEGAR QUALQUER GRANDEZA ESCALAR, e transformar em uma GRANDEZA VETORIA, basta pensar no tal do Gradiente!_**
-- **Gradiente:**
+- **E podemos também PEGAR QUALQUER GRANDEZA ESCALAR, e transformar em uma GRANDEZA VETORIA, basta pensar no tal do Gradiente!**
+&nbsp;
+- Gradiente:
   - _Gradiente é uma FUNÇÃO que associa, a cada ponto do espaço (ponto a-b), uma diferença de alguma coisa em relação aos outros pontos._
   - Quando pensamos desse jeito, o meu campo ESCALAR de temperatura (cada ponto, tem um valor de temperatura, é uma Escalar). Mas quando pensamos nas DIFERENÇAS, podemos ver o campo Escalar como um Vetor.
 - Um mapa de calor gráfico é uma REPRESENTAÇÃO DE UM GRADIENTE. As curvas de níveis são pontos isotérmicos (temperatura igual, mudança na margem). 
@@ -124,7 +125,19 @@ ___
 - Um mapa isotérmico marca nas bordas os pontos onde há uma grande mudança no limite de temperatura. Mas na prática TRATA-SE DE UM CONTÍNUO (temperatura), o que muda é o GRADIENTE que vão aumentando a DIFERENÇA em relação ao ponto central.
 - Se escolher outro ponto no mapa, **todo o conjunto de vetores muda, mas o GRADIENTE continua o mesmo (pois mede a "diferença")**!
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/dc9c202a-e3df-42da-a546-1503f85bd6ef)
-- 
+- Se pegássemos um outro ponto focal (de referência), em relação ao ponto inicial (gradiente sendo o ponto mais frio), os vetores invertem (sentido quente-frio), e os pontos formarão campos nulos (temperatura não aumenta ou não chegou, o Grandiente do Vetor é zero (a irradiação de calor pode não chegar a certa distância do foco de calor)). Se não tem diferença, o gradiente pode ser nulo - E AQUI ESTÁ o ponto de mudança de sentido (referêncial, é onde o referencial é alterado, chega no nulo e inverte).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/7c97562c-143c-4740-b300-76932ba16f82)
+- Em geral usamos o ZERO (0) como referência, e passamos a medir antes e depois desse ponto...  
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/935b8c54-a72a-445a-a0b6-58cafe95fdd1)
+
+___
+
+### A visão do progamador... 
+
+- Hoje em dia não é como antiamente... (HAHA!)
+- Pensar em toda a lógica antes, na mente, antes do código!
+- Pensamento abstrato é o rolê - Jean Piaget! 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/2d87bf5b-9232-49a1-ba4a-81373f7577be)
 
 
 
