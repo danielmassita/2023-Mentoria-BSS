@@ -15,7 +15,7 @@ ___
   - A Multiplicação por Escalar era comutativa;
   - Blá blá blá...
 - Pra ter uma sensação mais prática na nossa vida, vamos falar hoje sobre **APLICAÇÕES** dos vetores (física, matemática, para além da teoria e não meramente abstrato.
-&nbsp;
+- &nbsp;
 - Por exemplo, uma das formas mais básicas, já vimos quando **pensamos em um vetor como um DESLOCAMENTO** (do ponto A ao ponto B).
     - Interessante o vetor como DESLOCAMENTO, pois mostra outra visão: o vetor trabalhar com a idéia da resultante (do ponto A ao ponto B). Depois do ponto B ao ponto C. Depois, do ponto C e retornei ao ponto A: meu deslocamento foi zero.
     - Isso aconteceu pois o vetor (vetor.CA) = -(vetor.AB), ou seja, a resultante do ponto A ao ponto B e ao ponto C, é na verdade a SOMA dos (vetor.A) + (vetor.B) = SOMA = Resultante do (vetor.(A+B)). Como a resultante vetor.(A+B) = ao ponto C, o vetor de C para A, é o inverso (mesmo módulo, mesma direção/inclinação, sentido OPOSTO, ou seja, *-1).
