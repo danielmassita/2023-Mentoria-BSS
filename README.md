@@ -11,13 +11,12 @@
 
 ___
 
-## Índice de Aulas
+## Índice das Aulas
 
 - ✅ Aulas resumidas e anotações finalizadas (aceitamos sugestões e incrementos!)
 - ⛔ Aulas já ministradas, faltam notas de estudos + data da live/aula [YYYY-MMM-DD]
 
-
-### Álgebra Linear
+#### Álgebra Linear
 
 - [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula01.md) ✅
 - [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula02.md) ✅
@@ -28,7 +27,7 @@ ___
 - Aula 07 - ⛔ 2023 NOV 07 
 - Aula 08 - ⛔ 2023 NOV 15
 
-### Lógica de Programação, Algoritmos e Estruturas de Dados
+#### Lógica de Programação, Algoritmos e Estruturas de Dados
 
 - [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula01.md) ✅
 - [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula02.md) ✅
@@ -39,7 +38,7 @@ ___
 - [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula06.md) ✅
 - Aula 07 - ⛔ 2023 NOV 15
 
-### Estatística e Ciência de Dados
+#### Estatística e Ciência de Dados
 
 - [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula01.md) ✅
 - [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula02.md) ✅
@@ -48,7 +47,7 @@ ___
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula05.md) ✅
 - Aula 06 - ⛔ 2023 NOV 16
 
-### Matemática Discreta Aplicada à Programação
+#### Matemática Discreta Aplicada à Programação
 
 - [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula01.md) ✅
 - [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula02.md) ✅
@@ -56,7 +55,7 @@ ___
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula04.md) ✅
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula05.md) ✅
 
-### English (WED-0600h)
+#### English (WED-0600h)
 
 - Class 01 - ⚠️ (mixed class from A1-C2)
 - Class 02 - ⚠️ (mixed class from A1-C2)
@@ -65,3 +64,4 @@ ___
 - [Class 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md) ✅
 - [Class 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md) ✅
 - Class 07 - ⛔ 2023 NOV 15
+
