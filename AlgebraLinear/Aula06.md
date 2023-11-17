@@ -158,12 +158,19 @@ ___
   - _"As Ciências Atuariais (Atuária) é a ciência que que analisa e gerencia riscos e expectativas de quaisquer naturezas: econômicas, financeiras e biométricas, com o objetivo de prover proteção social."_ São as Tábuas de Morte! 💀
   - As Empresas Securitárias devem pensar nos números macros, calculando todo o potencial e capitalização, sabendo calcular as margens de retiradas e afins, rendendo a diferença que é o lucro.
 - Esse é um bom exemplo de pensamento estruturado e programático.
-- &nbsp;
+
+___
+
+### Otimizar o Pensamento (analisando a estrutura)
+
+- Esse é um bom exemplo de pensamento estruturado e programático.
 - A idéia é aprender estratégias para OTIMIZAR esses CAMPOS VETORIAIS pra gente obter o resultado que queremos.
 - Problemas de Produção:
   - Produto A (custo $ 100), (venda $ 180).
   - Produto B (custo $ 120), (venda $ 230).
   - Produto C (custo $ 130), (venda $ 2500).
-  - Capacidade de produzir 10.000 itens por mês. Quanto de cada grupo devo produzir pra ganhar o máximo possível? Problema de Álgebra Linear! Representado por uma Matriz que vamos multiplicar/simplificar, vamos pivotar a matriz, e teremos uma solução no final. Isso se chama MÉTODO SIMPLEX (otimizar o resultado de saída de uma matriz, maximizando ou minimizando faturamentos/custos).
-  - Tudo isso tem a ver com Álgebra Linear, pois tratam-se de abstrações da produção (pontos no espaço, diferença preço de custo/produção, tudo vira um problema de Álgebra Linear). Precisamos desenvolver essa capacidade aos poucos!  
+  - Capacidade de produzir 10.000 itens por mês. Quanto de cada grupo devo produzir pra ganhar o máximo possível?
+- **Problema de Álgebra Linear!** Representado por uma _Matriz_ que vamos _multiplicar/simplificar/operar_, vamos _pivotar a matriz_, e teremos uma _solução no final_. Isso se chama **MÉTODO SIMPLEX** (_otimizar o resultado de saída de uma matriz_, _maximizando ou minimizando_ faturamentos/custos).
+  - **Tudo isso tem a ver com Álgebra Linear**, pois tratam-se de _abstrações da produção_ (pontos no espaço, diferença preço de custo/produção, tudo vira um problema de Álgebra Linear). Precisamos desenvolver essa capacidade aos poucos!
+  - Tudo isso tem a ver com *MODELAGEM* de um PROBLEMA pra resolver com uma SOLUÇÃO usando uma certa técnica (possivalmente matemática).
 
