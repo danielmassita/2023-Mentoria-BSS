@@ -1,4 +1,3 @@
-![Black Scorpion Software (BSS)](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/812dc975-4895-4038-bf29-bdfb17e71a8b)
 ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/812dc975-4895-4038-bf29-bdfb17e71a8b)
 
 
