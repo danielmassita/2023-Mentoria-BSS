@@ -157,5 +157,13 @@ ___
 - Não apenas pensando como "especialista programador", podemos pensar em programações comerciais mas sem a idéia de programação. Imagine, por exemplo, empresas de SEGUROS (prever caudas de pagamentos, possibilidades de sinistro e função do tempo - estatística do tempo pagando seguro vs. custo do sinistro vs. pagamento da compensação em caso de execução). Esse VETOR DE DIFERENÇA (idade que começou a pagar a apólice) vs. (idade que vou ter sinistro/morrer), nesse caso, pessoas novas pagam menos, pessoas mais velhas pagam mais... Essa DIFERENÇA DO VALOR/IDADE é uma "programação" baseada em estatística (isso se chama a Arte da Contadoria, ou Ciências Atuariais).
   - _"As Ciências Atuariais (Atuária) é a ciência que que analisa e gerencia riscos e expectativas de quaisquer naturezas: econômicas, financeiras e biométricas, com o objetivo de prover proteção social."_ São as Tábuas de Morte! 💀
   - As Empresas Securitárias devem pensar nos números macros, calculando todo o potencial e capitalização, sabendo calcular as margens de retiradas e afins, rendendo a diferença que é o lucro.
-- Esse é um bom exemplo de pensamento estruturado e programático. 
+- Esse é um bom exemplo de pensamento estruturado e programático.
+- &nbsp;
+- A idéia é aprender estratégias para OTIMIZAR esses CAMPOS VETORIAIS pra gente obter o resultado que queremos.
+- Problemas de Produção:
+  - Produto A (custo $ 100), (venda $ 180).
+  - Produto B (custo $ 120), (venda $ 230).
+  - Produto C (custo $ 130), (venda $ 2500).
+  - Capacidade de produzir 10.000 itens por mês. Quanto de cada grupo devo produzir pra ganhar o máximo possível? Problema de Álgebra Linear! Representado por uma Matriz que vamos multiplicar/simplificar, vamos pivotar a matriz, e teremos uma solução no final. Isso se chama MÉTODO SIMPLEX (otimizar o resultado de saída de uma matriz, maximizando ou minimizando faturamentos/custos).
+  - Tudo isso tem a ver com Álgebra Linear, pois tratam-se de abstrações da produção (pontos no espaço, diferença preço de custo/produção, tudo vira um problema de Álgebra Linear). Precisamos desenvolver essa capacidade aos poucos!  
 
