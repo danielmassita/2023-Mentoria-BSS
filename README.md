@@ -24,8 +24,8 @@ ___
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula04.md) ✅
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula05.md) ✅
 - [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula06.md) ✅
-- Aula 07 - ⛔ 2023 NOV 07 
-- Aula 08 - ⛔ 2023 NOV 15
+- Aula 07 - ⛔ 2023 NOV 07 - https://www.youtube.com/live/TKMFscl6g7k
+- Aula 08 - ⛔ 2023 NOV 15 - https://www.youtube.com/live/E9QD15P2t64
   - Lista 01 - ⛔ 2023 NOV 15 (são necessárias as aulas 07 e 08 pra resolver...)
 
 #### Lógica de Programação, Algoritmos e Estruturas de Dados
@@ -37,7 +37,7 @@ ___
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula04.md) ✅
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula05.md) ✅
 - [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula06.md) ✅
-- Aula 07 - ⛔ 2023 NOV 15
+- Aula 07 - ⛔ 2023 NOV 15 - https://www.youtube.com/live/lBAMwP0QZ14
 
 #### Estatística e Ciência de Dados
 
@@ -46,7 +46,7 @@ ___
 - [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula03.md) ✅
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula04.md) ✅
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula05.md) ✅
-- Aula 06 - ⛔ 2023 NOV 16
+- Aula 06 - ⛔ 2023 NOV 16 - https://www.youtube.com/live/GPhZgdqFqtc
 
 #### Matemática Discreta Aplicada à Programação
 
@@ -58,11 +58,11 @@ ___
 
 #### English (WED-0600h)
 
-- Class 01 - ⚠️ (mixed class from A1-C2)
-- Class 02 - ⚠️ (mixed class from A1-C2)
-- Class 03 - ⚠️ (mixed class from A1-C2)
+- [Class 01](https://youtu.be/8jJiCulZGVI) ⚠️ (mixed class from A1-C2)
+- [Class 02](https://youtu.be/44jFiYF-J74) ⚠️ (mixed class from A1-C2)
+- [Class 03](https://youtu.be/HYZozxqaRSg) ⚠️ (mixed class from A1-C2)
 - [Class 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class04.md) ✅
 - [Class 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md) ✅
 - [Class 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md) ✅
-- Class 07 - ⛔ 2023 NOV 15
+- Class 07 - ⛔ 2023 NOV 15 - https://youtu.be/filhr4C1apA
 
