@@ -5,6 +5,15 @@
 
 Esse é um repositório particular, porém de interesse coletivo e construção cooperativa!
 
+___
+
+## Índice de Aulas
+
+✅ - Aulas resumidas e anotações finalizadas (aceitamos sugestões e incrementos!)
+⛔ - Aulas já ministradas, faltam notas de estudos + data da live/aula [YYYY-MMM-DD]
+
+___
+
 ### Álgebra Linear
 
 - [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula01.md) ✅
