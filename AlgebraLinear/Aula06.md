@@ -153,7 +153,9 @@ ___
 - Entender a Lógica de Vetores dentro de problemas REAIS, transformar um problema concreto em um problema abstrato usando vetores. Vamos fazer isso com Programação!
 - Uma imagem, um leito vê uma imagem apenas. Eu vou ver um conjunto de vetores, representados por pontos-pixels na minha tela, posso aplicar uma transformação linear expressa por uma matriz, etc... Precisamos entender a lógica por trás de representar um problema através de uma estrutura de vetor. Álgebra Linear não é apenas decoréba.
 - Ao falar em Transformação Linear, temos que ter consciência que estamos TRANSFORMANDO UM CONJUNTO QUALQUER DE OBJETO (pixels da imagem em tela, gradiente de temperatura da placa de metal, linhas isotérmicas num mapa, etc.)
-- 
+&nbsp;
+- Não apenas pensando como "especialista programador", podemos pensar em programações comerciais mas sem a idéia de programação. Imagine, por exemplo, empresas de SEGUROS (prever caudas de pagamentos, possibilidades de sinistro e função do tempo - estatística do tempo pagando seguro vs. custo do sinistro vs. pagamento da compensação em caso de execução). Esse VETOR DE DIFERENÇA (idade que começou a pagar a apólice) vs. (idade que vou ter sinistro/morrer), nesse caso, pessoas novas pagam menos, pessoas mais velhas pagam mais... Essa DIFERENÇA DO VALOR/IDADE é uma "programação" baseada em estatística (isso se chama a Arte da Contadoria, ou Ciências Atuariais).
+  - _"As Ciências Atuariais (Atuária) é a ciência que que analisa e gerencia riscos e expectativas de quaisquer naturezas: econômicas, financeiras e biométricas, com o objetivo de prover proteção social."_ São as Tábuas de Morte! 💀
+  - As Empresas Securitárias devem pensar nos números macros, calculando todo o potencial e capitalização, sabendo calcular as margens de retiradas e afins, rendendo a diferença que é o lucro.
+- Esse é um bom exemplo de pensamento estruturado e programático. 
 
-
-     
