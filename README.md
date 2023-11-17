@@ -15,6 +15,7 @@ ___
 
 - ✅ Aulas resumidas e anotações finalizadas (aceitamos sugestões e incrementos!)
 - ⛔ Aulas já ministradas, faltam notas de estudos + data da live/aula [YYYY-MMM-DD]
+- Lembrete: Alguns links de aulas já não são públicos, mas outros são abertos ainda! Se você está aqui é porque tem acesso e, considero um acordo e um aceite tácito, você tem obrigação de seguir um código de Ética e Conduta da BSS (ainda que aqui não explícito), pois seu e-mail veio de uma listagem oficial junto ao Professor Ed! Lembro também que todo o conteúdo é para 🔞! 
 
 ### Álgebra Linear
 
