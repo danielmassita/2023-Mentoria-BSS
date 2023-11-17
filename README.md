@@ -3,7 +3,7 @@
 
 # Mentoria BSS 2023 | Black Scorpion Software
 
-Esse é um repositório particular, porém de interesse coletivo e construção cooperativa!
+Esse é um repositório particular, porém de interesse coletivo e construção cooperativa! 
 
 ___
 
@@ -11,6 +11,7 @@ ___
 
 - ✅ Aulas resumidas e anotações finalizadas (aceitamos sugestões e incrementos!)
 - ⛔ Aulas já ministradas, faltam notas de estudos + data da live/aula [YYYY-MMM-DD]
+- _O Programa de Mentoria da Black Scorpion Software Brasil visa proporcionar formação profissional acessível na área de TI, preparando profissionais de acordo com as necessidades de nossos projetos e dos projetos dos nossos clientes. A Black Scorpion Software Brasil enfatiza habilidades matemáticas em seus projetos. Diante da escassez no mercado, seu Programa de Mentoria em Desenvolvimento de Software inclui disciplinas de programação e cursos de Matemática, como Álgebra Linear, Matemática Discreta, Estatística e Introdução à Ciência de Dados. A Black Scorpion Software Brasil enfatiza habilidades matemáticas em seus projetos. Diante da escassez no mercado, seu Programa de Mentoria em Desenvolvimento de Software inclui disciplinas de programação e cursos de Matemática, como Álgebra Linear, Matemática Discreta, Estatística e Introdução à Ciência de Dados._
 
 ___
 
