@@ -4,12 +4,12 @@ Esse é um repositório particular, porém de interesse coletivo e construção 
 
 ### Álgebra Linear
 
-- Aula 01 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula01.md
-- Aula 02 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula02.md
-- Aula 03 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula03.md
-- Aula 04 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula04.md
-- Aula 05 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula05.md
-- Aula 06 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula06.md
+- [Aula 01 - ](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula01.md)
+- [Aula 02 - ](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula02.md)
+- [Aula 03 - ](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula03.md)
+- [Aula 04 - ](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula04.md)
+- [Aula 05 - ](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula05.md)
+- [Aula 06 - ](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula06.md)
 - Aula 07 - 2023 NOV 07
 - Aula 08 - 2023 NOV 15
 
