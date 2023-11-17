@@ -10,8 +10,8 @@ Esse é um repositório particular, porém de interesse coletivo e construção 
 - Aula 04 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula04.md
 - Aula 05 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula05.md
 - Aula 06 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula06.md
-- Aula 07 -
-- Aula 08 -
+- Aula 07 - 2023 NOV 07
+- Aula 08 - 2023 NOV 15
 
 ### Lógica de Programação, Algoritmos e Estruturas de Dados
 
@@ -22,7 +22,7 @@ Esse é um repositório particular, porém de interesse coletivo e construção 
 - Aula 04 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula04.md
 - Aula 05 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula05.md
 - Aula 06 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula06.md
-- Aula 07 -
+- Aula 07 - 2023 NOV 15
 
 ### Estatística e Ciência de Dados
 
@@ -31,7 +31,7 @@ Esse é um repositório particular, porém de interesse coletivo e construção 
 - Aula 03 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula03.md
 - Aula 04 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula04.md
 - Aula 05 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula05.md
-- Aula 06 - 
+- Aula 06 - 2023 NOV 16
 
 ### Matemática Discreta Aplicada à Programação
 
@@ -41,3 +41,12 @@ Esse é um repositório particular, porém de interesse coletivo e construção 
 - Aula 04 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula04.md
 - Aula 05 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula05.md
 
+### English (WED-0600h)
+
+- Class 01 - [...]
+- Class 02 - [...]
+- Class 03 - [...]
+- Class 04 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class04.md
+- Class 05 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md
+- Class 06 - https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md
+- Class 07 - 2023 NOV 15 (notes to be written)
