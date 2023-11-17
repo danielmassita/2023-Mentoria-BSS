@@ -9,8 +9,8 @@ ___
 
 ## Índice de Aulas
 
-✅ - Aulas resumidas e anotações finalizadas (aceitamos sugestões e incrementos!)
-⛔ - Aulas já ministradas, faltam notas de estudos + data da live/aula [YYYY-MMM-DD]
+- ✅ Aulas resumidas e anotações finalizadas (aceitamos sugestões e incrementos!)
+- ⛔ Aulas já ministradas, faltam notas de estudos + data da live/aula [YYYY-MMM-DD]
 
 ___
 
