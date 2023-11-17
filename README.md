@@ -1,3 +1,7 @@
+![Black Scorpion Software (BSS)](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/812dc975-4895-4038-bf29-bdfb17e71a8b)
+![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/812dc975-4895-4038-bf29-bdfb17e71a8b)
+
+
 # Mentoria BSS 2023 | Black Scorpion Software
 
 Esse é um repositório particular, porém de interesse coletivo e construção cooperativa!
