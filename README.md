@@ -4,6 +4,7 @@ Esse é um repositório particular, porém de interesse coletivo e construção 
 
 ### Álgebra Linear
 
+[![Inline docs](https://inch-ci.org/github/dwyl/hapi-auth-jwt2.svg?branch=master)]
 - [Aula 01 - ](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula01.md) ✅
 - [Aula 02 - ](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula02.md) ✅
 - [Aula 03 - ](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula03.md) ✅
