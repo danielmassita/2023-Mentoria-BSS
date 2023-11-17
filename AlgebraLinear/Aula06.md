@@ -173,4 +173,9 @@ ___
 - **Problema de Álgebra Linear!** Representado por uma _Matriz_ que vamos _multiplicar/simplificar/operar_, vamos _pivotar a matriz_, e teremos uma _solução no final_. Isso se chama **MÉTODO SIMPLEX** (_otimizar o resultado de saída de uma matriz_, _maximizando ou minimizando_ faturamentos/custos).
   - **Tudo isso tem a ver com Álgebra Linear**, pois tratam-se de _abstrações da produção_ (pontos no espaço, diferença preço de custo/produção, tudo vira um problema de Álgebra Linear). Precisamos desenvolver essa capacidade aos poucos!
   - Tudo isso tem a ver com *MODELAGEM* de um PROBLEMA pra resolver com uma SOLUÇÃO usando uma certa técnica (possivalmente matemática).
-
+&nbsp;
+- Usar as Matemáticas e as Físicas (como "Artes Naturais") para ver a analisar a Natureza, assim, apreciando-a!
+- Olhar a Terra com o humilde olhar de Carl Sagan!
+- Pálido Ponto Azul - Cosmos - Carl Sagan
+- https://www.youtube.com/watch?v=GO5FwsblpT8
+- [![Carl Sagan's Pale Blue Dot](https://img.youtube.com/vi/GO5FwsblpT8/0.jpg)](https://www.youtube.com/watch?v=GO5FwsblpT8)
