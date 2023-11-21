@@ -35,7 +35,7 @@ ___
 
 ### New Vocabulary (to look fancy) 
 
-- Dairy/Dairies Industr;
+- Dairy/Dairies Industry;
 - To ghost someone... / Ghosting someone...
 - Go blank (mind)...
 - Stomach issues/aches...
@@ -55,4 +55,6 @@ ___
 
 ### Memes or Not
 
-- asdf
+- Ariana Grande - Boyfriend Material
+  - https://www.letras.mus.br/ariana-grande/boyfriend-material/
+-  
