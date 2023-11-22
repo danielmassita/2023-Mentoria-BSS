@@ -69,5 +69,6 @@ ___
 - [Class 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md) ✅
 - [Class 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md) ✅
 - [Class 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class07.md) ⛔ 2023 NOV 15 (loading...)
+- [Class 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class08.md) ✅
 
 ___
