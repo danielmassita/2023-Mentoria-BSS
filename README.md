@@ -65,10 +65,10 @@ ___
 - [Class 01](https://youtu.be/8jJiCulZGVI) ⚠️ (mixed class from A1-C2, YT record, not notes)
 - [Class 02](https://youtu.be/44jFiYF-J74) ⚠️ (mixed class from A1-C2, YT record, not notes)
 - [Class 03](https://youtu.be/HYZozxqaRSg) ⚠️ (mixed class from A1-C2, YT record, not notes)
-- [Class 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class04.md) ✅
-- [Class 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md) ✅
-- [Class 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md) ✅
-- [Class 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class07.md) ✅ 2023 NOV 15 (loading...)
-- [Class 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class08.md) ✅
+- [Class 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class04.md) ✅ 
+- [Class 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md) ✅ 
+- [Class 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md) ✅ 
+- [Class 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class07.md) ✅ 
+- [Class 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class08.md) ✅ 
 
 ___
