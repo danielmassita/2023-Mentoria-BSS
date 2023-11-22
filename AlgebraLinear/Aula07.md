@@ -40,8 +40,8 @@ ___
 - Vamos começar pelo **CONJUNTO ℝ²**, é um produto de Conj. ℝ por Conj. ℝ,
   - ℝ² = reta Real (todos números reais) em produto de ℝ.x e ℝ.y, sendo um produto de espaços (vetores) pegando cada elemento de um eixo vs. outro eixo).
   - O elemento do ℝ² é um **PAR (a,b)**, onde "a" pertence ao conj. ℝ e também "b" pertence ao conjunto ℝ;
-  - ``` - ℝ² ```    
-  - ``` ℝ * ℝ ```
+  - ``` ℝ² ```     
+  - ``` ℝ * ℝ ``` reta suporte dos números Reais no eixo ℝ.x e reta suporte dos números Reais no eixo ℝ.y  
   - ``` (a, b) ``` par de elementos (a,b)
   - ``` a ∈ ℝ ``` ponto "a" é retirado do conjunto ℝ.x 
   - ``` b ∈ ℝ ``` ponto "b" é retirado do conjunto ℝ.y
@@ -50,3 +50,7 @@ ___
 
 ___
 
+### Um Elemento do ℝ² é um PAR de elementos! 
+
+- Um elemento do ℝ² é um parzinho (a,b).
+- Um elemento do ``` ℝ² ``` é um par formado pelos pontos ``` (a, b) ```, onde os pontos a e b pertencem ao conjunto ℝ ``` a, b ∈ ℝ ```.
