@@ -28,7 +28,7 @@ ___
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula04.md) ✅
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula05.md) ✅
 - [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula06.md) ✅
-- Aula 07 - ⛔ 2023 NOV 07 - https://www.youtube.com/live/TKMFscl6g7k
+- [Aula 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula07.md) - ⚠️ 2023 NOV 07
 - Aula 08 - ⛔ 2023 NOV 15 - https://www.youtube.com/live/E9QD15P2t64
   - Lista 01 - ⛔ 2023 NOV 15 (são necessárias as aulas 07 e 08 pra resolver...)
 
@@ -59,12 +59,13 @@ ___
 - [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula03.md) ✅
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula04.md) ✅
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula05.md) ✅
+- Aula 06 - ⛔ 2023 NOV 18 - https://www.youtube.com/live/QLohn6DLWb8
 
 ### English (WED-0600h)
 
-- [Class 01](https://youtu.be/8jJiCulZGVI) ⚠️ (mixed class from A1-C2, YT record, not notes)
-- [Class 02](https://youtu.be/44jFiYF-J74) ⚠️ (mixed class from A1-C2, YT record, not notes)
-- [Class 03](https://youtu.be/HYZozxqaRSg) ⚠️ (mixed class from A1-C2, YT record, not notes)
+- [Class 01](https://youtu.be/8jJiCulZGVI) ⚠️ (mixed class from A1-C2, YT record, without notes)
+- [Class 02](https://youtu.be/44jFiYF-J74) ⚠️ (mixed class from A1-C2, YT record, without notes)
+- [Class 03](https://youtu.be/HYZozxqaRSg) ⚠️ (mixed class from A1-C2, YT record, without notes)
 - [Class 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class04.md) ✅ 
 - [Class 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md) ✅ 
 - [Class 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md) ✅ 
