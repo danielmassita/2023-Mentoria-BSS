@@ -32,7 +32,8 @@ ___
   - sedentary - US  /ˈsed.ən.ter.i/ UK  /ˈsed.ən.tər.i/
   - overwhelm - US  /ˌoʊ.vɚˈwelm/ UK  /ˌəʊ.vəˈwelm/
   - employee - US  /ɪmˈplɔɪ.iː/ /ˌem.plɔɪˈiː/ UK  /ɪmˈplɔɪ.iː/ /ˌem.plɔɪˈiː/
-  - 
+  - difficulty - US  /ˈdɪf.ə.kəl.t̬i/ UK  /ˈdɪf.ɪ.kəl.ti/
+  - wishfully - US  /ˈwɪʃ.fəl.i/ UK  /ˈwɪʃ.fəl.i/
     
 </details>
 </p>
@@ -43,17 +44,19 @@ ___
 ### New Vocabulary (to look fancy) 
 
 - Dairy/Dairies Industry;
-- To ghost someone... / Ghosting someone...
-- Go blank (mind)...
-- Stomach issues/aches...
-- Anxiety situations...
-- To lose sleep...
+- To ghost someone / Ghosting someone
+- Go blank (mind)
+- Stomach issues/aches
+- Anxiety situations
+- To lose sleep
 - Crippling (sth. causes harm)
 - Pawn
 - Substance Abuse
 - Overload
 - Overwhelm
-- 
+- Wishful Thinking
+- Our Thoughts
+  
   
 ___
 
@@ -71,6 +74,7 @@ ___
 - "Sort of..."
 - "To set boundaries at work..."
 - "I haven't changed a bit..."
+  
   
 ___
 
