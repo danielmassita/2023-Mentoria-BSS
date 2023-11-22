@@ -53,4 +53,7 @@ ___
 ### Um Elemento do ℝ² é um PAR de elementos! 
 
 - Um elemento do ℝ² é um parzinho (a,b).
-- Um elemento do ``` ℝ² ``` é um par formado pelos pontos ``` (a, b) ```, onde os pontos a e b pertencem ao conjunto ℝ ``` a, b ∈ ℝ ```.
+  - Um elemento do ``` ℝ² ``` é um par formado pelos pontos ``` (a, b) ```, onde os pontos a e b pertencem ao conjunto ℝ ``` a, b ∈ ℝ ```.
+  - É como se eu tivesse duas retas reais, e estou tirando um elemento de um, um elemento de outra, e estou situando esse elemento no cruzamento de dois conjuntos.
+- Vamos observar algo interessante...
+- Poderíamos escrever esse elemento assim: ``` a*(1, 0) + b*(0, 1) ```
