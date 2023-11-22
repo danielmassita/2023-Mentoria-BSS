@@ -53,9 +53,10 @@ ___
 ### Um Elemento do ℝ² é um PAR de elementos! 
 
 - Um elemento do ℝ² é um parzinho (a,b).
-  - Um elemento do ``` ℝ² ``` é um par formado pelos pontos ``` (a, b) ```, onde os pontos a e b pertencem ao conjunto ℝ ``` a, b ∈ ℝ ```.
+  - Um elemento do ``` ℝ² ``` é um par formado pelos pontos ``` (a, b) ```, onde os pontos a e b pertencem ao conjunto ℝ ``` a, b ∈ ℝ ``` .
   - É como se eu tivesse duas retas reais, e estou tirando um elemento de um, um elemento de outra, e estou situando esse elemento no cruzamento de dois conjuntos.
 - Vamos observar algo interessante...
-- Poderíamos escrever esse elemento assim: ``` a*(1, 0) + b*(0, 1) ```, de acordo com aquelas regras de multiplicação por esaclar, e das regras de soma de vetores, podemos escrever assim, pois isso é a mesma coisa que ``` (a, 0) + (0, b) ```, pois o escalar "a" multiplica o par (1, 0), e "b" multiplica o par (0, 1).
+- Poderíamos escrever esse elemento assim: ``` a*(1, 0) + b*(0, 1) ```, de acordo com aquelas regras de multiplicação por escalar, e das regras de soma de vetores, podemos escrever assim, pois isso é a mesma coisa que ``` (a, 0) + (0, b) ```, pois o escalar "a" multiplica o par (1, 0) e o escalar "b" multiplica o par (0, 1).
   - ``` a*(1, 0) + b*(0, 1) ``` = ``` (a, 0) + (0, b) ```
-  -   
+- _Galera, tentem entrar na aula no horário correto, pois o Ed fica parando pra autorizar a entrada (#lá-ele), e o caldo entorna pra todes... O gato pode virar, cedo ou tarde, um animal decorativo e empalhado. Piada sobre o nome do gato ser Astro, afinal, "Astro-no-mia"... Se tá ruim pra você ouvindo a aula, imagina pra mim transcrevendo..._
+- 
