@@ -58,7 +58,9 @@ ___
 - "To be a boyfriend material..."
 - "Do not try to fool yourself..."
 - "To side with..." 
-  
+- "[To be] sick and tired of..."
+- [To] vent with someone..." (venting, sharing, decompressing)
+- 
 
 ___
 
