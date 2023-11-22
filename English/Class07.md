@@ -28,9 +28,12 @@ ___
   - anxious - US  /ˈæŋk.ʃəs/ UK  /ˈæŋk.ʃəs/
   - productive - US  /prəˈdʌk.tɪv/ UK  /prəˈdʌk.tɪv/
   - harassment - US  /həˈræs.mənt/ /ˈher.əs.mənt/ UK  /ˈhær.əs.mənt/ /həˈræs.mənt/
+  - pawn - US  /pɑːn/ UK  /pɔːn/
+  - sedentary - US  /ˈsed.ən.ter.i/ UK  /ˈsed.ən.tər.i/
+  - overwhelm - US  /ˌoʊ.vɚˈwelm/ UK  /ˌəʊ.vəˈwelm/
+  - employee - US  /ɪmˈplɔɪ.iː/ /ˌem.plɔɪˈiː/ UK  /ɪmˈplɔɪ.iː/ /ˌem.plɔɪˈiː/
   - 
     
-
 </details>
 </p>
 
@@ -46,6 +49,10 @@ ___
 - Anxiety situations...
 - To lose sleep...
 - Crippling (sth. causes harm)
+- Pawn
+- Substance Abuse
+- Overload
+- Overwhelm
 - 
   
 ___
@@ -60,8 +67,11 @@ ___
 - "To side with..." 
 - "[To be] sick and tired of..."
 - [To] vent with someone..." (venting, sharing, decompressing)
-- 
-
+- "It is what it is..."
+- "Sort of..."
+- "To set boundaries at work..."
+- "I haven't changed a bit..."
+  
 ___
 
 ### Memes or Not
