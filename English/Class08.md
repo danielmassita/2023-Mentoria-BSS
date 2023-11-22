@@ -27,7 +27,7 @@ ___
   - remotely - US  /rɪˈmoʊt.li/ UK  /rɪˈməʊt.li/
   - experience - US  /ɪkˈspɪr.i.əns/ UK  /ɪkˈspɪə.ri.əns/
   - nomad - US  /ˈnoʊ.mæd/ UK  /ˈnəʊ.mæd/
-  - pyramid - US  /ɪkˈspɪr.i.əns/ UK  /ɪkˈspɪə.ri.əns/
+  - pyramid - US  /ˈpɪr.ə.mɪd/ UK  /ˈpɪr.ə.mɪd/
   - burden - US  /ˈbɝː.dən/ UK  /ˈbɜː.dən/
   - struggling - US  /ˈstrʌɡ.lɪŋ/ UK  /ˈstrʌɡ.lɪŋ/ 
   - complementary - US  /ˌkɑːm.pləˈmen.t̬ɚ.i/ UK  /ˌkɒm.plɪˈmen.tər.i/
@@ -77,12 +77,18 @@ ___
 ### Memes or Not
 
 - Italian Man Who Went to Malta
+  - [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/m1TnzCiUSI0/0.jpg)](http://www.youtube.com/watch?v=m1TnzCiUSI0)
   - https://youtu.be/m1TnzCiUSI0
 - Karen vs. Manager
+  - [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/NfBVMiIfJZU/0.jpg)](http://www.youtube.com/watch?v=NfBVMiIfJZU) 
   - https://youtu.be/NfBVMiIfJZU 
 - Karen Throws Tantrums (Top 200 Best Karen Clips Of All Time!)
+  - [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/FFVY31MpCx4/0.jpg)](http://www.youtube.com/watch?v=FFVY31MpCx4) 
   - https://youtu.be/FFVY31MpCx4
 - Karens, uma espécie que não sobreviveria no Brasil [pt-br]
+  - [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/lKokiu9ysuE/0.jpg)](http://www.youtube.com/watch?v=lKokiu9ysuE) 
   - https://youtu.be/lKokiu9ysuE
+
+
 
 FIM!
