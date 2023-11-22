@@ -1,21 +1,48 @@
-PHONETICS
+# Mentorship Program by BSS 2023
+# English with Daniel Magndon
 
-- gave[-up] - US  /ɡeɪv/ UK  /ɡeɪv/
-- locally - US  /ˈloʊ.kəl.i/ UK  /ˈləʊ.kəl.i/
-- remotely - US  /rɪˈmoʊt.li/ UK  /rɪˈməʊt.li/
-- experience - US  /ɪkˈspɪr.i.əns/ UK  /ɪkˈspɪə.ri.əns/
-- nomad - US  /ˈnoʊ.mæd/ UK  /ˈnəʊ.mæd/
-- pyramid - US  /ɪkˈspɪr.i.əns/ UK  /ɪkˈspɪə.ri.əns/
-- burden - US  /ˈbɝː.dən/ UK  /ˈbɜː.dən/
-- struggling - US  /ˈstrʌɡ.lɪŋ/ UK  /ˈstrʌɡ.lɪŋ/ 
-- complementary - US  /ˌkɑːm.pləˈmen.t̬ɚ.i/ UK  /ˌkɒm.plɪˈmen.tər.i/
-- resource - US  /ˈriː.sɔːrs/ /ˈriː.zɔːrs/ UK  /rɪˈzɔːs/ /ˈriː.sɔːs/ 
-- booth - US  /buːθ/ UK  /buːð/
-- policy - US  /ˈpɑː.lə.si/ UK  /ˈpɒl.ə.si/
-- tantrum - US  /ˈtæn.trəm/ UK  /ˈtæn.trəm/
-- oi - exclamation UK informal] (also oy) /ɔɪ/ (US hey)
+- ``` https://whereby.com/magndonfeatbss ``` 
+- ``` https://drive.google.com/drive/u/0/folders/1k0e45wD0ts13MfW4M4KOGscfMYEC0Ytd ```
+- ``` https://youtu.be/filhr4C1apA ```
 
-NEW VOCAB.
+___
+
+## English - Class 08
+
+- Class 08 - Digital Nomads
+  - Class 08 - Digital Nomads.pdf - https://drive.google.com/file/d/1ndAmbbbGKGE2fIubBvnlVRDJ3NHecfMd/view?usp=drive_link
+  - Class 08 - Digital Nomads.mp3 - https://drive.google.com/file/d/19fSKLkMEhMoEdsjRfFaEGy6XBNwc9n8q/view?usp=drive_link
+  
+___
+
+### Phonetics - _"Please, repeat after me..."_
+
+<p>
+<details>
+<summary>Phonetics in UK and US using IPA (International Phonetic Alphabet)</summary>
+
+  - gave[-up] - US  /ɡeɪv/ UK  /ɡeɪv/
+  - locally - US  /ˈloʊ.kəl.i/ UK  /ˈləʊ.kəl.i/
+  - remotely - US  /rɪˈmoʊt.li/ UK  /rɪˈməʊt.li/
+  - experience - US  /ɪkˈspɪr.i.əns/ UK  /ɪkˈspɪə.ri.əns/
+  - nomad - US  /ˈnoʊ.mæd/ UK  /ˈnəʊ.mæd/
+  - pyramid - US  /ɪkˈspɪr.i.əns/ UK  /ɪkˈspɪə.ri.əns/
+  - burden - US  /ˈbɝː.dən/ UK  /ˈbɜː.dən/
+  - struggling - US  /ˈstrʌɡ.lɪŋ/ UK  /ˈstrʌɡ.lɪŋ/ 
+  - complementary - US  /ˌkɑːm.pləˈmen.t̬ɚ.i/ UK  /ˌkɒm.plɪˈmen.tər.i/
+  - resource - US  /ˈriː.sɔːrs/ /ˈriː.zɔːrs/ UK  /rɪˈzɔːs/ /ˈriː.sɔːs/ 
+  - booth - US  /buːθ/ UK  /buːð/
+  - policy - US  /ˈpɑː.lə.si/ UK  /ˈpɒl.ə.si/
+  - tantrum - US  /ˈtæn.trəm/ UK  /ˈtæn.trəm/
+  - oi - exclamation UK informal] (also oy) /ɔɪ/ (US hey)
+
+</details>
+</p>
+
+
+___
+
+### New Vocabulary (to look fancy) 
 
 - Knowledge
 - Top Notch
@@ -26,10 +53,10 @@ NEW VOCAB.
 - "Slipery slope" 
 - Booth
 - RV 
-- 
 
+___
 
-SENTENCES DO PRACTICE
+### Sentences to Practice Grammar and Speaking (to look cool)
 
 - Living is a burden...
 - Furthermore
@@ -41,10 +68,11 @@ SENTENCES DO PRACTICE
 - We have another issue (just one new issue)
 - Karen throws tantrums in a [situation]...
 
+___
 
-MEME & REFS
+### Memes or Not
 
 - Italian Man Who Went to Malta
-- https://www.youtube.com/watch?v=m1TnzCiUSI0
+  - https://www.youtube.com/watch?v=m1TnzCiUSI0
 - Karen Tantrums
-- 
+  - https://youtu.be/OyWHVb4ayKM?si=KxEaoOBhNBbTpCYn
