@@ -29,9 +29,24 @@ ___
 - O que eu preciso pra representar um vetor dentro do meu espaço?
 - Existem outros conceitos de dimensões nas Matemáticas (Dimensão de Hausdorf-Besikovicht mede a densidade de um conjunto, o espaço que ele ocupa dentro do conjunto onde ele está). Nessa dimensão, podemos ter dimensões de valor 1,5, 3,8, 4,9, dimensões fracionárias.
 - No conceito que vamos abordar hoje, não existe isso, vamos trabalhar com DIMENSÕES INTEIRAS (parse INT).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/df980df9-4307-42d6-8246-f61f6f4faf36)
+
 
 ___
 
 ### O que é a Base de um Espaço Vetorial? 
 
-- 
+- No começo, vamos começar com menos formalidades...
+- Vamos começar pelo **CONJUNTO ℝ²**, é um produto de Conj. ℝ por Conj. ℝ,
+  - ℝ² = reta Real (todos números reais) em produto de ℝ.x e ℝ.y, sendo um produto de espaços (vetores) pegando cada elemento de um eixo vs. outro eixo).
+  - O elemento do ℝ² é um **PAR (a,b)**, onde "a" pertence ao conj. ℝ e também "b" pertence ao conjunto ℝ;
+  - ``` - ℝ² ```    
+  - ``` ℝ * ℝ ```
+  - ``` (a, b) ``` par de elementos (a,b)
+  - ``` a ∈ ℝ ``` ponto "a" é retirado do conjunto ℝ.x 
+  - ``` b ∈ ℝ ``` ponto "b" é retirado do conjunto ℝ.y
+- O ponto do par (a,b) é um ponto do cruzamento do eixo ℝ.x (a) e o cruzamento do eixo ℝ.y (b), no ponto (a,b).
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/8bf98820-9f83-4d20-bfff-c2cd4a0ac6a1)
+
+___
+
