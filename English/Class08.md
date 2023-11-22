@@ -3,7 +3,7 @@
 
 - ``` https://whereby.com/magndonfeatbss ``` 
 - ``` https://drive.google.com/drive/u/0/folders/1k0e45wD0ts13MfW4M4KOGscfMYEC0Ytd ```
-- ``` ... ```
+- ``` https://youtu.be/lIlZ4GKZdUc ```
 
 ___
 
@@ -21,6 +21,7 @@ ___
 <details>
 <summary>Phonetics in UK and US using IPA (International Phonetic Alphabet)</summary>
 
+
   - gave[-up] - US  /ɡeɪv/ UK  /ɡeɪv/
   - locally - US  /ˈloʊ.kəl.i/ UK  /ˈləʊ.kəl.i/
   - remotely - US  /rɪˈmoʊt.li/ UK  /rɪˈməʊt.li/
@@ -35,6 +36,7 @@ ___
   - policy - US  /ˈpɑː.lə.si/ UK  /ˈpɒl.ə.si/
   - tantrum - US  /ˈtæn.trəm/ UK  /ˈtæn.trəm/
   - oi - exclamation UK informal] (also oy) /ɔɪ/ (US hey)
+
 
 </details>
 </p>
@@ -54,6 +56,7 @@ ___
 - Booth
 - RV 
 
+
 ___
 
 ### Sentences to Practice Grammar and Speaking (to look cool)
@@ -68,11 +71,16 @@ ___
 - We have another issue (just one new issue)
 - Karen throws tantrums in a [situation]...
 
+
 ___
 
 ### Memes or Not
 
 - Italian Man Who Went to Malta
-  - https://www.youtube.com/watch?v=m1TnzCiUSI0
-- Karen Tantrums
-  - https://youtu.be/OyWHVb4ayKM?si=KxEaoOBhNBbTpCYn
+  - https://youtu.be/m1TnzCiUSI0
+- Karen vs. Manager
+  - https://youtu.be/NfBVMiIfJZU 
+- Karen Throws Tantrums (Top 200 Best Karen Clips Of All Time!)
+  - https://youtu.be/FFVY31MpCx4
+- Karens, uma espécie que não sobreviveria no Brasil [pt-br]
+  - https://youtu.be/lKokiu9ysuE
