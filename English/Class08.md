@@ -55,7 +55,7 @@ ___
 - "Slipery slope" 
 - Booth
 - RV 
-
+- natural/actual nomad (not a digital one)
 
 ___
 
