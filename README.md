@@ -28,7 +28,7 @@ ___
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula04.md) ✅
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula05.md) ✅
 - [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula06.md) ✅
-- [Aula 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula07.md) - ⚠️ 2023 NOV 07
+- [Aula 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula07.md) - ⚠️ 2023 NOV 07 (loading...)
 - Aula 08 - ⛔ 2023 NOV 15 - https://www.youtube.com/live/E9QD15P2t64
   - Lista 01 - ⛔ 2023 NOV 15 (são necessárias as aulas 07 e 08 pra resolver...)
 
