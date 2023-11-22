@@ -10,4 +10,5 @@ ___
 - Marco Civil da Internet - Estamos gravando!
 - Hoje, vamos estudar **"O Assunto dos assuntos"** na matéria de Álgebra Linear.
 - A aula de hoje, **"Base de um Espaço Vetorial"**, é uma das principais aulas dessa disciplina, e com certeza, estaria listada entre, senão a mais, os assuntos mais fundamentais.
+- Coisas popularizadas, quando cooptadas pelo Mercado, constumam perder qualidade... Por exemplo: uísques, vinhos, etc. que dependem de uma maturação, costumam perder qualidade quando produzidos em larga escala...
 - 
