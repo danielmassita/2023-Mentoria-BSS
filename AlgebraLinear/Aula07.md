@@ -27,4 +27,11 @@ ___
 &nbsp;
 - Hoje, vamos entender a Dimensão num sentido mais próximo do Físico, Natural, de um conjunto...
 - O que eu preciso pra representar um vetor dentro do meu espaço?
--    
+- Existem outros conceitos de dimensões nas Matemáticas (Dimensão de Hausdorf-Besikovicht mede a densidade de um conjunto, o espaço que ele ocupa dentro do conjunto onde ele está). Nessa dimensão, podemos ter dimensões de valor 1,5, 3,8, 4,9, dimensões fracionárias.
+- No conceito que vamos abordar hoje, não existe isso, vamos trabalhar com DIMENSÕES INTEIRAS (parse INT).
+
+___
+
+### O que é a Base de um Espaço Vetorial? 
+
+- 
