@@ -56,7 +56,8 @@ ___
 - Overwhelm
 - Wishful Thinking
 - Our Thoughts
-  
+- Brain Fog
+- Sarcasm  
   
 ___
 
@@ -74,6 +75,9 @@ ___
 - "Sort of..."
 - "To set boundaries at work..."
 - "I haven't changed a bit..."
+- "I guess so..."
+- "Stress may propel you into action..."
+- "A certain amount of everything can be good..."
   
   
 ___
@@ -82,4 +86,7 @@ ___
 
 - Ariana Grande - Boyfriend Material
   - https://www.letras.mus.br/ariana-grande/boyfriend-material/
--  
+- 20 Professional Ways To Kindly Tell Your Coworkers To Go Fuck Themselves
+  - https://thoughtcatalog.com/maria-monrovia/2019/01/20-professional-ways-to-kindly-tell-your-coworkers-to-go-fuck-themselves/ 
+
+THE END! 
