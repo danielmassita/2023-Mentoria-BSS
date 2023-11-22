@@ -21,6 +21,7 @@ ___
 <details>
 <summary>Phonetics in UK and US using IPA (International Phonetic Alphabet)</summary>
 
+&nbsp;
   - early - US  /ˈɝː.li/ UK  /ˈɜː.li/
   - dairy - US  /ˈder.i/ UK  /ˈdeə.ri/
   - anxiety - US  /æŋˈzaɪ.ə.t̬i/ UK  /æŋˈzaɪ.ə.ti/
