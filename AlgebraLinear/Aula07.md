@@ -56,4 +56,6 @@ ___
   - Um elemento do ``` ℝ² ``` é um par formado pelos pontos ``` (a, b) ```, onde os pontos a e b pertencem ao conjunto ℝ ``` a, b ∈ ℝ ```.
   - É como se eu tivesse duas retas reais, e estou tirando um elemento de um, um elemento de outra, e estou situando esse elemento no cruzamento de dois conjuntos.
 - Vamos observar algo interessante...
-- Poderíamos escrever esse elemento assim: ``` a*(1, 0) + b*(0, 1) ```
+- Poderíamos escrever esse elemento assim: ``` a*(1, 0) + b*(0, 1) ```, de acordo com aquelas regras de multiplicação por esaclar, e das regras de soma de vetores, podemos escrever assim, pois isso é a mesma coisa que ``` (a, 0) + (0, b) ```, pois o escalar "a" multiplica o par (1, 0), e "b" multiplica o par (0, 1).
+  - ``` a*(1, 0) + b*(0, 1) ``` = ``` (a, 0) + (0, b) ```
+  -   
