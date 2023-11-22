@@ -25,7 +25,10 @@ ___
   - dairy - US  /ˈder.i/ UK  /ˈdeə.ri/
   - anxiety - US  /æŋˈzaɪ.ə.t̬i/ UK  /æŋˈzaɪ.ə.ti/
   - anxious - US  /ˈæŋk.ʃəs/ UK  /ˈæŋk.ʃəs/
-
+  - productive - US  /prəˈdʌk.tɪv/ UK  /prəˈdʌk.tɪv/
+  - harassment - US  /həˈræs.mənt/ /ˈher.əs.mənt/ UK  /ˈhær.əs.mənt/ /həˈræs.mənt/
+  - 
+    
 
 </details>
 </p>
@@ -41,7 +44,9 @@ ___
 - Stomach issues/aches...
 - Anxiety situations...
 - To lose sleep...
-
+- Crippling (sth. causes harm)
+- 
+  
 ___
 
 ### Sentences to Practice Grammar and Speaking (to look cool)
@@ -50,6 +55,9 @@ ___
 - "[I'm not] Willing to do that... "
 - "Dairy/Dairies industries (they work 24/7)..."
 - "To be a boyfriend material..."
+- "Do not try to fool yourself..."
+- "To side with..." 
+  
 
 ___
 
