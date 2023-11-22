@@ -21,7 +21,7 @@ ___
 <details>
 <summary>Phonetics in UK and US using IPA (International Phonetic Alphabet)</summary>
 
-
+&nbsp;
   - gave[-up] - US  /ɡeɪv/ UK  /ɡeɪv/
   - locally - US  /ˈloʊ.kəl.i/ UK  /ˈləʊ.kəl.i/
   - remotely - US  /rɪˈmoʊt.li/ UK  /rɪˈməʊt.li/
