@@ -141,12 +141,13 @@ ___
 ### Conceito de "Espaço Vetorial"
 
 - Espaço Vetorial é ``` <   > ```:
-- um **Conjunto** ``` C ```
-- com **Duas Operações**:
-  - operação Adição (não a soma normal); ``` (+) ```
-  - operação Multiplicação (não a multiplicação normal); ``` (x) ```  
-- com um **corpo** (conjunto de escalares) ```
-- ``` < C,(+),(x) > ```
+  - um **Conjunto** ``` C ```;
+  - com **Duas Operações**:
+    - operação Adição (não a soma normal); ``` (+) ```
+    - operação Multiplicação (não a multiplicação normal); ``` (x) ```  
+  - com um **corpo** sendo F (conjunto de escalares)
+- Espaço Vetorial é ``` < C,(+),(x) > ```
+&nbsp;
 - **Espaço vetorial é um conjunto com duas operações, Op. Adição e Op. Multiplicação (com bolinhas ao redor), com um corpo "F" (conjunto de escalares) tirados pra garantir a linearidade.**
 - Linearidade para ser garantida temos duas regras:
   - A soma de dois elementos (a,b)
