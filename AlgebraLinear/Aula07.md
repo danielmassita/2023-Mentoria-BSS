@@ -229,6 +229,8 @@ ___
 
 ___ 
 
+### Base Não-Homogênea, como o amigo disse: "números quebrados"
+
 - Característica engraçada nessa base não é homogênea.
 - A medida dos dos lados não é igual quando usamos essa base sugerida {(1.5, 0);(0, 3.2)}
 - Um vetor igual do tipo (5,5) é homogêneo na base canônica:
