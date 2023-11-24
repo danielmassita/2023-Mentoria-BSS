@@ -274,9 +274,11 @@ ___
 - Podemos usar transformações lineares pra enxergar, virar, comprimir, etc., a imagem.
 - A Base do sistema (Espaço Vetorial) que utilizamos vai determinar a maneira como as coisas são visualizadas no exemplo.
 - A base poderia também ser alterada, e ainda pior, pensada em outras dimensões, com Eixo.(x,y) ou Eixo.(x,y,z) ou Eixo.(j,k,l,m) ...
-- The 4th Dimensions Shorts by Tibees:
-  - https://www.youtube.com/watch?v=NwenCsCTwlc&list=PLATpsZGmpkg8PYPS8HEPehR0l9tZYwrCi
-  - Pausa pra um café!
+- Pausa pro Café e pro "Chá"!
+  - The 4th Dimensions Shorts by Tibees [En]
+    - https://www.youtube.com/watch?v=NwenCsCTwlc&list=PLATpsZGmpkg8PYPS8HEPehR0l9tZYwrCi
+  - Explorando outras dimensões - Alex Rosenthal and George Zaidan [En; Pt-Br subs]
+    - https://www.youtube.com/watch?v=C6kn6nXMWF0
 
 ___ 
 
