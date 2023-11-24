@@ -153,7 +153,8 @@ ___
   - A soma de dois elementos (a,b)
     - Se "a" e "b" pertencem à C; ``` a, b ∈ C ``` 
   - Se "k" é um escalar do Corpo F; ``` k ∈ F ```
-  **- Preciso de duas condições pra ser linear:** ``` a + b ∈ C ``` e ``` (k * a) ∈ C ``` 
+  - **Preciso de duas condições pra ser linear:**
+    - ``` a + b ∈ C ``` e ``` (k * a) ∈ C ``` 
     - "a" mais "b" precisa pertencer à C, ou seja, ser **fechado pra adição** de vetores;
     - "k" vezes "a" precisa também pertencer à C, ou seja, ser **fechamento para multiplicação** de vetores;
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/12059f66-3dc2-47cb-9f12-96395afb9018)
