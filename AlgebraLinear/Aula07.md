@@ -102,4 +102,15 @@ ___
 - **Essencialmente, estamos fazendo uma multiplicação e depois uma soma de vetores.**
 - O Vetor.(AB) é a SOMA do Vetor.(a,0) com o paralelo do Vetor.(0,b) transportado pela **Regra do Paralelograma**.
 - A multiplicação de ``` a*(1,0) + b*(0,1) ``` é como se "a" e "b" fossem escalares multiplicando os vetores, no caso o Vetor.(1,0) em ℝ.x no ponto (1,0) com o Vetor.(0,1) em ℝ.y no ponto (0,1).
-- Base do ℝ² = { (1, 0) ; (0,1) }
+- Base do ``` ℝ² = { (1, 0) ; (0,1) } ```
+- Isso quer dizer que **qualquer vetor de Base do ℝ² pode ser escrito como uma COMBINAÇÃO LINEAR**. Combinação Linear é exatamente isso:
+  - Combinação Linear, pegamos dois **escalares "a" e "b"**, escolhemos outros **dois vetores da base** (que é ℝ²) no caso os vetores "(1,0)" e "(0,1)", e escrevemos a **resultante como sendo o Vetor.(AB)**.
+  - Escrevemos o Vetor.(AB) ``` (a, b) ``` como sendo um produto de escalares ``` a*(1,0) + b*(0,1) ```, portanto isso é a Combinação Linear.
+  - ``` (a, b) = a*(1, 0) + b*(0, 1) ```
+  - Pegamos dois escalares "a" e "b";
+  - Pegamos dois vetores "(1,0)" e "(0,1)";
+  - Multiplicamos um escalar pelo primeiro vetor a*(1,0);
+  - Multiplicamos um escalar pelo segundo vetor b*(0,1);
+  - E estou somando ao final.
+- ***Isso é uma Combinação Linear!**
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f8ad1940-a469-420d-a54e-cebc71685374)
