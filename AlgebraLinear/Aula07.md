@@ -249,6 +249,8 @@ ___
 
 ___
 
+### Base Homogênea (1:1) ou {(1,0);(0,1)}
+
 - Nossa Base Canônica é Homogênea (mesmo valor e pêso para os dois eixos).
 - Base Canônica:
   - Vetor de tamanho 1, ou seja o Módulo do Vetor (1,0) é 1, comprimento é 1;
