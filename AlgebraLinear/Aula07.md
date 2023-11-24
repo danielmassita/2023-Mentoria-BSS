@@ -266,3 +266,20 @@ ___
 
 ___ 
 
+### "Mudar de Base" no futuro serão as "Transformações Lineares"
+
+- No futuro, vamos aprender como "Mudar de Base" e então teremos uma operação (próximo assunto "Transformações Lineares"), que vai nos permitir mudar um vetor de base.
+- A figura "qualquer" ao mudar de base vai "achatar", "rodar", "lá pra ponta".
+- Pra piorar, essa Base {(1.5, 0) ; (0, 3.2)} ainda possui o centro na origem ``` {(_, 0);(0, _)} ```, pois a coordenada do primeiro vetor é zero e a coordenada do segundo vetor também é zero.
+- Podemos usar transformações lineares pra enxergar, virar, comprimir, etc., a imagem.
+- A Base do sistema (Espaço Vetorial) que utilizamos vai determinar a maneira como as coisas são visualizadas no exemplo.
+- A base poderia também ser alterada, e ainda pior, pensada em outras dimensões, com Eixo.(x,y) ou Eixo.(x,y,z) ou Eixo.(j,k,l,m) ...
+- The 4th Dimensions Shorts by Tibees:
+  - https://www.youtube.com/watch?v=NwenCsCTwlc&list=PLATpsZGmpkg8PYPS8HEPehR0l9tZYwrCi
+  - Pausa pra um café!
+
+___ 
+
+### Dúvida sobre Projeções de Mapas (planificados vs. esféricos)
+
+- Tudo que vemos como um plano achatado, pode ser interpretado como um conjunto de vetores.
