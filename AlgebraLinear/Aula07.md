@@ -93,3 +93,12 @@ ___
     - Temos o Vetor.(a,0) que pode sofrer a SOMA DE VETORES com o Vetor.(0,b)
       - Vamos somar o Vetor.(a,0) com o Vetor.(0,b), vou no destino desse vetor e pego outro vetor que eu transporto para o outro lado.
       - O Vetor.(AB) é a SOMA do Vetor.(a,0) com o paralelo do Vetor.(0,b) transportado pela **Regra do Paralelograma**.
+      - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/719a2c91-06d1-4bab-9a25-56d0d3eb7cf4)
+
+___
+
+### Essencialmente, estamos calculando (a,b) com uma base (1,0) pra x e com base (0,1) pra y. 
+
+- **Essencialmente, estamos fazendo uma multiplicação e depois uma soma de vetores.**
+- O Vetor.(AB) é a SOMA do Vetor.(a,0) com o paralelo do Vetor.(0,b) transportado pela **Regra do Paralelograma**.
+- A multiplicação de ``` a*(1,0) + b*(0,1) ``` é como se "a" e "b" fossem escalares multiplicando os vetores, no caso o Vetor.(1,0) em ℝ.x no ponto (1,0) com o Vetor.(0,1) em ℝ.y no ponto (0,1).   
