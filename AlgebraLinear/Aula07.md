@@ -84,4 +84,12 @@ ___
   - Primeiro o par ``` a*(1, 0) ``` ou seja, "a" vezes o par (1,0) será "a" vezes 1 que é "a", e "a" vezes 0 que é zero ∴ temos:
     - ``` a*(1,0) ``` = ``` (a, 0) ```
   - Segundo o par ``` b*(0, 1) ``` ou seja, "b" vezes o par (0,1) será "b" vezes 0 que é 0, e "b" vezes 1 que é "b" ∴ temos:
-    - ``` b*(0,1) ``` = ``` (0, b) ```  
+    - ``` b*(0,1) ``` = ``` (0, b) ```
+- Ambos em azul, Vetor.(a,0) e também o Vetor.(0,b).
+  - Notemos que no eixo ℝ.x teremos o ponto (1,0) e também teremos o ponto (a,0) como equivalentes na reta de suporte ℝ.x;
+  - Notemos que no eixo ℝ.y teremos o ponto (0,1) e também teremos o ponto (0,b) como equivalentes na reta de suporte ℝ.y;
+- Numa terceira cor (roxo), temos o Vetor.AB, no ponto (a,b) da intersecção dos pontos (a,0) no eixo ℝ.x e no ponto (0,b) no eixo ℝ.y;
+  - Temos o **Vetor.(AB), que é uma SOMA DE VETORES daqueles dois vetores nas suas respectivas retas suportes ℝ.x e ℝ.y que será o famoso ℝ²**.
+    - Temos o Vetor.(a,0) que pode sofrer a SOMA DE VETORES com o Vetor.(0,b)
+      - Vamos somar o Vetor.(a,0) com o Vetor.(0,b), vou no destino desse vetor e pego outro vetor que eu transporto para o outro lado.
+      - O Vetor.(AB) é a SOMA do Vetor.(a,0) com o paralelo do Vetor.(0,b) transportado pela **Regra do Paralelograma**.
