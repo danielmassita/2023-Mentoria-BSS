@@ -156,3 +156,18 @@ ___
     - "a" mais "b" precisa pertencer à C, ou seja, ser **fechado pra adição** de vetores;
     - "k" vezes "a" precisa também pertencer à C, ou seja, ser **fechamento para multiplicação** de vetores;
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/12059f66-3dc2-47cb-9f12-96395afb9018)
+
+- No caso, o conjunto C é o conjunto do ℝ² ``` C = ℝ² ``` para um Ponto (x,y) temos o Vetor.(x,y) e o F é o conjunto dos números reais ``` F = ℝ ``` enquanto escalar.
+- Os escalares são reais (ℝ) e as coordenadas dos vetores em ℝ² também são números reais.
+- Se você me der um Vetor.qualquer tipo Vetor.(AB):
+  - esse "a" é um elemento de ℝ como escalar, e posso escolher multiplicar pelo vetor (1,0);
+  - esse "b" é um elemento de ℝ como escalar, e posso escolher multiplicar pelo vetor (0,1);
+  - Esstou pegando escalares de ℝ do Corpo (F), e multiplicando por Vetores de Base = { (1,0) ; (0,1) } que é a Base do Espaço Vetorial (ℝ²);
+    - Podemos pensar no Ponto (a,b):
+    - Esse cara, sendo ``` a ∈ ℝ ``` um escalar "a" do conjunto real, vezes um Vetor da base ℝ.x (1,0) do conjunto ℝ;
+    - Esse cara, sendo ``` b ∈ ℝ ``` um escalar "b" do conjunto real, vezes um Vetor da base ℝ.y (0,1) do conjunto ℝ;
+- Me parece natural um "a" ser escrito como ``` a * 1 = a ``` e também ``` a * 0 = 0 ``` logo temos ``` (a, 0) = a * (1,0) ```
+- Me parece natural um "b" ser escrito como ``` b * 0 = 0 ``` e também ``` b * 1 = b ``` logo temos ``` (0, b) = b * (0,1) ```
+- ``` (a, b) ``` = ``` a*(1,0) + b*(0,1) ```
+-  ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/abb381b9-f6a3-418c-a97a-4e1e13a6b4bd)
+
