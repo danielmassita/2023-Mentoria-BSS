@@ -173,3 +173,23 @@ ___
 - ``` (a, b) ``` = ``` a*(1,0) + b*(0,1) ```
 -  ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/abb381b9-f6a3-418c-a97a-4e1e13a6b4bd)
 
+___
+
+### Pensando em termos numéricos...
+
+- Vamos pensar em duas retas:
+  - uma com um vetor (9,0) como valor 9 no eixo.x, e não possui altura sendo o valor 0 no eixo.y, na reta real;
+  - outra com um vetor (0,9) como valor 9 no eixo.y, e não possui largura sendo o valor 0 no eixo.x, na reta real;
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a256a50c-eb68-4b0b-bc13-1160113b8c73)
+- 
+  - vamos pensar em duas retas, uma é um vetor.(9,0) sendo a coordenada de x = 9, e a coordenada de altura y = 0, ambas na reta real, na cor azul;
+  - aqui também está o ponto 1, que é também um vetor.(1,0) sendo a coordenada de x = 1, e a coordenada de altura y = 0, ambas na reta real, na cor azul;
+    - posso pensar no Vetor.(9,0) como sendo a multiplicação de 9 (escalar) vezes o Vetor.(1,0), ou seja: ``` 9 * (1,0) = 9*(1.x) soma 9*(0.y) = (9, 0) ```
+-   
+  - vamos pensar em outra reta, sendp um vetor.(0,5) sendo a coordenada de x = 0, e a coordenada de altura y = 5, ambas na reta real, na cor azul;
+  - aqui também está o ponto 1, que é também um vetor.(0,1) sendo a coordenada de x = 0, e a coordenada de altura y = 1, ambas na reta real, na cor azul;
+    - posso pensar no Vetor.(0,5) como sendo a multiplicação de 5 (escalar) vezes o Vetor.(0,1), ou seja: ``` 5 * (0,1) = 5*(0.x) soma 5*(1.y) = (0, 5) ```
+- 
+- O vetor resultante no Ponto (9,5) pode ser representado pela soma do Vetor.(0,5) com o Vetor.(9,0), cujos valores foram multiplicados os vetores (1,0) pelo escalar 9 e, multiplicados os vetores (0,1) pelo escalar 5.
+- ``` (9,5) ``` = ``` (9,0) + (0,5) ``` =  ``` 9*(1,0) + 5*(0,1) ```
+- ``` (a,b) ``` = ``` (a,0) + (0,b) ``` =  ``` a*(1,0) + b*(0,1) ```        
