@@ -114,3 +114,26 @@ ___
   - E estou somando ao final.
 - ***Isso é uma Combinação Linear!**
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f8ad1940-a469-420d-a54e-cebc71685374)
+
+___
+
+### Pergunta:
+
+- _"A Regra do Paralelograma só funciona no ℝ²?"_
+- **NÃO!**
+  - A Regra do Paralelograma serve para QUALQUER ESPAÇO VETORIAL.
+
+___
+
+### Ponto (x,y) no Espaço Vetorial vs. Escalar "x' e "y" na reta suporte real
+
+- Então assim, que fique claro a escrita do Vetor.(AB).
+- Pego os dois vetores da Base = {(1,0) ; (0,1)}, e eles me permitem escrever qualquer vetor do espaço ℝ².
+- Se eu tiver um vetor qualquer "(x, y)" do Espaço ℝ², isso significa que esses caras pertencem à ℝ, então o "x" e o "y" serão escalares que pertencem à ℝ. No caso, "x" e "y" são números reais escalares, e não pontos no espaço. O ponto "(x, y)" é um ponto no espaço. O valor de "x" e de "y" são escalares reais.  
+  - ``` (x, y) ``` ponto no espaço vetorial 
+  - ``` x ∈ ℝ ``` valor escalar na reta suporte real
+  - ``` y ∈ ℝ ``` valor escalar na reta suporte real
+- **Na forma de um par "(x,y)" eles formam um Vetor!**
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/85b471a9-0319-4291-8cfb-d17258d98b71)
+
+___ 
