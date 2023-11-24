@@ -73,11 +73,11 @@ ___
 - Podemos enxergar isso em termos gráficos no plano cartesiano (ℝ²).
 - ``` a*(1, 0) + b(0, 1) ``` = ``` (a, 0) + (0, b) ``` = ``` (a, b) ```
 - Temos aqui o vetor.1 que é representado pelo par (1,0), no eixo ℝ.x na posição 1, no eixo ℝ.y na posição 0, no ponto (1,0) na representação do plano de ℝ².
-  - Falando no eixo.x, tenho o vetor.(1,0)
-- Temos aqui o vetor.1 que é representado pelo par (0,1), no eixo ℝ.x na posição 0, no eixo ℝ.y na posição 1, no ponto (0,1) na representação do plano de ℝ².
-  - Falando no eixo.y, tenho o vetor.(0,1)   
+  - Falando no eixo ℝ.x, tenho o Vetor.(1,0)
+- Temos aqui o Vetor.1 que é representado pelo par (0,1), no eixo ℝ.x na posição 0, no eixo ℝ.y na posição 1, no ponto (0,1) na representação do plano de ℝ².
+  - Falando no eixo ℝ.y, tenho o Vetor.(0,1)   
 - Ambos em vermelho.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/16b87eea-6421-49eb-9e24-0e3afd85afe5)
 &nbsp;
-- Quando eu falo em um vetor.(AB), estou falando em escrever esse vetor.(AB) dessa forma:
+- Quando eu falo em um Vetor.(AB), estou falando em escrever esse vetor.(AB) dessa forma:
 - 
