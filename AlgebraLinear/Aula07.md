@@ -66,3 +66,9 @@ ___
   - ``` a*(1, 0) + b(0, 1) ``` = ``` (a, 0) + (0, b) ``` = ``` (a, b) ```
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/867f9dce-f00b-492e-a4cf-a3241cb2eba9)
 
+___
+
+### Relembrando: a*(1,0) + b*(0,1) = (a, 0) + (0, b) = (a, b)
+
+- asdf
+- asdf 
