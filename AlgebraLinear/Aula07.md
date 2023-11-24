@@ -97,8 +97,9 @@ ___
 
 ___
 
-### Essencialmente, estamos calculando (a,b) com uma base (1,0) pra x e com base (0,1) pra y. 
+### Base do ℝ² = { (1, 0) ; (0,1) }
 
 - **Essencialmente, estamos fazendo uma multiplicação e depois uma soma de vetores.**
 - O Vetor.(AB) é a SOMA do Vetor.(a,0) com o paralelo do Vetor.(0,b) transportado pela **Regra do Paralelograma**.
-- A multiplicação de ``` a*(1,0) + b*(0,1) ``` é como se "a" e "b" fossem escalares multiplicando os vetores, no caso o Vetor.(1,0) em ℝ.x no ponto (1,0) com o Vetor.(0,1) em ℝ.y no ponto (0,1).   
+- A multiplicação de ``` a*(1,0) + b*(0,1) ``` é como se "a" e "b" fossem escalares multiplicando os vetores, no caso o Vetor.(1,0) em ℝ.x no ponto (1,0) com o Vetor.(0,1) em ℝ.y no ponto (0,1).
+- Base do ℝ² = { (1, 0) ; (0,1) }
