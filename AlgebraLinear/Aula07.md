@@ -62,7 +62,7 @@ ___
 - Temos o Vetor.(AB), e vamos tentar escrever esse vetor assim: ``` a*(1, 0) + b*(0, 1) ```
   - Segundo a regra de multiplicação de escalar por vetor, quando multiplico "a" por (1, 0) tenho (a, 0) - ``` a*(1, 0) = (a, 0) ```
   - Segundo a regra de multiplicação de escalar por vetor, quando multiplico "b" por (0, 1) tenho (0, b) - ``` b*(0, 1) = (0, b) ```
-  - Segundo a regra da soma de vetores que já fizemos, a gente soma as coordenadas eixo.x a+0 com a soma das coordenadas eixo.y 0+b, que vai resultar no vetor.(a, b).
+  - Segundo a regra da soma de vetores que já fizemos, a gente soma as coordenadas eixo.x a+0 com a soma das coordenadas eixo.y 0+b, que vai resultar no Vetor.(a, b).
   - ``` a*(1, 0) + b(0, 1) ``` = ``` (a, 0) + (0, b) ``` = ``` (a, b) ```
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/867f9dce-f00b-492e-a4cf-a3241cb2eba9)
 
@@ -72,14 +72,14 @@ ___
 
 - Podemos enxergar isso em termos gráficos no plano cartesiano (ℝ²).
 - ``` a*(1, 0) + b(0, 1) ``` = ``` (a, 0) + (0, b) ``` = ``` (a, b) ```
-- Temos aqui o vetor.1 que é representado pelo par (1,0), no eixo ℝ.x na posição 1, no eixo ℝ.y na posição 0, no ponto (1,0) na representação do plano de ℝ².
+- Temos aqui o Vetor.1 que é representado pelo par (1,0), no eixo ℝ.x na posição 1, no eixo ℝ.y na posição 0, no ponto (1,0) na representação do plano de ℝ².
   - Falando no eixo ℝ.x, tenho o Vetor.(1,0)
 - Temos aqui o Vetor.1 que é representado pelo par (0,1), no eixo ℝ.x na posição 0, no eixo ℝ.y na posição 1, no ponto (0,1) na representação do plano de ℝ².
   - Falando no eixo ℝ.y, tenho o Vetor.(0,1)   
 - Ambos em vermelho.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/16b87eea-6421-49eb-9e24-0e3afd85afe5)
 - &nbsp;
-- Quando eu falo em um Vetor.(AB), estou falando em escrever esse vetor.(AB) dessa forma:
+- Quando eu falo em um Vetor.(AB), estou falando em escrever esse Vetor.(AB) dessa forma:
 - O Vetor.(AB) será escrito como:
   - Primeiro o par ``` a*(1, 0) ``` ou seja, "a" vezes o par (1,0) será "a" vezes 1 que é "a", e "a" vezes 0 que é zero ∴ temos:
     - ``` a*(1,0) ``` = ``` (a, 0) ```
@@ -162,8 +162,8 @@ ___
 - No caso, o conjunto C é o conjunto do ℝ² ``` C = ℝ² ``` para um Ponto (x,y) temos o Vetor.(x,y) e o F é o conjunto dos números reais ``` F = ℝ ``` enquanto escalar.
 - Os escalares são reais (ℝ) e as coordenadas dos vetores em ℝ² também são números reais.
 - Se você me der um Vetor.qualquer tipo Vetor.(AB):
-  - esse "a" é um elemento de ℝ como escalar, e posso escolher multiplicar pelo vetor (1,0);
-  - esse "b" é um elemento de ℝ como escalar, e posso escolher multiplicar pelo vetor (0,1);
+  - esse "a" é um elemento de ℝ como escalar, e posso escolher multiplicar pelo Vetor.(1,0);
+  - esse "b" é um elemento de ℝ como escalar, e posso escolher multiplicar pelo Vetor.(0,1);
   - Esstou pegando escalares de ℝ do Corpo (F), e multiplicando por Vetores de Base = { (1,0) ; (0,1) } que é a Base do Espaço Vetorial (ℝ²);
     - Podemos pensar no Ponto (a,b):
     - Esse cara, sendo ``` a ∈ ℝ ``` um escalar "a" do conjunto real, vezes um Vetor da base ℝ.x (1,0) do conjunto ℝ;
@@ -178,18 +178,19 @@ ___
 ### Pensando em termos numéricos...
 
 - Vamos pensar em duas retas:
-  - uma com um vetor (9,0) como valor 9 no eixo.x, e não possui altura sendo o valor 0 no eixo.y, na reta real;
-  - outra com um vetor (0,9) como valor 9 no eixo.y, e não possui largura sendo o valor 0 no eixo.x, na reta real;
+  - uma com um Vetor.(9,0) como valor 9 no eixo.x, e não possui altura sendo o valor 0 no eixo.y, na reta real;
+  - outra com um Vetor.(0,9) como valor 9 no eixo.y, e não possui largura sendo o valor 0 no eixo.x, na reta real;
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a256a50c-eb68-4b0b-bc13-1160113b8c73)
 - 
-  - vamos pensar em duas retas, uma é um vetor.(9,0) sendo a coordenada de x = 9, e a coordenada de altura y = 0, ambas na reta real, na cor azul;
-  - aqui também está o ponto 1, que é também um vetor.(1,0) sendo a coordenada de x = 1, e a coordenada de altura y = 0, ambas na reta real, na cor azul;
+  - vamos pensar em duas retas, uma é um Vetor.(9,0) sendo a coordenada de x = 9, e a coordenada de altura y = 0, ambas na reta real, na cor azul;
+  - aqui também está o ponto 1, que é também um Vetor.(1,0) sendo a coordenada de x = 1, e a coordenada de altura y = 0, ambas na reta real, na cor azul;
     - posso pensar no Vetor.(9,0) como sendo a multiplicação de 9 (escalar) vezes o Vetor.(1,0), ou seja: ``` 9 * (1,0) = 9*(1.x) soma 9*(0.y) = (9, 0) ```
 -   
-  - vamos pensar em outra reta, sendp um vetor.(0,5) sendo a coordenada de x = 0, e a coordenada de altura y = 5, ambas na reta real, na cor azul;
-  - aqui também está o ponto 1, que é também um vetor.(0,1) sendo a coordenada de x = 0, e a coordenada de altura y = 1, ambas na reta real, na cor azul;
+  - vamos pensar em outra reta, sendp um Vetor.(0,5) sendo a coordenada de x = 0, e a coordenada de altura y = 5, ambas na reta real, na cor azul;
+  - aqui também está o ponto 1, que é também um Vetor.(0,1) sendo a coordenada de x = 0, e a coordenada de altura y = 1, ambas na reta real, na cor azul;
     - posso pensar no Vetor.(0,5) como sendo a multiplicação de 5 (escalar) vezes o Vetor.(0,1), ou seja: ``` 5 * (0,1) = 5*(0.x) soma 5*(1.y) = (0, 5) ```
 - 
 - O vetor resultante no Ponto (9,5) pode ser representado pela soma do Vetor.(0,5) com o Vetor.(9,0), cujos valores foram multiplicados os vetores (1,0) pelo escalar 9 e, multiplicados os vetores (0,1) pelo escalar 5.
 - ``` (9,5) ``` = ``` (9,0) + (0,5) ``` =  ``` 9*(1,0) + 5*(0,1) ```
 - ``` (a,b) ``` = ``` (a,0) + (0,b) ``` =  ``` a*(1,0) + b*(0,1) ```        
+- Sendo ``` a, b ∈ ℝ ``` pertencendo aos reais, e também ``` F ∈ ℝ ``` como corpo dos escalares reais, aplicadas as condições de linearidade (Op. Adição e Op. Multiplicação), temos um Espaço Vetorial ``` C = ℝ² ``` com fechamento e manutenção da condição de linearidade.  
