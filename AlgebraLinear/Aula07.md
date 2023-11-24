@@ -78,6 +78,10 @@ ___
   - Falando no eixo ℝ.y, tenho o Vetor.(0,1)   
 - Ambos em vermelho.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/16b87eea-6421-49eb-9e24-0e3afd85afe5)
-&nbsp;
+- &nbsp;
 - Quando eu falo em um Vetor.(AB), estou falando em escrever esse vetor.(AB) dessa forma:
-- 
+- O Vetor.(AB) será escrito como:
+  - Primeiro o par ``` a*(1, 0) ``` ou seja, "a" vezes o par (1,0) será "a" vezes 1 que é "a", e "a" vezes 0 que é zero ∴ temos:
+    - ``` a*(1,0) ``` = ``` (a, 0) ```
+  - Segundo o par ``` b*(0, 1) ``` ou seja, "b" vezes o par (0,1) será "b" vezes 0 que é 0, e "b" vezes 1 que é "b" ∴ temos:
+    - ``` b*(0,1) ``` = ``` (0, b) ```  
