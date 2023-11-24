@@ -200,3 +200,10 @@ ___
 
 ___
 
+### Base Canônica (ℝ²) = {(1,0);(0,1)}
+
+- Por exemplo, tomemos o Vetor.(10,3) como sendo um Ponto no Espaço Vetorial de ℝ²:
+- ``` (10, 3) ``` = ``` (10,0) + (0,3) ``` = ``` 10 * (1,0)   +   3 * (0,1) ```
+- ```  (9, 5) ``` = ``` (9,0) + (0,5) ```  =  ``` 9 * (1,0)   +   5 * (0,1) ```
+- ```  (a, b) ``` = ``` (a,0) + (0,b) ```  =  ``` a * (1,0)   +   b * (0,1) ```
+- Base Canônica é uma base convencionada, é aceita como convenção. 
