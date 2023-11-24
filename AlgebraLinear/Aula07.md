@@ -137,3 +137,22 @@ ___
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/85b471a9-0319-4291-8cfb-d17258d98b71)
 
 ___ 
+
+### Conceito de "Espaço Vetorial"
+
+- Espaço Vetorial é ``` <   > ```:
+- um **Conjunto** ``` C ```
+- com **Duas Operações**:
+  - operação Adição (não a soma normal); ``` (+) ```
+  - operação Multiplicação (não a multiplicação normal); ``` (x) ```  
+- com um **corpo** (conjunto de escalares) ```
+- ``` < C,(+),(x) > ```
+- **Espaço vetorial é um conjunto com duas operações, Op. Adição e Op. Multiplicação (com bolinhas ao redor), com um corpo "F" (conjunto de escalares) tirados pra garantir a linearidade.**
+- Linearidade para ser garantida temos duas regras:
+  - A soma de dois elementos (a,b)
+    - Se "a" e "b" pertencem à C; ``` a, b ∈ C ``` 
+  - Se "k" é um escalar do Corpo F; ``` k ∈ F ```
+  **- Preciso de duas condições pra ser linear:** ``` a + b ∈ C ``` e ``` (k * a) ∈ C ``` 
+    - "a" mais "b" precisa pertencer à C, ou seja, ser **fechado pra adição** de vetores;
+    - "k" vezes "a" precisa também pertencer à C, ou seja, ser **fechamento para multiplicação** de vetores;
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/12059f66-3dc2-47cb-9f12-96395afb9018)
