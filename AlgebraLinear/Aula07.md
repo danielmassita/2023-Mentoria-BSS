@@ -206,4 +206,59 @@ ___
 - ``` (10, 3) ``` = ``` (10,0) + (0,3) ``` = ``` 10 * (1,0)   +   3 * (0,1) ```
 - ``` (9, 5) ``` = ``` (9,0) + (0,5) ``` = ``` 9 * (1,0)   +   5 * (0,1) ```
 - ``` (a, b) ``` = ``` (a,0) + (0,b) ``` = ``` a * (1,0)   +   b * (0,1) ```
-- Base Canônica é uma base convencionada, é aceita como convenção. 
+- Base Canônica é uma base convencionada, é aceita como convenção.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/654069ab-563b-412c-8835-04ae8c3f17b2)
+
+___ 
+
+### E se a base fosse "fracionada"?
+
+- Tomemos como exemplo a Base = {(1.5, 0) ; (0, 3.2)}
+- ``` { (1.5, 0) ; (0, 3.2) } ```
+- Vamos usar o mesmo Vetor.(10,5) pra representar essa base, qual número devemos colocar "em evidência" pra poder representar esse vetor?
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/3e291871-10c1-4f1a-b9ef-ed518525c18b)
+- ``` (10, 5) ``` = ``` __*(1.5, 0)   +   __*(0, 3.2) ```
+- Para o primeiro vetor a = 10, precisamos achar alguém que vezes 1,5 seja 10, então:
+  - ``` 1.5 * x = 10 ``` = ``` (15/10) * x = 10 ``` = ``` x = 100/15 ``` = ``` (5*20) / (3*5) ``` = ``` 20/3 ``` = ``` ≅ 6,666... ```
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/6e75cf4c-7b95-46f3-a8ca-3a1620f16401)
+- Para o segundo vetor b = 5, precisamos achar alguém que vezes 3,2 seja 5, então:
+  - ``` 3,2 * y = 5 ``` = ``` (32/10) * y = 5 ``` = ``` y = 50/32 ``` = ``` (2*25) / (2*16) ``` = ``` 25/16 ``` = ``` 1,5625 ```
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/c8a6aaf4-8f70-49a4-8569-d5c30c227d4e)
+- FORA DA BASE CANÔNICA A PORCA TORCE O RABO! 🐷 🌀 🍑
+- Funciona, só vai ser uma merda de usar.
+
+___ 
+
+- Característica engraçada nessa base não é homogênea.
+- A medida dos dos lados não é igual quando usamos essa base sugerida {(1.5, 0);(0, 3.2)}
+- Um vetor igual do tipo (5,5) é homogêneo na base canônica:
+  - ``` (a, b) ``` = ``` (a, 0) + (0, b) ``` = ``` a * (1,0)   +   b * (0,1) ```
+  - ``` (5, 5) ``` = ``` (5, 0) + (0, 5) ``` = ``` 5 * (1,0)   +   5 * (0,1) ```
+- Vetores com coordenadas iguais terá multiplicadores iguais também.
+  - ``` (a, b) ``` = ``` (a, 0) + (0, b) ``` = ``` a * (1,0)   +   b * (0,1) ```
+  - ``` (1.5, 3.2) ``` = ``` (1.5, 0) + (0, 3.2) ``` = ``` 1.5 * (1,0)   +   5 * (0,1) ```
+  - ``` (5, 5) ``` = ``` a * (1.5, 0) + b * (0, 3.2) ```
+- Então temos que ``` 1,5 * a = 5 ``` e também que ``` 3,2 * b = 5 ```
+  - Portanto teremos que ``` 1,5 * a = 5 ``` ∴ ``` (15/10)*a = 5 ``` ∴ ``` a = 50/15 ``` ∴ ``` a = (5*10) / (5*30) ``` ∴ ``` a = 10/3 ``` ∴ ``` a ≅ 3,333... ``` 
+  - Também teremos que ``` 3,2 * b = 5 ``` ∴ ``` (32/10)*b = 5 ``` ∴ ``` b = 50/32 ``` ∴ ``` b = (2*25) / (2*16) ``` ∴ ``` b = 25/16 ``` ∴ ``` b = 1,5625 ```
+- Logo, numa escala de proporção 1:1 ou 5,5, teríamos um vetor "normal" homogêneo.
+- Logo, numa escala de proporção 3,333 : 1,5625, teríamos um vetor "torto" heterogêneo.
+- **Nesse Espaço Vetorial** ``` Base = {(1.5, 0) ; (0, 3.2)}) ``` **medir no Eixo.X é diferente de medir no Eixo.y.**
+- Porque o 'fator de multiplicação' no eixo x é maior que o 'fator de multiplicação' no eixo y são diferentes, logo as proporções são "achatadas", "alongadas".
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/357a8afa-7547-43bc-8c2f-edf90a136ee4)
+
+___
+
+- Nossa Base Canônica é Homogênea (mesmo valor e pêso para os dois eixos).
+- Base Canônica:
+  - Vetor de tamanho 1, ou seja o Módulo do Vetor (1,0) é 1, comprimento é 1;
+    - ``` |Vetor.(1,0)| = 1 ``` é o mesmo que ``` |(1,0)| = 1 ``` 
+  - Vetor de tamanho 1, ou seja o Módulo do Vetor.(0,1) é 1, comprimento é 1;
+    - ``` |Vetor.(0,1)| = 1 ``` é o mesmo que ``` |(0,1)| = 1 ```
+  - Não possui achatamento, proporções homogêneas.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/47217e29-2a65-40f4-8ae4-094b36a2d40e)
+- Mais tarde poderemos "MUDAR DE BASE".
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/2446e363-4d71-48d7-a7a8-fef96aa88867)
+
+___ 
+
