@@ -360,7 +360,7 @@ ___
 - Um ponto qualquer no ℝ³ vamos pegar "a" que pode ser visto assim:
   - Agora vamos ter uma altura no Eixo.z
   - Teremos uma projeção no ponto (x,y) vai ter uma coordenada (a,b,c).
-  - Preciso de três grandezas e poderia representar como ``` (r, θ, α) ``` o tamanho do Vetor.(ab) sendo "r", o ângulo theta "θ", e o ângulo alfa "α".
+  - Preciso de três grandezas e poderia representar como ``` (r, θ, α) ``` o tamanho do Vetor.(ab) sendo "r", o ângulo theta "θ", e o ângulo alfa "α" pro novo "eixo" de referência que foi adicionado ao "plano", agora tendo "profundidade".
   - Poderíamos até representar esse ponto (a,b,c) com as coordenadas:
   ```
   - (a, b, c)
