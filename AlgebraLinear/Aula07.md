@@ -285,3 +285,8 @@ ___
 ### Dúvida sobre Projeções de Mapas (planificados vs. esféricos)
 
 - Tudo que vemos como um plano achatado, pode ser interpretado como um conjunto de vetores.
+- Infelizmente, toda projeção cartográfica é uma TENTATIVIA de ACHATAMENTO da esfera terreste para um plano. Logo, haverá distorções...
+- A Projeção é como se fosse um Mergulho.
+&nbsp;
+- Projeção de Mercator (um dos primeiros mapas planificados da Terra);
+- Projeção de Foco Único (um ponto superior que emite um raio de luz e projeta a imagem num plano de fundo);
