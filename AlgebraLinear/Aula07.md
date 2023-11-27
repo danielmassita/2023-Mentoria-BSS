@@ -290,3 +290,23 @@ ___
 &nbsp;
 - Projeção de Mercator (um dos primeiros mapas planificados da Terra);
 - Projeção de Foco Único (um ponto superior que emite um raio de luz e projeta a imagem num plano de fundo);
+  - Algumas vezes, essa linha vai "furar" algumas coisas, passando duas vezes pela crosta do globo... É como se fosse um feixe de luz, distorcido pela projeção, mas a mesma linha passando mais de uma vez pelo globo - notando a questão de "distorções" (conceito requer melhor elaboração - sou de humanas!)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d4e4d8a9-251e-46ed-8f11-29e517181a28)
+- Pergunta sobre Geometria Euclidiana vs. Geometria Analítica:
+  - ???
+  - CALMA JOVEM! Ed tá tentando simplificar a vida, não vamos complicar ainda não, a Álgebra Linear pode trabalhar com vetores de qualquer ordem (eixos x, y, z).
+
+___
+
+### Um ponto no ℝ³ 
+
+- Um ponto no ℝ³ seria um TERNO.
+  - Um ponto no ℝ² era uma DUPLA (duas coordenadas).
+- Um ponto no ℝ³ será x, y, z, com uma representação de coordenadas em 3 eixos.
+- Minha representação do ℝ³ terá um Eixo.x, Eixo.y, Eixo.z (altura).
+  - ``` ℝ³ ``` com pontos ``` (x, y, z) ∈ ℝ ```
+- Um ponto aleatório sendo (a, b, c) terá uma coordenada de "a", "b" e "c". 
+- Será uma CONJUNÇÃO DE PONTOS (largura, profundidade, altura).
+- Álgebra Linear também trabalha com isso!
+- **Base Canônica ℝ³** será ``` ℝ³ = { (1, 0, 0) ; (0, 1, 0); (0, 0, 1) } ``` 
+- 
