@@ -315,12 +315,26 @@ ___
 
 ___
 
-### Base Canônica e Concito de Representação
+### Base Canônica e Conceito de Representação
 
 - **Todas as BASES definem um ESPAÇO, sejam elas canônicas ou não.** - Prof. Ed
 - A Base Canônica é apenas a "mais simples" pra gente poder representar as coisas.
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/4f16f7b8-b6f8-45d1-8414-1b97ae9f71b3)
 - **Necessidade de entendermos o CONCEITO DE REPRESENTAÇÃO!**
 - Vamos imaginar um sistema cartesiano, com um Ponto.(a,b).
-- Temos uma reta que liga o Ponto.(a,b) ao centro-origem.
-- 
+  - Temos uma reta que liga o Ponto.(a,b) ao centro-origem que terá o Módulo do Vetor.(A,B) representado por ``` |(a,b)| ```.
+    - Esse |Módulo.(a,b)| é basicamente o "comprimento" do vetor. Vamos chamar de "r", de modo que ``` r = |(a,b)| ```. 
+  - Esse ângulo da reta que liga a Origem ao Ponto.(A,B) será o ângulo theta (θ). ``` Ângulo Theta θ ``` 
+    - R = Módulo do Vetor.(a,b) = |(a,b)| = Hipotenusa
+    - O ponto "a" é representado no ``` Eixo.x = a ``` = Cateto Adjacente θ
+    - O ponto "b" é representado no ``` Eixo.y = b ``` = Cateto Oposto θ
+- Sabendo que, de acordo com as **Relações de Trigonometria**, podemos relacionar a Hipotenusa (H), o Cateto Adjacente (CA), o Cateto Oposto (CO) assim:
+  - Cosseno de Theta = ``` Cos.θ = Cateto Adjacente / Hipotenusa ```
+  - Seno de Theta = ``` Sen.θ = Cateto Oposto / Hipotenusa ```
+- Do ponto.(a,b), temos uma projeção de "a" no Eixo.x., que pode ser representado por ``` a = r * Cos.θ ```
+- Do ponto.(a,b), temos uma projeção de "b" no Eixo.y, que pode ser representado por ``` b = r * Sen.θ ```
+  - Podemos tentar pensar assim:
+  - ``` Hipotenusa = r ```
+  - ``` Cateto Adjacente = a ``` ou talvez, ``` Eixo.x de "a" = (a, 0) ```
+  - ``` Cateto Oposto = b ``` ou talvez, ``` Eixo.y de "b" = (0, b) ```  
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d360d161-2ac4-4e56-b593-c6f4b1397d87)
