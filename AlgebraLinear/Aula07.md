@@ -309,4 +309,18 @@ ___
 - Será uma CONJUNÇÃO DE PONTOS (largura, profundidade, altura).
 - Álgebra Linear também trabalha com isso!
 - **Base Canônica ℝ³** será ``` ℝ³ = { (1, 0, 0) ; (0, 1, 0); (0, 0, 1) } ``` 
+- Base Canônica é amplamente utilizada por ser praticamente "espontânea", podemos escrever como um vetor facilmente.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/76592f9e-8d41-453a-a095-a5c6689fe123)
+
+
+___
+
+### Base Canônica e Concito de Representação
+
+- **Todas as BASES definem um ESPAÇO, sejam elas canônicas ou não.** - Prof. Ed
+- A Base Canônica é apenas a "mais simples" pra gente poder representar as coisas.
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/4f16f7b8-b6f8-45d1-8414-1b97ae9f71b3)
+- **Necessidade de entendermos o CONCEITO DE REPRESENTAÇÃO!**
+- Vamos imaginar um sistema cartesiano, com um Ponto.(a,b).
+- Temos uma reta que liga o Ponto.(a,b) ao centro-origem.
 - 
