@@ -338,3 +338,42 @@ ___
   - ``` Cateto Adjacente = a ``` ou talvez, ``` Eixo.x de "a" = (a, 0) ```
   - ``` Cateto Oposto = b ``` ou talvez, ``` Eixo.y de "b" = (0, b) ```  
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d360d161-2ac4-4e56-b593-c6f4b1397d87)
+- Isso aqui se chama "Representação por Coordenadas Polares":
+- ``` (a, b) = (r\*cos.θ, r\*sen.θ) ```
+- A DUPLA de pontos (a, b) pode ser representada toda pelo tamanho do ``` vetor.(a,b) = r ```.
+- Tudo isso pra provar que, em Matemáticas, podemos representar a mesma coisa (realidade) na matemática de VÁRIAS FORMAS DIFERENTES.
+- Mas tem uma coisa que vai ser FODA:
+  - Se eu quiser usar coordenadas polares, preciso de um "r" e um ângulo theta "θ".
+  - Temos um PAR ``` ( r, θ ) ``` mas preciso saber o tamanho do vetor e um ângulo pra poder trabalhar com ele.
+  - Eu preciso OBRIGATÓRIAMENTE de 2 valores, pois esse ponto está num PLANO!
+
+___
+
+### Dimensão ℝ² - PLANO
+
+  - É aí quem vem o CONCEITO DE DIMENSÃO.
+  - Um ponto no plano, num espaço de dimensão-2, sempre vai precisar de 2 valores pra representar ele, pode ser (x, y), pode ser (a, b), pode ser (r, θ), qualquer coisa... Mas sempre vai precisar de dois valores, pois o plano possui dimensão 2.
+  - Sempre **precisamos de DUAS GRANDEZAS pra falar um UM PONTO** ```(a, b)``` no plano (Cartesiano, ℝ², etc.)
+- **Na mesma forma, num Espaço ℝ³, vamos usar sempre 3 GRANDEZAS.**
+- Existem outros sistemas (extensão da "coordenada polar") pra representar um ponto no ℝ³.
+&nbsp;
+- Um ponto qualquer no ℝ³ vamos pegar "a" que pode ser visto assim:
+  - Agora vamos ter uma altura no Eixo.z
+  - Teremos uma projeção no ponto (x,y) vai ter uma coordenada (a,b,c).
+  - Preciso de três grandezas e poderia representar como ``` (r, θ, α) ``` o tamanho do Vetor.(ab) sendo "r", o ângulo theta "θ", e o ângulo alfa "α".
+  - Poderíamos até representar esse ponto (a,b,c) com as coordenadas:
+  ```
+  - (a, b, c)
+  - (r, θ, α)
+  - a = r * Sen.θ
+  - b = r * Cos.θ
+  - c = r * Sen.α
+  ```
+- No fundo, vou precisar SEMPRE de 3 elementos pois temos um sistema de 3 Dimensões.
+- Não sei quais são, posso até mudar de representação, escolher outros ângulos, mas no fundo sempre vou precisar de 3 elementos.
+- Não posso representar com dois elementos esse ponto (a,b,c).
+- Imagine o canto da sua sala...
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/98d45291-ca43-4f03-a6bd-745cf0b6370b)
+
+___ 
+
