@@ -331,7 +331,7 @@ ___
 - Sabendo que, de acordo com as **Relações de Trigonometria**, podemos relacionar a Hipotenusa (H), o Cateto Adjacente (CA), o Cateto Oposto (CO) assim:
   - Cosseno de Theta = ``` Cos.θ = Cateto Adjacente / Hipotenusa ```
   - Seno de Theta = ``` Sen.θ = Cateto Oposto / Hipotenusa ```
-    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/8655cc8d-37b7-4b8a-b869-3403a8dc1d78)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/f7be1a8a-36cc-4e93-bb71-572321ca9ba5)
 
 &nbsp;
 - Do ponto.(a,b), temos uma projeção de "a" no Eixo.x., que pode ser representado por ``` a = r * Cos.θ ```
@@ -392,7 +392,8 @@ ___
     - ``` a = r * Cos.θ ```, sendo que no eixo.X temos que o ponto "a" (a, 0) é igual à razão entre o (CA/H), Cateto Adjacente/Hipotenusa, que é o Cosseno de θ.
     - ``` b = r * Sen.θ ```, sendo que no eixo.Y temos a sombra do ponto "b" (0, b) é igual à razão entre o (CO/H), Cateto Oposto/Hipotenusa, que é o Seno de θ.
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/22f74387-5005-4efb-a80c-902bb99b96e8)
-- **Ou seja, para um Plano Dimensional (2D), precisamos SEMPRE ao menos de DUAS GRANDEZAS indexadas (salvaguardadas regras e propriedades).**    
+- **Ou seja, para um Plano Dimensional (2D), precisamos SEMPRE ao menos de DUAS GRANDEZAS indexadas (salvaguardadas regras e propriedades).**
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/8655cc8d-37b7-4b8a-b869-3403a8dc1d78)
 
 ___ 
 
