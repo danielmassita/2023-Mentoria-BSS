@@ -391,7 +391,7 @@ ___
   - ``` r = |(a,b)| ``` e também a inclinação ``` Ângulo θ ```, temos o PAR ``` (r, θ) ``` 
     - ``` a = r * Cos.θ ```, sendo que no eixo.X temos que o ponto "a" (a, 0) é igual à razão entre o (CA/H), Cateto Adjacente/Hipotenusa, que é o Cosseno de θ.
     - ``` b = r * Sen.θ ```, sendo que no eixo.Y temos a sombra do ponto "b" (0, b) é igual à razão entre o (CO/H), Cateto Oposto/Hipotenusa, que é o Seno de θ.
-  - 
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/22f74387-5005-4efb-a80c-902bb99b96e8)
 - **Ou seja, para um Plano Dimensional (2D), precisamos SEMPRE ao menos de DUAS GRANDEZAS indexadas (salvaguardadas regras e propriedades).**    
 
 ___ 
@@ -413,7 +413,9 @@ ___
     - ``` a = r * Cos.θ ```, sendo que no eixo.X temos que o ponto "a" (a, 0) é igual à razão entre o (CA/H), Cateto Adjacente/Hipotenusa, que é o Cosseno de θ.
     - ``` b = r * Sen.θ ```, sendo que no eixo.Y temos a sombra do ponto "b" (0, b) é igual à razão entre o (CO/H), Cateto Oposto/Hipotenusa, que é o Seno de θ.
     - ``` c = r * Sen.α ```, sendo que no eixo.Z temos a sombra da projeção do ângulo α até o valor da altura "c" (0, 0, c), Cateto Oposto/Hipotenusa, que é o Seno de α.
-  - 
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/98d45291-ca43-4f03-a6bd-745cf0b6370b)
 - **Ou seja, para um Plano Dimensional (2D), precisamos SEMPRE ao menos de DUAS GRANDEZAS indexadas (salvaguardadas regras e propriedades).**    
 
-- **Ou seja, para um Plano Dimensional (2D), precisamos SEMPRE ao menos de DUAS GRANDEZAS indexadas (salvaguardadas regras e propriedades).**    
+___
+
+### asdf
