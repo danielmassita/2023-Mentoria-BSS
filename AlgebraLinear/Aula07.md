@@ -374,7 +374,7 @@ ___
   - b = r * Cos.θ
   - c = r * Sen.α
   ```
-- No fundo, vou precisar SEMPRE de 3 elementos pois temos um sistema de 3 Dimensões.
+- No fundo, **vou precisar SEMPRE de 3 elementos pois temos um sistema de 3 Dimensões***.
 - Não sei quais são, posso até mudar de representação, escolher outros ângulos, mas no fundo sempre vou precisar de 3 elementos.
 - Não posso representar com dois elementos esse ponto (a,b,c).
 - Imagine o canto da sua sala...
@@ -382,3 +382,9 @@ ___
 
 ___ 
 
+### O conceito de Dimensão
+
+- Pra achar um PAR de um Ponto.(a,b) num Plano (Espaço ℝ²), preciso de DUAS GRANDEZAS sempre!
+  - Pode ser Coordenada Eixo.X de valor "a" e Coordenada de Eixo.Y de valor "b"; ```
+    - (a, b) = {(a, 0);(0, b)} ```
+  - Pode ser Módulo do Vetor.(a,b) (que no caso, é o "comprimento" da origem ao ponto), e o ângulo theta ```  
