@@ -341,7 +341,8 @@ ___
   - ``` Hipotenusa = r ```
   - ``` Cateto Adjacente = a ``` ou talvez, ``` Eixo.x de "a" = (a, 0) ```
   - ``` Cateto Oposto = b ``` ou talvez, ``` Eixo.y de "b" = (0, b) ```  
-  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d360d161-2ac4-4e56-b593-c6f4b1397d87)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/22f74387-5005-4efb-a80c-902bb99b96e8)
+&nbsp;
 - Isso aqui se chama "Representação por Coordenadas Polares":
 - ``` (a, b) = (r\*cos.θ, r\*sen.θ) ```
 - A DUPLA de pontos (a, b) pode ser representada toda pelo tamanho do ``` vetor.(a,b) = r ```.
