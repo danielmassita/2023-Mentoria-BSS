@@ -331,8 +331,7 @@ ___
 - Sabendo que, de acordo com as **Relações de Trigonometria**, podemos relacionar a Hipotenusa (H), o Cateto Adjacente (CA), o Cateto Oposto (CO) assim:
   - Cosseno de Theta = ``` Cos.θ = Cateto Adjacente / Hipotenusa ```
   - Seno de Theta = ``` Sen.θ = Cateto Oposto / Hipotenusa ```
-    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/4e92e2eb-4715-4459-974f-cf555e21a92a)
-
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/8655cc8d-37b7-4b8a-b869-3403a8dc1d78)
 
 &nbsp;
 - Do ponto.(a,b), temos uma projeção de "a" no Eixo.x., que pode ser representado por ``` a = r * Cos.θ ```
@@ -342,6 +341,7 @@ ___
   - ``` Cateto Adjacente = a ``` ou talvez, ``` Eixo.x de "a" = (a, 0) ```
   - ``` Cateto Oposto = b ``` ou talvez, ``` Eixo.y de "b" = (0, b) ```  
   - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/22f74387-5005-4efb-a80c-902bb99b96e8)
+
 &nbsp;
 - Isso aqui se chama "Representação por Coordenadas Polares":
 - ``` (a, b) = (r\*cos.θ, r\*sen.θ) ```
