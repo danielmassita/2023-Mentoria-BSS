@@ -382,9 +382,32 @@ ___
 
 ___ 
 
-### O conceito de Dimensão
+### O conceito de Dimensão (2D)
 
 - Pra achar um PAR de um Ponto.(a,b) num Plano (Espaço ℝ²), preciso de DUAS GRANDEZAS sempre!
-  - Pode ser Coordenada Eixo.X de valor "a" e Coordenada de Eixo.Y de valor "b"; ```
-    - (a, b) = {(a, 0);(0, b)} ```
-  - Pode ser Módulo do Vetor.(a,b) (que no caso, é o "comprimento" da origem ao ponto), e o ângulo theta ```  
+  - Pode ser Coordenada Eixo.X de valor "a" e Coordenada de Eixo.Y de valor "b"; 
+    - ``` (a, b) = {(a, 0);(0, b)} ```
+  - Pode ser Módulo do Vetor.(a,b), que vamos chamar de "r", que é a hipotenusa o o "comprimento" do vetor ``` r = |(a,b)| ``` , também em razão do ângulo theta "θ" e das implicações das **Relações Trigonométricas**, então posso plotar o Vetor.(a,b) sabendo:
+  - ``` r = |(a,b)| ``` e também a inclinação ``` Ângulo θ ```, temos o PAR ``` (r, θ) ``` 
+    - ``` a = r * Cos.θ ```, sendo que no eixo.X temos que o ponto "a" (a, 0) é igual à razão entre o (CA/H), Cateto Adjacente/Hipotenusa, que é o Cosseno de θ.
+    - ``` b = r * Sen.θ ```, sendo que no eixo.Y temos a sombra do ponto "b" (0, b) é igual à razão entre o (CO/H), Cateto Oposto/Hipotenusa, que é o Seno de θ.
+  - 
+- **Ou seja, para um Plano Dimensional (2D), precisamos SEMPRE ao menos de DUAS GRANDEZAS indexadas (salvaguardadas regras e propriedades).**    
+
+___ 
+
+### O Conceito de Dimensão (3D)
+
+- Pra achar um TERNO de um Ponto.(a,b,c) num ESPAÇO com VOLUME (Espaço ℝ³), preciso de TRÊS GRANDEZAS sempre!
+  - Pode ser Coordenada Eixo.X de valor "a" e Coordenada de Eixo.Y de valor "b"; 
+    - ``` (a, b) = {(a, 0);(0, b)} ```
+  - Pode ser Módulo do Vetor.(a,b), que vamos chamar de "r", que é a hipotenusa o o "comprimento" do vetor ``` r = |(a,b)| ``` , também em razão do ângulo theta "θ" e das implicações das **Relações Trigonométricas**, então posso plotar o Vetor.(a,b) sabendo:
+  - ``` r = |(a,b)| ``` e também a inclinação ``` Ângulo θ ```
+    - ``` a = r * Cos.θ ```, sendo que no eixo.X temos que o ponto "a" (a, 0) é igual à razão entre o (CA/H), Cateto Adjacente/Hipotenusa, que é o Cosseno de θ.
+    - ``` b = r * Sen.θ ```, sendo que no eixo.Y temos a sombra do ponto "b" (0, b) é igual à razão entre o (CO/H), Cateto Oposto/Hipotenusa, que é o Seno de θ.
+  - ADICIONALMENTE, precisamos também de uma terceira grandeza, que podem ser:
+    - O valor da altura "h" do novo Eixo.Z (que poderíamos chamar de "altura"), em relação ao plano que sustentamos nossa experiência;
+      - ``` (a, b, c) = {a*(1,0,0) ; b*(0,1,0) ; c*(0,0,1)} = {(a,0,0);(0,b,0);(0,0,c)} ```
+    - Ou o valor da inclinação do novo ângulo alfa α, em relação ao plano que sustentamos nossa experiência;
+      - temos o TERNO ``` (r, θ, α) ``` 
+- **Ou seja, para um Plano Dimensional (2D), precisamos SEMPRE ao menos de DUAS GRANDEZAS indexadas (salvaguardadas regras e propriedades).**    
