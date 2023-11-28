@@ -405,9 +405,15 @@ ___
   - ``` r = |(a,b)| ``` e também a inclinação ``` Ângulo θ ```
     - ``` a = r * Cos.θ ```, sendo que no eixo.X temos que o ponto "a" (a, 0) é igual à razão entre o (CA/H), Cateto Adjacente/Hipotenusa, que é o Cosseno de θ.
     - ``` b = r * Sen.θ ```, sendo que no eixo.Y temos a sombra do ponto "b" (0, b) é igual à razão entre o (CO/H), Cateto Oposto/Hipotenusa, que é o Seno de θ.
-  - ADICIONALMENTE, precisamos também de uma terceira grandeza, que podem ser:
+  - ADICIONALMENTE, precisamos também de uma TERCEIRA GRANDEZA, que podem ser:
     - O valor da altura "h" do novo Eixo.Z (que poderíamos chamar de "altura"), em relação ao plano que sustentamos nossa experiência;
       - ``` (a, b, c) = {a*(1,0,0) ; b*(0,1,0) ; c*(0,0,1)} = {(a,0,0);(0,b,0);(0,0,c)} ```
-    - Ou o valor da inclinação do novo ângulo alfa α, em relação ao plano que sustentamos nossa experiência;
-      - temos o TERNO ``` (r, θ, α) ``` 
+    - Ou o valor da inclinação do novo ângulo alfa α, em relação ao plano que sustentamos nossa experiência; 
+      - ``` r = |(a,b)| ``` e também a inclinação ``` Ângulo θ ``` e a nova inclinação ``` Ângulo α ```, temos então o TERNO ``` (r, θ, α) ``` 
+    - ``` a = r * Cos.θ ```, sendo que no eixo.X temos que o ponto "a" (a, 0) é igual à razão entre o (CA/H), Cateto Adjacente/Hipotenusa, que é o Cosseno de θ.
+    - ``` b = r * Sen.θ ```, sendo que no eixo.Y temos a sombra do ponto "b" (0, b) é igual à razão entre o (CO/H), Cateto Oposto/Hipotenusa, que é o Seno de θ.
+    - ``` c = r * Sen.α ```, sendo que no eixo.Z temos a sombra da projeção do ângulo α até o valor da altura "c" (0, 0, c), Cateto Oposto/Hipotenusa, que é o Seno de α.
+  - 
+- **Ou seja, para um Plano Dimensional (2D), precisamos SEMPRE ao menos de DUAS GRANDEZAS indexadas (salvaguardadas regras e propriedades).**    
+
 - **Ou seja, para um Plano Dimensional (2D), precisamos SEMPRE ao menos de DUAS GRANDEZAS indexadas (salvaguardadas regras e propriedades).**    
