@@ -31,7 +31,12 @@ ___
 - **Transformação Linear é uma FUNÇÃO que pega pontos de um espaço e leva em outro espaço, atendendo CONDIÇÕES DE LINEARIDADE.**
 - A Função aplicada no Ponto.(A+B) vai ser igual à transformação de "A" mais à transformação de "B"; e a transformação de um escalar vezes um Vetor, precisa dar o Escalar * (Transformação do Vetor).
 - Vamos para alguns exemplos!
-  &nbsp;
+
+___
+
 - Vamos pegar uma Função T, que pega um Vetor.(x,y) e leva ele ao Vetor com Coordenadas (2x+y, x+y).
 - ``` T(x,y) ``` = ``` (2x+y, x+y) ```
+- Vamos ver como seria essa Transformação aqui?
+  - Transformação é uma função (no caso, pegando elementos de ℝ² e levando em elementos de ℝ², pois tô pegando um par de números reais (x,y) e transformando em OUTRO par de números reais (2x+y, x+y)).  
+- ``` T:ℝ² → ℝ² ```
 - 
