@@ -43,6 +43,7 @@ ___
   - definitely         - US  /ˈdef.ən.ət.li/ UK  /ˈdef.ɪ.nət.li/
   - reprehend          - US  /ˌrep.rɪˈhend/ UK  /ˌrep.rɪˈhend/
   - disagree           - US  /ˌdɪs.əˈɡriː/ UK  /ˌdɪs.əˈɡriː/
+  - backlash           - US  /ˈbæk.læʃ/ UK  /ˈbæk.læʃ/
 
 </details>
 </p>
@@ -52,7 +53,6 @@ ___
 
 ### New Vocabulary (to look fancy) 
 
-- keep track of...
 - to relate
   - C2 [ T ] | to find or show the connection between two or more things: 
     - We need to explain why these issues are important and relate them to everyday life.
@@ -74,25 +74,35 @@ ___
   - to express your strong official disapproval of someone or something:
     - The agency was reprehended for taking on average two years to deal with complaints.
     - There were those who reprehended the practice of wearing one's hair long.
-- 
+- keep track of...
+- issue...
+- to blame someone...
+- to reimburse someone...
+- bus/plane/metro fare... ("tarifa")
+- to spy on...
+- a buck ($1) vs. a grand (singular, * $1.000), like _"Dude, m.f., you owe me 5 grand, bitch better have my money..."_
 
 ___
 
 ### Sentences to Practice Grammar and Speaking (to look cool)
 
 - "The issue is about controlling the employee..." 
-- "In my previous jobs..."
+- "In my previous jobs..." (not works)
 - "Double check the information..."
-- "Double edge sword..."
+- "Double edge sword..." (faca de dois gumes)
 
 
 ___
 
 ### Memes or Not
 
-- Italian Man Who Went to Malta
-  - [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/m1TnzCiUSI0/0.jpg)](http://www.youtube.com/watch?v=m1TnzCiUSI0)
-  - https://youtu.be/m1TnzCiUSI0
+- Stefanini
+  - [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/0OSnlRBTQ2I/0.jpg)](http://www.youtube.com/watch?v=0OSnlRBTQ2I)
+  - https://www.youtube.com/watch?v=0OSnlRBTQ2I
+- "Love, Death & Robots" Automated Customer Service (Netflix)
+  - [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/KREQj2ESgX8/0.jpg)](http://www.youtube.com/watch?v=KREQj2ESgX8)
+  - https://youtu.be/KREQj2ESgX8
+**- Quis custodiet ipsos custodes?**
 
 
 THE END! 
