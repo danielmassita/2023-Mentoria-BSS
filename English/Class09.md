@@ -37,7 +37,12 @@ ___
   - [I've] met         - US  /met/ UK  /met/
   - relate             - US  /rɪˈleɪt/ UK  /rɪˈleɪt/
   - report             - US  /rɪˈpɔːrt/ UK  /rɪˈpɔːt/
-  - 
+  - productivity       - US  /ˌproʊ.dəkˈtɪv.ə.t̬i/ UK  /ˌprɒd.ʌkˈtɪv.ə.ti/
+  - backlash           - US  /ˈbæk.læʃ/ UK  /ˈbæk.læʃ/
+  - office             - US  /ˈɑː.fɪs/ UK  /ˈɒf.ɪs/
+  - definitely         - US  /ˈdef.ən.ət.li/ UK  /ˈdef.ɪ.nət.li/
+  - reprehend          - US  /ˌrep.rɪˈhend/ UK  /ˌrep.rɪˈhend/
+  - disagree           - US  /ˌdɪs.əˈɡriː/ UK  /ˌdɪs.əˈɡriː/
 
 </details>
 </p>
@@ -61,6 +66,14 @@ ___
     - [ + -ing verb ] Spies reported seeing a build-up of soldiers.
     - [ + obj + adj ] He was reported missing in action.
     - The inquiry reports (= will officially make its results known) next week.
+- backlash
+  - a strong feeling among a group of people in reaction to a change or recent events in society or politics:
+    - the 60s backlash against bourgeois materialism
+    - the backlash against feminism
+- reprehend
+  - to express your strong official disapproval of someone or something:
+    - The agency was reprehended for taking on average two years to deal with complaints.
+    - There were those who reprehended the practice of wearing one's hair long.
 - 
 
 ___
