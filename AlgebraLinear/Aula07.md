@@ -423,8 +423,23 @@ ___
 
 - Para um Plano, precisamos de Duas Grandezas ```(a,b)``` ou ```(r, θ)``` dados {(1,0);(0,1)}.
 - Para um Volume, precisamos de Três Grandezas ```(a,b,c)``` ou ```(r, θ, α)``` dados {(1,0,0);(0,1,0);(0,0,1)}.
+- Álgebra Linear não trabalha apenas em 2D (no plano). Na verdade, ela trabalhar com ESPAÇO GENÉRICOS DE VETORES.
+- Tem muita coisa que não pensamos que são vetores, mas são.
+- As regras principais são as mesmas.
+- Dependendo das dimensões do espaço, posso pensar em COMO REPRESENTAR EM TERMOS DE VETORES.
+- 2D ok, 3D ok, 4D?
+  - **vtnc, não consigo visualizar um espaço 4D** (haha), embora posso tentar REPRESENTAR:
+    - Ponto no ℝ^4
+    - Ponto.(a,b,c,d)
+    - Eixo.X, Eixo.Y, Eixo.Z, Eixo.4D
+    - Base Canônica = { (1,0,0,0); (0,1,0,0); (0,0,1,0); (0,0,0,1) }
+    - { (a,0,0,0); (0,b,0,0); (0,0,c,0); (0,0,0,d) }
 - SEMPRE! 
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/550f4132-bacf-4eae-809a-0d762b01287f)
+- Comentário sobre a "dimensão do tempo"...
 
 ___ 
 
+### Dimensão "Tempo"
+
+- 
