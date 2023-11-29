@@ -419,4 +419,12 @@ ___
 
 ___
 
-### asdf
+### Conceito de Dimensionalidade
+
+- Para um Plano, precisamos de Duas Grandezas ```(a,b)``` ou ```(r, θ)``` dados {(1,0);(0,1)}.
+- Para um Volume, precisamos de Três Grandezas ```(a,b,c)``` ou ```(r, θ, α)``` dados {(1,0,0);(0,1,0);(0,0,1)}.
+- SEMPRE! 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/550f4132-bacf-4eae-809a-0d762b01287f)
+
+___ 
+
