@@ -70,6 +70,7 @@ ___
 - [Class 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md) ✅ 
 - [Class 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md) ✅ 
 - [Class 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class07.md) ✅ 
-- [Class 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class08.md) ✅ 
+- [Class 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class08.md) ✅
+- [Class 09](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class09.md) ✅
 
 ___
