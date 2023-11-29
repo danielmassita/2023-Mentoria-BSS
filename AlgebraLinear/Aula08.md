@@ -34,9 +34,28 @@ ___
 
 ___
 
+### Transformação - Função T
+
 - Vamos pegar uma Função T, que pega um Vetor.(x,y) e leva ele ao Vetor com Coordenadas (2x+y, x+y).
 - ``` T(x,y) ``` = ``` (2x+y, x+y) ```
 - Vamos ver como seria essa Transformação aqui?
   - Transformação é uma função (no caso, pegando elementos de ℝ² e levando em elementos de ℝ², pois tô pegando um par de números reais (x,y) e transformando em OUTRO par de números reais (2x+y, x+y)).  
 - ``` T:ℝ² → ℝ² ```
   - Basicamente, nessa transformação estou pegando um ponto do Real (ℝ²) e levando em outro ponto do Real (ℝ²). Agora, vamos ver como ficam esse "pontos" após a transformação para se ter uma idéia.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/5b85204a-f33d-46ef-b9d9-2fa465f7b322)
+- Vamos pensar novamente, agora aplicando duas transformações ao vetor original!
+- Vejamos, aplicando duas transformações: T(1,1), T(2,2).
+  - ``` T(x,y) ``` = ``` (2x+y, x+y) ```
+  - ``` T:ℝ² → ℝ² ```
+  - T(1,1)
+    - ``` T(x,y) ``` = ``` (2x+y, x+y) ``` 
+    - ``` T(1,1) ``` = ``` (2(1)+(1), (1)+(1)) ```
+    - ``` T(1,1) ``` = ``` (2+1, 1+1) ```
+    - ``` T(1,1) ``` = ``` (3, 2) ``` 
+  - T(2,2)
+    - ``` T(x,y) ``` = ``` (2x+y, x+y) ``` 
+    - ``` T(2,2) ``` = ``` (2(2)+(2), (2)+(2)) ```
+    - ``` T(1,1) ``` = ``` (4+2, 2+2) ```
+    - ``` T(1,1) ``` = ``` (6, 4) ```
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/232400e6-8a12-4274-81f0-844b013b95c2)
+
