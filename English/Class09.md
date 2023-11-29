@@ -3,7 +3,7 @@
 
 - ``` https://whereby.com/magndonfeatbss ``` 
 - ``` https://drive.google.com/drive/u/0/folders/1k0e45wD0ts13MfW4M4KOGscfMYEC0Ytd ```
-- ``` www.yutubiú ```
+- ``` https://youtu.be/q60dw9JAmm8 ```
 
 ___
 
@@ -22,7 +22,11 @@ ___
 <summary>Phonetics in UK and US using IPA (International Phonetic Alphabet)</summary>
 
 &nbsp;
-  - update        - US  /ʌpˈdeɪt/ UK  /ʌpˈdeɪt/
+  - update             - US  /ʌpˈdeɪt/ UK  /ʌpˈdeɪt/
+  - reimburse          - US  /ˌriː.ɪmˈbɝːs/ UK  /ˌriː.ɪmˈbɜːs/
+  - fare               - US  /fer/ UK  /feər/
+  - spy [on SB]        - US  /spaɪ/ UK  /spaɪ/
+  - strict             - US  /strɪkt/ UK  /strɪkt/ 
 
 </details>
 </p>
