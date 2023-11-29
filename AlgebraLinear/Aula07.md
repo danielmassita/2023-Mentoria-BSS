@@ -442,4 +442,14 @@ ___
 
 ### Dimensão "Tempo"
 
-- 
+- Só percebemos o tempo em um único sentido (não conseguimos voltar no Passado, até agora...)
+- Singularidade Nua
+- Aposta entre Roger Penrose vs. Stephen Hawking
+- Treta antiga de físico bolado!
+- Filmes:
+  - A Chegada (2016)
+  - Interestelar (2014)
+- Joaquim Elias de Freitas (UFRN) bebendo goró argumentou a favor de não dar, senão teríamos feito um ciclo positivo do futuro-presente...
+- Etcetera...
+
+FIM!  
