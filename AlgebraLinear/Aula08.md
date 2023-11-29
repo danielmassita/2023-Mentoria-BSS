@@ -59,4 +59,8 @@ ___
     - ``` T(1,1) ``` = ``` (6, 4) ```
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/232400e6-8a12-4274-81f0-844b013b95c2)
 - O que podemos perceber desse momento no gráfico?
+  - **"A Transformação de "k" vezes "v", onde "k" é um escalar, é igual à "k" vezes a transformação de "v" (que é um vetor)."**
+  - Ou seja, ``` T(k.Vec) = k * T(Vec) ```
+  - Uma das condições pra ser linear ``` T(k.V) = k * T(V) ```
+  -  
 
