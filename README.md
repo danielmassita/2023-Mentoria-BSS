@@ -29,7 +29,7 @@ ___
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula05.md) ✅
 - [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula06.md) ✅
 - [Aula 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula07.md) ✅
-- Aula 08 - ⛔ 2023 NOV 15 - https://www.youtube.com/live/E9QD15P2t64
+- [Aula 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula08.md) ⛔ 2023 NOV 15 - https://www.youtube.com/live/E9QD15P2t64
   - Lista 01 - ⛔ 2023 NOV 15 (são necessárias as aulas 07 e 08 pra resolver...)
 
 ### Lógica de Programação, Algoritmos e Estruturas de Dados
