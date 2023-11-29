@@ -39,4 +39,4 @@ ___
 - Vamos ver como seria essa Transformação aqui?
   - Transformação é uma função (no caso, pegando elementos de ℝ² e levando em elementos de ℝ², pois tô pegando um par de números reais (x,y) e transformando em OUTRO par de números reais (2x+y, x+y)).  
 - ``` T:ℝ² → ℝ² ```
-- 
+  - Basicamente, nessa transformação estou pegando um ponto do Real (ℝ²) e levando em outro ponto do Real (ℝ²). Agora, vamos ver como ficam esse "pontos" após a transformação para se ter uma idéia.
