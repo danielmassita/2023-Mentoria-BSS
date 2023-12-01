@@ -64,3 +64,10 @@ ___
   - Uma das condições pra ser linear ``` T(k.V) = k * T(V) ```
   -  
 
+___
+
+### Resumo Geral do Exemplo de Aula! 
+
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/963b28ab-5b02-4c7b-98f5-2bc45910f209)
+- 
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/a8292185-47c9-48bd-b3ad-2b68f0679de1)
