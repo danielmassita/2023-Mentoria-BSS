@@ -125,6 +125,8 @@ ___
     - Eixo.(y) = (0,1) ∴ T(0,1) = ( 2.(0)+(1) , (0)+(1) ) = (1, 1)
     - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/bbda8a9d-c0f0-4286-887c-ffdaf0f51c3d)
   - Percebemos então, ao aplicar a Transformação Linear na Base Canônica, o tipo de "efeito esperado" pela transformação.
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/d8d393a2-00d8-4328-943d-991253328b87)
+
 
 ___
 
