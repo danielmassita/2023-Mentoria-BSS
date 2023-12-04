@@ -89,7 +89,14 @@ ___
   - ``` T*(1, 0) = (2, 1) ```
   - ( + ) --------------------
   - ``` T*(2, 1) = (5, 3) ```
-  - 
+- Pensando apenas nas coordenadas, podemos perceber que ``` T(2,1) = T(1,1) + T(1,0) ```. Isso para os vetores iniciais, ainda sem transformações, apenas para (x, y). Então, também para as transformações ``` (5, 3) = (3, 2) + (2, 1) ``` .
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/de7fccc6-0900-448d-900d-40276e3db1b5)
+- Dessa maneira, podemos perceber que há sim uma CONDIÇÃO DE LINEARIDADE PARA A SOMA, sendo ``` T*(Vec.A + Vec.B) = T*(Vec.A) + T*(Vec.B) ```.
+- Usamos vetores considerando a Função de (a+b) como sendo igual à função de (a) MAIS a função de (b).
+- ``` ƒ(a+b) = ƒ(a) + ƒ(b) ```
+- ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/374dc524-0952-424b-8a3a-53d5cfc34d8c)
+- 
+
 
 ___
 
