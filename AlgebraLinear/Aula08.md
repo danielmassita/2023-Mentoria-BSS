@@ -80,11 +80,16 @@ ___
 
 ___
 
-### Transformando T(x,y) = ( 2x+y, x+y)
+### Transformando T(x,y) = ( 2x+y, x+y )
 
 - ``` T(x, y) = ( 2x+y , x+y ) ```
-- 
-
+- Vamos continuar trabalhando na mesma Transformação Linear T(x,y).
+- Vamos pegar o ponto T(1,1) e T(1,0) e T(2,1):
+  - ``` T*(1, 1) = (3, 2) ```
+  - ``` T*(1, 0) = (2, 1) ```
+  - ( + ) -----------------------
+  - ``` T*(2, 1) = (5, 2) ```
+  - 
 
 ___
 
