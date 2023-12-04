@@ -95,7 +95,49 @@ ___
 - Usamos vetores considerando a Função de (a+b) como sendo igual à função de (a) MAIS a função de (b).
 - ``` ƒ(a+b) = ƒ(a) + ƒ(b) ```
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/374dc524-0952-424b-8a3a-53d5cfc34d8c)
+
+___
+
+### Transformação Linear
+
+- É uma FUNÇÃO que pega os elementos do Conjunto e transformam em OUTRO espaço vetorial, e PRESERVA a LINEARIDADE.
+- Apenas pra relembrar, o T(0,0) é (0,0).
+- ``` T(0,0) = (0, 0) ``` **TODA TRANSFORMAÇÂO LINEAR TRANSFORMA A ORIGEM NA ORIGEM!**
+- Se ``` T(0,0) ≠ (0, 0) ```, então a FUNÇÃO perdeu sua linearidade durante a transformação...
+  - Perdeu o ângulo de inclinação... Mas pensando apenas no **Vetor Zero**, na verdade pelas regras de linearidade estamos falando de SOMAR ou MULTIPLICAR um Vetor.Nulo (Vec.0) = (0, 0).
+    - (Vetor.V) = (Vetor.V) + (Vetor.0)
+    - T(Vetor.V) = T(Vetor.V) + T(Vetor.Zero)
+    - T(Vetor.V + Vetor.0) = T(Vetor.V) + T(0,0)
+  - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/6bc5b4e1-2df4-48f1-9b4b-b38fd9ede263)
+
+___
+
+### Base Canônica do ℝ² = { (1, 0) ; (0, 1) }
+
+- Base Canônica continua sendo a mesma: ℝ² = {(1, 0) ; (0, 1)}.
+- Base.Canônica = { (1, 0) ; (0, 1) }
+- T (x, y) = ( 2x + y , x + y )
+- Vamos trabalhar em dois sistemas de coordenadas o (x,y) e o T(x,y):
+  - Eixo.X pelo Eixo.Y sendo ℝ², pegamos os vetores Vetor.(1,0) e Vetor.(0,1) da nossa Base Canônica.
+  - Aplicamos as devidas transformações: 
+    - T (x, y) = ( 2x + y , x + y )
+    - Eixo.(x) = (1,0) ∴ T(1,0) = ( 2.(1)+(0) , (1)+(0) ) = (2, 1)
+    - Eixo.(y) = (0,1) ∴ T(0,1) = ( 2.(0)+(1) , (0)+(1) ) = (1, 1)
+    - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/bbda8a9d-c0f0-4286-887c-ffdaf0f51c3d)
+  - Percebemos então, ao aplicar a Transformação Linear na Base Canônica, o tipo de "efeito esperado" pela transformação.
+
+___
+
+### Matriz
+
+- asdf
+- asdf
+- asdf
 - 
+
+
+
+
 
 
 ___
