@@ -80,6 +80,14 @@ ___
 
 ___
 
+### Transformando T(x,y) = ( 2x+y, x+y)
+
+- ``` T(x, y) = ( 2x+y , x+y ) ```
+- 
+
+
+___
+
 ### Resumo Geral do Exemplo de Aula! 
 
 - ![image](https://github.com/danielmassita/2023-Mentoria-BSS/assets/111195175/963b28ab-5b02-4c7b-98f5-2bc45910f209)
