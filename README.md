@@ -64,9 +64,9 @@ ___
 
 ### English (WED-0600h)
 
-- [Class 01](https://youtu.be/8jJiCulZGVI) ⚠️ (mixed class from A1-C2, YT record, without notes)
-- [Class 02](https://youtu.be/44jFiYF-J74) ⚠️ (mixed class from A1-C2, YT record, without notes)
-- [Class 03](https://youtu.be/HYZozxqaRSg) ⚠️ (mixed class from A1-C2, YT record, without notes)
+- [Class 01](https://youtu.be/8jJiCulZGVI) ✔️ (mixed class from A1-C2, YT record, without notes)
+- [Class 02](https://youtu.be/44jFiYF-J74) ✔️ (mixed class from A1-C2, YT record, without notes)
+- [Class 03](https://youtu.be/HYZozxqaRSg) ✔️ (mixed class from A1-C2, YT record, without notes)
 - [Class 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class04.md) ✅ 
 - [Class 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md) ✅ 
 - [Class 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md) ✅ 
