@@ -1,7 +1,7 @@
 # Programa de Mentoria BSS 2023
 # Lógica de Programação, Algoritmos e Estrutura de Dados
 
-```https://www.youtube.com/live/hTrflXcVZTg?si=Zb9LgDEgraCA3k8P```
+``` https://youtu.be/PasinuSOZjI ```
 
 ___
 
