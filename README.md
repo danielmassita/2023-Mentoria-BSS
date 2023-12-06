@@ -31,8 +31,8 @@ ___
 - [Aula 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula07.md) ✅ 2023-11-07
 - [Aula 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula08.md) 🌱 2023-11-15
   - [Lista 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Lista01.pdf.pdf) - ✅ 2023-11-15 (são necessárias as aulas 07 e 08 pra resolver...)
- - Aula 09 - ⛔ 2023-11-30 - https://youtu.be/VbYoWDN-WHs
-  - [Lista 02] - ⛔ -  
+- Aula 09 ⛔ 2023-11-30 - https://youtu.be/VbYoWDN-WHs
+  - Lista 02 ⛔ 2023-12-05 -   
 
 ### Lógica de Programação, Algoritmos e Estruturas de Dados
 
@@ -43,36 +43,37 @@ ___
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula04.md) ✅ 2023-10-18
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula05.md) ✅ 2023-10-25
 - [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula06.md) ✅ 2023-11-01
-- Aula 07 - ⛔ 2023-11-15 - https://www.youtube.com/live/lBAMwP0QZ14
+- Aula 07 ⛔ 2023-11-15 - https://www.youtube.com/live/lBAMwP0QZ14
 
 ### Estatística e Ciência de Dados
 
-- [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula01.md) ✅
-- [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula02.md) ✅
-- [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula03.md) ✅
-- [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula04.md) ✅
-- [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula05.md) ✅
-- Aula 06 - ⛔ 2023 NOV 16 - https://www.youtube.com/live/GPhZgdqFqtc
+- [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula01.md) ✅ 2023-09-28
+- [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula02.md) ✅ 2023-10-05
+- [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula03.md) ✅ 2023-10-14
+- [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula04.md) ✅ 2023-10-19
+- [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula05.md) ✅ 2023-10-26
+- Aula 06 ⛔ 2023-11-16 - https://www.youtube.com/live/GPhZgdqFqtc
 
 ### Matemática Discreta Aplicada à Programação
 
-- [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula01.md) ✅
-- [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula02.md) ✅
-- [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula03.md) ✅
-- [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula04.md) ✅
-- [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula05.md) ✅
-- Aula 06 - ⛔ 2023 NOV 18 - https://www.youtube.com/live/QLohn6DLWb8
+- [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula01.md) ✅ 2023-09-29
+- [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula02.md) ✅ 2023-10-06
+- [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula03.md) ✅ 2023-10-15
+- [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula04.md) ✅ 2023-10-20
+- [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula05.md) ✅ 2023-11-05
+- Aula 06 ⛔ 2023-11-18 - https://www.youtube.com/live/QLohn6DLWb8
 
 ### English (WED-0600h)
 
-- [Class 01](https://youtu.be/8jJiCulZGVI) ✔️ (mixed class from A1-C2, YT record, without notes)
-- [Class 02](https://youtu.be/44jFiYF-J74) ✔️ (mixed class from A1-C2, YT record, without notes)
-- [Class 03](https://youtu.be/HYZozxqaRSg) ✔️ (mixed class from A1-C2, YT record, without notes)
-- [Class 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class04.md) ✅ 
-- [Class 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md) ✅ 
-- [Class 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md) ✅ 
-- [Class 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class07.md) ✅ 
-- [Class 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class08.md) ✅
-- [Class 09](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class09.md) ✅
+- [Class 01](https://youtu.be/8jJiCulZGVI) ✔️ (mixed class from A1-C2, YT record, without notes) 2023-10-02
+- [Class 02](https://youtu.be/44jFiYF-J74) ✔️ (mixed class from A1-C2, YT record, without notes) 2023-10-09
+- [Class 03](https://youtu.be/HYZozxqaRSg) ✔️ (mixed class from A1-C2, YT record, without notes) 2023-10-16
+- [Class 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class04.md) ✅ 2023-10-25 
+- [Class 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class05.md) ✅ 2023-11-01 
+- [Class 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class06.md) ✅ 2023-11-08
+- [Class 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class07.md) ✅ 2023-11-15
+- [Class 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class08.md) ✅ 2023-11-22
+- [Class 09](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class09.md) ✅ 2023-11-29
+- Class 10 ⛔ 2023-12-06 - 
 
 ___
