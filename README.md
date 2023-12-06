@@ -22,27 +22,28 @@ ___
 
 ### Álgebra Linear
 
-- [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula01.md) ✅
-- [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula02.md) ✅
-- [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula03.md) ✅
-- [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula04.md) ✅
-- [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula05.md) ✅
-- [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula06.md) ✅
-- [Aula 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula07.md) ✅
-- [Aula 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula08.md) 🌱 2023 NOV 15
-  - [Lista 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Lista01.pdf.pdf) - ✅ 2023 NOV 15 (são necessárias as aulas 07 e 08 pra resolver...)
- - Aula 09 - ⛔ 2023 NOV 30 - https://youtu.be/VbYoWDN-WHs
+- [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula01.md) ✅ 2023-09-26
+- [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula02.md) ✅ 2023-10-03
+- [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula03.md) ✅ 2023-10-11
+- [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula04.md) ✅ 2023-10-17
+- [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula05.md) ✅ 2023-10-24
+- [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula06.md) ✅ 2023-11-05
+- [Aula 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula07.md) ✅ 2023-11-07
+- [Aula 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula08.md) 🌱 2023-11-15
+  - [Lista 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Lista01.pdf.pdf) - ✅ 2023-11-15 (são necessárias as aulas 07 e 08 pra resolver...)
+ - Aula 09 - ⛔ 2023-11-30 - https://youtu.be/VbYoWDN-WHs
+  - [Lista 02] - ⛔ -  
 
 ### Lógica de Programação, Algoritmos e Estruturas de Dados
 
-- [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula01.md) ✅
-- [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula02.md) ✅
-- [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula03.md) ✅
-  - [Ex 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula03.js) ✅
-- [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula04.md) ✅
-- [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula05.md) ✅
-- [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula06.md) ✅
-- Aula 07 - ⛔ 2023 NOV 15 - https://www.youtube.com/live/lBAMwP0QZ14
+- [Aula 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula01.md) ✅ 2023-09-27
+- [Aula 02](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula02.md) ✅ 2023-10-04
+- [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula03.md) ✅ 2023-10-12
+  - [Ex 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula03.js) ✅ 2023-10-12
+- [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula04.md) ✅ 2023-10-18
+- [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula05.md) ✅ 2023-10-25
+- [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula06.md) ✅ 2023-11-01
+- Aula 07 - ⛔ 2023-11-15 - https://www.youtube.com/live/lBAMwP0QZ14
 
 ### Estatística e Ciência de Dados
 
