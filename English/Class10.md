@@ -9,9 +9,9 @@ ___
 
 ## English - Class 10
 
-- Class 10 - Employee Tracking
-  - Class 10 - Employee Tracking.pdf - https://drive.google.com/file/d/1LyYjtDrHhQNpvSlThEu292VG8nq-gnL8/view?usp=drive_link
-  - Class 10 - Employee Tracking.mp3 - N/A
+- Class 10 - How to Brainstorm
+  - Class 10 - How to Brainstorm.pdf - https://drive.google.com/file/d/1LyYjtDrHhQNpvSlThEu292VG8nq-gnL8/view?usp=drive_link
+  - Class 10 - How to Brainstorm.mp3 - N/A
 
 
 ___
@@ -23,16 +23,16 @@ ___
 <summary>Phonetics in UK and US using IPA (International Phonetic Alphabet)</summary>
 
 &nbsp;
-  - previous             - ...
-  - branch
-  - stem
-  - put
-  - landmark
-  - controversial
-  - culture
-  - cultural
-  - scene
-  - rock climb
+  - previous              - US  /ˈpriː.vi.əs/ UK  /ˈpriː.vi.əs/
+  - branch                - US  /bræntʃ/ UK  /brɑːntʃ/
+  - stem                  - US  /stem/ UK  /stem/
+  - put                   - US  /pʊt/ UK  /pʊt/
+  - landmark              - US  /ˈlænd.mɑːrk/ UK  /ˈlænd.mɑːk/
+  - controversial         - US  /ˌkɑːn.trəˈvɝː.ʃəl/ UK  /ˌkɒn.trəˈvɜː.ʃəl/
+  - culture               - US  /ˈkʌl.tʃɚ/ UK  /ˈkʌl.tʃər/
+  - cultural              - US  /ˈkʌl.tʃɚ.əl/ UK  /ˈkʌl.tʃər.əl/
+  - scene                 - US  /siːn/ UK  /siːn/
+  - rock climb            - US  /ˈrɑːk ˌklaɪ.mɪŋ/ UK  /ˈrɒk ˌklaɪ.mɪŋ/
 
 </details>
 </p>
