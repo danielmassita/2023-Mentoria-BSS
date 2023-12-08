@@ -43,6 +43,15 @@ ___
 ### New Vocabulary (to look fancy) 
 
 - branch
+  - B2 | a part of something larger:
+    - branch of Immunology is a branch of biological science.
+    - One branch of their family (= one group of relatives) emigrated to Brazil.
+    - In the U.S., the president is part of the executive branch of the government.
+  - B1 | one of the offices or groups that form part of a large business organization:
+    - local branch I used to work in the local branch of a large bank.
+    - branch manager She's a branch manager.
+    - branch office Take the forms into your local branch office.
+&nbsp;
 - stem
 - put
 - landmark
