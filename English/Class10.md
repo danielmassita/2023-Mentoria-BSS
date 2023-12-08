@@ -33,6 +33,8 @@ ___
   - cultural              - US  /ˈkʌl.tʃɚ.əl/ UK  /ˈkʌl.tʃər.əl/
   - scene                 - US  /siːn/ UK  /siːn/
   - rock climb            - US  /ˈrɑːk ˌklaɪ.mɪŋ/ UK  /ˈrɒk ˌklaɪ.mɪŋ/
+  - common ground         - US  /ˌkɑː.mən ˈɡraʊnd/ UK  /ˌkɒm.ən ˈɡraʊnd/
+  - disclaimer            - US  /dɪˈskleɪ.mɚ/ UK  /dɪˈskleɪ.mər/
 
 </details>
 </p>
@@ -51,18 +53,54 @@ ___
     - local branch I used to work in the local branch of a large bank.
     - branch manager She's a branch manager.
     - branch office Take the forms into your local branch office.
-&nbsp;
+
 - stem
-- put
+  - a central part of something from which other parts can develop or grow, or which forms a support
+    - the stick-like central part of a plant that grows above the ground and from which leaves and flowers grow, or a smaller thin part that grows from the central part and
+  - supports the leaves and flowers:
+    - flower stems 
+
 - landmark
+  - C1 | a building or place that is easily recognized, especially one that you can use to judge where you are:
+    - The Rock of Gibraltar is one of Europe's most famous landmarks.
+  - C2 | an important stage in something's development:
+    - The invention of the silicon chip was a landmark in the history of the computer.
+    - In a landmark case/decision, the governor pardoned a woman convicted of killing her husband, who had physically abused her.
+
 - controversial
+  - B2 | causing disagreement or discussion:
+    - a controversial issue/decision/speech/figure
+    - The book was very controversial. 
+
 - a paper / sheetS of paper
+  - A1 [ U ]
+    - thin, flat material made from crushed wood or cloth, used for writing, printing, or drawing on:
+    - a piece/sheet of paper
+    - writing paper
+    - Dictionaries are usually printed on thin paper. 
+  - B1 [ C ] | a newspaper:
+    - a daily/weekly/local/national paper
+    - The photo was on the front page of all the papers.
+
 - papers / article
+  - B1 [ C ] US | (UK essay) a short piece of writing on a particular subject, especially one done by students as part of the work for a course:
+    - Mr. Jones thought my history paper was terrific.
+    - For homework I want you to write a paper on endangered species.
+  - C2 [ C ] | a piece of writing on a particular subject written by an expert and usually published in a book or journal, or read aloud to other people:
+    - He will give a paper on thermodynamics at a conference in Berlin.
+
+- common ground
+  - noun [ U ] | US  /ˌkɑː.mən ˈɡraʊnd/ UK  /ˌkɒm.ən ˈɡraʊnd/
+    - shared interests, beliefs, or opinions between two people or groups of people who disagree about most other subjects:
+    - It seems increasingly unlikely that the two sides will find any common ground.
+
+- disclaimer
+  - formal | a formal statement saying that you are not legally responsible for something, such as the information given in a book or on the internet, or that you have no direct involvement in it
+  - LAW   specialized | a formal statement giving up your legal claim to something or ending your connection with it- 
+
 - Put / NOT putted
 - Cut / NOT cutted
 - dishes / food (not plates)
-- common ground
-- disclaimer
 
 
 ___
@@ -82,7 +120,7 @@ ___
 
 ___
 
-### Memes or Not
+### Memes or Not | Exercises 
 
 - Excalidraw (mindmap) 
 - Venn Diagram
