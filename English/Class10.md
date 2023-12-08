@@ -1,18 +1,17 @@
-```
 # Mentorship Program by BSS 2023
 # English with Daniel Magndon
 
 - ``` https://whereby.com/magndonfeatbss ``` 
 - ``` https://drive.google.com/drive/u/0/folders/1k0e45wD0ts13MfW4M4KOGscfMYEC0Ytd ```
-- ``` https://youtu.be/q60dw9JAmm8 ```
+- ``` https://youtu.be/u_Bkdf0BPZ8 ```
 
 ___
 
-## English - Class 08
+## English - Class 10
 
-- Class 09 - Employee Tracking
-  - Class 09 - Employee Tracking.pdf - https://drive.google.com/file/d/1LJc9EPN_4li1cV4BOGuQA7ieLcegyqQ5/view?usp=drive_link
-  - Class 09 - Employee Tracking.mp3 - https://drive.google.com/file/d/1kv-0Rzu46JDv5AcpyqQtLRRiiFXnQmUU/view?usp=drive_link
+- Class 10 - Employee Tracking
+  - Class 10 - Employee Tracking.pdf - https://drive.google.com/file/d/1LyYjtDrHhQNpvSlThEu292VG8nq-gnL8/view?usp=drive_link
+  - Class 10 - Employee Tracking.mp3 - N/A
   
 ___
 
@@ -23,28 +22,15 @@ ___
 <summary>Phonetics in UK and US using IPA (International Phonetic Alphabet)</summary>
 
 &nbsp;
-  - update             - US  /ʌpˈdeɪt/ UK  /ʌpˈdeɪt/
-  - reimburse          - US  /ˌriː.ɪmˈbɝːs/ UK  /ˌriː.ɪmˈbɜːs/
-  - fare               - US  /fer/ UK  /feər/
-  - spy [on SB]        - US  /spaɪ/ UK  /spaɪ/
-  - strict             - US  /strɪkt/ UK  /strɪkt/
-  - theme              - US  /θiːm/ UK  /θiːm/
-  - subject            - US  /ˈsʌb.dʒekt/ UK  /ˈsʌb.dʒekt/
-  - culture            - US  /ˈkʌl.tʃɚ/ UK  /ˈkʌl.tʃər/
-  - below              - US  /bɪˈloʊ/ UK  /bɪˈləʊ/
-  - type               - US  /taɪp/ UK  /taɪp/
-  - tip                - US  /tɪp/ UK  /tɪp/
-  - [to] meet          - US  /miːt/ UK  /miːt/
-  - [I've] met         - US  /met/ UK  /met/
-  - relate             - US  /rɪˈleɪt/ UK  /rɪˈleɪt/
-  - report             - US  /rɪˈpɔːrt/ UK  /rɪˈpɔːt/
-  - productivity       - US  /ˌproʊ.dəkˈtɪv.ə.t̬i/ UK  /ˌprɒd.ʌkˈtɪv.ə.ti/
-  - backlash           - US  /ˈbæk.læʃ/ UK  /ˈbæk.læʃ/
-  - office             - US  /ˈɑː.fɪs/ UK  /ˈɒf.ɪs/
-  - definitely         - US  /ˈdef.ən.ət.li/ UK  /ˈdef.ɪ.nət.li/
-  - reprehend          - US  /ˌrep.rɪˈhend/ UK  /ˌrep.rɪˈhend/
-  - disagree           - US  /ˌdɪs.əˈɡriː/ UK  /ˌdɪs.əˈɡriː/
-  - backlash           - US  /ˈbæk.læʃ/ UK  /ˈbæk.læʃ/
+  - previous             - ...
+  - branch
+  - stem
+  - put
+  - landmark
+  - controversial
+  - culture
+  - cultural
+  - scene
 
 </details>
 </p>
