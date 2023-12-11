@@ -74,6 +74,7 @@ ___
 - [Class 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class07.md) ✅ 2023-11-15
 - [Class 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class08.md) ✅ 2023-11-22
 - [Class 09](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class09.md) ✅ 2023-11-29
-- Class 10 ⛔ 2023-12-06 - 
+- [Class 10](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/English/Class10.md) ✅ 2023-12-06
+  - Homework 01 - Brainstorming ⛔ 2023-12-13
 
 ___
