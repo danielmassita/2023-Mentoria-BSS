@@ -117,6 +117,31 @@ ___
 - The more you ask questions, the more you get...
 - That's the technique I use the most...
 
+___
+
+### Exercício para Entregar! 
+
+```
+Agora o rolê ficou sério!
+
+Meus, amores. Hoje, foi a nossa primeira aula com avaliação para entregar. Quem não participou, assista a aula para aprender a matéria e coletar as instruções sobre a atividade:
+
+Aula 10 -  BSS - Avançado - Turma - quarta-feira às 06:00
+https://youtu.be/u_Bkdf0BPZ8
+
+Você devem entregar três arquivos com o brainstorming da seguinte proposta: "Criar um brainstorming de um aplicativo mix LinkedIn e Tinder. O intuito é permitir o "match" entre empresa e candidato".
+Aplicativo para fazer o mind map e o diagrama de Venn: https://excalidraw.com/
+
+Aula 10 - mind map.png    
+Aula 10 - Diagram Venn.png
+Recording 10.mp3 [deve conter a sua apresentação do mind map e do diagrama de Venn e a sua ideia no geral]
+
+Eles devem ser nomeados exatamente desta forma e nas extensões mencionadas. Os arquivos devem ser postados em suas pastas individuais. Procurem pelo meu email daniel@magndon.com.br para localizar a pasta. Se vocês não conseguirem localizar sua pasta individual (é uma pasta com o seu nome), me chame no privado com o seu endereço de email.
+
+Importante: Eu não recebo atividades por email. Os arquivos devem ser postados em suas pastas individuais. E ao postar não criem subpastas. Postem apenas os arquivos.
+
+Vocês tem um prazo de 07 dias para fazer a atividade. Peço encarecidamente que sigam as instruções.
+```
 
 ___
 
