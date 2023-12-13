@@ -31,9 +31,9 @@ ___
 - [Aula 07](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula07.md) ✅ 2023-11-07
 - [Aula 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula08.md) 🌱 2023-11-15
   - [Lista 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Lista01.pdf.pdf) - ✅ 2023-11-15 (são necessárias as aulas 07 e 08 pra resolver...)
-- Aula 09 ⛔ 2023-11-30 - https://youtu.be/VbYoWDN-WHs
-  - Lista 02 ⛔ 2023-12-05 - 
- - Aula 10 ⛔ 2023-12-06 - https://youtube.com/watch?v=8BALPkCLEe0
+- [Aula 09](https://youtu.be/VbYoWDN-WHs) ⛔ 2023-11-30
+  - Lista 02 ⛔ 2023-12-05
+ - [Aula 10](https://youtube.com/watch?v=8BALPkCLEe0) ⛔ 2023-12-06
 
 ### Lógica de Programação, Algoritmos e Estruturas de Dados
 
@@ -44,8 +44,8 @@ ___
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula04.md) ✅ 2023-10-18
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula05.md) ✅ 2023-10-25
 - [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula06.md) ✅ 2023-11-01
-- Aula 07 ⛔ 2023-11-15 - https://www.youtube.com/live/lBAMwP0QZ14
-- Aula 08 ⛔ 2023-12-07 - https://www.youtube.com/live/lBAMwP0QZ14
+- [Aula 07](https://www.youtube.com/live/lBAMwP0QZ14) ⛔ 2023-11-15 
+- [Aula 08](https://youtu.be/19EPSB7uxDI) ⛔ 2023-12-07
 
 ### Estatística e Ciência de Dados
 
@@ -54,7 +54,7 @@ ___
 - [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula03.md) ✅ 2023-10-14
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula04.md) ✅ 2023-10-19
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/Estatistica-CienciaDados/Aula05.md) ✅ 2023-10-26
-- Aula 06 ⛔ 2023-11-16 - https://www.youtube.com/live/GPhZgdqFqtc
+- [Aula 06](https://www.youtube.com/live/GPhZgdqFqtc) ⛔ 2023-11-16
 
 ### Matemática Discreta Aplicada à Programação
 
@@ -63,7 +63,7 @@ ___
 - [Aula 03](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula03.md) ✅ 2023-10-15
 - [Aula 04](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula04.md) ✅ 2023-10-20
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/MatematicaDiscretaAplicadaProgramacao/Aula05.md) ✅ 2023-11-05
-- Aula 06 ⛔ 2023-11-18 - https://www.youtube.com/live/QLohn6DLWb8
+- [Aula 06](https://www.youtube.com/live/QLohn6DLWb8) ⛔ 2023-11-18
 
 ### English (WED-0600h)
 
