@@ -32,7 +32,8 @@ ___
 - [Aula 08](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Aula08.md) 🌱 2023-11-15
   - [Lista 01](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/AlgebraLinear/Lista01.pdf.pdf) - ✅ 2023-11-15 (são necessárias as aulas 07 e 08 pra resolver...)
 - Aula 09 ⛔ 2023-11-30 - https://youtu.be/VbYoWDN-WHs
-  - Lista 02 ⛔ 2023-12-05 -   
+  - Lista 02 ⛔ 2023-12-05 - 
+ - Aula 10 ⛔ 2023-12-06 - https://youtube.com/watch?v=8BALPkCLEe0
 
 ### Lógica de Programação, Algoritmos e Estruturas de Dados
 
@@ -44,6 +45,7 @@ ___
 - [Aula 05](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula05.md) ✅ 2023-10-25
 - [Aula 06](https://github.com/danielmassita/2023-Mentoria-BSS/blob/main/LogicaProgramacao-Algoritmos-EstruturaDados/Aula06.md) ✅ 2023-11-01
 - Aula 07 ⛔ 2023-11-15 - https://www.youtube.com/live/lBAMwP0QZ14
+- Aula 08 ⛔ 2023-12-07 - https://www.youtube.com/live/lBAMwP0QZ14
 
 ### Estatística e Ciência de Dados
 
